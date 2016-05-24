@@ -1,0 +1,84 @@
+<devicetypes>
+<!-- Copyright (c) 1996-2009 MicroStrategy Incorporated, All rights reserved. Confidential. -->
+    <devicetype>
+        <icon height="20" width="20">images/email.gif</icon>
+        <largeicon height="50" width="50">images/big_email.gif</largeicon>
+        <devicetypeID></devicetypeID>
+        <name>E-mail</name>
+        <devices/>
+        <displayfields>
+            <field di="508" n="Name" col="n"/>
+            <field di="367" n="Address" col="v"/>
+            <field di="510" n="Style" col="dvid"/>
+        </displayfields>
+        <editfields>
+            <field di="508" n="AddressName" col="n" size="25" type="text" vld="name"/>
+            <field di="367" n="PhysicalAddress" col="v" size="25" type="text" vld="email"/>
+            <field di="510" n="Device" col="dvid"/>
+        </editfields>
+        <dfs>
+            <f id="AFDEA1C5B59A11d4B23E00B0D024259C" n="Desktop Clients" />
+            <f id="AFDEA1C6B59A11d4B23E00B0D024259C" n="Internet Mail" />
+        </dfs>
+    </devicetype>
+    <devicetype>
+        <icon height="20" width="20">images/pager.gif</icon>
+        <largeicon height="50" width="50">images/big_pager.gif</largeicon>
+        <devicetypeID></devicetypeID>
+        <name>Pager</name>
+        <devices/>
+        <displayfields>
+            <field di="508" n="Name" col="n"/>
+            <field di="367" n="Address" col="v"/>
+            <field di="510" n="Style" col="dvid"/>
+        </displayfields>
+        <editfields>
+            <field di="508" n="AddressName" col="n" size="25" type="text" vld="name"/>
+            <field di="367" n="PhysicalAddress" col="v" size="25" type="text" vld="email"/>
+            <field di="510" n="Device" col="dvid"/>
+        </editfields>
+        <dfs>
+            <f id="AFDEA1C8B59A11d4B23E00B0D024259C" n="Pager" />
+        </dfs>
+    </devicetype>
+    <devicetype>
+        <icon height="20" width="20">images/phone.gif</icon>
+        <largeicon height="50" width="50">images/big_mobile.gif</largeicon>
+        <devicetypeID></devicetypeID>
+        <name>Mobile Phone</name>
+        <devices/>
+        <displayfields>
+            <field di="508" n="Name" col="n"/>
+            <field di="367" n="Address" col="v"/>
+            <field di="510" n="Style" col="dvid"/>
+        </displayfields>
+        <editfields>
+            <field di="508" n="AddressName" col="n" size="25" type="text" vld="name"/>
+            <field di="367" n="PhysicalAddress" col="v" size="25" type="text" vld="email"/>
+            <field di="510" n="Device" col="dvid"/>
+        </editfields>
+        <dfs>
+            <f id="AFDEA1C7B59A11d4B23E00B0D024259C" n="Phone" />
+        </dfs>
+    </devicetype>
+    <devicetype>
+        <icon height="20" width="20">images/pda.gif</icon>
+        <largeicon height="50" width="50">images/big_pda.gif</largeicon>
+        <devicetypeID></devicetypeID>
+        <name>PDA</name>
+        <devices/>
+        <displayfields>
+            <field di="508" n="Name" col="n"/>
+            <field di="367" n="Address" col="v"/>
+            <field di="510" n="Style" col="dvid"/>
+        </displayfields>
+        <editfields>
+            <field di="508" n="AddressName" col="n" size="25" type="text" vld="name"/>
+            <field di="367" n="PhysicalAddress" col="v" size="25" type="text" vld="email"/>
+            <field di="510" n="Device" col="dvid"/>
+        </editfields>
+        <dfs>
+            <f id="AFDEA1C9B59A11d4B23E00B0D024259C" n="Personal Digital Assistants" />
+        </dfs>
+    </devicetype>
+</devicetypes>

@@ -1,0 +1,60 @@
+<mi>
+<!-- Copyright (c) 1996-2009 MicroStrategy Incorporated, All rights reserved. Confidential. -->
+ <in>
+  <oi tp="1">
+   <prs>
+    <pr id="SITE_ALLOW_NEW_USERS" v="1" />
+    <pr id="SITE_DEFAULT_EXPIRE"  v="0" />
+    <pr id="SITE_DEFAULT_EXPIRE_VALUE" v="" />
+    <pr id="SITE_GUI_LANG" v="1033" />
+    <pr id="SITE_DHTML" v="2" />
+    <pr id="SITE_ADMIN_EMAIL" v="" />
+    <pr id="SITE_ADMIN_PHONE" v="" />
+    <pr id="SITE_TMP_DIR" v="c:\hydra_cache\" />
+    <pr id="SITE_PROMPT_CACHE" v="SESSION" />
+    <pr id="SITE_SUMMARY_PAGE" v="2" />
+    <pr id="SITE_DEFAULT_ANSWER" v="subscription.USER_ID" />
+   </prs>
+   <mi>
+    <in>
+     <oi id="DefaultLocale" tp="1">
+      <prs>
+       <pr id="LOCALE_ID" v="4A85E588131F11D5B28200B0D024259C" />
+      </prs>
+     </oi>
+     <oi id="DefaultDevice" tp="15">
+      <prs>
+       <pr id="DEVICE_ID" v="1D2E6D168A7711D4BE8100B0D04B6F0B" />
+       <pr id="DEVICE_NAME" v="Generic e-mail client" />
+       <pr id="DEVICE_FOLDER_ID" v="AFDEA1C5B59A11d4B23E00B0D024259C" />
+       <pr id="DEVICE_VALIDATION" v="email" />
+      </prs>
+     </oi>
+     <oi id="PortalDevice" tp="15">
+      <prs>
+       <pr id="DEVICE_ID" v="83FEA1310CD611D58E7400A0C9D18F4A" />
+       <pr id="DEVICE_NAME" v="Web Device (Portal)" />
+       <pr id="DEVICE_FOLDER_ID" v="BFDEA1C5B59A11d4B23E00B0D024259C" />
+      </prs>
+     </oi>
+     <oi id="DefaultChannel" tp="2">
+      <prs>
+       <pr id="CHANNEL_NAME" v="Primary Channel" />
+       <pr id="CHANNEL_DESC" v="The Primary Channel is the default channel created by the system.  This channel points to the Services folder." />
+       <pr id="CHANNEL_PUBLISHED" v="1" />
+       <pr id="CHANNEL_ROOT_FOLDER_ID" v="56D4248694B211D4BE6600C04F0E93B7" />
+      </prs>
+     </oi>
+     <oi id="DefaultChannel" tp="2">
+      <prs>
+       <pr id="CHANNEL_NAME" v="Secondary Channel" />
+       <pr id="CHANNEL_DESC" v="This channel points to the Public Objects folder.  The default properties of this channel render it invisible to the end-user.  It may be changed through the Edit function." />
+       <pr id="CHANNEL_PUBLISHED" v="0" />
+       <pr id="CHANNEL_ROOT_FOLDER_ID" v="56D4247D94B211D4BE6600C04F0E93B7" />
+      </prs>
+     </oi>
+    </in>
+   </mi>
+  </oi>
+ </in>
+</mi>
