@@ -1,0 +1,972 @@
+Copyright © 1996-2015 MicroStrategy, Incorporated. All rights reserved. Confidential.
+Home
+My Reports
+Create Report
+Logout
+Orientation:
+Search
+All rights reserved. Confidential.
+Server:
+Port
+User name
+Password
+Save my password
+Paper size and orientation should correspond to the browser settings.
+Please type in your old password and new password.
+Login
+Error executing the document. Please contact your Administrator.
+Letter 8.5" x 11"
+A4 8.27" x 11.69"
+Folio 8.5" x 13"
+Projects
+WELCOME
+Description
+advanced...
+Browse a list of prepared reports available to all users.
+View an up-to-date summary of the status of my requests.
+You are here:
+Manually
+There are no hierarchies in this project.
+object(s)
+You cannot search on attributes of this type.
+Page ## of ###
+Load balance factor
+Owner
+Modified
+Always
+Never
+View mode
+Last update:
+Error
+Contact information:
+Maximum number of concurrent searches:
+Type here the information of the System Administrator so any user can contact him/her if necessary:
+Requested
+Check Status Again
+Cancel this Request
+Inside the black box below, you should see the numbers "12345" if your browser supports CSS files. Do you see these numbers?
+RELATED REPORTS
+Yes. My browser supports this formatting implementation.
+No. Use a different formatting implementation.
+Your request has timed out. Please try again later.
+Go
+Executing
+Blue and Grey
+Rows:
+Grid
+Graph
+Messages ## - ### of ####
+## - ### of ####
+Save
+Re-prompt
+Printable version
+Export data
+Columns
+Colorful
+Agent
+Classic
+Accounting
+Finance
+Grey Bands
+Use Dynamic HTML?
+Red and Black
+Romantic
+Small Type
+Apply
+Hide pivot buttons
+Show pivot buttons
+Move to rows
+Move up
+Move down
+Page by this field
+Move to columns
+Move to the left
+Move to the right
+Sort
+Drill
+From:
+To:
+Drill options:
+Drill on selections only
+Up
+Down
+Sunset
+Columns:
+More pages
+Display:
+Hide toolbar
+Show toolbar
+Publish
+No drill information available.
+The correct syntax for the Not Between operator is value1;value2
+Filter details:
+The filter is empty.
+- none -
+Drill to
+Details
+Remove
+Sort ascending
+Sort descending
+Last report:
+mark as "unread"
+Analytical engine processing
+Executing child reports
+Your History List is full. To run a report you must delete one or more messages.
+Continue
+Due to a Web Server error, the contents of this report could not be exported.  Please try another report.
+Paged by:
+You are about to log out from all projects.
+No
+Yes
+Cancel
+You can check the History List or try it later.
+Error checking document status
+Error number
+Document ready
+Prompt ready
+FAQs
+Last folder:
+No data returned for this document
+Excel with formatting (version '97 or greater)
+CSV file format
+Open new window when exporting
+Print options
+Header text:
+Login mode
+Page-numbering style:
+(none)
+Page 1 of n
+Default start page:
+Cancel this session's pending requests?
+Merge column headers
+(default)
+Parent folder
+Change my password
+and
+Back to top
+Channel Enabled (channel is visible to end users)
+Back to Parent Folder
+Error executing the report
+Back
+Dual-axis radar line
+3D XYZ scatter chart
+You have been logged out.
+Error accessing user's History List.
+Your History List messages could not be retrieved from MicroStrategy Server.
+Your History List messages could not be removed from MicroStrategy Server.
+Properties
+Due to a syntax error, your pivot request was not completed.
+Due to a syntax error, your page by request was not completed.
+Please contact your Administrator.
+The MicroStrategy Server you are trying to connect to was not found. Please try again later.
+You have selected too many objects for an object prompt.
+You have selected too few objects for an object prompt.
+You have selected too many elements for an element prompt
+You have selected too few elements for an element prompt
+The correct syntax for the Between operator is value1;value2
+This prompt is required and must be answered.
+Please enter a value in the text box.
+The following file has not been registered correctly in the Web Server: M8dssxml.dll. Please ask the Administrator for more details.
+Please select some elements before drill action
+You can not qualify on more than one item at the same time.
+The prompts for this report could not be displayed because they have already been answered.
+Error loading
+Error Message List
+Time
+Error description
+File
+ASP function
+API function
+Comments
+Level
+Your password has been changed.
+Change Password
+Old password:
+New password:
+no more than
+no less than
+selections
+none
+Available
+Selected
+Find
+elements
+Metric
+Attribute
+Between (enter value1 ; value2)
+Exactly
+Greater than
+Greater than or equal to
+Less than
+Less than or equal to
+Like
+Not Like
+Value
+Is
+Highest
+Lowest
+Add
+Your selections
+Match
+All selections
+Any selection
+My selections
+Add to selections
+Search for:
+Execute Report
+Save Report
+Qualify on description of attribute
+Back to select hierarchy
+Pick a hierarchy
+Other hierarchies:
+Operator
+Qualify
+Select
+Elements
+Current Folder
+Subfolders
+Folder contents
+Please enter search criteria.
+List may be long.
+There are no entry points in this hierarchy.
+NEED HELP?
+After you select a hierarchy on the left, you will be able to view the attributes of that hierarchy in this section.
+Go to step 2
+Others
+In
+Note: Netscape 4, Internet Explorer 4 and newer versions of these browsers support DHTML.
+The operators "Like" and "Not Like" do not support non-text data type.
+You have selected too many qualifications for an expression prompt.
+You have selected too few qualifications for an expression prompt.
+You have selected too many qualifications for a hierarchical prompt.
+You have selected too few qualifications for a hierarchical prompt.
+Online help
+Some of the default answers in this prompt were not displayed.
+(Only text type allowed)
+Not exactly
+Not between (enter value1 ; value2)
+Go to Previous Report State
+Administrator Page
+Delete
+Return to:
+Are you sure you want to delete this object?
+Delete confirmation
+Your request could not be processed due to a server error.
+Please try again. If the problem persists, contact the server Administrator.
+Folder name:
+Required
+Optional
+Between
+and
+This prompt requires a value between ## and ###.
+This prompt requires a value no less than ##.
+This prompt requires a value no more than ##.
+This prompt requires a value no later than ##.
+This prompt requires a value no earlier than ##.
+The text you typed is too long. Please type it again.
+The text you typed is too short. Please type it again.
+Not between
+Change
+Refresh
+ASP version:
+Error loading XML data.
+One of the XML nodes needed is not available. Please ask the Administrator for more details.
+Error in report results
+MicroStrategy Server error:
+Error reading prompt definition from MicroStrategy Server. Please execute the report or document again.
+Your second new password does not match the first. Please try again.
+Warnings
+Errors
+Previous ##
+Next ##
+You don't have an account?
+Page-by
+Welcome
+If you are not ##,
+click here
+Preferences
+Back to parent folder
+Select a day:
+Month
+Day
+Year
+Messages
+Remove from selections
+Please enter a valid date.
+In (enter value1; value2; ...; valueN)
+Error when answering the prompt. Please review your answer(s).
+Hide help
+Show help
+This prompt requires between ## and ### selections.
+This prompt requires at least ## selections.
+This prompt cannot accept more than ## selections.
+Error in document results
+Execute Document
+Determine automatically
+This prompt requires exactly ## selections.
+Name
+List view
+Large icons view
+German
+French
+Italian
+Japanese
+Korean
+Swedish
+Default
+The attribute is locked
+Element list cannot be displayed
+metrics
+This prompt requires only 1 selection.
+Please type valid values separated by semicolon(s).
+Follow the instructions marked below by a red flag.
+Warning!
+This prompt requires at least 1 selection.
+This prompt cannot accept more than 1 selection.
+Wrong parameters in the URL
+The following parameters are required in the URL:
+MM/DD/YYYY
+HH:MM:SS PM
+An expression or a group of elements from one attribute is equivalent to one selection.
+Please select one item for qualification.
+Summary
+Portuguese (Brazil)
+Match case
+Previous
+Next
+Steps ## - ### of ####
+First ## steps
+Last ## steps
+or
+Back to Prompt
+Summary of your selections
+Prompt not answered
+Your selection:
+Prompt ##
+The default selection is:
+View a list of the reports to which you are subscribed.
+To subscribe to this report, please select a schedule and personalization below.
+With the following personalization:
+Add subscription
+You are subscribed to the following schedules for this report:
+Schedule
+Personalized
+Edit
+Subscriptions
+If you wish to answer these prompts again, please click the Re-prompt link next to the report.
+Report limit:
+Your information source credentials have been changed.
+You do not have any subscriptions.
+Information not available
+Reports
+Addresses
+Services
+About
+MicroStrategy Narrowcast Server is a product of
+Options
+Service
+Address
+New Users
+User name:
+Password:
+You can create a new account. Just click below.
+Create a new account
+Choose an address:
+Create new address
+An error has occurred on this page.
+Error retrieving addresses
+You do not have any compatible addresses.
+Error retrieving schedules
+There are no schedules available.
+Back to Home
+Back to Addresses
+Back to Reports
+Back to Services
+Error during login
+Either the User name or Password was incorrect. Please enter them again.
+Either the User name or Password was blank. Please enter them again.
+Error during address operation
+Please try again or contact your system administrator.
+One or more address fields were blank. Please try again.
+Error during subscription operation
+Error while creating a new account
+The Password and Confirm password did not match. Please enter them again.
+Error creating new user account
+Confirm password:
+Password hint:
+No addresses created
+Confirm new password:
+Confirm address deletion
+Confirm subscription deletion
+Are you sure you want to delete the address?
+Are you sure you want to delete the subscription(s) to the following service(s)?
+User options
+Your options have been saved.
+Locale:
+Error retrieving reports
+Expires:
+Pending
+There are no reports in this folder.
+Forgot your password?
+Enter your User name and click "Display password hint."
+Display password hint
+Your password hint is:
+Error retrieving password hint
+There was an error while retrieving your password hint.
+Back to Login
+Please enter an address name.
+Please enter an address name without the following characters:
+Please enter an address.
+Please enter your address in the form of username@server.type as in the following example: jsmith@abccompany.com
+The following file has not been registered correctly in the Web Server: M9StrUtl.dll. Please ask the Administrator for more details.
+Thank you for using MicroStrategy Narrowcast Server.
+There was not a file submitted to the Web Server.
+This User name is already taken. Please enter a different User name.
+The file contains an invalid extension. The file extensions allowed are: ##
+Error updating user profile
+There was an error while updating your user profile.
+Error retrieving data
+There was an error while loading XML. Please contact the system administrator.
+MicroStrategy Narrowcast Server 7.5.1
+System Administrator Contact Information
+E-mail:
+Phone:
+To sign up for an account, please enter the following information below.
+Required information is noted with a red asterisk (*).
+Please enter a user name and password for your new account.  Make sure you enter your password twice.
+Enter a hint as closely associated to your password as possible.
+You're done! Click the "Create a new account" button below.
+Please enter your login credentials for the following Information Source(s).
+One or more errors were encountered when processing your request for a new account.
+Please follow the red instructions below and try again.
+The password hint was blank. Please enter it again.
+Finish
+One or more errors were encountered when processing your change password request.
+Either the old or new password was blank. Please enter them again.
+Please enter the required user name(s) and password(s) below.
+You specified a file that exceeds the maximum size (## Kb) allowed by the Administrator.
+Deliveries
+Until:
+Click a document name to the left to view that document here.
+Send to my Reports page
+Send to:
+Sign up for a Service
+Browse a list of prepared services available to all users.
+View your scheduled reports.
+Specify your contact information for your subscription deliveries.
+Customize these screens according to your browser and viewing preferences.
+Subscribe to:
+Personalize your subscription
+Your user session has been lost, and you have been automatically logged out.  Please log in again.
+Deactivate my account
+Your account has been deactivated.
+Are you sure you want to deactivate your account?
+Once you deactivate your account, you will no longer receive services or be able to log in. Your account can only be reactivated by the portal administrator.
+Please choose a language.
+Enabled (subscription will be delivered on the specified schedule)
+Change information source credentials
+Change credentials
+One or more errors were encountered when processing your request to change information source credentials.
+SDK version:
+Load File
+Channels
+Active
+Add a new channel
+Channel Enabled
+Channel Disabled
+Create New Channel
+Edit Channel
+To create a new channel, you'll need to perform the following steps:
+Publish a folder of services for the channel.
+Give the channel a name.
+Do not show this page again.
+Site Name and Description
+Enter a name for this channel:
+Enter a description for this channel (optional):
+Error source
+This account has been deactivated. Please contact the administrator to reactivate this account.
+The User name was blank. Please enter it again.
+The Password was blank. Please enter it again.
+Spanish
+English
+Import filter specification from a file:
+Enter a new address:
+Device Types
+rename ...
+definition ...
+Device Folders
+edit device folders ...
+Rename
+Large icon URL:
+Small icon URL:
+Address format:
+E-mail
+This is the standard format for Internet e-mail addresses.
+Format: xxxx@xxxxxx.xxx
+Numeric
+Display fields:
+Edit fields:
+Address Name
+Address Value
+Style
+PIN
+Delivery Window
+Device Type Name:
+Confirm Device Type Deletion
+New Definition
+Definition:
+Available:
+Selected:
+No folders selected.
+Your report designer chose to have a shopping cart and text file style represent this prompt.
+Because you have DHTML turned off, you cannot use the import text file feature.
+You may use the shopping cart to answer this prompt.
+Create a new device type
+Use this format for a string of numbers only.
+Format: ########
+No device types have been created.
+Confirm PIN
+Inactive
+Please enter a numeric value for the address in the following form: #########
+Help with:
+Either the user name or password was incorrect for one or more information sources. Please try again.
+You do not have any reports.
+Select a schedule for this service to be delivered.
+Select a schedule from the list below.
+Select where you would like this service to be delivered.
+To sign up, complete the following steps:
+Select a service.
+Specify a schedule and an address.
+Personalize your service content (if applicable).
+Personalize your service content.
+On the following pages you can personalize the content of this service by providing answers to the questions. Click Next to proceed.
+If your hint does not assist you in remembering your password, contact your System Administrator so your password may be reset.
+OK
+Success!
+Your subscription has been saved successfully.
+Save Selections As (optional)
+Make new selections
+Choose from this list of previously saved selections:
+Choose one:
+Apply these selections
+The project ## could not be found in the server ###.
+(DISABLED)
+Administrator information:
+After modifying the portal repository connection, you need to reconfigure the site information.
+After modifying the Subscription Engine location, you need to reconfigure the portal repository connection and the site information.
+After: ## days.
+Database connection name:
+Database connections
+Default Device:
+Default new users locale:
+Default use DHTML:
+Disable
+Do you want to continue?
+Enable creation of new accounts:
+Enter the name of the server running the subscription engine:
+Enter an unique name and description for this portal.
+Interface settings:
+Information Sources
+Portal Repository
+New account expiration:
+No expiration
+On:
+Telephone number:
+Portal Device:
+Object Repository
+Project Settings:
+Recently used portal subscription engines server locations:
+Select an existing site definition or click Add a new site definition.
+Devices Settings
+Site Preferences
+Subscription Book Repository
+Subscription Engine Location
+Tables prefix:
+Temp files directory:
+MicroStrategy Narrowcast Server Portal Administrator Wizard allows administrators to easily create Web subscription portals where users can subscribe to Narrowcast Server services through a Web browser.
+Use project credentials
+Welcome to MicroStrategy Narrowcast Server Portal Administrator Wizard
+There are no channels defined for this site
+Select the Channels Folder
+The database connection "#1" does not point to a database containing portal repository tables with the prefix "#2".
+Do you wish to create them?
+Default Site Name
+Site with default values
+Select Portal Device
+Select Default Device
+Please provide a name for the Site Definition.
+Please enter a name without the following characters: 
+Please provide the name of the machine running the Subscription Engine.
+Please provide a directory for the temp files.
+Please enter a path for the temp files directory without the following characters: 
+Please enter a valid number for the number of days.
+Select a Device Style
+To find the style of your device, complete the following steps:
+Select a category.
+Select a style.
+Click on a device category for:
+Click on a device style for:
+There are no device styles in this category.
+Device style information not found.
+No styles available.
+No validation
+Address value can be any text string.
+Format: any numbers and the following characters - ( )
+Please enter a value for the address in the following form: any numbers and the following characters - ( )
+System Configuration
+Site Management
+Select the database connection for the Portal Repository.
+Select the database connection for the Object Repository.
+Select the database connection for the Subscription Book Repository.
+Use the same database connection for the Subscription Book Repository.
+Add a new database connection
+Add a new site definition
+Site Definition
+Database
+Error deleting user profile
+The profile can't be deleted because it's shared by more than one subscription
+View existing subscriptions for this service
+Select or Create Portal
+Create New Subscription Portal
+Create New Portal
+Portal name
+To create a new subscription portal, specify the name of the virtual directory:
+Please enter a default address.
+Format: any text or numeric characters
+Please enter an address in the following form: any text or numeric characters
+Each site definition is distinguished by its unique name and description.
+It is best to provide a thorough description of the site definition, so any designer will know at a glance what properties the site contains.
+A site identifies a set of services that are made available through a portal for access by end users.
+A site is made viewable to end users through a portal.
+The following list contains site definitions that exist in the current portal repository.
+You may either select to reuse an existing site definition or create a new site definition.
+As the Portal Administrator you have the following responsibilities:
+configure and manage the subscription portal to allow end users to subscribe to a variety of services on the Web
+define and configure subscription sites
+publish services and device types
+select default devices for the subscription portal
+specify information source properties and default portal preferences
+The Portal Administrator Wizard provides you with the capability to:
+configure the subscription engine
+select or edit the portal configuration
+create or select the site definition
+configure static and dynamic service offerings
+Click NEXT to begin.
+The Object Repository is the database that contains the definition of the Narrowcast system you wish to deploy through this subscription portal.
+A database connection must be created for each database you wish to use.
+If your Subscription Book Repository is stored in the same database as your Object Repository (most common), then you can check the box indicating this, and click Next.
+The Subscription Book Repository stores subscription data including end users, addresses, personalization and subscription sets.
+A typical installation will install the subscription engine on the same machine (i.e., localhost).
+The Portal Repository stores configuration settings that define the end user's subscription portal interface.
+This information includes:
+site names and descriptions
+channel settings
+published services
+device folders
+default preferences
+A Portal defines the web location (URL) through which end users will access subscription portal services and subscriptions. A portal is defined by a web server virtual directory and provides access to one and only one site.
+The following subscription portals have been defined on this web server.
+Select the portal you would like to work with.
+Channel Name and Description
+A device type is a grouping of related devices.  When a new site definition is created four standard device types will be created and configured by default.
+For each device type definition, you will need to specify the device type name, the large and small icon URL, the address format and which address fields will be used when displaying and editing addresses for devices of this device type.
+This screen allows you to add or remove device folders for this specific device type.
+Folders on the left are available, but not used for this device type.  Folders on the right are currently selected for this specific device type.
+Each subscription site can define which device is used as the device to deliver content to the "My Reports" page and which device is used by default when new addresses are created.
+Click on the appropriate device to change the selection.
+For each information source you can specify whether new users will need to enter their authentication information, such as a user name and password or if the default credentials for that information source will be used instead. These settings affect new user accounts created through Subscription Portal.
+There are no information sources defined in this system.
+-
+-
+-
+Select the settings for the following site properties:
+The site preferences control how the default values are set for users of the portal interface.  You may change any of the settings by modifying the information that appears on this page.
+Congratulations! You have successfully configured this site!
+Click the Finish button to launch the browser and login to this portal.
+Origin
+Portal
+Admin
+User IP Address
+Error creating subscription
+Please make sure you have a default profile for this question.
+Error retrieving question object information from MicroStrategy Narrowcast Server.
+Trace
+Information
+Warning
+Use these selections by default
+Session variables
+Associated site
+Not applicable
+Please provide a name for the portal.
+Are you sure you want to delete this device type?
+Are you sure you want to delete this portal?
+Are you sure you want to delete this site?
+Please provide a name for the SequeLink  server
+Please provide a name for the database connection
+Please provide a name for the ODBC data source
+Add database connection
+ODBC data source name:
+Test database connection?
+Overview
+The site definition you selected uses an invalid database connection for the Subscription Book Repository. Please edit the site definition to use a valid database connection or select a different site definition.
+The site definition you selected uses an invalid version of the Subscription Book Repository Tables. Please edit the site definition to use a valid repository or select a different site definition.
+The site definition you selected uses an invalid database connection for the Object Repository. Please edit the site definition to use a valid database connection or select a different site definition.
+The site definition you selected uses an invalid version of the Object Repository tables. Please edit the site definition to use a valid repository or select a different site definition.
+Incorrect database connection definition for portal repository tables.  Please select another one.
+Database tables exist, but are not the correct version.  Please enter another prefix.
+Error saving database alias connection
+An unexpected error occurred while setting the new database alias connection.
+There are no database connections defined.
+This page allows you to create or edit channels for this site definition.
+Please provide a name for the Channel.
+Services Configuration
+Static Subscriptions
+Dynamic Subscriptions
+Storage
+Pick Alternate Question
+MicroStrategy Subscription Portal will publish the services in the folder you select.  However, some services require additional configuration.
+Please specify the default configuration for these services below.
+To configure a specific service individually, click the # button below.
+Configure Services
+Static subscription sets
+Dynamic subscription sets
+Hide page-by questions from subscribers
+Answer page-by questions with:
+Hide unconfigured subscription set from subscribers
+MicroStrategy Narrowcast Server Portal Administrator Wizard enables the configuration of subscription data storage at the individual service level.
+You will be asked to select the service you wish to configure and then you will be shown the static and dynamic subscription sets associated with this service.
+For both static and dynamic subscription sets, you configure the question object for the service selected.
+In addition, you can add additional question objects to prompt subscribers for information.
+For dynamic subscription sets, you will configure the storage of the subscription data.
+You have configured the following service(s). Click 'Edit' to edit the existing configuration or click on the folder name to configure other services in that folder.
+To configure another service, click # below.
+This service has one or more static subscription sets associated with it.  Subscribers in these subscription sets will be stored in the Subscription Book Repository.
+Static subscription sets default settings
+To define a single configuration for all static subscription sets, click below.  This default will be used by all sets for this service.
+Configured:
+configure
+Page-by questions will not be shown to subscribers.  However, you may select an alternative question that will be shown to subscribers.
+Please select a question object below.
+Please select the location for the answers to this question.
+Use the #
+OR use one of the following storage mappings:
+Tables
+Add a new storage mapping
+Clear
+Please select the database tables where the information will be stored.
+Data Warehouse:
+Filter columns by:
+Available Tables:
+Selected Tables:
+Please select the table columns where you wish the information to be stored.
+Drag and drop components from the left to the table columns on the right. You can expand/collapse the components list by clicking on the arrow at the left of each section. To reach components at the bottom of the list, please collapse the sections above them.
+Answer Components
+General:
+Subscription Components
+Configuring:
+Default Service Configuration
+You have selected to configure the above service.  You can either  keep the default preferences listed below or specify additional settings for individual subscription sets in the next steps.
+Service Defaults
+Page-by Questions
+Additional Questions
+You can prompt subscribers for additional questions by editing the information below.
+Change selections
+Related links
+Sign up for this service again
+Sign up for another service
+View all your subscriptions
+Please pick a profile for this question object.
+SequeLink  server name
+You have successfully created your account.
+If you forget your password, this hint will be displayed and upon seeing this hint again you should be reminded of your password.
+Select Service
+Select Storage
+Select Tables
+Select Columns
+Configure Subscription Set
+Select Question
+Exit Configure Services
+Please select the service you wish to configure.
+Question
+Publication(s)
+Dynamic subscription sets default settings
+This service has one or more dynamic subscription sets associated with it. Subscribers in theses subscription sets will be stored in the warehouse using storage mappings.
+Save this storage mapping as:
+To define a single configuration for all dynamic subscription sets, click below. This default will be used by all sets for this service.
+Configure dynamic subscription sets individually
+To configure a dynamic subscription set individually, click on the configure link next to the set. Subscription sets that have not been configured will use the system defaults.
+Additional Question
+The question you have selected, cannot be used in the Subscription Portal.
+Please go back and select a different question.
+The answer to the question you have selected, can be stored either on the subscription book repository or on some other location using a storage mapping.
+If you select to store the answer in the subscription book repository, the answer itself will be stored there.
+If you select to use a storage mapping, the Answer ID of the question will be stored in the subscription book repository, and the answers are stored based on the storage mapping definition.
+The answer to the question you have selected, has to be stored using a storage mapping. This is because it prompts the user to select from a list of elements, and the user may pick more than one.
+When you use a storage mapping to store the answers, the Answer ID of the question will be stored in the subscription book repository, and the answers are stored based on the storage mapping definition.
+Please select the storage mapping to use with this question:
+Database connection
+Custom value:
+custom
+Add a question:
+Browse
+Answer to another question:
+Subscription Set Storing Mapping
+New Storing Mapping for #
+This service does not contain any dynamic subscription sets.
+Site Management Overview
+If it has been installed on a separate machine enter the name of that machine here.
+site definition
+Enter the database connection information:
+Site Preferences Overview
+A channel is a grouping of services within the subscription portal interface.
+Each channel is mapped to one folder of services in the Object Repository.
+There was an error while trying to establish a connection to the subscription engine.  Either the server name is incorrect or the subscription engine is not running on this server.  Please locate the subscription engine and enter the location again.
+Defining a channel requires selecting a folder from the Object Repository.  Select the folder of services to be displayed.
+This Service does not contain any page-by questions to configure.
+Configured
+There was an error attempting to validate the database connection.  (#)  Please verify your information and try again.
+The connection to the subscription engine could not be established
+The database connection definition provided by the administrator is incorrect
+Wrong datasource name
+Delete a database connection
+-- select a database connection --
+Answer ID for: #
+Answer for: #
+User does not exist.
+Cache Storage Mechanism
+Only when there is more than one question
+There are no valid objects in this folder
+Display questions overview page for personalized services
+If you delete this database connection, the objects using it (i.e., Object Repository, storage mappings, etc.) will become invalid.
+Do you wish to delete '#' ?
+You are currently configuring the Portal called "#". To configure a different Portal or to create a new Portal,
+Configure another service
+This section allows you to manage one or more subscription sites.  You will perform the following tasks:
+select an existing subscription portal virtual directory or create a new one
+create or edit a site definition
+Before you begin you will need the following information to complete your site definition:
+Object Repository database location
+Subscription Book Repository database location
+table prefixes for both databases
+This concludes the configuration of the subscription portal system.
+subscription engine:
+portal repository:
+This concludes the site management task.  You have selected the following:
+portal virtual directory:
+site definition:
+At this point your site is ready to be viewed through the portal.
+Click here to access the subscription portal.
+This section allows you to edit the site preferences.  You will perform the following tasks:
+create channels and associate them with folders of services
+select the device types to be supported by the site
+select the default device to be used when creating new address
+select the device to be used for sending services to the "My Reports" page
+choose how users are authenticated for different information sources
+configure other site properties
+This concludes editing the site preferences. You have completed the following:
+edited or created new channels for this site
+selected the devices supported by this site
+selected the default device to be used when creating new addresses
+selected the portal device to use when sending services to the "My Reports" page
+selected how users will be authenticated for the information sources of this site
+configured the remaining site properties
+Integration with the delivery engine enables users to specify service personalization, schedules and the device where they would like to receive the information.
+This site is not ready to be accessed by end-users. Please ask the administrator to configure this site. If you are the administrator, please #.
+Welcome to Microstrategy Narrowcast Server Subscription Portal!
+MicroStrategy Narrowcast Server Portal allows users to easily subscribe to Narrowcast Server services through a Web browser.
+Folder Not Found
+The folder requested was not found in the Object Repository.
+Click here to browse the Project's root folder.
+(Folder Id: #)
+Show Error Log
+Portal names cannot contain special characters. Please enter a name which uses only a-z, 0-9 or the underscore character.
+Database connection names cannot contain special characters. Please enter a name which uses only a-z, 0-9 or the underscore character.
+The question you have selected is already being used as part of the service definition, you cannot use it as an additional or alternative question.
+The question you have selected is already being used as an additional question, you cannot use it as an alternative question.
+The question you have selected is already being used as an alternative question, you cannot use it as an additional question.
+In order to edit or delete subscriptions, please make sure that all tables include either the SUBSCRIPTION_ID or the Answer ID of the question.
+In order to edit or delete subscriptions, please make sure that all tables include the SUBSCRIPTION_ID.
+This service has no questions to Map
+Invalid password - User not deactivated
+Update database connection
+Edit a database connection
+1. Narrowcast Server Normal (User Name and Password)
+2. MicroStrategy Intelligence Server Standard (User Name and Password)
+3. MicroStrategy Intelligence Server NT (NT User Name)
+Please enter the MicroStrategy Intelligence Server name if option 2 or 3 is selected.
+Please enter the name of the Intelligence Server that you want to validate the users against.
+Cannot log in by using the NT  user account. Please ask your administrator to link this NT user account to a MicroStrategy Intelligence Server user or set the Web server properly.
+Number of items to be returned for element prompts:
+Number of items to be returned for object prompts:
+Please enter a valid number for the element prompt items.
+Please enter a valid number for the object prompt items.
+Prompt Settings:
+You can try to log in to this site using your NT credentials. Just click the link below.
+Login Mode:
+This service does not include any static subscription sets. You can configure a default in case you want to add one later to, for example, switch from using a dynamic subscription set to a static subscription set. Otherwise click Next to continue.
+MicroStrategy Intelligence Server was not found
+You do not have access privileges to one or more of the projects that contain the reports in this service.
+You do not have access privileges to one or more of the reports in this service.
+Use user credentials
+The Subscription Engine's configuration settings could not be accessed. For the Subscription Portal to function, either the folder or the drive where the Subscription Engine is installed must be shared.  The Subscription Portal will not function if this requirement is not met.  Would you like to automatically share the #1 drive on machine #2 for that machine's local Administrators group?
+Unable to share drive.  Please manually share the #1 drive on machine #2 for that machine's local Administrators group
+Unable to check if the Subscription Engine folder is shared.
+4. MicroStrategy Intelligence Server LDAP (User Name and Password)
+5. MicroStrategy Intelligence Server DB (User Name and Password)
+Narrowcast Server Normal
+MicroStrategy Intelligence Server Standard
+MicroStrategy Intelligence Server LDAP
+MicroStrategy Intelligence Server DB
+Error creating user: ID generation failed.  Please notify the system administrator.
+Attachment Display:
+Stream attachments to reduce memory footage.
+Login as NT user
+You are deleting the default portal site. Deleting this site will permanently disable deliveries for subscriptions created from MicroStrategy Web. Would you still like to delete the default portal site? Click OK to delete the site, or click Cancel to abort.
+This product is patented.  One or more of the following patents may apply to the product sold herein: U.S. Patent Nos. 5,321,520, 5,416,602, 5,748,560, 6,154,766, 6,173,310, 6,260,050, 6,263,051, 6,269,393, 6,279,033, 6,501,832, 6,567,796, 6,587,547, 6,606,596, 6,658,093, 6,658,432, 6,662,195, 6,671,715, 6,691,100, 6,694,316, 6,697,808, 6,704,723, 6,707,889, 6,741,980, 6,765,997, 6,768,788, 6,772,137, 6,788,768, 6,792,086, 6,798,867, 6,801,910, 6,820,073, 6,829,334, 6,836,537, 6,850,603, 6,859,798, 6,873,693, 6,885,734, 6,888,929, 6,895,084, 6,940,953, 6,964,012, 6,977,992, 6,996,568, 6,996,569, 7,003,512, 7,010,518, 7,016,480, 7,020,251, 7,039,165, 7,082,422, 7,113,474, 7,113,993, 7,127,403, 7,174,349, 7,181,417, 7,194,457, 7,197,461, 7,228,303, 7,260,577, 7,266,181, 7,272,212, 7,302,639, 7,324,942, 7,330,847, 7,340,040, 7,356,758, 7,356,840, 7,415,438, 7,428,302, 7,430,562, 7,440,898, 7,457,397, 7,486,780, 7,509,671, 7,516,181, 7,559,048, 7,574,376, 7,617,201, 7,725,811, 7,801,967, 7,836,178, 7,861,161, 7,861,253, 7,881,443, 7,925,616, 7,945,584, 7,970,782, 8,005,870, 8,035,382, 8,051,168, 8,051,369, 8,094,788, 8,130,918, 8,296,287, 8,321,411, 8,452,755, 8,521,733, 8,522,192, 8,577,902, 8,606,813, 8,607,138, 8,645,313, 8,761,659, 8,775,807, 8,782,083, 8,812,490, 8,832,588, 8,943,044, and 8,943,187.  Other patent applications are pending.
+There is no repository defined in '#1' with prefix '#2'.  Please enter a valid prefix.
+Match case sensitivity by default
+DataDirect Technologies Corp. Copyright 1991-2015. DataDirect Technologies Corp. All rights reserved.
+Portions of this software are copyrighted by DataDirect Technologies Corp., 1991-2015.
+There are backup property files found. Would you like to restore and use configuration from the backup files? Restoring backup files when upgrading from version 7.5 or lower to 8.0 and higher is not recommended.
+Failed to restore backup property files.  Please reconfigure your portal by clicking NEXT.
+The backup property files have been restored.  Please restart MicroStrategy Subscription Server service before continuing.
+Filter table names
+Tip: The system prefix allows you to create the repository tables for several Narrowcast Server systems in the same database location. For example, you might use the prefix TEST for a test system and the prefix PROD for a production system. A valid system prefix consists of characters and numbers, and starts with a character. The prefix cannot exceed eight characters in length.
+This dbalias name '#' is already used.  Please choose a different name.
+Number of pooled connections
+System is currently unavailable. Application folder is set to inactive.
+This product contains binary components Copyright (c) 1995-2015 The Cryptix Foundation Limited.  All rights reserved. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: 1. Redistributions of source code must retain the copyright notice, this list of conditions and the following disclaimer.  2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+THIS SOFTWARE IS PROVIDED BY THE CRYPTIX FOUNDATION LIMITED AND CONTRIBUTORS ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE CRYPTIX FOUNDATION LIMITED OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+DataDirect
+Cryptix
+This service contains an unsupported prompt type.
+Error loading folder information.  The folder or its upper level folder (s) may be inactive.
+All Contents Copyright
+2015
+Incorporated. All Rights Reserved.
+English (US)
+English (UK)
+German
+Italian
+Portuguese
+Spanish
+French
+Swedish
+Japanese
+Korean
+Chinese (Simplified)
+Chinese (Traditional)
+System
+First Name
+Last Name
+Middle Initial
+Suffix
+Title
+Salutation
+Street Address
+City
+State
+Zip Code
+Country
+Please provide answers for the following user details fields
+Define User Details

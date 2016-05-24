@@ -1,0 +1,972 @@
+Copyright © 1996-2015 MicroStrategy, Incorporated. All rights reserved. Confidential.
+Home
+Meus relatórios
+Criar relatório
+Efetuar logout
+Orientação:
+Pesquisar
+Todos os direitos reservados. Confidencial.
+Servidor:
+Porta
+Nome de usuário
+Senha
+Salvar minha senha
+O tamanho e a orientação do papel devem corresponder às configurações do navegador.
+Digite sua senha antiga e a nova senha.
+Login
+Erro ao executar o documento. Entre em contato com o administrador.
+Letter 8.5" x 11"
+A4 8.27" x 11.69"
+Folio 8.5" x 13"
+Projetos
+BEM-VINDO
+Descricao
+avançado...
+Pesquisar uma lista de relatórios preparados disponíveis para todos os usuários.
+Visualizar um resumo atualizado do status de minhas solicitações.
+Você está aqui:
+Manualmente
+Não existem hierarquias neste projeto.
+objetos
+Não é possível pesquisar por atributos deste tipo.
+Página ## de ###
+Carregar fator de equilíbrio
+Proprietário
+Modificado
+Sempre
+Nunca
+Modo de exibição
+Última atualização:
+Erro
+Informações para contato:
+Número máximo de pesquisas simultâneas:
+Insira aqui as informações do administrador do sistema, de modo que qualquer usuário possa contatá-lo, se necessário:
+Solicitado
+Verificar Status Novamente
+Cancelar essa Solicitação
+Dentro da caixa preta abaixo, você verá os números "12345" se seu navegador suportar os arquivos CSS. Você está vendo esses números?
+RELATÓRIOS RELACIONADOS
+Sim. Meu navegador suporta essa implementação de formatação.
+Não. Usar uma implementação de formatação diferente.
+Esgotado o tempo limite da solicitação. Tente novamente mais tarde.
+Ir
+Executando
+Azul e cinza
+Linhas:
+Planilha
+Gráfico
+Mensagens ## - ### de ####
+## - ### de ####
+Salvar
+Novo prompt
+Versão imprimível
+Exportar dados
+Colunas
+Colorido
+Agent
+Clássico
+Contábil
+Financeiro
+Bandas cinzas
+Utilizar HTML dinâmico?
+Vermelho e preto
+Romântico
+Small Type
+Aplicar
+Ocultar botões de pivotagem
+Exibir botões de pivotagem
+Mover até as linhas
+Mover para cima
+Mover para baixo
+Paginar por este campo
+Mover até as colunas
+Mover à esquerda
+Mover à direita
+Classificar
+Drill
+De:
+Para:
+Opções de drill:
+Drill apenas em seleções
+Para cima
+Para baixo
+Pôr-do-sol
+Colunas:
+Mais páginas
+Exibir:
+Ocultar barra de ferramentas
+Exibir barra de ferramentas
+Publicar
+Nenhuma informação de drill disponível.
+A sintaxe correta para o operador Não está entre é value1;value2
+Detalhes do filtro:
+O filtro está vazio.
+- nenhum -
+Drill para
+Detalhes
+Remover
+Classificação crescente
+Classificação descrescente
+Último relatório:
+marcado como "não lido"
+Processamento de mecanismo analítico
+Executando relatórios filhos
+Sua Lista de Histórico está cheia. Para executar um relatório, exclua uma ou mais mensagens.
+Continuar
+Devido a um erro no servidor da Web, o conteúdo deste relatório não pôde ser exportado. Tente com outro relatório.
+Paginado por:
+Você está prestes a efetuar logout de todos os projetos.
+Não
+Sim
+Cancelar
+Você pode verificar a Lista de Histórico ou tentar novamente mais tarde.
+Erro ao verificar o status do documento
+Nº do erro
+Documento pronto
+Prompt pronto
+Perguntas freqüentes
+Última pasta:
+Nenhum dado retornado para esse documento
+Excel com formatação (versão '97 ou posterior)
+Formato de arquivo CSV
+Abrir nova janela ao exportar
+Opções de impressão
+Texto do cabeçalho:
+Modo de login
+Estilo de numeração de página:
+(nenhum)
+Página 1 de n
+Página inicial padrão:
+Cancelar as solicitações pendentes desta sessão?
+Mesclar colunas de cabeçalho
+(padrão)
+Pasta pai:
+Alterar minha senha
+e
+Voltar ao início
+Ativado para canal (o canal é visível para usuários finais)
+Retornar à pasta pai
+Error ao executar o relatório
+Voltar
+Linha de radar com eixo duplo
+Gráfico de dispersão XYZ 3D
+Você foi desconectado.
+Erro ao acessar a Lista de Histórico do usuário.
+As mensagens da Lista de Histórico não puderam ser recuperadas do MicroStrategy Server.
+As mensagens da Lista de Histórico não puderam ser removidas do MicroStrategy Server.
+Propriedades
+Devido a um erro de sintaxe, sua solicitação de pivotagem não foi concluída.
+Devido a um erro de sintaxe, sua solicitação Paginar por não foi concluída.
+Entre em contato com o administrador.
+O MicroStrategy Server ao qual você está tentando conectar-se não foi encontrado. Tente novamente mais tarde.
+Você selecionou muitos objetos para um prompt de objeto.
+Você selecionou poucos objetos para um prompt de objeto.
+Você selecionou muitos elementos para um prompt de elemento.
+Você selecionou poucos elementos para um prompt de elemento.
+A sintaxe correta para o operador Entre é value1;value2
+Esse prompt é obrigatório e deve ser respondido.
+Insira um valor na caixa de texto.
+O seguinte arquivo não foi registrado corretamente no Servidor da Web: M8dssxml.dll. Peça mais detalhes ao administrador.
+Selecione alguns elementos antes da ação de drill
+Não é possível qualificar mais de um item ao mesmo tempo.
+Os prompts desse relatório não puderam ser exibidos, pois já foram respondidos.
+Erro ao carregar
+Lista de mensagens de erro
+Tempo
+Descrição do erro
+Arquivo
+Função ASP
+Função de API
+Comentários
+Nível
+Sua senha foi alterada.
+Alterar senha
+Senha antiga:
+Nova senha:
+não mais que
+não menos que
+seleções
+nenhum
+Disponível
+Selecionado
+Localizar
+elementos
+Métrica
+Atributo
+Entre (inserir value1; value2)
+Exatamente
+Maior do que
+Maior ou igual a
+menor do que
+Menor ou igual a
+Como
+Não é como
+Valores
+é
+Maior
+Menor
+Adicionar
+Suas seleções
+Coincidir
+Todas as seleções
+Qualquer seleção
+Minhas seleções
+Adicionar às seleções
+Pesquisar:
+Executar relatório
+Salvar relatório
+Qualificar na descrição de atributo
+Retornar para selecionar hierarquia
+Escolher uma hierarquia
+Outras hierarquias:
+Operador
+Qualificar
+Selecionar
+Elementos
+Pasta atual
+Subpastas
+Conteúdo da pasta
+Inserir critérios da pesquisa.
+A lista pode ser longa.
+Não existem pontos de entrada nessa hierarquia.
+PRECISA DE AJUDA?
+Depois de selecionar uma hierarquia à esquerda, você será capaz de visualizar os atributos da mesma nesta seção.
+Vá para a etapa 2
+Outros
+Em
+Nota: O Netscape 4, o Internet Explorer 4 e versões mais recentes desses navegadores suportam DHTML.
+Os operadores "Like" e "Not Like" não suportam o tipo de dados não-texto.
+Você selecionou muitas qualificações para um prompt de expressão.
+Você selecionou poucas qualificações para um prompt de expressão.
+Você selecionou muitas qualificações para um prompt hierárquico.
+Você selecionou poucas qualificações para um prompt hierárquico.
+Ajuda on-line
+Algumas das respostas padrão neste prompt não foram exibidas.
+(Apenas o tipo texto é permitido)
+Não exatamente
+Não entre (inserir value1; value2)
+Vá para o estado do relatório anterior
+Página do Administrador
+Excluir
+Retornar para:
+Tem certeza de que deseja excluir este objeto?
+Confirmação de exclusão
+Devido a um erro no servidor, sua solicitação não pôde ser processada.
+Tente novamente. Se o problema persistir, entre em contato com o administrador do servidor.
+Nome da pasta:
+Requerido
+Opcional
+Entre
+e
+Esse prompt requer um valor entre ## e ###.
+Esse prompt requer um valor não menor que ##.
+Esse prompt requer um valor não maior que ##.
+Esse prompt requer um valor não posterior que ##.
+Esse prompt requer um valor não anterior que ##.
+O texto inserido é muito longo. Digite-o novamente.
+O texto inserido é muito curto. Digite-o novamente.
+Não está entre
+Alterar
+Atualizar
+Versão ASP:
+Erro ao carregar os dados XML.
+Um dos nós XML necessários não está disponível. Peça mais detalhes ao administrador.
+Erro nos resultados do relatório
+Erro do MicroStrategy Server:
+Erro ao ler a definição de prompt do MicroStrategy Server. Execute o relatório ou o documento novamente.
+Sua nova senha não corresponde à primeira. Digite-as novamente.
+Avisos
+Erros
+Anterior ##
+Próximo ##
+Você não possui uma conta?
+Paginar por
+Bem-vindo
+Se você não for ##,
+clique aqui
+Preferências
+Retornar à pasta pai
+Selecione um dia:
+Mês
+Dia
+Ano
+Mensagens
+Remover das seleções
+Insira uma data válida.
+Em (inserir value1; value2; ...; valueN)
+Erro ao responder o prompt. Revise suas respostas.
+Ocultar ajuda
+Exibir ajuda
+Esse prompt requer entre ## e ### seleções.
+Esse prompt requer pelo menos ## seleções.
+Esse prompt não pode aceitar mais de ## seleções.
+Erro nos resultados do documento
+Executar Documento
+Determinar automaticamente
+Esse prompt requer exatamente ## seleções.
+Nome
+Visualização em lista
+Visualização de ícones grandes
+Alemão
+Francês
+Italiano
+Japonês
+Coreano
+Sueco
+Padrão
+O atributo está bloqueado
+Não é possível exibir a lista de elementos
+métrica
+Esse prompt requer apenas 1 seleção.
+Insira valores válidos separados por ponto-e-vírgula.
+Siga as instruções marcadas abaixo com um sinalizador vermelho.
+Aviso!
+Esse prompt requer pelo menos 1 seleção.
+Esse prompt não pode aceitar mais de 1 seleção.
+Parâmetros incorretos em URL
+Os seguintes parâmetros são requeridos em URL:
+DD/MM/YYYY
+HH:MM:SS PM
+Uma expressão ou um grupo de elementos de um atributo é equivalente a uma seleção.
+Selecione um item para qualificação.
+Resumo
+Português (Brasil)
+Coincidir maiúsculas e minúsculas
+Anterior
+Próximo
+Etapas ## - ### de ####
+Primeiras ## etapas
+Últimas ## etapas
+ou
+Retornar ao Prompt
+Resumo de suas seleções
+O Prompt não foi respondido
+Sua seleção:
+Prompt ##
+A seleção padrão é:
+Visualizar uma lista dos relatórios aos quais me subscrevi.
+Para se subscrever a estes relatórios, selecione uma programação ou personalização abaixo.
+Com a seguinte personalização:
+Adicionar subscrição
+Você está subscrito aos seguintes programas para este relatório:
+Programar
+Personalizado
+Editar
+Subscrições
+Se quiser responder a esses prompts novamente, clique no link Novo prompt ao lado do relatório.
+Limite de relatório:
+Suas informações de origem de informações foram alteradas.
+Você não tem nenhuma subscrição.
+Informações não disponíveis
+Relatórios
+Endereços
+Serviços
+Sobre
+O MicroStrategy Narrowcast Server é um produto da
+Opções
+Serviço
+Endereço
+Novos usuários
+Nome de usuário:
+Senha:
+Você pode criar uma nova conta. Clique abaixo.
+Criar uma nova conta
+Escolha um endereço:
+Crie um novo endereço
+Ocorreu um erro nesta página.
+Erro ao recuperar endereços
+Você não tem nenhum endereço compatível.
+Erro ao recuperar programações
+Não existe nenhuma programação disponível.
+Voltar para Home
+Voltar para endereços
+Voltar para relatórios
+Voltar para serviços
+Erro durante o login
+O nome do usuário ou a senha está incorreto(a). Digite-os novamente.
+O nome do usuário ou a senha está em branco. Digite-os novamente.
+Erro durante a operação de endereço
+Tente novamente ou contate seu administrador do sistema.
+Um ou mais campos de endereços estão em branco. Tente novamente.
+Erro durante a operação de subscrição
+Erro ao criar uma nova conta
+A senha e a senha confirmada não coincidem. Digite-os novamente.
+Erro ao criar nova conta de usuário
+Confirmar senha:
+Dica da senha:
+Nenhum endereço criado
+Confirmar nova senha:
+Confirmar exclusão de endereço
+Confirmar exclusão de subscrição
+Tem certeza de que deseja excluir o endereço?
+Tem certeza de que deseja excluir a(s) assinatura(s) para o(s) seguinte(s) serviço(s)?
+Opções de usuário
+Suas opções foram salvas.
+Local:
+Erro ao recuperar relatórios
+Expira:
+Pendente
+Não existem relatórios nesta pasta.
+Esqueceu sua senha?
+Insira seu nome do usuário e clique em "Exibir dica de senha".
+Exibir dica da senha
+Sua dica da senha é:
+Erro ao recuperar dica da senha
+Ocorreu um erro ao recuperar sua dica da senha.
+Voltar ao login
+Insira um nome de endereço.
+Insira um nome de endereço sem os seguintes caracteres:
+Insira um endereço.
+Insira seu endereço no formato nomeusuário@servidor.tipo, como no exemplo a seguir: jsilva@empresabac.com
+O seguinte arquivo não foi registrado corretamente no Servidor da Web: M9StrUtl.dll. Peça mais detalhes ao administrador.
+Obrigado por usar o MicroStrategy Narrowcast Server.
+Não existe um arquivo enviado ao servidor da Web.
+Este nome de usuário já está em uso. Insira um nome de usuário diferente.
+O arquivo contém uma extensão inválida. As extensões de arquivo permitidas são: ##
+Erro ao atualizar perfil do usuário
+Ocorreu um erro ao atualizar seu perfil do usuário.
+Erro ao recuperar dados
+Ocorreu um erro ao carregar o XML. Contate o administrador do sistema.
+MicroStrategy Narrowcast Server 7.5.1
+Informações de contato do administrador do sistema
+e-mail:
+Telefone:
+Para registrar-se para uma conta, insira as seguintes informações como abaixo.
+As informações requeridas são indicadas com um asterisco vermelho(*).
+Insira um nome de usuário e senha para sua nova conta.  Certifique-se em inserir sua senha duas vezes.
+Insira uma dica o mais claramente possível associada com sua senha.
+Concluído! Clique no botão "Criar nova conta" abaixo.
+Insira suas credenciais de login para a(s) seguinte(s) origem(ns) de informações.
+Foram encontrados um ou mias erros ao processar sua solicitação para uma nova conta.
+Siga as instruções em vermelho abaixo e tente novamente.
+A dica da senha está em branco. Digite-a novamente.
+Concluir
+Foram encontrados um ou mais erros ao processar sua solicitação de alteração de senha.
+O senha antiga ou nova está em branco. Digite-os novamente.
+Insira o(s) nome(s) de usuário e senha(s) abaixo.
+Você especificou um tamanho de arquivo que excede o tamanho máximo (##Kb) permitido pelo administrador.
+Entregas
+Até:
+Clique em um nome de documento à esquerda para visualizar aquele documento aqui.
+Enviar para a página Meus Relatórios
+Enviar para:
+Registrar-se para um serviço
+Pesquisar uma lista de serviços preparados disponíveis para todos os usuários.
+Visualizar seus relatórios planejados.
+Especificar suas informações de contato para suas entregas de subscrições.
+Personalizar estas telas de acordo com suas preferências de seu navegador e visualização.
+Subscrição de:
+Personalizar sua Subscrição
+Sua sessão de usuário foi perdida e você foi automaticamente desconectado.  Efetue o login novamente.
+Desativar minha conta
+Sua conta foi desativada.
+Tem certeza de que deseja desativar sua conta?
+Quando você desativa sua conta, não mais poderá receber serviços ou ser capaz de efetuar o login. Sua conta somente pode ser reativada pelo administrador do portal.
+Escolha um idioma.
+Ativada (a assinatura será entregue na data agendada)
+Alterar credenciais de origem de informações
+Alterar credenciais
+Foram encontrados um ou mais erros ao processar sua solicitação de alteração de credenciais de origem de informações.
+Versão SDK:
+Carregar arquivo
+Canais
+Ativo
+Adicionar um novo canal
+Ativar o canal
+Canal inativo
+Criar novo canal
+Editar canal
+Para criar um novo canal, você precisa executar as seguintes etapas:
+Publicar uma pasta de serviços para o canal.
+Dar um nome ao canal.
+Não exibir esta página novamente.
+Nome e descrição do site
+Insira um nome para este canal:
+Insira uma descrição para este canal (opcional):
+Origem do erro
+Essa conta foi desativada. Contate o administrador para reativar essa conta.
+O nome do usuário estava em branco. Digite-o novamente.
+A senha estava em branco. Digite-a novamente.
+Espanhol
+Inglês
+Importar especificações do filtro de um arquivo:
+Inserir novo endereço:
+Tipos de dispositivos
+renomear ...
+definição ...
+Pasta de dispositivos
+editar pasta de dispositivos ...
+Renomear
+URL ícone grande:
+URL ícone pequeno:
+Formato de endereço:
+e-mail
+Este é o formato padrão para endereços de e-mail na Internet.
+Formato: xxxx@xxxxxx.xxx
+Numérico
+Exibir campos:
+Editar campos:
+Nome do endereço
+Valor do endereço
+Estilo
+PIN
+Janela Entrega
+Nome do tipo de dispositivo:
+Confirmar exclusão de tipo de dispositvo
+Nova definição
+Definição:
+Disponível:
+Selecionado:
+Nenhuma pasta selecionada.
+Seu gerador de relatórios decidiu que um carrinho de compras e um estilo de arquivo de texto representem este prompt.
+Como o DHTML está desativado, você não pode usar a função de importar arquivo de texto.
+Você pode usar o carrinho de compras para responder esse prompt.
+Criar um novo tipo de dispositivo
+Use este formato somente para uma seqüência de caracteres de números.
+Formato: ########
+Nenhum tipo de dispositivo foi criado.
+Confirmar PIN
+Inativo
+Digite um valor numérico para o endereço no seguinte formato: #########
+Ajuda com:
+O nome do usuário ou a senha estão incorretos para uma ou mais origens de informações. Tente novamente.
+Você não tem nenhum relatório.
+Selecione um planejamento para a entrega deste serviço.
+Selecione uma programação na lista abaixo.
+Selecione onde deseja que este serviço seja entregue.
+Para registrar-se, complete as seguintes etapas:
+Selecione um serviço.
+Especifique uma programação e um endereço.
+Personalize seu conteúdo do serviço (se aplicável).
+Personalize o conteúdo de seu serviço.
+Você pode fornecer as seguintes informações para personalizar o conteúdo para esta assinatura.
+Se a sua dica não ajudá-lo a lembrar de sua senha, contate seu administrador do sistema para que sua senha possa ser reinicializada.
+OK
+Êxito!
+Sua assinatura foi salva com êxito.
+Salvar Seleções Como (opcional)
+Efetuar novas seleções
+Escolha nesta lista de seleções anteriormente salvas.
+Escolha uma:
+Aplicar estas seleções
+O projeto ### não pôde ser encontrado no servidor ###.
+(DESATIVADO)
+Informações do administrador:
+Após alterar a conexão do repositório do portal, será preciso reconfigurar as informações do site.
+Após alterar o local do mecanismo de assinatura, será preciso reconfigurar a conexão do repositório do portal e as informações do site.
+Após: ### dias.
+Nome da conexão do banco de dados:
+Conexões de banco de dados
+Dispositivo padrão:
+Local padrão de novos usuários:
+Uso padrão de DHTML:
+Desativar
+Deseja continuar?
+Ativar a criação de novas contas:
+Insira o nome do servidor que está executando o mecanismo de assinatura:
+Insira um nome único e descrição para este portal.
+Configurações da IGU:
+Origens de informações
+Repositório do portal
+Expiração de nova conta:
+Sem expiração
+Ativado:
+Número de telefone:
+Dispositivo do portal:
+Repositório de objetos
+Configurações do projeto:
+Locais de servidor de mecanismos de assinatura de portal recentemente usados:
+Selecione um definição de site existente ou clique em Adicionar definição de novo site.
+Configurações de dispositivos
+Preferências do site
+Repositório do livro de assinaturas
+Local do mecanismo de assinatura
+Prefixo de tabelas:
+Diretório de arquivos temp:
+O Assistente do Administrador do Portal do Narrowcast Server da MicroStrategy permite que os administradores criem com facilidade portais de assinatura da Web, onde os usuários podem efetuar a assinatura dos serviços Narrowcast Server através de um navegador da Web.
+Use as credenciais de projeto
+Bem-vindo ao Assistente do Administrador do Portal do Narrowcast Server da MicroStrategy
+Não existem canais definidos para esse site
+Selecione a pasta canais
+A conexão "#1" ao banco de dados não aponta para um banco de dados contento tabelas de repositório do portal com o prefixo "#2".
+Deseja criá-las?
+Nome padrão de site
+Site com valores padrão
+Selecionar dispositivo do portal
+Selecionar dispositivo padrão
+Forneça um nome para a definição do site.
+Insira um nome sem os seguintes caracteres:
+Forneça o nome da máquina que está executando o mecanismo de assinatura.
+Forneça um diretório para os arquivos temporários.
+Insira um caminho para o diretório de arquivos temporários sem os seguintes caracteres:
+Insira um número válido para o número de dias.
+Selecione um estilo de dispositivo
+Para encontrar o estilo de seu dispositivo, complete as seguintes etapas:
+Selecione uma categoria.
+Selecione um estilo.
+Clique em uma categoria de dispositivo para:
+Clique em um estilo de dispositivo para:
+Não existem estilos de dispositivos nesta categoria.
+Informações de estilo de dispositivo não encontradas.
+Nenhum estilo disponível.
+Nenhuma validação
+O valor do endereço pode ser qualquer seqüência de caracteres de texto.
+Formato: quaisquer números e os seguintes caracteres - ( )
+Insira um valor para o endereço no seguinte formato: quaisquer números e os seguintes caracteres - ( )
+Configuração do sistema
+Gerenciamento do site
+Selecione a conexão ao banco de dados para o repositório do portal.
+Selecione a conexão ao banco de dados para o repositório de objetos.
+Selecione a conexão ao banco de dados para o repositório do caderno de assinaturas.
+Use a mesma conexão ao banco de dados para o repositório do caderno de assinaturas.
+Adicionar uma nova conexão ao banco de dados
+Adicionar uma nova definição e site
+Definição de site
+Banco de dados
+Erro ao excluir perfil do usuário
+O perfil não pode ser excluído porque está sendo compartilhado por mais de uma assinatura
+Visualizar assinaturas existentes para este serviço
+Selecionar ou criar o portal
+Criar um novo portal de assinaturas
+Criar um novo portal
+Nome do portal
+Para criar um novo portal de assinaturas, especifique o nome do diretório virtual.
+Insira um endereço padrão.
+Formato: quaisquer caracteres de texto ou numéricos
+Insira um endereço no seguinte formato: quaisquer caracteres de texto ou numéricos
+Cada definição de site se destingue por seu nome único e descrição.
+Recomenda-se fornecer uma boa descrição da definição do site, para que qualquer projetista possa imediatamente saber que propriedades o site contém.
+Um site identifica um conjunto de serviços, tornado disponível através de um portal para o acesso por usuários finais.
+Um site é tornado visualizável aos usuários finais através de um portal.
+A lista a seguir contém definições de site que existem no repositório atual de portal.
+Você pode selecionar reusar uma definição de site existente ou criar uma nova definição de site.
+Como o Administrador do Portal você tem as seguintes responsabilidades:
+configurar e gerenciar o portal de assinaturas para permitir ao usuário final a efetuar a assinatura de uma variedade de serviços na Web
+definir e configurar sites de assinatura
+publicar serviços e tipos de dispositivos
+selecionar dispositivos padrão para o portal de assinaturas
+especificar propriedades de origens de informações e preferências de portal padrão
+O Assistente do Administrador do Portal lhe fornece os recursos para:
+configurar o mecanismo de assinaturas
+selecionar ou editar as configurações do portal
+criar ou selecionar a definição do site
+configurar as ofertas de serviços estáticos e dinâmicos
+Clique em AVANÇAR para iniciar.
+O Repositório de Objetos é o banco de dados que contém a definição do sistema Narrowcast que você deseja implementar através deste portal de assinatura.
+É preciso criar uma conexão ao banco de dados para cada banco de dados que você desejar usar.
+Se o seu Repositório do Livro de Assinaturas estiver armazenado no mesmo banco de dados de seu Repositório de Objetos (mais comum), então você pode indicar este fato selecionando a caixa de seleção e clicar em Avançar.
+O repositório do caderno de assinaturas armazena dados de assinaturas, incluindo usuários finais, endereços, personalização e conjuntos de assinaturas.
+Uma instalação típica irá instalar o mecanismo de assinaturas na mesma máquina (ou seja, hostlocal).
+O repositório do portal armazena definições de configurações que definem a interface do portal de assinaturas do usuário final.
+Estas informações incluem:
+nomes e descrições de sites
+configurações de canais
+serviços publicados
+pastas de dispositivos
+preferências padrão
+Um Portal define o local na Web (URL), através do qual os usuários finais irão acessar os serviços de assinaturas e as assinaturas do portal. Um portal é definido por um diretório de servidor virtual e fornece o acesso para um e somente um site.
+Os seguintes portais de assinaturas foram definidos neste servidor da Web.
+Selecione o portal com o qual deseja trabalhar.
+Nome e descrição do canal
+Um tipo de dispositivo é um grupo de dispositivos relacionados.  Quando uma nova definição de site é criada, quatro tipos de dispositivos padrão serão criados e configurados por padrão.
+Para cada definição de novo tipo dispositivo, será preciso especificar o nome do tipo de dispositivo, o ícone grande e pequeno do URL, o formato do endereço e que campos de endereço serão usados ao exibir e editar endereços para os dispositivos deste tipo.
+Esta tela permite adicionar ou remover pastas de dispositivos para este tipo de dispositivo específico.
+Pastas à esquerda estão disponíveis, mas não usadas para este tipo de dispositivo.  Pastas à direita estão atualmente selecionados para este tipo de dispositivo específico.
+Cada site de assinatura pode definir que dispositivo é usado como o dispositivo  para entregar o conteúdo para a página "Meus relatórios" e que dispositivo será usado por padrão quando novos endereços são criados.
+Clique no dispositivo apropriado para alterar a seleção.
+Para cada origem de informação, você pode especificar se os novos usuários precisarão inserir suas informações de autenticação, por exemplo nome de usuário e senha, ou se serão usadas as credenciais padrão para essa origem de informação. Essas definições afetam contas de novos usuários criadas por meio do Portal de Subscrições.
+Não existem origens de informações definidas neste sistema.
+-
+-
+-
+Selecione as configurações para as seguintes propriedades do site:
+As preferências do site, controlam como os valores padrão serão definidos para os usuários da interface do portal.  Você pode alterar qualquer uma das configurações, ao alterar as informações que aparecem nesta página.
+Parabéns! Você configurou com êxito este site!
+Clique no botão Concluir para iniciar o navegador e efetuar o login neste portal.
+Origin
+Portal
+Admin
+Endereço IP do usuário
+Erro ao criar assinatura
+Certifique-se de que tenha um perfil padrão para esta pergunta.
+Erro ao recuperar as informações do objeto de pergunta do MicroStrategy Narrowcast Server.
+Rastrear
+Informações
+Aviso
+Usar estas seleções por padrão
+Variáveis da sessão
+Site associado
+Não aplicável
+Forneça um nome para o portal.
+Tem certeza de que deseja excluir esse dispositivo?
+Tem certeza de que deseja excluir esse portal?
+Tem certeza de que deseja excluir esse site?
+Forneça um nome para o servidor SequeLink
+Forneça um nome para a conexão do banco de dados
+Forneça um nome para a origem de dados ODBC
+Adicionar conexão de banco de dados
+Nome da origem de dados ODBC:
+Testar a conexão de banco de dados?
+Visão geral
+Definição incorreta de pseudônimo de banco de dados para as tabelas do repositório de caderno de assinaturas.  Selecione outra definição de site.
+As tabelas do repositório do caderno de assinaturas existe, mas não está na versão correta.  Insira outro prefixo.
+Definição incorreta de pseudônimo de banco de dados para as tabelas do repositório de objetos.  Selecione outra definição de site.
+As tabelas do repositório de objetos existe, mas não está na versão correta.  Insira outro prefixo.
+Definição incorreta de conexão de banco de dados para as tabelas do repositório de portal.  Selecione outro.
+As tabelas do banco de dados existem, mas não estão na versão correta.  Insira outro prefixo.
+Erro ao salvar a conexão de pseudônimo de banco de dados
+Ocorreu um erro inesperado ao definir a nova conexão de pseudônimo de banco de dados.
+Não existem conexões de banco de dados definidas.
+Esta página permite criar ou editar canais para esta definição de site.
+Forneça um nome para o canal.
+Configurações de serviços
+Assinaturas estáticas
+Assinaturas dinâmicas
+Armazenamento
+Escolher pergunta alternativa
+O Portal de Assinaturas do MicroStrategy irá publicar os serviços na pasta que você selecionar.  Entretanto, alguns serviços requerem configurações adicionais.
+Especifique abaixo as configurações padrão para estes serviços.
+Para configurar um serviço específico individualmente, clique no botão # abaixo.
+Configurar serviços
+Conjuntos de assinaturas estáticas
+Conjuntos de assinaturas dinâmicas
+Ocultar página por perguntas de assinantes
+Responder página de perguntas com:
+Ocultar conjuntos de assinaturas não configurados dos assinantes
+O Assistente do Administrador do Portal do Narrowcast Server da MicroStrategy permite a configuração de armazenamento de dados de assinaturas no nível de serviço individual.
+Você será solicitado a selecionar o serviço que desejar configurar, e em seguida será exibido os conjuntos de assinaturas estáticas e dinâmicas associados com este serviço.
+Para os conjuntos de assinaturas estáticas e dinâmicas, você configura o objeto de perguntas para o serviço selecionado.
+Além disso, você pode adicionar objetos de perguntas adicionais para consultar os assinantes sobre informações.
+Para conjuntos de assinaturas dinâmicas, você configura o armazenamento de dados de assinaturas.
+Você configurou o(s) seguinte(s) serviço(s). Clique em 'Editar' para editar as configurações existentes ou clique no nome da pasta para configurar outros serviços naquela pasta.
+Para configurar outro serviço, clique em # abaixo.
+Este serviço tem um ou mais conjuntos de assinaturas estáticas associados com ele.  Os assinantes neste conjuntos de assinaturas serão armazenados no repositório do caderno de assinaturas.
+Configurações padrão de conjuntos de assinaturas estáticas
+Para definir uma única configuração para todos os conjuntos de assinaturas estáticas, clique abaixo.  Este padrão será usado por todos os conjuntos para este serviço.
+Configurado:
+configurar
+Página por perguntas não será exibida para os assinantes.  Entretanto, você pode selecionar um pergunta alternativa que será exibida para os assinantes.
+Please select a question object below.
+Selecione o local para as respostas para esta pergunta.
+Usar a #
+OU usar um dos seguintes mapeamentos de armazenamento:
+Tabelas
+Adicionar um novo mapeamento de armazenamento
+Limpar
+Selecione as tabelas do banco de dados onde as informações serão armazenadas.
+Wharehouse de dados:
+Filtrar colunas por:
+Tabelas disponíveis:
+Tabelas selecionadas:
+Selecione as colunas da tabela onde você deseja que as informações sejam armazenadas.
+Arraste e solte os componentes da esquerda para as colunas da tabela na direita. Você pode expandir/retrair a lista de componentes ao clicar na seta à esquerda de cada seção. Para chegar aos componentes no fim da lista, retraia as seções acima dos mesmos.
+Componentes de respostas
+Geral:
+Componentes de assinaturas
+Configurando:
+Configurações padrão do serviço
+Você decidiu configurar o serviço acima.  Você pode manter as preferências padrão abaixo listadas ou especificar configurações adicionais para conjuntos individuais de assinaturas nas próximas etapas.
+Padrões do serviço
+Paginar por perguntas
+Perguntas adicionais
+Você pode consultar os assinantes por perguntas adicionais ao editar as informações abaixo.
+Alterar seleções
+Links relacionados
+Registrar-se para este serviço novamente
+Registrar-se para um outro serviço
+Visualizar todas as suas assinaturas
+Selecione um perfil para este objeto de pergunta.
+Nome do servidor SequeLink
+Você criou com êxito sua conta.
+Se você esqueceu sua senha, esta dica será exibida e ao visualizar esta dica novamente, sua senha será lembrada.
+Serviço selecionado
+Selecionar armazenamento
+Selecionar tabelas
+Selecionar colunas
+Configurar conjunto de assinaturas
+Selecionar pergunta
+Sair da configuração de serviços
+Selecione o serviço que desejar configurar.
+Pergunta
+Publicação(ões)
+Configurações padrão de conjuntos de assinaturas dinâmicas
+Este serviço tem um ou mais conjuntos de assinaturas dinâmicas associados com ele. Os assinantes neste conjuntos de assinaturas serão armazenados no wharehouse usando o mapeamento de armazenamento.
+Salvar este mapeamento de armazenamento como:
+Para definir uma única configuração para todos os conjuntos de assinaturas dinâmicas, clique abaixo. Este padrão será usado por todos os conjuntos para este serviço.
+Configurar individualmente os conjuntos de assinaturas dinâmicas
+Para configurar individualmente um conjunto de assinaturas dinâmicas, clique no link Configurar junto ao conjunto. Os conjuntos de assinaturas que não tiverem sido configurados irão usar os padrões do sistema.
+Pergunta adicional
+A pergunta selecionada não pode ser usada no portal de assinaturas.
+Volte e selecione outra pergunta.
+A resposta para a pergunta que você selecionou, pode ser armazenada no repositório do caderno de assinaturas ou em outro local usando um mapeamento de armazenamento.
+Se você decidir armazenar a resposta no repositório do caderno de assinaturas, a própria resposta será armazenada neste local.
+Se você decidir usar um mapeamento de armazenamento, uma ID de preferência da resposta será armazenada no repositório do caderno de endereços e as respostas serão armazenadas com base na definição do mapeamento de armazenamento.
+A resposta para a pergunta que você selecionou, tem que ser armazenada usando um mapeamento de armazenamento. Isto ocorre, porque o usuário é instruído a selecionar de uma lista de elementos e o usuário pode selecionar mais do que uma.
+Se você decidir usar um mapeamento de armazenamento par armazenar as respostas, uma ID de preferência da pergunta será armazenada no repositório do caderno de endereços e as respostas serão armazenadas com base na definição do mapeamento de armazenamento.
+Selecione o mapeamento de armazenamento a ser usado com esta pergunta:
+Conexão de banco de dados
+Valor personalizado:
+personalizado
+Adicionar uma pergunta:
+Procurar
+Resposta para outra pergunta:
+Mapeamento de armazenamento de conjunto de assinaturas
+Novo mapeamento de armazenamento para #
+Este serviço não contém quaisquer conjuntos de assinaturas dinâmicas.
+Visão Geral de Gerenciamento do Site
+se foi instalado em uma outra máquina, insira aqui o nome daquela máquina.
+definição do site
+Insira as informações de conexão de banco de dados:
+Visão geral das preferências do site
+Um canal é um agrupamento de serviços na interface do portal de assinaturas.
+Cada canal é mapeado para uma pasta de serviços no repositório de objetos.
+Ocorreu um erro ao tentar estabelecer a conexão com o mecanismo de assinaturas.  O nome do servidor está incorreto ou o mecanismo de assinaturas não está sendo executado neste servidor.  Localize o mecanismo de assinaturas e insira novamente o local.
+A definição de um canal requer a seleção de uma pasta no repositório de objetos.  Selecione a pasta dos serviços a serem exibidos.
+Este serviço não contém uma página por perguntas a ser configurada.
+Configurado
+Ocorreu um erro ao tentar validar a conexão e banco de dados.  (#)  Verifique suas informações e tente novamente.
+A conexão para o mecanismo de assinaturas não pôde ser estabelecida
+A definição da conexão de banco de dados fornecida pelo administrador está incorreta
+Nome incorreto de origem de dados
+Excluir uma conexão de banco de dados
+-- selecionar uma conexão de banco de dados --
+ID de preferência para: #
+Resposta para: #
+O usuário não existe.
+Mecanismo de armazenamento no cache
+Somente quando houver mais do que uma pergunta
+Não existem objetos válidos nesta pasta
+Exibe a página de visão geral de perguntas para os serviços personalizados.
+Se você excluir esta conexão de bando de dados, os objetos que a utilizam (ou seja, repositório de objetos, mapeamentos de armazenamento, etc.) se tornarão inválidos.
+Deseja excluir '#' ?
+Você está no momento configurando o Portal denominado "#". Para configurar outro Portal ou para criar um novo Portal,
+Configurar outro serviço
+Esta seção permite gerenciar um ou mais sites de assinatura.  Você executará as seguintes tarefas:
+selecionar um diretório virtual de portal de assinaturas existente ou criar um novo
+criar ou editar uma definição de site
+Antes de iniciar será preciso obter as seguintes informações para completar sua definição do site:
+Local do banco de dados do repositório de objetos
+Local do banco de dados do repositório do livro de assinaturas
+prefixos de tabelas para ambos os bancos de dados
+Isto conclui a configuração do sistema de portal de assinaturas.
+mecanismo de assinaturas:
+repositório do portal:
+Isto conclui a tarefa de gerenciamento do site.  Você selecionou o seguinte:
+diretório virtual do portal:
+definição do site:
+Neste ponto o seu site está pronto para ser exibido através do portal.
+Clique aqui para acessar o portal de assinaturas.
+Esta seção permite editar as preferências do site.  Você executará as seguintes tarefas:
+criar canais e associá-los com pastas ou serviços
+selecionar os tipos de dispositivos a serem suportados pelo site
+selecionar o dispositivo padrão para ser usado ao criar novos endereços
+selecionar um dispositivo para ser usado para enviar serviços para a página "Meus relatórios"
+selecionar como os usuários serão autenticados para diferentes origens de informações
+configurar outras propriedades do site
+Isto conclui a edição de preferências do site. Você completou o seguinte:
+editou ou criou novos canais para este site
+selecionou os dispositivos suportados por este site.
+selecionou o dispositivo padrão para ser usado ao criar novos endereços
+selecionou um dispositivo de portal para ser usado para enviar serviços para a página "Meus relatórios"
+selecionou como os usuários serão autenticados para as origens de informações deste site
+configurou as propriedades remanescentes do site
+A integração com o mecanismo de entrega, permite aos usuários especificar a personalização de serviços, planejamentos e o dispositivo onde desejam receber as informações.
+Esta site não está pronto para ser acessado por usuários finais. Solicite ao administrador para configurar este site. Se você é o administrador, clique aqui #.
+Bem-vindo ao Portal de Assinaturas do Narrowcast Server da MicroStrategy!
+O Portal do Narrowcast Server da MicroStrategy permite que os usuários façam a assinatura dos serviços do Narrowcast Server através de um navegador da Web.
+Pasta não encontrada
+A pasta não foi encontrada no repositório de objetos.
+Clique aqui para procurar a pasta raiz de projetos.
+(ID da pasta: #)
+Exibir registro de erros
+O nomes de portais não podem conter caracteres especiais. Insira um nome que tenha somente a-z, 0-9 ou o caractere sublinhado.
+O nomes de conexões aos bancos de dados não podem conter caracteres especiais. Insira um nome que tenha somente a-z, 0-9 ou o caractere sublinhado.
+A pergunta selecionada já está sendo usada como parte da definição do serviço e você não pode usá-la como uma pergunta adicional ou alternativa.
+A pergunta selecionada já está sendo usada como um pergunta adicional e você não pode usá-la como uma pergunta alternativa.
+A pergunta selecionada já está sendo usada como um pergunta alternativa e você não pode usá-la como uma pergunta adicional.
+Para editar ou excluir assinaturas, certifique-se de que todas as tabelas incluam a ID-ASSINATURA ou a ID de Preferência da pergunta.
+Para editar ou excluir assinaturas, certifique-se de que todas as tabelas incluam a ID_ASSINATURA.
+Este serviço não tem perguntas a serem mapeadas.
+Senha inválida – Usuário não desativado
+Atualizar conexão de banco de dados
+Editar uma conexão de banco de dados
+1. Narrowcast Server Normal (Nome de usuário e senha)
+2. Padrão do MicroStrategy Intelligence Server (Nome do Usuário e Senha)
+3. MicroStrategy Intelligence Server NT (Nome do usuário NT)
+Por favor digite o nome do MicroStrategy Intelligence Server se a opção 2 ou 3 estiver selecionada.
+Dgite o nome do Intelligence Server no qual você gostaria de validar os usuários.
+Não é possível efetuar login utilizando a conta de usuário do NT. Peça ao administrador para vincular essa conta de Usuário do NT a um usuário de servidor MicroStrategy Intelligence Server ou configure corretamente o servidor da Web.
+Número de itens a serem retornados para prompts de elemento:
+Número de itens a serem retornados para prompts de objeto:
+Por favor digite um número válido para os itens de prompt de elemento.
+Por favor digite um número válido para os itens de prompt de objeto.
+Configurações de prompt:
+Você pode tentar efetuar login neste site utilizando suas credenciais do NT. Basta clicar no link abaixo.
+Modo de login:
+Este serviço nao inclui nenhum conjunto de assinaturas estáticas.  Pode-se configurar um conjunto padrão caso mais tarde queira adicioná-lo para, por exemplo, mudar de um conjunto de assinaturas dinâmicas a um conjunto de assinaturas estáticas.  Caso contrário, clique Próximo para continuar.
+MicroStrategy Intelligence Server não foi encontrado.
+Você não possui privilégios de acesso a um ou mais dos projetos que contêm os relatórios desse serviço.
+Você não possui privilégios de acesso a um ou mais relatórios desse serviço.
+Usar credenciais do usuário
+Não foi possível acessar os parâmetros de configuração do Subscription Engine.  Para que o Subscription Portal funcione, o arquivo ou o drive onde o Subscription Engine está instalado tem que estar compartilhado.  O Subscription Portal não funcionará caso este requisito não seja atendido.  Você gostaria de compartilhar o #1 drive do computador #2 automaticamente para o grupo de Administradores deste computador? 
+Não foi possível compartilhar o drive.  Compartilhe o drive #1 no computador #2 manualmente para o grupo de Administradores deste computador.
+Não foi possível verificar se a pasta Mecanismo de Subscrição está compartilhada.
+4. MicroStrategy Intelligence Server LDAP (Nome do Usuário e Senha)
+5. MicroStrategy Intelligence Server DB (Nome do Usuário e Senha)
+Narrowcast Server Normal
+MicroStrategy Intelligence Server Standard
+MicroStrategy Intelligence Server LDAP
+MicroStrategy Intelligence Server DB
+Erro ao criar usuário: A geração da identificação falhou. Notifique o administrador do sistema.
+Exibição do Anexo:
+Restrinja os anexos para reduzir o tamanho da memória.
+Faça login como usuário NT
+Você está apagando um portal site padrão.  Apagando esse site desabilitará a distribuição de subscrições criadas pelo MicroStrategy Web.  Você ainda gostaria de apagar esse portal site padrão?  Clique em OK para apagar o site, ou clique em Cancelar para abortar.
+Este produto é patenteado. Uma ou mais das patentes a seguir podem se aplicar ao produto vendido aqui: Patentes US Nºs: 5,321,520, 5,416,602, 5,748,560, 6,154,766, 6,173,310, 6,260,050, 6,263,051, 6,269,393, 6,279,033, 6,501,832, 6,567,796, 6,587,547, 6,606,596, 6,658,093, 6,658,432, 6,662,195, 6,671,715, 6,691,100, 6,694,316, 6,697,808, 6,704,723, 6,707,889, 6,741,980, 6,765,997, 6,768,788, 6,772,137, 6,788,768, 6,792,086, 6,798,867, 6,801,910, 6,820,073, 6,829,334, 6,836,537, 6,850,603, 6,859,798, 6,873,693, 6,885,734, 6,888,929, 6,895,084, 6,940,953, 6,964,012, 6,977,992, 6,996,568, 6,996,569, 7,003,512, 7,010,518, 7,016,480, 7,020,251, 7,039,165, 7,082,422, 7,113,474, 7,113,993, 7,127,403, 7,174,349, 7,181,417, 7,194,457, 7,197,461, 7,228,303, 7,260,577, 7,266,181, 7,272,212, 7,302,639, 7,324,942, 7,330,847, 7,340,040, 7,356,758, 7,356,840, 7,415,438, 7,428,302, 7,430,562, 7,440,898, 7,457,397, 7,486,780, 7,509,671, 7,516,181, 7,559,048, 7,574,376, 7,617,201, 7,725,811, 7,801,967, 7,836,178, 7,861,161, 7,861,253, 7,881,443, 7,925,616, 7,945,584, 7,970,782, 8,005,870, 8,035,382, 8,051,168, 8,051,369, 8,094,788, 8,130,918, 8,296,287, 8,321,411, 8,452,755, 8,521,733, 8,522,192, 8,577,902, 8,606,813, 8,607,138, 8,645,313, 8,761,659, 8,775,807, 8,782,083, 8,812,490, 8,832,588, 8,943,044, e 8,943,187. Outras requisições de patentes estão pendentes.
+Não existe um repositório definido em '#1'com o prefixo '#2'. Por favor entre um prefixo válido.
+Checar case sensitivity por padrão
+DataDirect Technologies Corp. Copyright 1991-2015. DataDirect Technologies Corp. Todos os direitos reservados.
+Porções deste software possuem direitos autorais da DataDirect Technologies Corp., 1991-2015
+Encontrados arquivos de propriedade de backup. Deseja restaurar e usar a configuração dos arquivos de backup? A restauração dos arquivos de backup durante a atualização da versão 7.5 ou inferior para a 8.0 ou posterior não é recomendável.
+Falha ao restaurar arquivo proprietário de backup. Por favor reconfigure seu portal clicando PROXIMO.
+O arquivo proprietario de backup foi restaurado. Por favor reinicie o serviço MicroStrategy Subscription Server antes de continuar.
+Filtrar nomes de tabelas
+Dica: O prefixo do sistema permite criar as tabelas de repositório para vários sistemas do Narrowcast Server na mesma localização do banco de dados. Por exemplo, você pode usar o prefixo TESTE para um sistema de teste e o prefixo PROD para um sistema de produção. Um prefixo válido do sistema consistem em caracteres e números e começa com um caractere. O prefixo não pode exceder a oito caracteres de comprimento.
+O nome dbalias ‘#’ já está em uso. Escolha um nome dbalias diferente
+Número de conexões em pool
+O sistema está indisponível no momento. A pasta do aplicativo está definida como inativa.
+Este produto contém componentes binários Copyright (c) 1995-2015 The Cryptix Foundation Limited. Todos os direitos reservados. São permitidas a distribuição e o uso nas formas de código fonte ou binários, com ou sem modificação, dentro das seguintes condições: 1. As redistribuições do código fonte devem manter a notificação de copyright, esta lista de condições e o aviso de isenção de responsabilidade a seguir. 2. As redistribuições na forma binária devem reproduzir, na documentação e/ou em outros materiais constantes da distribuição, a notificação de copyright, esta lista de condições e o aviso de isenção de responsabilidade a seguir, mencionados anteriormente.
+ESTE SOFTWARE É DISTRIBUÍDO PELA CRYPTIX FOUNDATION LIMITED E CONTRIBUIDORES "COMO ESTÁ" E A EMPRESA SE ISENTA DE QUAISQUER GARANTIAS EXPRESSAS OU IMPLÍCITAS, INCLUINDO, ENTRE OUTRAS, AS GARANTIAS IMPLÍCITAS DE MERCANTIBILIDADE E ADAPTABILIDADE PARA UM OBJETIVO PARTICULAR. SOB NENHUMA HIPÓTESE A CRYPTIX FOUNDATION LIMITED OU SEUS COLABORADORES SERÃO RESPONSÁVEIS POR DANOS DIRETOS, INDIRETOS, ACIDENTAIS, ESPECIAIS, EXEMPLARES OU CONSEQÜENCIAIS (INCLUINDO, ENTRE OUTROS, OBTENÇÃO DE SERVIÇOS OU MERCADORIAS SUBSTITUTOS; PERDA DE USO, DADOS OU LUCROS; OU INTERRUPÇÃO DE NEGÓCIOS) CAUSADOS POR QUALQUER MEIO E COM BASE EM QUALQUER TEORIA DE RESPONSABILIDADE, MESMO EM CONTRATO, RESPONSABILIDADE RESTRITA, OU ATO ILÍCITO (INCLUINDO NEGLIGÊNCIA OU OUTRA FORMA) RESULTANTE DO USO DESTE SOFTWARE, MESMO QUE NOTIFICADA DA POSSIBILIDADE DE TAL DANO.
+DataDirect
+Cryptix
+Esse serviço contém um tipo de prompt não suportado.
+Erro ao carregar informações sobre a pasta. A pasta ou suas respectivas pastas de nível superior podem estar inativas.
+Todo o conteúdo, Copyright
+2015
+Incorporated. Todos os direitos reservados.
+Inglês (Americano)
+Inglês (UK)
+Alemão
+Italiano
+Português
+Espanhol
+Francês
+Sueco
+Japonês
+Coreano
+Chinês (Simplificado)
+Chinês (Tradicional)
+Sistema
+Nome
+Sobrenome
+Inicial do segundo nome
+Sufixo
+Título
+Saudação
+Endereço
+Cidade
+Estado
+CEP
+País
+Forneça respostas para os seguintes campos de detalhes do usuário
+Definir Detalhes do Usuário

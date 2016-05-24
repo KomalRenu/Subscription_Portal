@@ -1,0 +1,972 @@
+Copyright © 1996-2015 MicroStrategy Incorporated, All rights reserved. Confidential.
+Startseite
+Persönliche Berichte
+Bericht erstellen
+Abmelden
+Ausrichtung:
+Suchen
+Alle Rechte vorbehalten. Vertraulich.
+Server:
+Port-Nr.
+Benutzername
+Kennwort
+Kennwort speichern
+Das Papierformat und die -ausrichtung sollte mit den Einstellungen des verwendeten Browsers korrespondieren.
+Geben Sie das alte und neue Kennwort ein.
+Anmelden
+Es ist ein Fehler bei der Ausführung des Dokuments aufgetreten. Kontaktieren Sie Ihren Administrator.
+Letter 21,59 x 27,94 cm
+A4 21 x 29,7 cm
+Folio 21,59 x 33,02 cm
+Projekte
+WILLKOMMEN
+Beschreibung
+Erweitert...
+Öffentliche Berichte, welche vordefinierte sind, durchsuchen und anzeigen.
+Aktuelle Zusammenfassung des Status aller Berichtsanforderungen anzeigen.
+Aktueller Ordner:
+Manuell
+Es existieren keine Hierarchien in diesem Projekt.
+Objekt(e)
+Sie können die Suchfunktion nicht für Attribute von diesem Typ verwenden.
+Seite ## von ###
+Load-Balance-Faktor
+Eigentümer
+Modifiziert am
+Immer
+Niemals
+Anzeigemodus
+Letzte Aktualisierung:
+Fehler
+Kontaktinformation:
+Maximale Anzahl von gleichzeitigen Suchvorgängen:
+Geben Sie hier die notwendigen Kontaktinformationen (z.B. Name, Telefon, etc.) für den Administrator an, damit der jeweilige Benutzer in der Lage ist, diesen bei Problemen zu erreichen:
+Angefordert
+Status erneut überprüfen
+Anforderung abbrechen
+In dem unteren Kasten sollte die Zahlenfolge "12345" dargestellt sein, sofern der verwendete Browser die Formatierungsimplementierung mit CSS-Dateien (CSS = Cascading Style Sheet) unterstützt. Wird diese Zahlenfolge korrekt dargestellt?
+VERWANDTE BERICHTE
+Ja - Diese Formatierung wird unterstützt
+Nein - Eine andere Formatierung verwenden
+Ihre Anforderung hat den vorgegebenen Time-Out-Grenzwert überschritten. Versuchen Sie es zu einem späteren Zeitpunkt nochmals.
+OK
+Ausführung läuft…
+Blue and Grey
+Zeilen:
+Bericht als Tabelle anzeigen
+Bericht als Diagramm anzeigen
+Nachrichten ## - ### von ####
+## - ### von ####
+Bericht speichern
+Erneute Eingabe
+Druckfähige Version erstellen
+Bericht exportieren
+Columns
+Colorful
+Agent
+Classic
+Accounting
+Finance
+Grey Bands
+Dynamisches HTML (DHTML) verwenden?
+Red and Black
+Romantic
+Small Type
+Übernehmen
+Schaltflächen für die Pivotierung ausblenden
+Schaltflächen für die Pivotierung anzeigen
+In den Zeilenbereich verschieben
+Nach oben verschieben
+Nach unten verschieben
+In den Page-By-Bereich verschieben
+In den Spaltenbereich verschieben
+Nach links verschieben
+Nach rechts verschieben
+Sortieren
+Drill-Funktion
+Von:
+Zu:
+Drill-Optionen:
+Drill-Funktion nur für Selektionen
+Up
+Down
+Sunset
+Spalten:
+Weitere Seiten
+Anzeige:
+Funktionsleiste ausblenden
+Funktionsleiste anzeigen
+Veröffentlichen
+Es sind keine Drill-Informationen verfügbar.
+Fehler: Der Operator "Nicht zwischen" erwartet zwei durch Semikolon getrennte Eingabewerte.
+Filterdetails:
+Der Filter ist leer (enthält keine Definition).
+- Keine -
+Drill-Funktion zu
+Details
+Entfernen
+Aufsteigend sortieren
+Absteigend sortieren
+Zuletzt ausgeführter Bericht:
+Als "ungelesen" kennzeichnen
+Verarbeitung der Analyse-Engine läuft...
+Bericht(e) werden ausgeführt...
+Die Historienliste ist voll. Sie müssen vor dem Ausführen eines weiteren Berichts oder Dokuments mindestens eine Nachricht aus der Historienliste löschen.
+Fortfahren
+Aufgrund eines Fehlers des Web-Servers konnte der Inhalt dieses Berichts nicht exportiert werden.
+Page-By-Selektion:
+Mit diesem Vorgang melden Sie sich von allen Projekten ab.
+Nein
+Ja
+Abbrechen
+Sie können die Historienliste überprüfen oder es später nochmals versuchen.
+Es ist ein Fehler beim Überprüfen des Dokumentenstatus aufgetreten.
+Fehlernummer
+Dokument steht bereit
+Eingabe steht bereit
+ALLGEMEINE FRAGEN
+Letzter Ordner:
+Es wurden keine Ergebnisdaten für dieses Dokument zurückgeliefert.
+MS Excel mit Berichtsformatierung (Version '97 oder höher)
+CSV-Dateiformat
+Beim Exportieren ein neues Fenster öffnen
+Druckoptionen
+Kopfzeile:
+Anmeldemodus
+Seitennummerierung:
+(Keine)
+Seite 1 von n
+Standard-Startseite:
+Wartende Berichtsaufträge der aktuellen Sitzung abbrechen?
+Spaltenköpfe zusammenführen
+(Standard)
+Übergeordneter Ordner:
+Kennwort ändern
+und
+Zurück zum Anfang
+Der Kanal ist aktiviert und sichtbar für die Benutzer
+Zurück zum übergeordneten Ordner
+Es ist ein Fehler bei der Berichtsausführung aufgetreten
+Zurück
+Netzlinien mit Y-Doppelachsen
+3D-Punktstreuung (XYZ)
+Sie wurden von MicroStrategy Subscription Portal abgemeldet.
+Es ist ein Fehler beim Zugriff auf die Historienliste aufgetreten.
+Die Nachrichten in der Historienlisten konnten nicht auf dem MicroStrategy Intelligence Server abgerufen werden.
+Die Nachrichten in der Historienlisten konnten nicht auf dem MicroStrategy Intelligence Server entfernt werden.
+Eigenschaften
+Aufgrund eines Syntax-Fehlers konnten Ihre Pivotierungsanforderung nicht durchgeführt werden.
+Aufgrund eines Syntax-Fehlers konnten Ihre Page-By-Anforderung nicht durchgeführt werden.
+Kontaktieren Sie Ihren Administrator.
+Die Instanz von MicroStrategy Intelligence Server, zu der eine Verbindung hergestellt werden soll, wurde nicht gefunden. Versuchen Sie es zu einem späteren Zeitpunkt nochmals.
+Sie haben zu viele Objekte für eine Objekteingabe selektiert.
+Sie haben zu wenig Objekte für eine Objekteingabe selektiert.
+Sie haben zu viele Elemente für eine Elementeingabe selektiert.
+Sie haben zu wenig Elemente für eine Elementeingabe selektiert.
+Fehler: Der Operator "Zwischen" erwartet zwei durch Semikolon getrennte Eingabewerte.
+Dieses Eingabeobjekt ist obligatorisch und muß beantwortet werden.
+Geben Sie einen Wert in das Eingabefeld ein.
+Die folgende Datei wurde auf dem Web-Server nicht korrekt registriert: M8DSSXML.DLL. Kontaktieren Sie Ihren Administrator, um weitere Details zu erfahren.
+Wählen Sie vor dem Drill-Vorgang einige Elemente aus.
+Es kann nur jeweils ein Objekt qualifiziert werden.
+Die Eingabeobjekte für diesen Bericht konnten nicht angezeigt werden, da diese bereits beantwortet wurden.
+Es ist ein Fehler beim Laden aufgetreten.
+Liste der Fehlermeldungen
+Zeit
+Fehlerbeschreibung
+Datei
+ASP-Funktion
+API-Funktion
+Bemerkungen
+Ebene
+Ihr Kennwort wurde geändert.
+Kennwort ändern
+Altes Kennwort:
+Neues Kennwort:
+nicht mehr als
+nicht weniger als
+Selektionen
+Keine
+Verfügbar
+Selektiert
+Suchen
+Elemente
+Metrik
+Attribut
+Zwischen  [Eingabe: Wert 1 ; Wert 2]
+Genau
+Größer als
+Größer oder gleich als
+Kleiner als
+Kleiner oder gleich als
+Ähnlich
+Nicht ähnlich
+Wert
+Ist
+Von oben
+Von unten
+Hinzufügen
+Aktuelle Selektionen
+Übereinstimmung
+Alle Selektionen
+Beliebige Selektion
+Aktuelle Selektionen
+Zur Selektion hinzufügen
+Suchen nach:
+Bericht ausführen
+Bericht speichern
+Nach Attributsbezeichung qualifizieren
+Zurück zur Hierarchieselektion
+Wählen Sie eine Hierarchie
+Weitere Hierarchien:
+Operator
+Qualifizieren
+Selektion
+Elemente
+Aktueller Ordner
+Unterordner
+Ordnerinhalt
+Geben Sie Suchkriterien ein.
+Die Liste kann unter Umständen sehr lang sein.
+Es sind keine Einstiegspunkte in dieser Hierarchie verfügbar.
+BENÖTIGEN SIE HILFE?
+Nachdem Sie eine Hierarchie auf der linken Seite selektiert haben, können Sie für die zugehörigen Attributen eine Selektion durchführen.
+Weiter zu Schritt 2
+Weitere
+In der Liste enthalten
+Hinweis: Netscape 4, Internet Explorer 4 und neuere Versionen von diesen Browsern unterstützen DHTML.
+Die Operatoren "Ähnlich" und "Nicht Ähnlich" können nur auf Zeichenketten angewendet werden.
+Sie haben zu viele Qualifizierungen für das Ausdrucks-Eingabeobjekt selektiert.
+Sie haben zu wenige Qualifizierungen für das Ausdrucks-Eingabeobjekt selektiert.
+Sie haben zu viele Qualifizierungen für das Hierachie-Eingabeobjekt selektiert.
+Sie haben zu wenige Qualifizierungen für das Hierachie-Eingabeobjekt selektiert.
+Online-Hilfe
+Einige der Standard-Antworten in diesem Eingabeobjekt werden nicht dargestellt.
+(Nur Text ist zugelassen)
+Nicht genau
+Nicht zwischen  [Eingabe: Wert 1 ; Wert 2]
+Zum vorherigen Berichtsstatus wechseln
+Administrationsseite
+Löschen
+Zurück zu:
+Sind Sie sicher, daß Sie dieses Objekt löschen möchten?
+Löschbestätigung
+Aufgrund eines Fehlers des Servers konnte Ihre Anforderung nicht bearbeitet werden.
+Wiederholten Sie den Vorgang nochmals. Sollte das Problem weiterhin bestehen, so informieren Sie Ihren Administrator.
+Ordnername:
+Erforderlich
+Optional
+Zwischen
+und
+Diese Eingabe erfordert einen Eingabewert zwischen ## und ###.
+Diese Eingabe erfordert einen Eingabewert nicht weniger als ##.
+Diese Eingabe erfordert einen Eingabewert nicht mehr als ##.
+Diese Eingabe erfordert einen Eingabewert nicht später als ##.
+Diese Eingabe erfordert einen Eingabewert nicht früher als ##.
+Ihre Texteingabe ist leider zu lang. Wiederholen Sie Ihre Eingabe.
+Ihre Texteingabe ist leider zu kurz. Wiederholen Sie Ihre Eingabe.
+Nicht zwischen
+Ändern
+Aktualisieren
+ASP-Version:
+Es ist ein Fehler beim Laden von XML-Daten aufgetreten.
+Einer der benötigten XML-Knoten ist nicht verfügbar. Kontaktieren Sie Ihren Administrator, um weitere Details zu erfahren.
+Es ist ein Fehler in den Berichtsergebnissen aufgetreten.
+Es ist ein Fehler im MicroStrategy Intelligence Server aufgetreten.  Fehler:
+Es ist ein Fehler beim Lesen der Definition des Eingabeobjekts aufgetreten. Führen Sie den Bericht bzw. das Dokument erneut aus.
+Das zweite Kennwort stimmt nicht mit dem ersten überein. Wiederholen Sie Ihre Eingabe.
+Warnungen
+Fehler
+Zurück ##
+Weiter ##
+Haben Sie bisher kein Benutzerkonto?
+Page-By-Funktion
+Willkommen
+Falls Sie nicht der Benutzer "##" sind,
+klicken Sie hier
+Einstellungen
+Zurück zum übergeordneten Ordner
+Wählen Sie einen Tag aus:
+Monat
+Tag
+Jahr
+Nachrichten
+Aus der Selektion entfernen
+Geben Sie ein gültiges Datum ein.
+In der Liste enthalten  [Eingabe: Wert 1; Wert 2; ...; Wert N]
+Es ist ein Fehler bei der Beantwortung des Eingabeobjekts aufgetreten. Überprüfen Sie Ihre Eingabe(n).
+Hilfe ausblenden
+Hilfe anzeigen
+Diese Eingabe erwartet zwischen ## und ## Selektionen.
+Diese Eingabe erwartet mindestens ## Selektion(en).
+Diese Eingabe erwartet nicht mehr als ## Selektion(en).
+Es ist ein Fehler im Dokumentergebnis aufgetreten.
+Dokument ausführen
+Automatisch feststellen
+Diese Eingabe erwartet genau ## Selektion(en).
+Name
+Listenansicht
+Symbolansicht
+Deutsch
+Französisch
+Italienisch
+Japanisch
+Koreanisch
+Schwedisch
+Standard
+Das Attribut ist gesperrt.
+Die Elementliste kann nicht angezeigt werden.
+Metriken
+Diese Eingabe erwartet genau eine Selektion.
+Geben Sie gültige Werte (durch Semikolon getrennt) ein.
+Folgen Sie den Instruktionen, welche durch rote Markierungen dargestellt sind.
+Warnung!
+Diese Eingabe erwartet mindestens eine Selektion.
+Diese Eingabe erwartet nicht mehr als eine Selektion.
+Inkorrekte Parameter in der URL.
+Die folgenden Parameter sind in der URL notwendig:
+DD.MM.YYYY
+HH:MM:SS
+Ein Attributausdruck oder eine Gruppe von Attributelementen ist äquivalent mit einer bestehenden Selektion.
+Wählen Sie für die Qualifizierung ein Element aus.
+Zusammenfassung
+Portugiesisch (Brasilien)
+Groß-/Kleinschreibung
+Zurück
+Weiter
+Schritte ## - ### von ####
+Ersten ## Schritte
+Letzten ## Schritte
+oder
+Zurück zur Eingabe
+Zusammenfassung der Eingabeselektion
+Unbeantwortete Eigabe
+Aktuelle Selektion:
+Eingabe ##
+Die Standard-Selektion ist:
+Liste der Berichtsabonnements anzeigen.
+Wählen Sie einen Ablaufplan und definieren Sie die entsprechende Personalisierung, um diesen Bericht zu abonnieren.
+Mit der folgenden Personalisierung:
+Abonnement hinzufügen
+Sie haben diesen Bericht für folgende Ablaufpläne abonniert:
+Ablaufplan
+Personalisiert
+Bearbeiten
+Abonnements
+Zum erneuten Beantworten dieser Eingabeobjekte klicken Sie auf die Verknüpfung "Erneute Eingabe" neben dem Bericht.
+Berichtsgrenzwert:
+Die Anmeldungsangaben für die Informationsquelle wurden geändert.
+Sie haben derzeit keine Abonnements definiert.
+Information ist nicht verfügbar.
+Berichte
+Adressen
+Dienste
+Info
+MicroStrategy Narrowcast Server ist ein Produkt von
+Optionen
+Dienst
+Adresse
+Neuer Benutzer
+Benutzername:
+Kennwort:
+Klicken Sie hier unten, um ein neues Benutzerkonto anzulegen.
+Neues Benutzerkonto erstellen
+Adresse auswählen:
+Neue Adresse erstellen
+Es ist ein Fehler auf dieser Seite aufgetreten.
+Es ist ein Fehler beim Laden der Adressen aufgetreten.
+Sie haben keine kompatible Adresse.
+Es ist ein Fehler beim Laden der Ablaufpläne aufgetreten.
+Es stehen keine Ablaufpläne zur Verfügung.
+Zurück zur Startseite
+Zurück zu den Adressen
+Zurück zu den Berichten
+Zurück zu den Diensten
+Es ist ein Fehler bei der Anmeldung aufgetreten.
+Entweder der Benutzername oder das Kennwort ist nicht korrekt. Wiederholen Sie Ihre Eingabe.
+Entweder der Benutzername oder das Kennwort wurde nicht angegeben. Wiederholen Sie Ihre Eingabe.
+Es ist ein Fehler bei der Verarbeitung der Adresse aufgetreten.
+Wiederholen Sie den Vorgang oder kontaktieren Sie den Administrator.
+Einige Adressinformationen wurden nicht angegeben. Wiederholen Sie Ihre Eingabe.
+Es ist ein Fehler bei der Verarbeitung des Abonnements aufgetreten.
+Es ist ein Fehler beim Anlegen eines neuen Benutzerkontos aufgetreten.
+Das Kennwort stimmt nicht mit der Kennwortbestätigung überein. Wiederholen Sie Ihre Angaben.
+Es ist ein Fehler beim Anlegen eines neuen Benutzerkontos aufgetreten.
+Kennwortbestätigung:
+Kennworthinweis:
+Es sind keine Adressen erstellt.
+Kennwortbestätigung:
+Löschbestätigung für die Adresse
+Löschbestätigung für das Abonnements
+Sind Sie sicher, daß Sie die Adresse löschen möchten?
+Sind Sie sicher, daß Sie die Abonnements für die folgenden Dienste löschen möchten?
+Benutzeroptionen
+Ihre Optionseinstellungen wurden gespeichert.
+Sprachunterstützung:
+Es ist ein Fehler beim Laden der Berichte aufgetreten.
+Läuft ab am:
+Wartezustand
+Dieser Ordner enthält keine Berichte.
+Haben Sie Ihr Kennwort vergessen?
+Geben Sie Ihren Benutzernamen ein und klicken Sie anschließend auf "Kennworthinweis anzeigen".
+Kennworthinweis anzeigen
+Ihr Kennworthinweis ist:
+Es ist ein Fehler beim Laden des Kennworthinweis aufgetreten.
+Es ist ein Fehler beim Laden des Kennworthinweis aufgetreten.
+Zurück zur Anmeldung
+Geben Sie den Adressnamen an.
+Geben Sie die Adresse ohne die Verwendung der folgenden Zeichen an:
+Geben Sie die Adresse an.
+Geben Sie Ihre Adresse im Format Benutzername@domäne.com ein (Beispiel: aschmidt@firma.com).
+Die folgende Datei wurde auf dem Web-Server nicht korrekt registriert: M9StrUtl.DLL. Kontaktieren Sie Ihren Administrator, um weitere Details zu erfahren.
+Vielen Dank für die Benutzung von MicroStrategy Narrowcast Server.
+Es wurde keine Datei an den Web-Server übertragen.
+Dieser Benutzername ist leider bereits vergeben. Geben Sie einen anderen Benutzernamen an.
+Es wird eine ungültige Dateiendung verwendet. Die zulässigen Dateiendungen sind: ##
+Es ist ein Fehler beim Aktualisieren des Benutzerprofils aufgetreten.
+Es ist ein Fehler beim Aktualisieren des Benutzerprofils aufgetreten.
+Es ist ein Fehler beim Laden der Daten aufgetreten.
+Es ist ein Fehler beim Laden der XML-Daten aufgetreten. Kontaktieren Sie den Administrator.
+MicroStrategy Narrowcast Server 7.5.1
+Kontaktinformationen des Administrators
+Email:
+Telefon:
+Geben Sie unten die erforderlichen Benutzerinformationen an, um ein neues Benutzerkonto anzulegen.
+Erforderliche Angaben sind mit einem roten Stern (*) markiert.
+Geben Sie Namen und Kennwort für das neue Benutzerkonto ein. Beachten Sie dabei die erneute Eingabe des Kennworts zwecks Bestätigung.
+Geben Sie einen Hinweis zu Ihrem Kennwort an.
+Alle erforderlichen Benutzerinformationen liegen vor. Klicken Sie auf die untere Schaltfläche "Neues Benutzerkonto erstellen", um fortzufahren.
+Geben Sie die Anmeldungsangaben für die folgenden Projektquellen an:
+Es ist ein Fehler beim Anlegen des neuen Benutzerkontos aufgetreten.
+Folgen Sie den in rot dargestellten Instruktionen und wiederholen Sie den Vorgang.
+Sie haben keinen Hinweis zu Ihrem Kennwort angegeben. Geben Sie diese Angabe ein.
+Fertigstellen
+Es ist ein Fehler bei der Kennwortänderung aufgetreten.
+Entweder das alte oder das neue Kennwort ist nicht angegeben. Geben Sie beide Kennwörter in gültiger Form an.
+Geben Sie die erforderlichen Namen und Kennwörter unten an.
+Die spezifizierte Datei überschreitet die maximal zulässige Größe von ## KBytes.
+Zustellungen
+Bis:
+Klicken Sie links auf den Dokumentnamen, um den zugehörigen Inhalt hier anzuzeigen.
+Zur Berichtsseite senden
+Senden:
+Dienstanmeldung
+Auswahl aus einer vordefinierten Liste von Diensten.
+Anzeige der geplanten Berichte.
+Geben Sie Ihre Kontaktinformationen für die Zusendung der Abonnements an.
+Passen Sie die Einstellungen der gewünschten Darstellung und dem verwendeten Browser entsprechend an.
+Abonnieren:
+Abonnement personalisieren
+Ihre Sitzung wurde beendet und Sie wurden automatisch abgemeldet. Melden Sie sich bei Bedarf erneut an dem System an.
+Mein Benutzerkonto deaktivieren
+Ihr Benutzerkonto wurde deaktiviert.
+Sind Sie sicher, daß Sie Ihr Benutzerkonto deaktivieren möchten?
+Sobald Sie dieses Benutzerkonto deaktivieren, können Sie keine Dienste mehr empfangen oder sich anmelden. Ihr Konto kann nur vom Portal Administrator reaktiviert werden.
+Wählen Sie eine Sprache aus.
+Aktiviert. (Abonnement wird gemäß dem angegebenen Ablaufplan versendet)
+Anmeldungsangaben für die Informationsquelle ändern.
+Anmeldungsangaben ändern
+Bei der Verarbeitung der geänderten Anmeldungsangaben für die Informationsquelle ist ein Fehler aufgetreten.
+SDK-Version:
+Datei laden
+Kanäle
+Aktiv
+Neuen Kanal hinzufügen
+Aktiver Kanal
+Inaktiver Kanal
+Neuen Kanal erstellen
+Kanal bearbeiten
+Um einen neuen Kanal anzulegen, befolgen Sie folgende Schritte:
+Veröffentlichen Sie einen Ordner für Dienste für diesen Kanal.
+Geben Sie für den neuen Kanal einen Namen an
+Diese Seite künftig nicht mehr anzeigen.
+Seitenname und -beschreibung
+Geben Sie den Namen für diesen Kanal an:
+Kanalbeschreibung (optional):
+Fehlerquelle
+Dieses Benutzerkonto wurde deaktiviert. Kontaktieren Sie Ihren Administrator, um das Benutzerkonto zu reaktivieren.
+Der Benutzername wurde nicht angegeben. Geben Sie ein gültigen Benutzernamen an.
+Das Kennwort wurde nicht angegeben. Geben Sie ein gültiges Kennwort an.
+Spanisch
+Englisch
+Filterdefinition aus einer Datei importieren:
+Neue Adresse:
+Endgerätetyp
+Umbenennen ...
+Definition …
+Endgeräteordner
+Endgeräteordner bearbeiten …
+Umbenennen
+URL mit großen Symbolen
+URL mit kleinen Symbolen
+Adressformat:
+Email
+Dies ist das Standard-Format für Email-Adressen im Internet.
+Format: xxxx@xxxxxx.xxx
+Numerisch
+Anzeigefelder:
+Bearbeitungsfelder:
+Adressname
+Adressangabe
+Stil
+PIN
+Zustellungsfenster
+Endgerätetypbezeichnung:
+Löschbestätigung für den Endgerätetyp
+Neue Definition
+Definition:
+Verfügbar:
+Selektiert:
+Es sind keine Ordner selektiert.
+Dieses Eingabeobjekt ermöglicht die Beantwortung über das Warenkorb-Layout oder das Importieren einer Textdatei.
+Sie können nicht die Funktionalität zum Importieren einer Textdatei verwenden, da Sie die DHTML-Funktionalität deaktiviert haben.
+Sie können das Warenkorb-Layout für die Beantwortung des Eingabeobjekts verwenden.
+Neuen Endgerätetyp erstellen
+Verwenden Sie dieses Format nur für eine Zeichenkette von Zahlen.
+Format: ########
+Es wurden bisher keine Endgerätetypen erstellt.
+PIN-Bestätigung
+Inaktiv
+Geben Sie einen numerischen Wert für die Adresse in dem folgenden Format ein: #########
+Hilfe für:
+Entweder die Benutzerkennung oder das zugehörige Kennwort ist ungültig für eine oder mehrere Informationsquellen. Wiederholen Sie diesen Vorgang erneut.
+Sie haben keine gespeicherten Berichte.
+Wählen Sie einen Ablaufplan für diesen Dienst aus.
+Wählen Sie einen Ablaufplan aus der unteren Liste aus.
+Wählen Sie aus, wohin dieser Dienst geliefert werden soll.
+Um sich anzumelden, befolgen Sie die folgenden Schritte:
+Wählen Sie einen Dienst aus.
+Geben Sie einen Ablaufplan und eine Adresse an.
+Personalisieren Sie den Dienstinhalt (sofern möglich).
+Personalisieren Sie den Dienstinhalt.
+Sie können die folgenden Informationen angeben, um den Inhalt Ihres Abonnements zu personalisieren.
+Wenn Ihr Hinweis Ihnen nicht hilft, sich an Ihr Kennwort zu erinnern, wenden Sie sich an Ihren Administrator, damit er Ihr Kennwort zurücksetzt.
+OK
+Der Vorgang wurde erfolgreich durchgeführt!
+Das Abonnement wurde erfolgreich gespeichert.
+Selektionen speichern unter (optional)
+Neue Selektionen tätigen
+Wählen Sie eine zuvor gespeicherte Selektion aus.
+Wählen Sie eine aus:
+Diese Selektionen anwenden
+Die Projektdefinition ## konnte nicht auf dem Intelligence Server ### gefunden werden.
+(DEAKTIVIERT)
+Kontaktinformationen des Administrators:
+Nach Änderung der DB-Verbindung zum Portal-Repository, müssen Sie die Seiteninformationen erneut konfigurieren.
+Nach Änderung der Lokation der Abonnement-Engine müssen Sie die DB-Verbindung zum Portal-Repository und die Seiteninformationen erneut konfigurieren.
+Nach: ## Tagen.
+DB-Verbindungsname:
+Datenbank-Verbindungen
+Standard-Endgerät
+Standard-Sprachunterstützung für neue Benutzer:
+Standard-DHTML-Verwendung:
+Deaktivieren
+Möchten Sie fortfahren?
+Das Anlegen von neuen Benutzerkonten aktivieren:
+Geben Sie den Namen des Servers an, auf welchem die Abonnement-Engine läuft.
+Geben Sie einen eindeutigen Namen und eine Beschreibung für dieses Portal an.
+Oberflächeneinstellungen:
+Informationsquellen
+Portal-Repository
+Ablaufdatum für ein neues Benutzerkonto:
+Kein Verfallsdatum
+Am:
+Telefonnummer:
+Portalendgerät:
+Objekt-Repository
+Projekteinstellungen:
+In letzter Zeit verwendete Lokationen für die Abonnement-Engine:
+Wählen Sie eine bereits vorhandene Seitendefinition aus oder klicken Sie auf "Neue Seitendefinition hinzufügen"
+Endgeräteinstellungen
+Seiteneinstellungen
+Subscription-Book-Repository:
+Lokation der Abonnement-Engine
+Tabellenpräfix:
+Verzeichnis für temporäre Dateien:
+Der MicroStrategy Narrowcast Server Portal Administrator Assistent ermöglicht Administratoren die einfache Erstellung eines Web-Portals, worüber Endanwender mittels eines Web-Browsers Informationsdienste von MicroStrategy Narrowcast Server abonnieren können.
+Anmeldungsangaben des Projekts verwenden
+Wilkommen zum MicroStrategy Narrowcast Server Portal Administrator Assistenten
+Es wurden noch keine Kanäle für diese Seite definiert.
+Wählen Sie den Kanalordner aus
+Die Datenbank-Verbindung "#1" zeigt nicht auf eine Datenbank, welche Tabellen mit dem Präfix "#2" für das Portal-Repository enthält.
+Möchten Sie diese erstellen?
+Standard-Seite
+Seite mit Standard-Einstellungen
+Wählen Sie ein Endgerät für das Portal aus
+Wählen Sie ein Standard-Endgerät aus
+Geben Sie einen Namen für die Seitendefinition an.
+Geben Sie einen Namen ohne die folgenden Zeichen an:
+Geben Sie den Namen der Maschine an, auf welcher die Abonnement-Engine läuft.
+Geben Sie ein Verzeichnis für temporäre Dateien an.
+Geben Sie einen Verzeichnispfad für temporäre Dateien ohne die folgenden Zeichen an:
+Beben Sie einen gültigen Wert für die Anzahl der Tage an:
+Wählen Sie ein Endgeräteformat aus.
+Bearbeiten Sie die folgenden Schritte, um das korrekte Endgeräteformat zu finden.
+Wählen Sie eine Endgerätekategorie aus.
+Wählen Sie ein Endgeräteformat aus.
+Klicken Sie auf eine Endgerätekategorie für:
+Klicken Sie auf ein Endgeräteformat für:
+Für diese Endgerätekategorie sind keine Formatierungen verfügbar.
+Das Endgeräteformat konnte nicht gefunden werden.
+Es sind keine Endgeräteformate verfügbar.
+Keine Überprüfung
+Die Adressangabe kann eine beliebige Zeichenkette sein.
+Format: Beliebige Zahlenwerte und die folgenden Zeichen - ( )
+Geben Sie eine gültige Adressangabe in der folgenden Form an: Beliebige Zahlenwerte und die folgenden Zeichen - ( )
+Systemkonfiguration
+Seitenmanagement
+Wählen Sie eine Datenbank-Verbindung für das Portal-Repository.
+Wählen Sie eine Datenbank-Verbindung für das Objekt-Repository.
+Wählen Sie eine Datenbank-Verbindung für das Objekt-Repository.
+Gleiche Datenbank-Verbindung für das Abonnement-Repository verwenden.
+Neue Datenbank-Verbindung hinzufügen
+Neue Seitendefinition hinzufügen
+Seitendefinition
+Datenbank
+Es ist ein Fehler beim Löschen des Benutzerprofils aufgetreten.
+Das Profil kann nicht entfernt werden, da es von mehr als einem Abonnement genutzt wird.
+Vorhandene Abonnements für diesen Dienst anzeigen
+Portal-Management
+Neues Portal erstellen
+Neues Portal erstellen
+Portalname
+Geben Sie den Namen des virtuellen Verzeichnisses an, um ein neues Portal zu erstellen:
+Geben Sie eine Standard-Adresse an:
+Formatierung: Text oder Ziffern
+Geben Sie eine Adresse in folgendem Format an: Text oder Ziffern.
+Die Seitendefinitionen werden durch ihre eindeutigen Namen und eine Beschreibung voneinander unterschieden.
+Am besten sollten Sie eine ausführliche Beschreibung der Seitendefinition angeben, so daß jeder Designer auf einen Blick die Eigenschaften der Seite erkennt.
+Eine Seite beschreibt eine Anzahl von Diensten, die über ein Portal dem Endbenutzer zur Verfügung stehen.
+Eine Seite wird über das Portal dem Endanwender sichtbar gemacht.
+Die folgende Liste enthält Seitendefinitionen, welche im aktuellen Portal-Repository existieren.
+Sie können entweder eine existierende Seitendefinition wiederverwenden oder eine neue Seitendefinition erstellen.
+Als Portaladministrator haben Sie folgende Aufgaben:
+Konfiguration und Management des Portals, um Endbenutzern das Abonnieren von einer Vielzahl von Diensten über das Web zu ermöglichen
+Definieren und konfigurieren der Abonnement-Seite
+Veröffentlichung von Diensten und Endgeräten
+Auswahl der Standard-Endgeräte des Portals
+Angabe der Eigenschaften der Informationsquelle und der Standard-Einstellungen des Portals.
+Der Portal Administrator Assistent :
+Konfiguration der Abonnement-Engine
+Auswahl oder Bearbeitung der Portalkonfiguration
+Auswahl oder Erstellung der Seitendefinition
+Konfiguration von statischen und dynamischen Dienstangeboten.
+Klicken Sie auf "Weiter", um mit dem Vorgang zu beginnen.
+Das Objekt-Repository beinhaltet die Definition des MicroStrategy Narrowcast Server Systems, welches über das Portal angewendet werden soll.
+Für jede Datenbank muss eine Datenbank-Verbindung erstellt werden.
+Falls Ihr Abonnement-Repository in derselben Datenbank wie Ihr Objekt-Repository gespeichert ist (übliche Verfahrensweise), selektieren Sie das zugehörige Markierungsfeld und klicken Sie auf "Weiter".
+Das Abonnement-Repository speichert Abonnementinformationen über Benutzer, Adressen und Personalisierungsprofile.
+Während einer typischen Installation wird die Abonnement-Engine auf derselben Maschine (d.h. localhost) installiert.
+Das Portal-Repository speichert Konfigurationseinstellungen, welche das Layout der Portaloberfläche für den Endbenutzer definiert.
+Diese Informationen beinhalten:
+Seitennamen und -beschreibungen
+Kanaleinstellungen
+Veröffentlichte Dienste
+Endgeräteordner
+Standard-Einstellungen
+Ein Portal beschreibt die Web Location (URL) über welche die Endbenutzer auf Dienste und Abonnenments des Abonnement-Portals zugreifen können. Ein Portal wird definiert über ein virtuelles Verzeichnis des Webservers und bietet nur Zugriff auf eine einzige Seite.
+Auf diesem Web-Server sind die folgenden Portale definiert.
+Wählen Sie das Portal aus, mit welchem Sie arbeiten möchten.
+Kanalname und -beschreibung
+Ein Endgerätetyp ist eine Gruppierung von zusammengehörenden Endgeräten. Wenn eine neue Seitendefinition erstellt wird, werden standardmäßig vier Standard-Endgerätetypen erstellt und konfiguriert.
+Für jede Endgerätetyp-Definition müssen Sie einen Endgerätetypnamen, die URL eines großen und eines kleinen Symbols, das Adressenformat und die Adressfeldinformationen für die Anzeige und das Bearbeiten von Endgeräten dieses Typs spezifizieren.
+Dieser Dialog ermöglicht Ihnen das Hinzufügen und Löschen von Endgeräteordnern für diesen speziellen Endgerätetyp.
+Ordner auf der linken Seite sind verfügbar, werden aber nicht für diesen Endgerätetyp benutzt. Ordner auf der rechten Seite sind zur Zeit für diesen speziellen Endgerätetyp ausgewählt.
+Jede Abonnement-Seite kann definieren, welcher Endgerätetyp benutzt werden soll um Inhalt zu der "Eigene Berichte" Seite zu liefern und welches Endgerät standardmäßig bei der Erstellung neuer Adressen benutzt wird.
+Klicken Sie auf das entsprechende Endgerät, um die Auswahl zu ändern.
+Sie können für jede Datenquelle festlegen, ob neue Benutzer ihre Anmeldedaten, wie beispielsweise Benutzername und Kennwort, eingeben müssen, oder ob für diese Datenquelle die Standardanmeldung verwendet wird. Diese Einstellungen betreffen neu über das Portal erstellte Benutzerkonten.
+In diesem System sind keine Informationsquellen definiert.
+-
+-
+-
+Definieren Sie Einstellungen für die folgenden Seiteneigenschaften:
+Über diese Seiteneinstellungen können Sie steuern wie die Standard-Benutzeroberfläche des Portals dargestellt wird.
+Herzlichen Glückwunsch! Sie haben dieses Portalseite erfolgreich definiert!
+Klicken Sie auf die Schaltfläche "Beenden", um die Anmeldungsseite für dieses Portal aufzurufen.
+Ursprung
+Portal
+Administration
+Benutzer-IP-Adresse
+Es ist ein Fehler bei der Erstellung des Abonnements aufgetreten.
+Stellen Sie sicher, daß Sie ein Standard-Profil für das Eingabeobjekt definiert haben.
+Es ist ein Fehler beim Laden des Eingabeobjekts von MicroStrategy Narrowcast Server aufgetreten.
+Ablaufverfolgung
+Information
+Warnung
+Folgende Standard-Einstellungen verwenden
+Sitzungsvariablen
+Zugeordnete Seite
+Entfällt
+Geben Sie einen Namen für das Portal an.
+Sind Sie sicher, daß Sie dieses Endgerät löschen möchten?
+Sind Sie sicher, daß Sie dieses Portal löschen möchten?
+Sind Sie sicher, daß Sie dieses Seite löschen möchten?
+Geben Sie einen Namen fE den SequeLink  Server an
+Geben Sie einen Namen für die DB-Verbindung an
+Geben Sie einen Namen für die ODBC-Datenquelle an
+DB-Verbindung hinzufügen
+ODBC-Datenquellenname:
+Möchten Sie die Datenbank-Verbindung testen?
+Übersicht
+Die ausgewählte Seitendefinition verwendet eine ungültige Datenbank-Alias-Definition für das Abonnement-Repository. Überprüfen Sie die Seitendefinition und die zugehörige DB-Verbindung oder wählen Sie eine andere Seitendefinition aus.
+Die Tabellen für das Abonnement-Repository existieren bereits, jedoch in einer ungültigen Version. Überprüfen die Definition des Tabellenpräfix.
+Die Datenbank-Alias-Definition für das Objekt-Repository ist ungültig. Überprüfen Sie die entsprechende Definition.
+Die Tabellen für das Objekt-Repository existieren bereits, liegen jedoch nicht in der korrekten Version vor.
+Die Datenbank-Verbindung für die Repository-Tabellen ist ungültig. Überprüfen Sie die entsprechende Definition oder geben Sie eine andere DB-Verbindung an.
+Die Tabellen existieren bereits, jedoch in einer ungültigen Version. Überprüfen die Definition des Tabellenpräfix.
+Es ist ein Fehler beim Speichern der DB-Alias-Verbindung aufgetreten.
+Ein unerwarteter Fehler ist bei der Erstellung der neuen DB-Alias-Verbindung aufgetreten.
+Derzeit sind keine Datenbank-Verbindungen definiert.
+Diese Seite ermöglicht die Erstellung oder Bearbeitung von Kanälen für diese Seitendefinition.
+Geben Sie einen Namen für den Kanal an.
+Dienstkonfiguration
+Statische Abonnements
+Dynamische Abonnements
+Speicher
+Selektieren Sie eine alternative Eingabe
+Das Portal publiziert die Dienste in die entsprechend ausgewählten Ordner. Manche Dienste müssen unter Umständen zusätzlich konfiguriert werden.
+Spezifizieren Sie die Standard-Konfiguration für die unten aufgelisteten Dienste.
+Klicken Sie auf die untere Schaltfläche #, um einen Dienst individuell zu konfigurieren.
+Dienste konfigurieren
+Statische Abonnementmengen
+Dynamische Abonnementmengen
+Page-By-Eingabeaufforderung für die Abonnenten ausblenden
+Page-By-Eingabeaufforderung beantworten mit:
+Unkonfigurierte Abonnementmengen für die Abonnenten ausblenden
+Der Portalassistent des MicroStrategy Narrowcast Servers erlaubt die Konfiguration von Datenspeichers für Abonnements auf der einzelnen Dienstebene.
+Sie werden aufgefordert den Dienst auszuwählen, welchen Sie konfigurieren möchten und anschließend werden die zugeordneten statischen und dynamischen Abonnements für diesen Dienst angezeigt.
+Sie müssen für den ausgewählten Dienst die Eingabeaufforderung für statische und dynamische Abonnements konfigurieren.
+Sie können zusätzliche Eingabeaufforderungen hinzufügen, um weitere Informationen von den Abonnenten zu bekommen.
+Bei der Verwendung von dynamischen Abonnements müssen Sie den Speicher für die Abonnementdaten definieren.
+Sie haben die folgenden Dienste bisher konfiguriert. Klicken Sie auf "Bearbeiten",  um die bestehende Konfiguration zu bearbeiten oder klicken Sie auf den Ordnernamen, um andere Dienste innerhalb des Ordners zu konfigurieren.
+Klicken Sie unten auf #, um einen weiteren Dienst zu konfigurieren.
+Mit diesem Dienst sind ein oder mehrere statische Abonnementmengen verknüpft. Die Abonnenten in diesen Abonnementmengen werden im Abonnement-Repository gespeichert.
+Standard-Einstellungen für statische Abonnementmengen
+Klicken Sie unten, um eine einzelne Konfiguration für alle statischen Abonnementmengen zu definieren. Diese Standard-Einstellung wird für alle Abonnementmengen von diesem Dienst verwendet.
+Konfiguriert:
+Konfigurieren
+Die Page-By-Eingabeaufforderungen werden nicht den Abonnenten angezeigt. Sie können jedoch eine alternative Eingabeaufforderung auswählen, welche den Abonnenten angezeigt wird.
+Wählen Sie aus der unteren Liste ein Eingabeobjekt aus.
+Selektieren Sie die Lokation für die Antworten für diese Eingabeaufforderung.
+# verwenden
+Oder einer der folgenden Speicherzuordnungen verwenden:
+Tabellen
+Neue Speicherzuordnung hinzufügen
+Zurücksetzen
+Wählen Sie die Tabellen aus in welchen die Information gespeichert werden soll.
+Data Warehouse:
+Spalten filtern nach:
+Verfügbare Tabellen:
+Ausgewählte Tabellen:
+Wählen Sie die Tabellenspalten aus in welchen die Information gespeichert werden soll.
+Fügen Sie per Drag und Drop Komponenten von der linken Seite zu den Tabellenspalten auf der rechten Seite hinzu. Sie können die Komponentenliste Ein- oder Ausblenden indem sie auf den Pfeil auf der linken Seite jeder Sektion klicken. Um Komponenten am Ende der Liste zu erreichen, blenden Sie die Sektionen darüber aus.
+Eingabeantwortkomponenten
+Allgemein:
+Abonnementkomponenten
+Konfiguration läuft:
+Standard-Dienstkonfiguration
+Sie haben ausgewählt den oben dargestellten Dienst zu bearbeiten. Sie können entweder die unten aufgeführten Standard-Einstellungen verwenden oder Sie spezifizieren weitere Einstellungen für individuelle Abonnementmengen in den nächsten Schritten.
+Standard-Diensteinstellungen
+Page-By-Eingabeaufforderungen
+Zusätzliche Eingabeaufforderungen
+Sie können den Abonnenten zusätzliche Eingabeaufforderungen anzeigen, indem Sie die unteren Einstellungen bearbeiten.
+Auswahl ändern
+Zugehörige Verknüpfungen
+Diesen Dienst erneut abonnieren
+Einen anderen Dienst abonnieren
+Alle Abonnements anzeigen
+Selektieren Sie ein Profil für diese Eingabeaufforderung.
+SequeLink  Server-Name
+Sie haben erfolgreich ein Benutzerkonto eingerichtet.
+Falls Sie Ihr Kennwort vergessen haben sollten, so können Sie diesen Kennworthinweis anzeigen, um auf das korrekte Kennwort zurückzuschließen.
+Dienstauswahl
+Speicherauswahl
+Tabellenauswahl
+Spaltenauswahl
+Abonnementmenge konfigurieren
+Eingabeauswahl
+Dienstkonfiguration beenden
+Wählen Sie den Dienst aus, welchen Sie bearbeiten möchten.
+Eingabe
+Publikation(en)
+Standard-Einstellungen für dynamische Abonnementmengen
+Mit diesem Dienst sind ein oder mehrere dynamische Abonnementmengen verknüpft. Die Abonnenten in diesen Abonnementmengen werden im Warehouse über die Speicherzuordnung gespeichert.
+Diese Speicherzuordnung speichern unter:
+Klicken Sie unten, um eine einzelne Konfiguration für alle dynamischen Abonnementmengen zu definieren. Diese Standard-Einstellung wird für alle Abonnementmengen von diesem Dienst verwendet.
+Dynamische Abonnementmengen individuell konfigurieren
+Klicken Sie auf die Verknüpfung "Konfigurieren", um eine dynamische Abonnementmenge individuell zu konfigurieren. Sämtliche Abonnementmengen, welche nicht individuell konfiguriert worden sind, verwenden die Standard-Einstellungen.
+Zusätzliche Eingabe
+Die ausgewählte Eingabeaufforderung kann nicht in der Portaldefinition verwendet werden.
+Wechseln Sie zur vorherigen Seite zurück und wählen Sie eine andere Eingabeaufforderung aus.
+Die ausgewählte Eingabeantwort kann entweder im Abonnement-Repository gespeichert werden oder über eine Speicherzurodnung in einer anderen Lokation.
+Das Speichern der Eingabeantwort im Abonnement-Repository speichert sämtliche  Informationen innerhalb des Abonnement-Repository.
+Das Speichern über eine Speicherzuordnung erstellt eine Einstellungs-ID für die Eingabeaufforderung im Abonnement-Repository und die Eingabeantwort in der definierten Lokation der Speicherzuordnung.
+Die ausgewählte Eingabeantwort wird über die Speicherzurodnung gespeichert.
+Das Speichern der Eingabeantwort über eine Speicherzuordnung erstellt eine Einstellungs-ID für die Eingabeaufforderung im Abonnement-Repository.
+Wählen Sie die Speicherzuordnung, welche in Verbindung mit dieser Eingabeaufforderung verwendet werden soll:
+Datenbank-Verbindung
+Individueller Wert:
+Individuell
+Eingabeaufforderung hinzufügen:
+Durchsuchen
+Antwort auf eine weitere Eingabeaufforderung:
+Speicherzuordnung der Abonnementmenge
+Neue Speicherzuordnung für
+Dieser Dienst beinhaltet keinerlei dynamischer Abonnementmengen.
+Seitenübersicht
+Geben Sie den Maschinennamen an, sofern diese auf einer anderen Maschine installiert worden ist.
+Seitendefinition
+Definieren Sie die Datenbank-Verbindung
+Übersicht der Seiteneinstellungen
+Ein Kanal ist eine Gruppierung von Diensten innerhalb der Portaloberfläche.
+Jeder Kanal ist einem Dienste-Ordner im Objekt-Repository zugeordnet.
+Es ist ein Fehler beim Verbindungsaufbau zur Abonnement-Engine aufgetreten. Entweder ist der Server-Name ungültig oder die Abonnement-Engine ist auf diesem Server nicht in Betrieb. Überprüfen Sie Ihre Angaben und wiederholen Sie diesen Vorgang.
+Um einen Kanal einzurichten, müssen Sie einen Ordner aus dem Objekt-Repository auswählen. Wählen Sie die Ordner der anzuzeigenden Dienste aus.
+Dieser Dienst enthält keine Page-By-Eingabeaufforderungen.
+Konfiguriert
+Es ist ein Fehler bei der Überprüfung der Datenbank-Verbindung aufgetreten.  (#)  Überprüfen Sie die Definition der Datenbank-Verbindung und wiederholen Sie diesen Vorgang.
+Die Datenbank-Verbindung zur Abonnement-Engine konnte nicht eingerichtet werden.
+Die angegebene Datenbank-Verbindung ist nicht korrekt.
+Falscher Datenquellenname
+Datenbank-Verbindung löschen
+-- Wählen Sie eine Datenbank-Verbindung aus --
+Einstellungs-ID für: #
+Eingabeantwort für: #
+Das Benutzerkonto existiert nicht.
+Cache-Speichermechanismus
+Nur wenn es mehr als eine Frage gibt.
+In diesem Ordner befinden sich keine gültigen Objekte.
+Anzeige der Übersichtsseite für Eingabeaufforderungen von personalisierten Diensten.
+Warnung!  Sofern Sie diese Datenbank-Verbindung löschen, werden automatisch alle Objekte (z.B. Objekt-Repository, Speicherzuordnungen, etc.) ungültig, welche diese verwenden.
+Möchten Sie '#' löschen?
+Sie konfigurieren aktuell eine Portaldefinition mit dem Namen "#". Um eine andere Portaldefinition zu bearbeiten oder eine neuen Zu erstellen,
+Einen weiteren Dienst konfigurieren
+Diese Sektion ermöglicht Ihnen das Verwalten einer oder mehrerer Abonnement-Seiten. Sie werden die folgenden Aufgaben ausführen:
+Auswahl eines existierenden virtuellen Verzeichnisses eines Abonnement-Portals oder Erstellen eines neuen
+Eine Seitendefinition erstellen oder bearbeiten
+Bevor Sie beginnen, benötigen Sie die folgenden Informationen um Ihre Seitendefinition fertigzustellen:
+Lokation der Objekt-Repository-Datenbank
+Lokation der Abonnement-Repository-Datenbank
+Tabellenprefixe für beide Datenbanken
+Hiermit ist die Konfiguration des Abonnement-Portalsystems abgeschlossen.
+Abonnement-Engine:
+Portal-Repository:
+Hiermit ist die Seitenverwaltung abgeschlossen. Sie haben folgendes ausgewählt:
+Virtuelles Portalverzeichnis:
+Seitendefinition:
+Ihre Seitendefinition ist abgeschlossen und kann über das Portal angezeigt werden.
+Klicken Sie hier, um zum Abonnementportal zu gelangen.
+Diese Sektion ermöglicht Ihnen die Einstellungen der Seite zu verändern. Sie werden die folgenden Aufgaben ausführen:
+Erstellung von Kanälen und deren Zuordnung zu Dienstordnern
+Auswahl der Endgerätetypen, welche von der Seite unterstützt werden sollen
+Auswahl des Standard-Endgeräts, welches bei der Erstellung einer neuen Adresse benutzt wird
+Auswahl des Endgeräts, welches benutzt wird um Dienste zu "Eigenen Berichten" zu senden
+Auswahl der Authentifizierung der Benutzer für verschiedene Informationsquellen
+Weitere Seiteneigenschaften konfigurieren
+Hiermit ist die Bearbeitung der Seiteneinstellungen abgeschlossen. Sie haben folgendes fertiggestellt:
+Neue Kanäle für diese Seite bearbeitet oder erstellt
+Von dieser Seite unterstützte Endgeräte ausgewählt
+Das Standard-Endgerät für die Erstellung von neuen Adressen ausgewählt
+Das Portal-Endgerät ausgewählt, welches für das Versenden von Diensten an "Eigene Berichte" benutzt wird
+Die Authentifizierung von Benutzern an verschiedenen Informationsquellen ausgewählt
+Die restlichen Einstellungen der Seite konfiguriert
+Integration mit der Zustellungs-Engine ermöglicht Benutzern die Spezifizierung von Dienstpersonalisierung, Ablaufplänen und dem Endgerät über welches Sie die Informationen erhalten möchten.
+Diese Seite kann noch nicht von Endbenutzern benutzt werden. Wenden Sie sich an den Administrator um diese Seite einzurichten. Wenn Sie der Administrator sind, #.
+Wilkommen zum Microstrategy Narrowcast Server Portal!
+Das MicroStrategy Narrowcast Server Portal bietet den Benutzern eine einfache Möglichkeit Narrowcast Server Dienste über einen Webbrowser zu abonnieren.
+Ordner nicht gefunden
+Der angeforderte Ordner konnte nicht im Objekt-Repository gefunden werden.
+Klicken Sie hier, um den Hauptordner des Projekts zu durchsuchen.
+(Ordner-ID: #)
+Fehlerprotokoll anzeigen
+Der Portalname darf keine Sonderzeichen enthalten. Verwenden Sie bei der Namensgebung die Zeichen A-Z, 0-9 oder ein Unterstreichungszeichen.
+Der Datenbank-Verbindungsname dar keine Sonderzeichen enthalten. Verwenden Sie bei der Namensgebung die Zeichen A-Z, 0-9 oder ein Unterstreichungszeichen.
+Die Eingabeaufforderung, welche Sie ausgewählt haben, wird schon als Teil der Dienstdefinition benutzt, Sie können sie nicht als zusätzliche oder alternative Eingabeaufforderung benutzen.
+Die Eingabeaufforderung, welche Sie ausgewählt haben, wird schon als zusätzliche Eingabeaufforderung benutzt, Sie können sie nicht als alternative Eingabeaufforderung benutzen.
+Die Eingabeaufforderung, welche Sie ausgewählt haben, wird schon als alternative Eingabeaufforderung benutzt, Sie können sie nicht als zusätzliche Eingabeaufforderung benutzen.
+Stellen Sie sicher, dass Um Abonnements zu bearbeiten oder zu loeschen, please make sure that all tables include either the SUBSCRIPTION_ID or the Preference ID of the question.
+Stellen Sie sicher, daß alle Tabellen die Spalte SUBSCRIPTION_ID beinhalten, um Abonnements zu bearbeiten oder zu löschen.
+Dieser Dienst hat keine zugeordnete Eingabe.
+Ungültiges Kennwort - Benutzer nicht deaktiviert
+Datenbankverbindung aktualisieren
+Datenbankverbindung bearbeiten
+1. Narrowcast Server Normal (Benutzername und Kennwort)
+2. MicroStrategy Intelligence Server Standard (Benutzername und Kennwort)
+3. MicroStrategy Intelligence Server NT (NT-Benutzername)
+Wenn Option 2 oder 3 ausgewählt ist, geben Sie den Namen für MicroStrategy Intelligence Server ein.
+Geben Sie den Namen des Intelligence-Servers an, gegen den die Benutzer überprüft werden sollen.
+Die Anmeldung unter Verwendung des NT-Benutzeraccounts ist nicht möglich. Benachrichtigen Sie Ihren Administrator, damit er diesen NT-Benutzeraccount mit einem Benutzer von MicroStrategy Intelligence Server verknüpft oder den Web-Server entsprechend konfiguriert.
+Anzahl der Elemente, die für Elementeingabeaufforderungen zurückgegeben werden sollen:
+Anzahl der Elemente, die für Objekteingabeaufforderungen zurückgegeben werden sollen:
+Geben Sie für die Elemente der Elementeingabeaufforderungen eine gültige Zahl an.
+Geben Sie für die Elemente der Objekteingabeaufforderungen eine gültige Zahl an.
+Eingabeaufforderungseinstellungen:
+Sie können versuchen sich mit Ihrer NT-Berechtigung auf dieser Site anzumelden. Klicken Sie einfach auf den folgenden Link.
+Anmeldemodus:
+Der Dienst enthält keine Statische Abonnementmengen. Sie können einen Standard konfigurieren, falls Sie später eine hinzufügen wollen, zum Beispiel, um von einer Dynamischen zu einer Statischen Abonnementmenge zu wechseln. Ansonsten wählen Sie bitte "Weiter" um fortzufahren.
+MicroStrategy Intelligence Server konnte nicht gefunden werden.
+Sie haben keine Zugriffsrechte für einen oder mehre Projekte welche  die Berichte fuer diesen Dienst beinhalten.
+Sie haben keine Zugriffsrechte für einen oder mehrere Berichte in diesem Dienst.
+Benutzerzugriffsrechte verwenden.
+Die Konfigurationseinstellungen der Subscription-Engine waren nicht zugreifbar. Für das Funktionieren des Subscription Portal, muss entweder der Ordner oder das Laufwerk, wo die Subscription-Engine installiert ist, gemeinsam zugreifbar gemacht werden (share). Das Subscription-Portal wird nicht funktionieren falls diese Anforderung nicht erfüllt ist. Möchten Sie das Laufwerk #1 auf der Maschine #2 für die Maschine der lokalen Administratorengruppe automatisch allgemein zugreifbar machen?
+Das Laufwerk kann nicht allgemein zugreifbar gemacht werden. Bitte machen sie das Laufwerk #1 auf der Machine #2 zugreifbar für die lokale Administratorengruppe der Maschine.
+Es kann nicht überprüft werden, ob die Abonnement-Engine freigegeben ist.
+4. MicroStrategy Intelligence Server LDAP (Benutzername und Kennwort)
+5. MicroStrategy Intelligence Server DB (Benutzername und Kennwort)
+Narrowcast Server Normal
+MicroStrategy Intelligence Server Standard
+MicroStrategy Intelligence Server LDAP
+MicroStrategy Intelligence Server DB
+Fehler bei Benutzererstellung: ID-Generierung fehlgeschlagen. Benachrichtigen Sie den Systemadministrator.
+Anzeige von Anlagen:
+Anlagen streamen, um Speicherverbrauch zu reduzieren.
+Anmeldung als NT-Benutzer
+Sie löschen hiermit den default Portal Site. Das Löschen dieses Sites führt zur permanenten Deaktivierung von Dienst-Abonnements in MicroStrategy Web. Sind Sie sicher, daß Sie den default Portal Site wirklich Löschen möchten? Kicken Sie OK, um das Löschen des default Portal Sites auszuführen, oder Cancel, um das Löschen nicht auszuführen.
+Dieses Produkt ist patentiert.  Einige oder mehrere der folgenden Patente können für das hiermit verkaufte Produkt gelten: US-Patentnummern 5,321,520, 5,416,602, 5,748,560, 6,154,766, 6,173,310, 6,260,050, 6,263,051, 6,269,393, 6,279,033, 6,501,832, 6,567,796, 6,587,547, 6,606,596, 6,658,093, 6,658,432, 6,662,195, 6,671,715, 6,691,100, 6,694,316, 6,697,808, 6,704,723, 6,707,889, 6,741,980, 6,765,997, 6,768,788, 6,772,137, 6,788,768, 6,792,086, 6,798,867, 6,801,910, 6,820,073, 6,829,334, 6,836,537, 6,850,603, 6,859,798, 6,873,693, 6,885,734, 6,888,929, 6,895,084, 6,940,953, 6,964,012, 6,977,992, 6,996,568, 6,996,569, 7,003,512, 7,010,518, 7,016,480, 7,020,251, 7,039,165, 7,082,422, 7,113,474, 7,113,993, 7,127,403, 7,174,349, 7,181,417, 7,194,457, 7,197,461, 7,228,303, 7,260,577, 7,266,181, 7,272,212, 7,302,639, 7,324,942, 7,330,847, 7,340,040, 7,356,758, 7,356,840, 7,415,438, 7,428,302, 7,430,562, 7,440,898, 7,457,397, 7,486,780, 7,509,671, 7,516,181, 7,559,048, 7,574,376, 7,617,201, 7,725,811, 7,801,967, 7,836,178, 7,861,161, 7,861,253, 7,881,443, 7,925,616, 7,945,584, 7,970,782, 8,005,870, 8,035,382, 8,051,168, 8,051,369, 8,094,788, 8,130,918, 8,296,287, 8,321,411, 8,452,755, 8,521,733, 8,522,192, 8,577,902, 8,606,813, 8,607,138, 8,645,313, 8,761,659, 8,775,807, 8,782,083, 8,812,490, 8,832,588, 8,943,044, und 8,943,187.  Andere Patente sind anhängig.
+Es existiert kein Repository in '#1' mit dem Prefix '#2'. Bitte geben Sie ein gültiges Prefix an.
+Überprüfung der Gross- / Kleinschreibung als Voreinstellung.
+DataDirect Technologies Corp. Copyright 1991-2015. DataDirect Technologies Corp. Alle Rechte vorbehalten.
+Teile dieser Software sind urheberrechtlich geschützt durch DataDirect Technologies Corp., 1991-2015.
+Es wurden Eigenschaften-Sicherungsdateien gefunden. Sollen diese Sicherungsdateien wiederhergestellt werden, und möchten Sie die Konfigurationsinformationen aus diesen Dateien verwenden? Das Wiederherstellen von Sicherungsdateien nach dem Aktualisieren von Version 7.5 oder niedriger auf 8.0 und höher wird nicht empfohlen.
+Die Backup Dateien konnten nicht wiederhergestellt werden. Bitte konfigurieren Sie Ihr Portal durch Klicken auf WEITER.
+Die Backup Dateien wurden wiederhergestellt. Bitte starten Sie den MicroStrategy Subscription Server neu, bevor Sie weiterarbeiten.
+Tabellennamen filtern
+Hinweis: Das Systempräfix ermöglicht das Erstellen der Repository-Tabellen für mehrere Narrowcast Server-Systeme in derselben Datenbanklokation. So kann z. B. das Präfix TEST für ein Testsystem und das Präfix PROD für ein Produktionssystem verwendet werden. Gültige Systempräfixe umfassen Zeichen und Zahlen und beginnen mit einem Zeichen. Das Präfix kann maximal acht Zeichen lang sein.
+Der Datenbank-Aliasname ‘#’ wird bereits verwendet. Wählen Sie einen anderen Datenbank-Aliasnamen aus.
+Anzahl der Pool-Verbindungen
+Das System ist derzeit nicht verfügbar. Der Anwendungsordner ist auf Inaktiv eingestellt.
+Dieses Produkt enthält Binärkomponenten Copyright (c) 1995-2015 The Cryptix Foundation Limited. Alle Rechte vorbehalten. Die Verbreitung und Verwendung in Quell- und Binärform, mit oder ohne Änderung, ist erlaubt, sofern die folgenden Bedingungen erfüllt werden: 1. Die Verbreitung des Quellcodes muss den Urheberrechtshinweis, diese Liste der Bedingungen und den folgenden Haftungsausschluss enthalten. 2. Eine Verbreitung in Binärform muss die obige Urheberrechtsnotiz, diese Liste der Bedingungen und den folgenden Haftungsausschluss in der Dokumentation und/oder anderen Materialien, die mitgeliefert werden, enthalten.
+DIESE SOFTWARE WIRD VON THE CRYPTIX FOUNDATION LIMITED UND DEREN MITARBEITERN IN IHREM AKTUELLEN ZUSTAND BEREITGESTELLT, UND JEGLICHE AUSDRÜCKLICHEN ODER IMPLIZITEN GARANTIEN, EINSCHLIESSLICH, JEDOCH NICHT BESCHRÄNKT AUF, IMPLIZITE GARANTIEN DER MARKTGÄNGIGKEIT UND EIGNUNG FÜR EINEN BESTIMMTEN ZWECK, SIND AUSGESCHLOSSEN. UNTER KEINEN UMSTÄNDEN HAFTEN THE CRYPTIX FOUNDATION LIMITED BZW. DEREN MITARBEITER FÜR DIREKTE, INDIREKTE, ZUFÄLLIGE, BESONDERE, STRAF- ODER FOLGESCHÄDEN (EINSCHLIESSLICH, JEDOCH NICHT BESCHRÄNKT AUF, BESCHAFFUNG VON ERSATZGÜTERN ODER -DIENSTLEISTUNGEN, VERLUST VON NUTZUNG, DATEN ODER GEWINN BZW. BETRIEBSUNTERBRECHUNG), AUF WELCHE ART ENTSTANDEN UND IM RAHMEN WELCHER HAFTUNGSTHEORIE AUCH IMMER, SEI ES VERTRAGSHAFTUNG, GEFÄHRDUNGSHAFTUNG ODER DELIKT (EINSCHLIESSLICH FAHRLÄSSIGKEIT ODER ANDERE), DIE SICH IN IRGENDEINER WEISE AUS DER NUTZUNG DIESER SOFTWARE ERGEBEN, AUCH WENN AUF DIE MÖGLICHKEIT EINES SOLCHEN SCHADENS HINGEWIESEN WORDEN WAR.
+DataDirect
+Cryptix
+Dieser Dienst enthält einen nicht unterstützten Eingabeobjekttyp.
+Fehler beim Laden von Ordnerinformationen. Der Ordner oder (einer oder mehrere) übergeordnete Ordner sind möglicherweise inaktiv.
+Für den gesamten Inhalt Copyright
+2015
+Incorporated. Alle Rechte vorbehalten.
+Englisch (USA)
+Englisch (UK)
+Deutsch
+Italienisch
+Portugiesisch
+Spanisch
+Französisch
+Schwedisch
+Japanisch
+Koreanisch
+Chinesisch (Vereinfacht)
+Chinesisch (Traditionelles)
+System
+Vorname
+Nachname
+Initiale des zweiten Vornamens:
+Suffix
+Titel
+Anrede
+Postanschrift
+Stadt
+Bundesland
+Postleitzahl
+Land
+Geben Sie bitte für die folgenden Felder zu Benutzerdetails Antworten ein
+Benutzerdetails definieren

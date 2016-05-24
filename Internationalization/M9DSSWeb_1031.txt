@@ -1,0 +1,2805 @@
+Copyright © 1996-2002 MicroStrategy, Incorporated. All rights reserved. Confidential.
+Startseite
+Öffentliche Berichte
+Persönliche Berichte
+Historienliste
+Bericht erstellen
+Hochformat
+Querformat
+Abmelden
+Ausrichtung:
+Suchen
+Projekt
+Papierformat:
+Alle Rechte vorbehalten. Vertraulich.
+EINSTELLUNGSEBENE
+Server:
+Port-Nr.
+Benutzername
+Kennwort
+Kennwort speichern
+ANMELDEN
+Bericht zurücksetzen
+Papiergröße, Ausrichtung und Ränder müssen mit den Einstellungen des Browsers übereinstimmen.
+Geben Sie das alte und neue Kennwort ein.
+Server-Name
+Zur Historienliste hinzufügen
+Anmelden
+Es ist ein Fehler bei der Ausführung des Dokuments aufgetreten. Kontaktieren Sie Ihren Administrator.
+Als Gastbenutzer anmelden
+Letter 21,59 x 27,94 cm
+Sitzungsfehler
+Diese Sitzung ist ungültig, da die Verbindung zum Server verlorengegangen ist. Melden Sie sich erneut am System an.
+Legal 21,59 x 35,56 cm
+Als Windows-Benutzer anmelden
+A4 21 x 29,7 cm
+Folio 21,59 x 33,02 cm
+Server-Name
+Projekte
+WILLKOMMEN
+Beschreibung
+Info über MicroStrategy Web ##
+Die folgenden Server sind nicht in Betrieb:
+Zur Administrationsseite wechseln
+Temporäre Dateien auf dem Web-Server verwenden?
+Schnellsuche
+Erweitert...
+Meldung zur Historienliste erstellt um: ##
+Öffentliche Berichte, welche vordefiniert sind, durchsuchen und anzeigen.
+Persönliche Berichte durchsuchen und anzeigen.
+Neue Berichte erstellen und veröffentlichen.
+Aktuelle Zusammenfassung des Status aller Berichtsanforderungen anzeigen.
+Aktueller Ordner:
+Automatisch
+Manuell
+Ordner-ID
+Es existieren keine Hierarchien in diesem Projekt.
+Objekt(e)
+Sie können die Suchfunktion nicht für Attribute von diesem Typ verwenden.
+Seite ## von ###
+Load-Balance-Faktor
+Eigentümer
+Modifiziert am
+Immer
+Niemals
+Ordner löschen
+Bericht löschen
+Dokument löschen
+Ordner
+Bericht(e)
+Dokument(e)
+Dieser Ordner ist leer.
+Nur für den Browser Internet Explorer der Version 4.x erforderlich.
+Die Standard-Projekteinstellungen konnten nicht gespeichert werden. Überprüfen Sie Ihre Zugriffsrechte auf dem Web-Ordner.
+Suchergebnisse:
+Berichtsschablone(n)
+Der Ordner "##" ist nicht verfügbar.
+Auftrags-ID:
+Berichts-ID:
+Berichtsname:
+Anzeigemodus
+Nachrichten-ID:
+Anforderung wird verarbeitet...
+Die Anforderung wurde übertragen. Bitte warten...
+Auswahl durch den Benutzer (Standard-Wert = "Nein")
+Auswahl durch den Benutzer (Standard-Wert = "Ja")
+Bitte warten während der Bericht exportiert wird.
+Die Verarbeitungszeit ist abhängig von der Größe des Berichtsergebnisses.
+Letzte Aktualisierung:
+Sie müssen einen Berichtsnamen angeben.
+Der Eigentümer eines der Objekte im Suchergebnis konnte nicht gefunden werden. Die Suche ist fehlgeschlagen.
+Schritt ##
+Aktueller Status:
+Bericht ist bereit
+Eingabeobjekte werden überprüft...
+Eingabe ist bereit
+Ausführung läuft...
+Fehler
+Ausführung läuft...
+Sekund(en)
+Kontaktinformation:
+Maximale Anzahl von gleichzeitigen Suchvorgängen:
+Administrator-Kontaktinformationen:
+Angefordert
+Status erneut überprüfen
+Anforderung abbrechen
+In dem unteren Kasten sollte die Zahlenfolge "12345" dargestellt sein, sofern der verwendete Browser die Formatierungsimplementierung mit CSS-Dateien (CSS = Cascading Style Sheet) unterstützt. Wird diese Zahlenfolge korrekt dargestellt?
+VERWANDTE BERICHTE
+Ja - Diese Formatierung wird unterstützt.
+Nein - Eine andere Formatierung verwenden.
+Ihre Anforderung hat den vorgegebenen Time-Out-Grenzwert überschritten. Versuchen Sie es zu einem späteren Zeitpunkt nochmals.
+OK
+Ausführung läuft...
+Blue and Grey
+Zeilen:
+Bericht als Tabelle anzeigen
+Bericht als Diagramm anzeigen
+Nachrichten ## - ### von ####
+## - ### von ####
+Bericht speichern
+Erneute Eingabe
+Druckfähige Version erstellen
+Bericht exportieren
+Spalten
+Colorful
+Agent
+Classic
+Accounting
+Finance
+Grey Bands
+Dynamisches HTML (DHTML) verwenden?
+Pastels
+Red and Black
+Romantic
+Small Type
+Übernehmen
+Schaltflächen für die Pivotierung ausblenden
+Schaltflächen für die Pivotierung anzeigen
+In den Zeilenbereich verschieben
+Nach oben verschieben
+Nach unten verschieben
+In den Page-By-Bereich verschieben
+In den Spaltenbereich verschieben
+Nach links verschieben
+Nach rechts verschieben
+Sortieren
+Drill-Funktion
+Von:
+Zu:
+Drill-Optionen:
+Drill-Funktion nur für Selektionen
+Was ist das?
+Bei der Drill-Funktion das Elternobjekt beibehalten
+Up
+Down
+Squares
+für
+Drill-Funktion anzeigen
+Drill-Funktion ausblenden
+Sunset
+Spalten:
+Weitere Seiten
+Weitere Spalten
+Erste Seite
+Letzte Seite
+Es wurden keine Ergebnisse für diesen Bericht zurückgeliefert.
+Es ist ein Fehler beim Aufruf der Sleep-Funktionalität aufgetreten.
+Suche ausblenden
+Suche anzeigen
+Anzeige:
+Berichtsformatierung
+Funktionsleiste ausblenden
+Funktionsleiste anzeigen
+Veröffentlichen
+Es sind keine Drill-Informationen verfügbar.
+Filterdetails ausblenden
+Filterdetails anzeigen
+Zurück zur einfachen Drill-Funktion
+Fehler: Der Operator "Nicht zwischen" erwartet zwei durch Semikolon getrennte Eingabewerte.
+Filterdetails:
+Der Filter ist leer (enthält keine Definition).
+Während der Drill-Funktion
+- Keine -
+Die Daten zum Anzeigen des angeforderten Diagrammtyps für diesen Bericht reichen nicht aus. Wählen Sie einen anderen Diagrammtyp und wiederholen Sie den Vorgang nochmals.
+Drill-Funktion zu
+Historienliste aktualisieren
+Die Nachricht für den Auftrag konnte nicht gefunden werden oder das Berichtsergebnis konnte nicht vom MicroStrategy Intelligence Server übertragen werden.
+Historienliste löschen
+Status
+Startzeit
+Details
+Entfernen
+Aufsteigend sortieren
+Absteigend sortieren
+Zuletzt ausgeführter Bericht:
+Als "ungelesen" kennzeichnen
+Letztes Dokument:
+Bereit
+Warten auf Eingabe...
+Verarbeitung läuft...
+SQL-Anweisung wird generiert...
+SQL-Anweisung wird ausgeführt...
+Verarbeitung der Analyse-Engine läuft...
+Cache wird überprüft...
+Cache wird erstellt...
+Auftrag ist in der Warteschlange
+Warten auf Überwachungseinstellung...
+Das Projekt befindet sich Leerlaufbetrieb.
+Bericht(e) werden ausgeführt...
+Berichtsergebnisse werden vorbereitet...
+Die Historienliste ist voll. Sie müssen vor dem Ausführen eines weiteren Berichts oder Dokuments mindestens eine Nachricht aus der Historienliste löschen.
+Seiten
+Nicht erneut nachfragen.
+Fortfahren
+Aufgrund eines Fehlers des Web-Servers konnte der Inhalt dieses Berichts nicht exportiert werden.
+Page-By-Selektion:
+Mit diesem Vorgang melden Sie sich von allen Projekten ab.
+Treffen Sie aus den folgenden Optionen eine Selektion und klicken Sie anschließend auf die Schaltfläche "Abmelden":
+Möchten Sie die beendeten Berichtsaufträge aus der Historienliste löschen?
+Nein
+Ja
+Wartende Berichtsaufträge der aktuellen Sitzung löschen?
+Abbrechen
+Nur die bereits geöffneten Berichtsaufträge
+Diese Einstellung künftig nicht mehr abfragen.
+ABMELDEN
+Der Benutzer hat sich unter Umständen abgemeldet oder ist seit längerer Zeit nicht mehr aktiv gewesen. Die maximale Verbindungszeit ist abgelaufen. Melden Sie sich erneut am System an.
+Aufgrund eines Fehlers des Web-Servers konnte Ihre Anforderung nicht bearbeitet werden. Versuchen Sie es zu einem späteren Zeitpunkt nochmals.
+Dokument-ID:
+Dokumentname:
+Sie können die Historienliste überprüfen oder es später nochmals versuchen.
+Es ist ein Fehler beim Überprüfen des Dokumentenstatus aufgetreten.
+Fehlernummer
+Dokument steht bereit
+Eingabe steht bereit
+INDEX
+INHALTE
+ALLGEMEINE FRAGEN
+Letzter Ordner:
+Es wurden keine Ergebnisdaten für dieses Dokument zurückgeliefert.
+Dokument
+Tabellenanzeige
+Aktuelle Startseite:
+Standard-Berichtsformatierung:
+Maximale Zeilenanzahl der Tabelle:
+Maximale Spaltenanzahl der Tabelle:
+Sprachunterstützung
+Exportieren
+MS Excel mit Berichtsformatierung (Version 2000 oder höher)
+MS Excel ohne Berichtsformatierung
+MS Excel mit unformatiertem Text
+CSV-Dateiformat
+Beim Exportieren ein neues Fenster öffnen
+Druckoptionen
+Kopfzeile:
+Fußzeile:
+Anmeldemodus
+Seitennummerierung:
+(Keine)
+Seite 1 von n
+Standard-Startseite:
+Aktiviert
+Wartende Berichtsaufträge der aktuellen Sitzung abbrechen?
+Spaltenköpfe zusammenführen
+Spaltenköpfe wiederholen
+Beendete Berichtsaufträge aus der Historienliste löschen?
+Für ALLE Projekte übernehmen.
+Projekteinstellungen
+(Standard)
+Diagrammanzeige
+Diagrammgröße:
+Einstellungen aus der Berichtsdefinition verwenden
+Höhe:
+Breite:
+Maximale Anzahl von Exportspalten für MS Excel:
+Standard (Benutzerkennung & -kennwort)
+Berichte und Dokumente zur Historienliste hinzufügen:
+DOKUMENT
+Die Auswahloption "Kennwort speichern" auf der Anmeldeseite anzeigen
+Gastbenutzer
+Die XSL-Datei zur HTML-Generierung kann nicht geöffnet werden. Die entsprechende Datei ist unter Umständen nicht vorhanden oder hat Fehler.
+Es ist ein Fehler beim Speichern von Graphiken auf dem lokalen Datenträger aufgetreten. Stellen Sie sicher, daß ausreichend Speicherplatz auf dem lokalen Datenträger verfügbar ist.
+Es ist ein Fehler bei der HTML-Generierung durch das Kombinieren von XML und XSL aufgetreten.
+Dokumentdetails anzeigen
+Übergeordneter Ordner:
+Benutzereinstellungen
+Persönliche Berichte
+Sie müssen sich zunächst an diesem Projekt anmelden, um fortzufahren.
+Projekteinstellungen
+Benutzereinstellungen
+Standard-Werte verwenden
+Seiten pro Block:
+Maximale Zeilenanzahl beim Export nach Excel mit Formatierung oder nach HTML:
+Maximale Anzahl von Exportzeilen für MS Excel und CSV (im Textformat):
+Kennwort ändern
+Zwischen
+Allgemein
+Fehlerprotokollierung:
+Sie können den Platzhalter "?" für genau ein Zeichen verwenden.
+Windows Anmeldung
+Ein individuelles Sicherheitsmodul (Security-Plug-In) verwenden?
+Sicherheitsmodul:
+Sie können den Platzhalter "*" für mehrere Zeichen verwenden.
+Nur beim Anmelden
+Vor jeder Berichtsausführung
+Asynchroner Modus
+Synchroner Modus
+Zeitfenster bis zum öffnen der Warteseite:
+Abonnements anzeigen
+und
+Ausführungsmodus
+Filterdetails
+Fehlermeldungen protokollieren
+INSTRUKTIONEN
+Abonnements ausblenden
+Drucken
+Diese Einstellungen stets abfragen
+Beim Drucken Optionen anzeigen
+Warnungsmeldungen protokollieren
+Eigenschaften anzeigen
+Eigenschaften ausblenden
+Maximum ##
+Unformatierter Text
+Filterdetails drucken:
+Am Anfang des Ausdrucks
+Am Anfang von jeder Seite
+Filterdetails exportieren
+Eingaben
+Anzahl der anzuzeigenden Elemente pro Block:
+Gesamter Bericht
+Nur angezeigter Berichtsteil
+Zurück zum Anfang
+Sie können sich nicht als Windows-Benutzer anmelden.
+Sie müssen einen Ordnernamen angeben.
+Der Kanal ist aktiviert und sichtbar für die Benutzer
+Fehlermeldung:
+Zurück zum übergeordneten Ordner
+Es ist ein Fehler bei der Berichtsausführung aufgetreten
+Diagrammtyp
+Fläche - Vertikal
+Fläche - Horizontal
+Balken - Vertikal
+Balken - Horizontal
+Linie - Vertikal
+Linie - Horizontal
+Kreis
+Punktstreuung
+Polar
+Netz
+Blase
+Kurse
+Histogramm
+3D-Säule
+3D-Schwebend
+3D-Gruppenverbund
+3D-Reihenverbund
+3D-Oberfläche
+3D-Punktstreuung
+Diagrammuntertyp
+Absolut
+Gestapelt
+Bipolar absolut
+Bipolar gestapelt
+Doppelachsen absolut
+Doppelachsen gestapelt
+Prozent
+Nebeneinander
+Doppelachsen nebeneinander
+Bipolar nebeneinander
+Ring
+Mehrere Kreise
+Mehrere Ringe
+Mehrere proportionale Kreise
+Mehrere proportionale Ringe
+Zurück
+Grafikformat:
+Punktstreuung (XY) mit Y-Doppelachsen
+Punktstreuung (XY) mit Beschriftungen
+Punktstreuung (XY) mit Y-Doppelachsen und Beschriftungen
+Doppelachsen polar
+Polarkoordinaten
+Polarkoordinaten mit Doppelachsen
+Koordinaten
+Netzlinien
+Netzlinien mit gestapelten Flächen
+Netzlinien mit Y-Doppelachsen
+Netzlinien mit gestapelten Flächen und Y-Doppelachsen
+Blasen mit Doppelachsen
+Kurse - Höchst-Tiefst mit Y-Doppelachsen
+Kurse - Höchst-Tiefst (offen)
+Kurse - Höchst-Tiefst mit Y-Doppelachsen (offen)
+Kurse - Höchst-Tiefst (offen, geschlossen)
+Kurse - Höchst-Tiefst mit Y-Doppelachsen (offen, geschlossen)
+Histogramm - Vertikal
+Histogramm - Horizontal
+Balken
+Pyramiden
+Achtecke
+Balken mit abgeschnittenen Ecken
+Würfel
+Sphären
+Flächen
+Bänder
+Schritte
+3D-Oberflächen mit Seiten
+3D-Wabenoberflächen
+3D-Punktstreuung (XYZ)
+3D-Punktstreuung (XYZ) mit Beschriftungen
+Punktstreuung (XY)
+Kurse
+Zurück zum Ordner:
+Zurück zum Bericht:
+Zurück zum Dokument:
+Die Historienliste beinhaltet derzeit keine Einträge.
+Vielen Dank für die Benutzung von MicroStrategy Web.
+Sie wurden von MicroStrategy Web abgemeldet.
+Zum erneuten Anmelden an dieser Seite, klicken Sie hier unten.
+Der Berichtsexport ist nicht möglich.
+Sie können diesen Bericht leider nicht exportieren, da die Grenzwerte für die Maximalanzahl der zulässigen Zeilen bzw. Spalten überschritten sind.
+Nehmen Sie einige Abänderungen am Bericht vor oder kontaktieren Sie Ihren Administrator.
+Um MicroStrategy Web anwenden zu können, müssen Sie mit mindestens einem Projekt verbunden sein.
+Auf dem Web-Server sind keine Instanzen von MicroStrategy Intelligence Server registriert.
+Es sind keine aktiven Projekte für folgenden MicroStrategy Intelligence Server verfügbar: ##.
+Die eingegebene Benutzerkennung bzw. das Kennwort für die Anmeldung ist nicht korrekt. Wiederholen Sie Ihre Eingabe und beachten Sie gegebenenfalls die Groß- und Kleinschreibung für die Kennung und das Kennwort.
+Das eingegebene Kennwort für die Anmeldung ist nicht korrekt. Wiederholen Sie Ihre Eingabe und beachten Sie gegebenenfalls die Groß- und Kleinschreibung für das Kennwort.
+Es konnten keine Daten für den Ordnerinhalt abgerufen werden.
+Die Berichtsausführung ist fehlgeschlagen.
+Der Bericht konnte nicht vom Server abgerufen werden.
+Der Bericht konnte nicht neu aufgebaut werden.
+Die Browser-Einstellungen sind möglicherweise nicht korrekt. Aktivieren Sie unbedingt die Cookie-Funktionalität.
+Es ist ein Fehler beim Zugriff auf die Historienliste aufgetreten.
+Die Nachrichten in der Historienlisten konnten nicht auf dem MicroStrategy Intelligence Server abgerufen werden.
+Die Nachrichten in der Historienlisten konnten nicht auf dem MicroStrategy Intelligence Server entfernt werden.
+Es ist ein Fehler beim Einstellen des Nachrichtenstatus im MicroStrategy Intelligence Server aufgetreten.
+In dieser Lokation wurden keine Ordner, Berichte oder Dokumente gefunden.
+Eigenschaften
+Aufgrund eines Syntax-Fehlers konnten Ihre Pivotierungsanforderung nicht durchgeführt werden.
+Aufgrund eines Syntax-Fehlers konnten Ihre Page-By-Anforderung nicht durchgeführt werden.
+Aufgrund eines Syntax-Fehlers konnten Ihre Page-By- und Pivotierungsanforderungen nicht durchgeführt werden.
+Aufgrund eines Syntax-Fehlers konnten Ihre Sortierungsanforderung nicht durchgeführt werden.
+Aufgrund eines Syntax-Fehlers konnten Ihre Pivotierungs- und Sortierungsanforderungen nicht durchgeführt werden.
+Aufgrund eines Syntax-Fehlers konnten Ihre Page-By- und Sortierungsanforderungen nicht durchgeführt werden.
+Aufgrund eines Syntax-Fehlers konnten Ihre Page-By-, Pivotierungs- und Sortierungsanforderungen nicht durchgeführt werden.
+Der Bericht konnte nicht angezeigt werden.
+Einige Ihrer Sitzungen konnten nicht korrekt geschlossen werden.
+Einige Eingabeobjekte können nicht angezeigt werden.
+Alle Eingabeobjekte sind fehlgeschlagen.
+Die Ausführung des Dokuments ist fehlgeschlagen.
+Das Dokument konnte nicht vom Server abgerufen werden.
+Die Projekte konnten nicht angezeigt werden.
+Die Historienliste konnte nicht angezeigt werden.
+Das Projekt befindet sich im Offline- oder Offline-Pending-Zustand.
+Es ist ein Fehler beim Speichern von persönlichen Einstellungen aufgetreten.
+Ihre persönlichen Einstellungen konnten nicht gespeichert werden, da die Einstellungen des verwendeten Browsers möglicherweise nicht korrekt sind.
+Aktualisierungsbestätigung:
+Ihre persönlichen Einstellungen wurden gespeichert.
+Die Seite kann nicht angezeigt werden
+Kontaktieren Sie Ihren Administrator.
+Es wurden keine Einstellungen gefunden.
+Ihre persönlichen Einstellungen konnten nicht gespeichert werden, da die Einstellungen des verwendeten Browsers möglicherweise nicht korrekt sind. Aktivieren Sie unbedingt die Cookie-Funktionalität des Browsers.
+Ungültige Informationen
+Berichtigen Sie die markierten Eingabefelder und wiederholen den Vorgang erneut.
+Die inkorrekten Eingabefelder wurden ignoriert und mit Standard-Werten abgespeichert.
+Die Instanz von MicroStrategy Intelligence Server, zu der eine Verbindung hergestellt werden soll, wurde nicht gefunden. Versuchen Sie es zu einem späteren Zeitpunkt nochmals.
+Sie haben keine Zugriffsrechte auf das ausgewählt Projekt.
+Sie haben zu viele Objekte für eine Objekteingabe selektiert.
+Sie haben zu wenig Objekte für eine Objekteingabe selektiert.
+Sie haben zu viele Elemente für eine Elementeingabe selektiert.
+Sie haben zu wenig Elemente für eine Elementeingabe selektiert.
+Dieser Benutzer wurde durch den Administrator deaktiviert.
+Das Kennwort ist abgelaufen.
+Sie dürfen das Kennwort nicht ändern.
+Es ist kein zu löschendes Objekt vorhanden.
+Fehler: Der Operator "Zwischen" erwartet zwei durch Semikolon getrennte Eingabewerte.
+Die Version von MicroStrategy Intelligence Server und die Client-Version sind nicht kompatibel
+Die Sleep-Funktion konnte nicht in synchroner Ausführung aufgerufen werden.
+Dieses Eingabeobjekt ist obligatorisch und muß beantwortet werden.
+Geben Sie einen Wert in das Eingabefeld ein.
+Die Verbindung zum MicroStrategy Server wurde unterbrochen. Melden Sie sich erneut an...
+Die folgende Datei wurde auf dem Web-Server nicht korrekt registriert: M8DSSXML.DLL. Kontaktieren Sie Ihren Administrator, um weitere Details zu erfahren.
+Verwenden Sie zum Konfigurieren der Projekte die Administrationsseite.
+Eine oder mehrere Server-Instanzen sind nicht betriebsbereit.
+Wählen Sie vor dem Drill-Vorgang einige Elemente aus.
+Es kann nur jeweils ein Objekt qualifiziert werden.
+Die Eingabeobjekte für diesen Bericht konnten nicht angezeigt werden, da diese bereits beantwortet wurden.
+Es ist ein Fehler beim Laden aufgetreten.
+Sofern Sie diesen Ordner löschen, werden sämtliche Inhalte auf dem Server endgültig gelöscht.
+Liste der Fehlermeldungen
+Zeit
+Fehlerbeschreibung
+Datei
+ASP-Funktion
+API-Funktion
+Bemerkungen
+Ebene
+Ihr Kennwort wurde geändert.
+Sie sind derzeit mit folgendem Projekt verbunden:
+als Benutzer
+Kennwort ändern
+Ihr Kennwort ist abgelaufen. Sie müssen dieses zunächst ändern, um eine Verbindung herstellen zu können.
+Altes Kennwort:
+Neues Kennwort:
+Kennwortbestätigung:
+Kennwort ist abgelaufen
+Geben Sie ein anderes Kennwort ein.
+Füllen Sie alle nachfolgenden Eingabefelder aus:
+Aktualisieren
+SUCHMODUS
+Standard-Werte laden
+Zur Historienliste wechseln
+nicht mehr als
+nicht weniger als
+Selektionen
+Keine
+Verfügbar
+Selektiert
+Suchen
+Elemente
+Metrik
+Attribut
+Zwischen  [Eingabe: Wert 1 ; Wert 2]
+Genau
+Größer als
+Größer oder gleich als
+Kleiner als
+Kleiner oder gleich als
+Ähnlich
+Nicht ähnlich
+Wert
+Ist
+Von oben
+Von unten
+Hinzufügen
+Aktuelle Selektionen
+Übereinstimmung
+Alle Selektionen
+Beliebige Selektion
+Aktuelle Selektionen
+Zur Selektion hinzufügen
+Suchen nach:
+Bericht ausführen
+Bericht speichern
+Nach Attributsbezeichnung qualifizieren
+Zurück zur Hierarchieselektion
+Wählen Sie eine Hierarchie
+Weitere Hierarchien:
+Operator
+Qualifizieren
+Selektion
+Elemente
+Aktueller Ordner
+Unterordner
+Ordnerinhalt
+Geben Sie Suchkriterien ein.
+Die Liste kann unter Umständen sehr lang sein.
+Es sind keine Einstiegspunkte in dieser Hierarchie verfügbar.
+BENÖTIGEN SIE HILFE?
+Was sind "Öffentliche Berichte"?
+Was ist ein Dokument?
+Wie wähle ich ein neues Projekt aus?
+Die maximal zulässige Anzahl von Nachrichten pro Benutzer ist erreicht worden. Kontaktieren Sie Ihren Administrator.
+Was sind Projekteinstellungen?
+Weiterführende Informationen zu den Standard-Projekteinstellungen?
+Wie können Endbenutzer die Standard-Projekteinstellungen ändern?
+Die maximal zulässige Anzahl von Nachrichten pro Projekt ist erreicht worden. Kontaktieren Sie Ihren Administrator.
+Was sind Benutzereinstellungen?
+Was bedeutet das "Übernehmen von Einstellungen auf alle Projekte"?
+Wie kann ich einen Vorgang abbrechen und zur Startseite zurückkehren?
+Was bedeutet das "Standard-Werten laden"?
+Was ist eine Historienliste?
+Wie kann ich Berichte oder Dokumente aus der Historienliste entfernen?
+Wie sortiere ich die Historienliste?
+Was bedeutet das "Warten in der Warteschlange"?
+Was sind "Persönliche Berichte"?
+Was ist ein Bericht?
+Wie erstelle ich einen Bericht?
+Was bedeutet es, wenn ein Objekt gelöscht wird?
+Wie kann ein Objekt nach dem Löschen wiederhergestellt werden?
+Wie kann ich feststellen, ob die Berichtsanfrage ausgeführt worden ist?
+Welchen Zweck erfüllt die Schaltfläche "Zur Historienliste hinzufügen"?
+Nachdem Sie eine Hierarchie auf der linken Seite selektiert haben, können Sie für die zugehörigen Attributen eine Selektion durchführen.
+Wie ändere ich die Formatierung von diesem Bericht?
+Wie ändere ich die Anordnung der Zeilen und Spalten von diesem Bericht?
+Wie kann ich die Berichtsergebnisse anzeigen, welche nicht durch Blättern erreichbar sind?
+Wie kann ich eine Drill-Funktion in diesem Bericht ausführen?
+Weiter zu Schritt 2
+Wie führe ich einen Suche durch?
+Weitere
+In der Liste enthalten
+Welche Arten von Eingaben werden unterstützt?
+Hinweis: Netscape 6, Internet Explorer 5 und neuere Versionen von diesen Browsern unterstützen DHTML.
+Es wurden zu viele Zeilen vom MicroStrategy Intelligence Server übertragen. Es wurden zu viele Zeilen vom MicroStrategy Intelligence Server übertragen. Kontaktieren Sie Ihren Administrator.
+Die Operatoren "Ähnlich" und "Nicht Ähnlich" können nur auf Zeichenketten angewendet werden.
+Sie haben zu viele Qualifizierungen für das Ausdrucks-Eingabeobjekt selektiert.
+Wie erhalte ich weitere Details über den Bericht oder das Dokument?
+Sie haben zu wenige Qualifizierungen für das Ausdrucks-Eingabeobjekt selektiert.
+Sie haben zu viele Qualifizierungen für das Hierarchie-Eingabeobjekt selektiert.
+Sie haben zu wenige Qualifizierungen für das Hierarchie-Eingabeobjekt selektiert.
+Warum benötige ich ein Kennwort?
+Warum muss ich das Kennwort ändern?
+Sind Sie zum ersten Mal hier, oder möchten Sie nur mehr über diese Seite erfahren?
+Online-Hilfe
+Was versteht man unter Abmelden?
+Was ist das Sicherheitssystem?
+Warum muss ich mich anmelden?
+Was ist ein Cookie, und wie werden Cookies auf dieser Web-Seite eingesetzt?
+Was versteht man unter dem Anmelden als Gastbenutzer?
+Warum ist mein Kennwort abgelaufen?
+Was versteht man unter der Speicherung eines Berichts?
+Einige der Standard-Antworten in diesem Eingabeobjekt werden nicht dargestellt.
+Wie kann ich einen Bericht speichern?
+Warum kann ich keinen Bericht exportieren?
+(Nur Text ist zugelassen)
+Nicht genau
+Was sind Benutzerprivilegien?
+Nicht zwischen  [Eingabe: Wert 1 ; Wert 2]
+Wozu dient diese Seite?
+Wie wird ein MicroStrategy Intelligence Server auf diesem Web-Server eingerichtet?
+Was versteht man unter der Veröffentlichung eines MicroStrategy Intelligence Servers auf dem Web?
+Zum vorherigen Berichtsstatus wechseln
+Desktop
+Öffentliche Berichte
+Bericht erstellen
+Warteseite
+Berichtsergebnisse
+Administrationsseite
+Kennwort ist abgelaufen
+Auftragsdetails
+Falls dieses Fenster nach dem Exportieren weiterhin geöffnet sein sollte, so können Sie dieses schließen.
+Speichern unter
+Löschen
+Es ist kein Berichtsexport möglich
+Benutzerprivilegien
+Die folgende Datei wurde auf dem Web-Server nicht korrekt registriert: M9WIN32.DLL. Kontaktieren Sie Ihren Administrator, um weitere Details zu erfahren.
+Zurück zu:
+Mit diesem Vorgang löschen Sie dieses Objekt:
+Dieser Bericht kann in Textform exportiert werden. Diese Option kann entweder in den Exporteinstellungen ausgewählt werden, oder direkt beim Exportieren.
+Bericht mit allen im Filter eingebetteten Eingabeaufforderungen speichern
+Sind Sie sicher, daß Sie dieses Objekt löschen möchten?
+Löschbestätigung
+Das Objekt existiert nicht in den Metadaten.
+Aufgrund eines Fehlers des Servers konnte Ihre Anforderung nicht bearbeitet werden.
+Wiederholen Sie den Vorgang nochmals. Sollte das Problem weiterhin bestehen, so informieren Sie Ihren Administrator.
+SQL-Anweisung(en):
+Berichtsbeschreibung:
+Schablone:
+Filter:
+[ ... ]
+Ordnername:
+Gesamtanzahl der Zeilen:
+Gesamtanzahl der Spalten:
+Berichtspfad:
+Dokumentpfad:
+Erstellte Nachrichten:
+Zuletzt aktualisierte Nachricht:
+Dokumentbeschreibung:
+Beendigungszeit:
+Der Auftrag wird immer noch ausgeführt.
+Bericht speichern unter:
+Berichtsname:
+Eingabe als statische Definition speichern.
+Eingabe ohne Selektion.
+Erforderlich
+Optional
+Ordner erstellen
+Speicherbestätigung
+Der Bericht wurde erfolgreich gespeichert.
+Klicken Sie auf "Fortfahren", um zum Originalbericht zurückzukehren.
+Weitere Optionen...
+Neuen Bericht ausführen:
+Den neuen Bericht mit neuem Namen von der neuen Lokation ausführen.
+Gespeicherte Berichte:
+Weitere gespeicherte Berichte in dem gleichen Ordner durchsuchen.
+Es existiert bereits ein Bericht mit dem gleichen Namen.
+Überschreiben
+Bericht veröffentlichen unter:
+Speicheroptionen der Eingabe:
+Bericht speichern in:
+Ordnerinhalt:
+Ordnername:
+Sie können den Bericht entweder überschreiben, oder unter einem neuen Namen abspeichern.
+Es existiert bereits ein Ordner mit dem gleichen Namen.
+Verwenden Sie einen anderen Ordnernamen.
+Sie haben einen ungültigen Namen eingegeben.
+Wählen Sie einen anderen Namen aus und wiederholen Sie den Vorgang erneut.
+Den Bericht mit allen eingebetteten Eingabeobjekten speichern.
+Einfach
+Enthält
+Beginnt mit
+Endet mit
+Suchpfad:
+Innerhalb von allen Ordnern
+Nur innerhalb des Ordners
+Drill-Funktion
+Alle Objekte suchen
+Erstellt am
+Sie versuchen auf einen MicroStrategy Intelligence Server zuzugreifen, dessen Version nicht kompatibel zur Version von MicroStrategy Web ist. Sie benötigen die Version ## oder höher.
+Zwischen
+Während der letzten
+Von beliebigem Benutzer erstellt
+Von mir selbst erstellt
+Beschreibung enthält:
+und
+Erweitert
+Suchseite
+Überprüfen Sie den Objektnamen.
+In Abschnitt ## nachsehen.
+Erstellt / modifiziert am:
+Tag(e)
+Stunde(n)
+Jahr(en)
+Monat(e)
+Suchhilfe
+Suchhinweise:
+Das Kriterium "Enthält" verwenden.
+Woche(n)
+Die Suche nach ## hat keine Ergebnisse zurückgeliefert.
+Die Suche hat keine Ergebnisse zurückgeliefert.
+Objekttyp:
+##Erweiterte Suche### für mehr Suchoptionen verwenden.
+Erweiterte Einstellungen
+Falls Sie das Eingabeobjekt erneut beantworten möchten, so führen Sie das Dokument erneut aus.
+Neue Suche
+Suchdetails
+Objekt(e) wurden gefunden
+Falls manuell, wie viele der zuletzt ausgeführten Berichte und Dokumente sollen aktiv beibehalten werden?
+Hinweis: Diese Berichte und Dokumente bleiben für die Bearbeitung verfügbar, auch wenn sie nicht in der Historienliste gespeichert sind.
+Der Zugriff ist nicht erlaubt.
+Die folgende Berechtigung ist notwendig, um auf die beantragte Ressource zugreifen zu können:
+Kontaktieren Sie Ihren Administrator, um sicherzustellen, daß die notwendige Berechtigung zur Verfügung steht.
+Warnung: Dieses Dokument konnte nicht in der Historienliste gespeichert werden.
+HISTORIENLISTE
+Diese Eingabe erfordert einen Eingabewert zwischen ## und ###.
+Diese Eingabe erfordert einen Eingabewert größer gleich ##.
+Diese Eingabe erfordert einen Eingabewert nicht mehr als ##.
+Diese Eingabe erfordert einen Eingabewert nicht später als ##.
+Diese Eingabe erfordert einen Eingabewert nicht früher als ##.
+Drill-Funktion nur über Verknüpfungen zulassen
+Einfache Drill-Funktion zulassen
+Drill-Anywhere zulassen
+Sie haben keine Berechtigungen, um Berichte in dem Ordner "Öffentliche Berichte" zu speichern.
+Sie haben keine Berechtigungen, um Berichte in dem Ordner "Persönliche Berichte" zu speichern.
+Ihre Texteingabe ist leider zu lang. Wiederholen Sie Ihre Eingabe.
+Ihre Texteingabe ist leider zu kurz. Wiederholen Sie Ihre Eingabe.
+Sie besitzen keine ausreichenden Berechtigungen zum Zugriff auf die angeforderte Ressource. Sollte das Problem weiterhin bestehen, so informieren Sie Ihren Administrator.
+Ungültiger Name für die Klasse des Sicherheitsmoduls (Security-Plug-In)
+Ungültige Kennung bzw. ungültiges Kennwort. Stellen Sie sicher, daß das Sicherheitsmoduls (Security-Plug-In) korrekt installiert und konfiguriert ist.
+Nicht zwischen
+Die Instanz von MicroStrategy Intelligence Server ist derzeit nicht verfügbar. Der Grund dafür liegt möglicherweise in einer Verbindungstrennung oder die Server-Instanz ist außer Betrieb.
+Fehlerdetails:
+MicroStrategy Web XML-API-Fehlernummer:
+Auf dem Web-Server ist ein unbekannter Laufzeitfehler aufgetreten.
+Überprüfen Sie die MicroStrategy Web Protokolldatei auf weiterführende Fehlerdetails.
+Sie können diesen Bericht leider nicht exportieren, da die Grenzwerte für die Maximalanzahl der zulässigen Zeilen bzw. Spalten überschritten sind.
+Drill-Funktion deaktivieren
+Warnung: Dieses Berichte konnte nicht in der Historienliste gespeichert werden.
+Verbundene Server:
+Cluster
+Verbindungsmodus
+Geladen
+Besetzt
+Frei
+Maximale Pool-Größe
+Aktion
+Attributfeldnamen anzeigen
+Ändern
+Trennen
+Verbinden
+Modifizieren
+Nicht verbundene Server:
+Initiale Pool-Größe
+Anwender verbindet Web mit Intelligence Server manuel
+Bei Neustart von Web Server oder Intelligence Server automatisch Verbindung zu Intelligence Server herstellen
+Alle verfügbaren Server anzeigen
+Aktualisieren
+Server manuell hinzufügen
+Eigenschaftendetails des Servers
+Verbunden
+Alle verfügbaren Server
+Derzeit sind keine Instanzen von MicroStrategy Intelligence Server verfügbar.
+Derzeit sind keine Instanzen von MicroStrategy Intelligence Server verbunden.
+In letzter Zeit wurde keine Instanz von MicroStrategy Intelligence Server getrennt.
+Dieser Vorgang konnte nicht ausgeführt werden, da Sie keine Berechtigung für den Schreibzugriff auf dieses Objekt bzw. den übergeordneten Ordner haben.
+Welchen Zweck erfüllen Eingabeaufforderungen?
+Alle verfügbaren Server ausblenden
+INFO
+Der Ordner, den Sie gerade versuchen zu öffnen, existiert nicht in diesem Projekt.
+Der Bericht, den Sie gerade versuchen auszuführen, existiert nicht in diesem Projekt.
+Das Dokument, das Sie gerade versuchen auszuführen, existiert nicht in diesem Projekt.
+Systemhierarchie
+Weitere Projekte
+Vorherige Projekte
+ASP-Version:
+XML-API-Version:
+Browser-Version:
+MicroStrategy Web Cookies:
+MicroStrategy Intelligence Server Version:
+Diagrammberichte standardmäßig in der Ansicht 'Tabelle und Diagramm' anzeigen
+Tabelle ausblenden
+Funktionsaufrufe aufzeichnen, welche den Fehler verursacht haben
+Up
+Down
+Es ist ein Fehler beim Laden von XML-Daten aufgetreten.
+Einer der benötigten XML-Knoten ist nicht verfügbar. Kontaktieren Sie Ihren Administrator, um weitere Details zu erfahren.
+Die folgende Datei wurde auf dem Web-Server nicht korrekt registriert: SCRRUN.DLL. Kontaktieren Sie Ihren Administrator, um weitere Details zu erfahren.
+Die folgende Datei wurde auf dem Web-Server nicht korrekt registriert: MSXML.DLL. Kontaktieren Sie Ihren Administrator, um weitere Details zu erfahren.
+Fehler: Nachrichtenobjekte konnten nicht korrekt entpackt werden. Die Fehlerursache liegt möglicherweise in der Verwendung von nicht kompatiblen Versionen von MicroStrategy Web und MicroStrategy Intelligence Server.
+Es ist ein Fehler beim Anmelden aufgetreten.
+Es ist ein Fehler bei der Kennwortänderung aufgetreten.
+Es ist ein Fehler beim Zugriff auf "Öffentliche Berichte" aufgetreten.
+Es ist ein Fehler beim Zugriff auf "Persönliche Berichte" aufgetreten.
+Es ist ein Fehler in den Eingabeobjekten aufgetreten.
+Es ist ein Fehler in den Berichtsergebnissen aufgetreten.
+Es ist ein Fehler in der Historienliste aufgetreten.
+Es ist ein Fehler in den Auftragsdetails aufgetreten.
+Es ist ein Fehler beim Vorgang "Speichern unter" aufgetreten.
+Es ist ein Fehler beim Suchen aufgetreten.
+Es ist ein Fehler beim Löschen aufgetreten.
+Es ist ein Fehler beim Erstellen des Berichts aufgetreten.
+Es ist ein Fehler in der Online-Hilfe aufgetreten.
+Es ist ein Fehler beim Abmelden aufgetreten.
+Die Datei existiert nicht.
+Es ist ein Fehler beim Öffnen der Datei aufgetreten.
+Es ist ein Fehler beim Lesen der Datei aufgetreten.
+Es ist ein Fehler im MicroStrategy Intelligence Server aufgetreten.  Fehler:
+Es ist ein Fehler beim Laden von Projekten aufgetreten
+Es ist ein Fehler beim Lesen der Definition des Eingabeobjekts aufgetreten. Führen Sie den Bericht bzw. das Dokument erneut aus.
+Es ist ein Fehler beim Laden der Eingabeobjekte aufgetreten.
+Unterberichte einblenden
+Unterberichte ausblenden
+Das zweite Kennwort stimmt nicht mit dem ersten überein. Wiederholen Sie Ihre Eingabe.
+Eingebettete Berichte für Dokumente anzeigen
+Eingebettete Berichte für Dokumente ausblenden
+Sie dürfen das Kennwort von anderen Benutzern nicht ändern.
+Beim Versuch die Hilfedateien zu lesen ist ein Fehler aufgetreten.
+Es ist ein Fehler bei der Ordnersuche aufgetreten.
+Durchsuchen
+Dokumente
+Es ist eine ungültige Drill-Anforderung aufgetreten. Die Anforderung wurde aus diesem Grund abgebrochen.
+Die Drill-Funktion konnte nicht ausgeführt werden.
+Drill-Funktion
+Es ist ein Fehler beim Ausführen des Auftrags aufgetreten.
+Es ist ein Fehler beim Anzeigen der Eingabeobjekte aufgetreten.
+Frequenz für die Aktualisierung der Warteseite:
+Sortieren nach:
+Warnungen
+Fehler
+Zurück ##
+Weiter ##
+MicroStrategy Web ist ein Produkt von
+Exportieren
+Diagrammformatierung
+Tabellenformatierung
+GASTBENUTZER
+Haben Sie bisher kein Benutzerkonto?
+Sie dürfen diese Seite als Gastbenutzer besuchen. Klicken Sie einfach auf die untere Schaltfläche.
+Inkrementelles Laden
+Sie können versuchen, sich mit Ihrer Windows-Berechtigung auf dieser Site anzumelden. Klicken Sie einfach auf den folgenden Link.
+An- und Abmeldungssicherheit
+Page-By-Funktion
+Willkommen
+Falls Sie nicht der Benutzer "##" sind,
+klicken Sie hier
+Einstellungen
+Pivotieren
+Berichtsdetails anzeigen
+Zurück zum übergeordneten Ordner
+Drucken
+Bericht- und Dokumentausführung
+Speichern von Berichten
+Fehlerprotokoll anzeigen
+Wählen Sie einen Tag aus:
+Monat
+Tag
+Jahr
+Nachrichten
+Aus der Selektion entfernen
+## Minimum
+Immer beibehalten
+Immer löschen
+Diese Einstellungen stets abfragen
+Diese Einstellungen stets abfragen
+Diese Einstellungen stets abfragen
+Anzahl der anzuzeigenden Objekte pro Block:
+Öffentliche und persönliche Berichte
+Sortieren
+Liste sortieren
+Klicken Sie auf den Spaltentitel, um die entsprechende Spalte zu sortieren.
+Zurück zum Bericht
+Benachrichtigen Sie den Administrator für MicroStrategy Server, damit er diesen Windows-Benutzeraccount mit einem Benutzer von MicroStrategy Server verknüpft oder den Web-Server richtig konfiguriert.
+Bitte warten...
+Datei für die Kopfzeile:
+Datei für die Fußzeile:
+Verwenden Sie die erweiterte Suche, um nach Objekteigenschaften wie z.B. Erstellungs- bzw. Modifikationsdatum, Objekttypen oder Beschreibungen zu suchen.
+Die Standard-Projekteigenschaften wurden gespeichert.
+Geben Sie ein gültiges Datum ein.
+ORDNERÜBERSICHT
+Die Druckoptionen ermöglichen die individuelle Spezifikation des Druckformats für den Bericht.
+Sobald der Bericht auf dem Browser angezeigt wird, kann dieser über die Druckfunktionalität des Browsers gedruckt werden.
+In der Liste enthalten  [Eingabe: Wert 1; Wert 2; ...; Wert N]
+Es ist ein Fehler bei der Beantwortung des Eingabeobjekts aufgetreten. Überprüfen Sie Ihre Eingabe(n).
+Maximale Zeilenanzahl pro Seite:
+Maximale Spaltenanzahl pro Seite:
+Standard-Zeilenanzahl pro Seite:
+Standard-Spaltenanzahl pro Seite:
+Die HTML-Schablone konnte nicht in der Server-Instanz gefunden werden.
+Hilfe ausblenden
+Hilfe anzeigen
+Diese Sektion ausblenden
+Diese Sektion anzeigen
+Berichtsformatierung
+Berichtsformatierung aus der Berichtsdefinition verwenden
+Meine ausgewählte Standard-Berichtsformatierung verwenden
+Unbekannte Berichtsformatierung
+Web-Server
+Server-Time-Out:
+Verwenden Sie die Anleitung, um den Bericht für das Drucken zu formatieren.
+Diese Eingabe erwartet zwischen ## und ### Selektionen.
+Diese Eingabe erwartet mindestens ## Selektion(en).
+Diese Eingabe erwartet nicht mehr als ## Selektion(en).
+Anzahl Tabellenzeilen pro Seite:
+Anzahl Tabellenspalten pro Seite:
+Es ist ein Fehler im Dokumentergebnis aufgetreten.
+Hinzufügen...
+Anforderungsmethode
+Erweiterte Einstellungen:
+Dokument ausführen
+Technische Unterstützung
+Die Ergebnisse für diesen Bericht sind nicht mehr verfügbar. Wiederholen Sie die Anforderung.
+Automatisch feststellen
+Bericht erneut ausführen
+Dokument erneut ausführen
+Es ist ein Fehler beim Laden der XML-Eingabeantwort aufgetreten.
+BERICHTSANZEIGE
+Erweiterte Informationen anzeigen
+DIAGRAMMSTILE
+Erweiterte Informationen ausblenden
+Diese Eingabe erwartet genau ## Selektion(en).
+Die Inhalte von diese Seite können leider nicht dargestellt werden, da der entsprechende MicroStrategy Intelligence Server nicht betriebsbereit ist. Kontaktieren Sie Ihren zugehörigen Administrator.
+Es ist ein Fehler in der Administrationsseite aufgetreten
+Die folgende Datei wurde auf dem Web-Server nicht korrekt registriert: MAWEB.DLL. Kontaktieren Sie Ihren Administrator, um weitere Details zu erfahren.
+Auf dem Web-Server ist ein Fehler beim Aktualisieren des Server-Clusters aufgetreten.
+Auf dem Web-Server ist ein Fehler beim Verbindungsaufbau mit einem Server aufgetreten. Server-Instanz:
+Auf dem Web-Server ist ein Fehler beim Verbindungsabbau mit einem Server aufgetreten. Server-Instanz:
+Auf dem Web-Server ist ein Fehler beim Abrufen der Server-Cluster-Informationen aufgetreten.
+Auf dem Web-Server ist ein Fehler beim Ermitteln von verfügbaren Server-Instanzen aufgetreten.
+Name
+Listenansicht
+Symbolansicht
+Ungültiger Server-Name.
+Deutsch
+Englisch (USA)
+Spanisch (Spanien)
+Französisch
+Italienisch
+Japanisch
+Koreanisch
+Schwedisch
+Englisch (Großbritannien)
+Spanisch (Mexiko)
+Standard
+Das Attribut ist gesperrt.
+Die Elementliste kann nicht angezeigt werden.
+Metriken
+Die vorherigen ## Seiten
+Die nächsten ## Seiten
+Erste ## Seiten
+Copyright
+Bericht aktualisieren
+Bei dieser Eingabeaufforderung ist nur eine Auswahl zulässig.
+Die Exportoptionen ermöglichen die individuelle Spezifikation des Datenformats für den Export.
+Klicken Sie auf "Exportieren", um mit dem Exportvorgang fortzufahren.
+Exportoptionen
+Geben Sie gültige Werte (durch Semikolon getrennt) ein.
+Time-Out der Anforderung:
+Dies ist ein ungültiges Zahlenformat, wiederholen Sie Ihre Eingabe.
+Maximale Anzahl von Elementen für eine Suche:
+Time-Out des Suchvorgangs:
+Geben Sie einen Server-Namen am unteren Seitenende an.
+Der Suchvorgang hat mehr als ## Objekte gefunden. Nur die ersten ## Objekte werden angezeigt.
+Ordner öffnen
+Folgen Sie den Instruktionen, welche durch rote Markierungen dargestellt sind.
+Warnung!
+Bericht ausführen
+Eine Diagrammdarstellung für diesen Bericht ist nicht verfügbar.
+Der Inhalt von dieser Seite kann nicht angezeigt werden, da sich das zugehörige Projekt derzeit im Leerlaufbetrieb befindet. Informieren Sie Ihren Administrator.
+Diese Aktion konnte nicht ausgeführt werden, das Sie keinen Schreibzugriff auf diesen Verzeichnis haben.
+Falls das Berichtsergebnis den durch den Administrator vorgegebenen Grenzwert für die Anzahl der Berichtszeilen überschreitet, so werden die Berichtsdaten als unformatierter Text exportiert.
+Diese Eingabe erwartet mindestens eine Selektion.
+Diese Eingabe erwartet nicht mehr als eine Selektion.
+Neuer Auftrag wird erstellt...
+Inkorrekte Parameter in der URL.
+Die folgenden Parameter sind in der URL notwendig:
+Wird für alle Projekte übernommen (außer solche mit einem Projekt-Alias).
+Maximale Länge des Titels:
+Wird für alle Projekte übernommen.
+Maximale Registeranzahl pro Seite:
+Projekt-Alias:
+Register für dieses Projekt anzeigen
+Projektanzeige
+DD.MM.YYYY
+HH:MM:SS
+Beim Drucken ein neues Fenster öffnen
+Ein Attributausdruck oder eine Gruppe von Attributelementen ist äquivalent mit einer bestehenden Selektion.
+Die XSL-Layoutdatei für dieses Dokument existiert nicht oder enthält ungültige XSL-Anweisungen.
+Hinweis: Diese Optionen gelten nicht für Eingabeaufforderungen und Filter-Editoren, die vordefinierte Element- oder Objektlisten enthalten.
+Weiter...
+,
+Wählen Sie für die Qualifizierung ein Element aus.
+Es ist ein Fehler im Bericht aufgetreten.
+Es ist ein Fehler im Dokument aufgetreten.
+Dieser Vorgang kann nicht durchgeführt werden, da Sie keine Berechtigung zur Erstellung von Applikationsobjekten haben.
+Zahlenwerte exportieren als:
+Zahlenwerte
+Text
+Bericht erneuern:
+Berichtsergebnis aus dem zuletzt gültigen Server-Cache abrufen
+Bericht im Data Warehouse ausführen
+Gesamt-/Zwischensummen ausblenden
+Gesamt-/Zwischensummen anzeigen
+Dieses Berichtsergebnis hat die maximale Anzahl von XML-Datenzellen überschritten.
+Zusammenfassung
+Tabelle und Diagramm gleichzeitig auf einer Seite drucken
+Markierten Bereich filtern
+Spaltenköpfe:
+Folgende Page-By-Objekte beim Drucken anwenden:
+Maximale Anzahl von Exportzeilen für Textformat:
+Maximale Anzahl von Exportspalten für Textformat und HTML-Format:
+Diese Einstellungen stets abfragen
+Beim Exportieren Optionen anzeigen
+Tabellen exportieren nach:
+Diagramme exportieren nach:
+Tabelle exportieren (bei gleichzeitiger Darstellung von Tabelle und Diagramm):
+Mit Formatierung
+Ohne Formatierung
+Im Textformat
+Portugiesisch (Brasilien)
+Verknüpfungen im Bericht verwenden für:
+Drill-Funktion sofort ausführen
+Drill-Navigationsmenü anzeigen
+Darstellung von Eingaben:
+Alle Eingabekomponenten auf einer Seite
+Jede Eingabekomponente auf einer separaten Seite
+Erforderliche Eingabekomponenten immer am Anfang anzeigen
+Zurück zur Administrationsseite
+Es ist ein Fehler im Bericht aufgetreten.
+Es ist ein Fehler im Dokument aufgetreten.
+Maximale Anzahl von Reihen und Kategorien:
+Reihen:
+Kategorien:
+Groß-/Kleinschreibung
+Suchpfad
+Trennzeichen:
+Komma
+Tabulator
+Semikolon
+Leerzeichen
+Filter
+Schablone(n)
+Zurück
+Weiter
+Schritte ## - ### von ####
+Zurück zum Bericht
+Ersten ## Schritte
+Letzten ## Schritte
+oder
+Zurück zur Eingabe
+Zusammenfassung der Eingabeselektion
+Es ist ein Fehler mit den Ordnerinhalten aufgetreten.
+Unbeantwortete Eingabe
+Aktuelle Selektion:
+Eingabe ##
+Die Standard-Selektion ist:
+Dokumente exportieren nach:
+Die Ergebnisse von geplanten Berichtsausführungen werden der Historienliste hinzugefügt.
+Outline
+Der Wert von jeder Einstellung muss kleiner oder gleich dem Wert der darüberliegenden Einstellung sein.
+Druckfähige Version anzeigen
+Persönliche Abonnements
+Liste der Berichtsabonnements anzeigen.
+Abonnieren
+Wählen Sie einen Ablaufplan und definieren Sie die entsprechende Personalisierung, um diesen Bericht zu abonnieren.
+Sind Sie sicher, daß Sie diesen Kanal löschen möchten?
+Mit der folgenden Personalisierung:
+Abonnement hinzufügen
+Sie haben folgende Abos zu diesem Bericht:
+Ablaufplan
+Personalisiert
+Abbestellen
+Bearbeiten
+Abonnements
+Wählen Sie einen Ablaufplan aus:
+Die neue Berichtsdefiniton wird die bestehende Version überschreiben.
+Diese Option ist für alle Benutzer, welche keinen Zugriff auf die Historienliste haben, automatisch aktiviert.
+Sie haben ## ###Abonnement(s)#### für diesen Bericht.
+Auswahl der Einstellung durch den Benutzer
+Zusammenführen
+Wiederholen
+Die SQL-Generierung ist nicht vollständig abgeschlossen.
+Klicken Sie auf "Druckfähige Version anzeigen", um den Bericht im Druckformat anzuzeigen.
+Nicht
+Rang zwischen
+Höchsten ausschließen
+Niedrigsten ausschließen
+Rang nicht zwischen
+Rang gleich
+Rang ungleich
+Berichtsbasisebene
+Berichtsebene
+Standard-Ebene
+Unbekannte Ebene
+Wenn Sie die Berichtsergebnisse anzeigen möchten, so wechseln Sie den Darstellungsmodus auf die Tabellenanzeige. Kontaktieren Sie Ihren Administrator für weiterführende Details.
+Die Tabelleneinstellungen für die maximale Anzahl von Zeilen werden für diesen Bericht ignoriert.
+Zum erneuten Beantworten dieser Eingabeobjekte klicken Sie auf die Verknüpfung "Erneute Eingabe" neben dem Bericht.
+Basismetriken
+Falls "Nein", dann:
+Sie haben derzeit ## ###Abonnement(s)#### für dieses Dokument definiert.
+Diese Spalte entfernen
+Es ist ein Fehler in dem Ordner "Persönliche Abonnements" aufgetreten.
+Sind Sie sicher, daß Sie dieses Abonnement überschreiben möchten?
+Überschreibungsbestätigung
+Folgendes Abonnement wird überschrieben:
+Berichtsgrenzwert:
+Java-Virtual-Machine
+Die Anmeldungsangaben für die Informationsquelle wurden geändert.
+Sie haben derzeit keine Abonnements definiert.
+Projektliste:
+Vor der Anmeldung des Benutzers alle Projekte anzeigen, welche mit dem Web-Server verbunden sind.
+Nach der Anmeldung des Benutzers alle Projekte anzeigen, zu welchen der jeweilige Benutzer Zugang hat.
+Das eingegebene Kennwort ist inkorrekt oder der Benutzername und das Kennwort, die Sie eingegeben haben, haben keinen Zugriff auf derzeit im System verfügbare Projekte.
+Schablone löschen
+Filter löschen
+Information ist nicht verfügbar.
+Schablonendetails:
+Die Schablone wurde erfolgreich gespeichert.
+Der Filter wurde erfolgreich gespeichert.
+Es besteht bereits eine Schablone mit dem gleichen Namen.
+Sie können die bestehende Schablone überschreiben oder die neue Schablone unter einem anderen Namen speichern.
+Es besteht bereits ein Filter mit dem gleichen Namen.
+Sie können den bestehenden Filter überschreiben oder den neuen Filter unter einem anderen Namen speichern.
+Berichte
+Adressen
+Dienste
+Info
+Hilfe
+Ihre Anforderung wird verarbeitet. Bitte warten...
+MicroStrategy Narrowcast Server ist ein Produkt von
+Optionen
+Schnellsuche
+Dienstordner
+Fehlernummer
+Fehlerbeschreibung
+Es ist ein Fehler bei der Anzeige der Ordner aufgetreten.
+Zur übergeordneten Ebene wechseln
+Es ist ein Fehler bei der Anzeige der untergeordneten Ordner aufgetreten.
+Beschreibung:
+Dienst
+Adresse
+Personalisierung
+Metriken
+Änderungen speichern
+Neuer Benutzer
+Benutzername:
+Kennwort:
+Klicken Sie hier unten, um ein neues Benutzerkonto anzulegen.
+Neues Benutzerkonto erstellen
+Adresse auswählen:
+Neue Adresse erstellen
+Es ist ein Fehler auf dieser Seite aufgetreten.
+Es ist ein Fehler beim Laden der Adressen aufgetreten.
+Sie haben keine kompatible Adresse.
+Es ist ein Fehler beim Laden der Ablaufpläne aufgetreten.
+Es stehen keine Abonnements zur Verfügung.
+(Es ist keine Dienstbeschreibung verfügbar)
+Es ist ein Fehler beim Anzeigen der Abonnements aufgetreten.
+Es stehen keine Dienste in diesem Ordner zur Verfügung.
+Es bestehen keine Abonnements für diesen Dienst.
+VERKNÜPFUNGEN
+ANKÜNDIGUNGEN
+Zurück zur Startseite
+Zurück zu den Adressen
+Zurück zu den Berichten
+Zurück zu den Diensten
+Es ist ein Fehler bei der Anmeldung aufgetreten.
+Entweder der Benutzername oder das Kennwort ist nicht korrekt. Wiederholen Sie Ihre Eingabe.
+Entweder der Benutzername oder das Kennwort wurde nicht angegeben. Wiederholen Sie Ihre Eingabe.
+Es ist ein Fehler bei der Verarbeitung der Adresse aufgetreten.
+Wiederholen Sie den Vorgang oder kontaktieren Sie den Administrator.
+Einige Adressinformationen wurden nicht angegeben. Wiederholen Sie Ihre Eingabe.
+Es ist ein Fehler bei der Verarbeitung des Abonnements aufgetreten.
+Es ist ein Fehler beim Anlegen eines neuen Benutzerkontos aufgetreten.
+Das Kennwort stimmt nicht mit der Kennwortbestätigung überein. Wiederholen Sie Ihre Angaben.
+Entweder der Benutzername, das Kennwort, oder der Kennworthinweis wurde nicht angegeben.
+Es ist ein Fehler beim Anlegen eines neuen Benutzerkontos aufgetreten.
+Neuen Benutzer erstellen
+Kennwortbestätigung:
+Kennworthinweis:
+Anforderung abbrechen
+Ihre Anforderung wurde abgebrochen.
+Klicken Sie auf das obere Register, um fortzufahren.
+Es sind keine Adressen erstellt.
+Ablaufpläne werden geladen...
+Adressen werden geladen...
+Dienstinformationen werden geladen...
+Dienste werden geladen...
+Abonnements werden geladen...
+Eingabe wird geladen...
+Abonnements werden aktualisiert
+Adressen werden aktualisiert...
+Neuer Benutzer wird erstellt...
+Benutzeranmeldung wird überprüft...
+Benutzeradressen werden geladen...
+Ordner werden geladen...
+Verarbeitung lauft...
+Kennwortbestätigung:
+Löschbestätigung für die Adresse
+Löschbestätigung für das Abonnements
+Sind Sie sicher, daß Sie die Adresse löschen möchten?
+Sind Sie sicher, daß Sie die Abonnements für die folgenden Dienste löschen möchten?
+Benutzeroptionen
+Ihre Optionseinstellungen wurden gespeichert.
+Sprachunterstützung:
+Java-Script:
+Java-Script verwenden?
+Status:
+Es ist ein Fehler beim Laden der Berichte aufgetreten.
+Es ist ein Fehler bei der Berichtsanzeige aufgetreten.
+Bericht:
+Erstellt am:
+Läuft ab am:
+Berichtsordner
+Wartezustand
+Der Bericht steht derzeit nicht zur Verfügung.
+Es ist ein Fehler beim Laden der Berichte aufgetreten.
+Es ist ein Fehler bei der Berichtsanzeige aufgetreten.
+Anhangdateien
+Bericht wird geladen...
+Dieser Ordner enthält keine Berichte.
+Es sind keine Ablaufpläne für dieses Projekt verfügbar.
+Personalisierung speichern unter:
+Es ist ein Fehler beim Speichern der Personalisierung aufgetreten.
+Es ist ein Fehler beim Speichern der Personalisierung aufgetreten.
+Haben Sie Ihr Kennwort vergessen?
+Geben Sie Ihren Benutzernamen ein und klicken Sie anschließend auf "Kennworthinweis anzeigen".
+Kennworthinweis anzeigen
+Ihr Kennworthinweis ist:
+Es ist ein Fehler beim Laden des Kennworthinweis aufgetreten.
+Es ist ein Fehler beim Laden des Kennworthinweis aufgetreten.
+Zurück zur Anmeldung
+Kennworthinweis wird geladen...
+Benutzerprofil wird aktualisiert...
+Adresse wird geladen...
+Abonnement wird gespeichert
+Geben Sie den Adressnamen an.
+Geben Sie die Adresse ohne die Verwendung der folgenden Zeichen an:
+Geben Sie die Adresse an.
+Geben Sie die Adresse ohne die Verwendung von Leerzeichen oder der folgenden Zeichen an:
+Geben Sie Ihre Adresse im Format Benutzername@domäne.com ein (Beispiel: aschmidt@firma.com).
+Die folgende Datei wurde auf dem Web-Server nicht korrekt registriert: M9StrUtl.DLL. Kontaktieren Sie Ihren Administrator, um weitere Details zu erfahren.
+Vielen Dank für die Benutzung von MicroStrategy Narrowcast Server.
+Es wurde keine Datei an den Web-Server übertragen.
+Dieser Benutzername ist leider bereits vergeben. Geben Sie einen anderen Benutzernamen an.
+Es wird eine ungültige Dateiendung verwendet. Die zulässigen Dateiendungen sind: ##
+Es ist ein Fehler beim Aktualisieren des Benutzerprofils aufgetreten.
+Es ist ein Fehler beim Aktualisieren des Benutzerprofils aufgetreten.
+Das alte Kennwort ist nicht korrekt. Wiederholen Sie Ihre Eingabe.
+Das neue Kennwort stimmt nicht mit der Kennwortbestätigung überein. Wiederholen Sie Ihre Angaben.
+Es ist ein Fehler beim Laden der Daten aufgetreten.
+Es ist ein Fehler beim Laden der XML-Daten aufgetreten. Kontaktieren Sie den Administrator.
+MicroStrategy Narrowcast Server 7.1
+Version
+Kontaktinformationen des Administrators
+Email:
+Telefon:
+Geben Sie einen Hinweis an, welcher Sie an Ihr Kennwort erinnert.
+Die PIN-Angabe stimmt nicht mit der PIN-Bestätigung überein. Wiederholen Sie Ihre Angaben.
+Schablone speichern innerhalb:
+Filter speichern innerhalb:
+Schablone speichern unter:
+Filter speichern unter:
+Berichte
+Schablone
+Filter
+FILTER + SCHABLONE AUSFÜHREN
+Filter ausführen:
+mit Schablone:
+Schablone auswählen:
+Filter auswählen:
+Geben Sie unten die erforderlichen Benutzerinformationen an, um ein neues Benutzerkonto anzulegen.
+Erforderliche Angaben sind mit einem roten Stern (*) markiert.
+Geben Sie Namen und Kennwort für das neue Benutzerkonto ein. Beachten Sie dabei die erneute Eingabe des Kennworts zwecks Bestätigung.
+Geben Sie einen Hinweis zu Ihrem Kennwort an.
+Geben Sie eine Email-Adresse an.
+(z.B.: name@firma.de)
+Alle erforderlichen Benutzerinformationen liegen vor. Klicken Sie auf die untere Schaltfläche "Neues Benutzerkonto erstellen", um fortzufahren.
+Geben Sie die Anmeldungsangaben für die folgenden Projektquellen an.
+Es ist ein Fehler beim Anlegen des neuen Benutzerkontos aufgetreten.
+Folgen Sie den in rot dargestellten Instruktionen und wiederholen Sie den Vorgang.
+Sie haben keinen Hinweis zu Ihrem Kennwort angegeben. Geben Sie diese Angabe ein.
+Kennwörter ändern
+Sie können ein oder mehrere Kennwörter ändern.
+Benutzeranmeldung.
+Alle erforderlichen Benutzerinformationen liegen vor. Klicken Sie auf die untere Schaltfläche "Beenden", um fortzufahren.
+Fertigstellen
+Es ist ein Fehler bei der Kennwortänderung aufgetreten.
+Entweder das alte oder das neue Kennwort ist nicht angegeben. Geben Sie beide Kennwörter in gültiger Form an.
+Filter importieren:
+Zulässige Dateiendungen:
+Hinweis: Trennen Sie die zulässigen Dateiendungen durch Kommas (z.B.: end1, end2, end3).
+Maximale Dateigröße:
+Eingabedetails:
+Geben Sie die erforderlichen Namen und Kennwörter unten an.
+Inhalt(e) anzeigen
+Die spezifizierte Datei überschreitet die maximal zulässige Größe von ## KBytes.
+Achtung: Nicht alle Drill-Pfade sind aufgrund einer Überwachungseinstellung in MicroStrategy Desktop sichtbar.
+Das Datenformat dieser Datei ist nicht geeignet, um die Daten weiterzuverarbeiten.
+Zustellungen
+Bis:
+Klicken Sie links auf den Dokumentnamen, um den zugehörigen Inhalt hier anzuzeigen.
+Zur Berichtsseite senden
+Senden:
+Jede:
+Anmeldung für Dienste
+Auswahl aus einer vordefinierten Liste von Diensten.
+Anzeige der geplanten Berichte.
+Geben Sie Ihre Kontaktinformationen für die Zusendung der Abonnements an.
+Passen Sie die Einstellungen der gewünschten Darstellung und dem verwendeten Browser entsprechend an.
+Abonnieren:
+Abonnement personalisieren
+Personalisieren Sie das Abonnement für diesen Dienst durch Beantwortung der unten aufgelisteten Frage(n).
+Fertiggestellt!
+Um ein Abonnement zu löschen, müssen Sie das zugehörige Kontrollkästchen markieren und anschließend auf "Abbestellen" klicken.
+Um einen Bericht oder ein Dokument aus der Historienliste zu entfernen, müssen Sie das zugehörige Kontrollkästchen markieren und anschließend auf "Entfernen" klicken.
+Ablaufplanung
+ABONNIERTE BERICHTE
+Ihre Sitzung wurde beendet und Sie wurden automatisch abgemeldet. Melden Sie sich bei Bedarf erneut an dem System an.
+Mein Benutzerkonto deaktivieren
+Ihr Benutzerkonto wurde deaktiviert.
+Sind Sie sicher, daß Sie Ihr Benutzerkonto deaktivieren möchten?
+Sobald Sie dieses Benutzerkonto deaktivieren, werden Sie keine Dienste mehr empfangen können oder sich anmelden können. Ihr Konto kann nur vom Portal Administrator reaktiviert werden.
+Wählen Sie eine Sprache aus.
+Aktiviert. (Abonnement wird gemäß dem angegebenen Ausführungsplan versendet)
+Sprache:
+Anmeldungsangaben für die Informationsquelle ändern.
+Anmeldungsangaben ändern
+Bei der Verarbeitung der geänderten Anmeldungsangaben für die Informationsquelle ist ein Fehler aufgetreten.
+A3 29,7 x 42 cm
+SDK-Version:
+MicroStrategy Transactor Server:
+Datei laden
+Kanäle
+Aktiv
+Neuen Kanal hinzufügen
+Aktiver Kanal
+Inaktiver Kanal
+Kanal löschen
+Neuen Kanal erstellen
+Kanal bearbeiten
+Um einen neuen Kanal anzulegen, befolgen Sie folgende Schritte:
+Veröffentlichen Sie einen Ordner für Dienste für diesen Kanal.
+Geben Sie für den neuen Kanal einen Namen an
+Diese Seite künftig nicht mehr anzeigen.
+Seitenname und -beschreibung
+Kanalname:
+Kanalbeschreibung (optional):
+Fehlerquelle
+Wählen Sie die gewünschten Attributelemente aus, welche Sie in der neuen Berichtsansicht beibehalten möchten und klicken Sie anschließend auf die Schaltfläche "Markierten Bereich filtern".
+Sofern Sie keine Auswahl von Attributelementen für den Spalten- oder Zeilenbereich treffen, so bleibt die Berichtsansicht unverändert.
+Filtern
+Bereichsauswahl/-filterung ausblenden
+Bereichsauswahl/-filterung anzeigen
+Berichtsmenü ausblenden
+Berichtsmenü anzeigen
+Dieses Benutzerkonto wurde deaktiviert. Kontaktieren Sie Ihren Administrator, um das Benutzerkonto zu reaktivieren.
+Der Benutzername wurde nicht angegeben. Geben Sie ein gültigen Benutzernamen an.
+Das Kennwort wurde nicht angegeben. Geben Sie ein gültiges Kennwort an.
+Spanisch
+Englisch
+Maximale Anzahl von Elementen für den Import:
+Öffentliche Filter
+Öffentliche Schablonen
+Persönliche Objekte
+Filter von einer Datei importieren:
+Neue Adresse:
+Endgerätetyp
+Umbenennung ...
+Definition ...
+Endgeräteordner
+Endgeräteordner bearbeiten ...
+Umbenennen
+URL mit großen Symbolen:
+URL mit kleinen Symbolen:
+Adressformat:
+Email
+Dies ist das Standard-Format für Email-Adressen im Internet.
+Format: xxxx@xxxxxx.xxx
+Numerisch
+Anzeigefelder:
+Bearbeitungsfelder:
+Adressname
+Adressangabe
+Stil
+PIN
+Zustellungsblock
+Endgerätetypbezeichnung:
+Löschbestätigung für den Endgerätetyp
+Sind Sie sicher, daß Sie den Endgerätetyp '##' löschen möchten?
+Neue Definition
+Definition:
+Verfügbar:
+Selektiert:
+Es sind keine Ordner selektiert.
+Die Filterdefinition als statische Definition speichern.
+Alle Eingabeaufforderungen im Filter speichern
+Die Schablonendefinition als statische Definition speichern.
+Alle Eingabeaufforderungen in der Schablone speichern
+Dieses Eingabeobjekt ermöglicht die Beantwortung über das Warenkorb-Layout oder das Importieren einer Textdatei.
+Sie können nicht die Funktionalität zum Importieren einer Textdatei verwenden, da Sie die DHTML-Funktionalität deaktiviert haben.
+Sie können das Warenkorb-Layout für die Beantwortung des Eingabeobjekts verwenden.
+Dieser Vorgang kann nicht ausgeführt werden, da die Projektdefinition derzeit gesperrt ist.
+Automatische Page-By-Funktion
+Sie können diesen Bericht leider nicht exportieren, da die Grenzwerte für die Maximalanzahl der zulässigen Zeilen bzw. Spalten überschritten sind.
+Das Berichtsergebnis kann im Textformat (z.B. nach MS Excel oder CSV) exportiert werden, indem die entsprechende Option in den Benutzereinstellungen oder im Exportdialog ausgewählt wird.
+Neuen Endgerätetyp erstellen
+Verwenden Sie dieses Format nur für eine Zeichenkette von Zahlen.
+Format: ########
+Es wurden bisher keine Endgerätetypen erstellt.
+PIN-Bestätigung
+Inaktiv
+Geben Sie einen numerischen Wert für die Adresse in dem folgenden Format ein: #########
+Hilfe für:
+Entweder die Benutzerkennung oder das zugehörige Kennwort ist ungültig für eine oder mehrere Informationsquellen. Wiederholen Sie diesen Vorgang erneut.
+Sie haben keine gespeicherten Berichte.
+Wählen Sie einen Ablaufplan für diesen Dienst aus.
+Wählen Sie einen Ablaufplan aus der unteren Liste aus.
+Wählen Sie aus, wohin dieser Dienst geliefert werden soll.
+Um sich anzumelden, befolgen Sie die folgenden Schritte:
+Wählen Sie einen Dienst aus.
+Geben Sie einen Ablaufplan und eine Adresse an.
+Personalisieren Sie den Dienstinhalt (sofern möglich).
+Personalisieren Sie den Dienstinhalt.
+Sie können die folgenden Informationen angeben, um den Inhalt Ihres Abonnements zu personalisieren.
+Wenn Ihr Hinweis Ihnen nicht hilft, sich an Ihr Kennwort zu erinnern, wenden Sie sich an Ihren Administrator, damit er Ihr Kennwort zurücksetzt.
+OK
+Der Vorgang wurde erfolgreich durchgeführt!
+Das Abonnement wurde erfolgreich gespeichert.
+Schriftart:
+Selektionen speichern unter (optional)
+Neue Selektionen tätigen
+Wählen Sie eine zuvor gespeicherte Selektion aus.
+Wählen Sie eine aus:
+Diese Selektionen anwenden
+Die Projektdefinition ## konnte nicht auf dem Intelligence Server ### gefunden werden.
+Ebene:
+(DEAKTIVIERT)
+Kontaktinformationen des Administrators:
+Nach Änderung der DB-Verbindung zum Portal-Repository, müssen Sie die Seiteninformationen erneut konfigurieren.
+Nach Änderung der Lokation der Abonnement-Engine müssen Sie die DB-Verbindung zum Portal-Repository und die Seiteninformationen erneut konfigurieren.
+Nach: ## Tagen.
+Ändern Sie den Namen und die Beschreibung
+Konfiguration
+Konfiguriert?
+DB-Verbindungsname:
+Datenbank-Verbindungen:
+Datenbank-Verbindungen:
+Standard-Endgerät
+Standard-Sprachunterstützung:
+Standard-Sprachunterstützung für neue Benutzer:
+Standard-DHTML-Verwendung:
+Deaktivieren:
+Möchten Sie fortfahren?
+Dokument-Repository:
+Das Anlegen von neuen Benutzerkonten aktivieren:
+Geben Sie den Namen des Servers an, auf welchem die Abonnement-Engine läuft.
+Geben Sie einen eindeutigen Namen und eine Beschreibung für dieses Portal an.
+Oberflächeneinstellungen:
+Informationsquelle:
+Informationsquellen
+Protokollierungsebene:
+Erforderlich:
+Portal-Repository
+DB-Alias für die Metadaten:
+DB-Verbindung für die Metadaten:
+Tabellenpräfix für die Metadaten:
+Verfallsdatum für neue Benutzerkonten:
+Kein Verfallsdatum:
+Am:
+Oder spiegeln Sie eine existierende Seite:
+Telefonnummer:
+Geben Sie an, wie sich Benutzer an den Informationsquellen von diesem Projekt anmelden:
+Portal-Konfiguration:
+Portalendgerät:
+NOT USED
+Objekt-Repository
+Projekteinstellungen:
+Geben Sie Anmeldungsangaben an:
+In letzter Zeit verwendete Lokationen für die Abonnement-Engine:
+Wählen Sie ein anderes Portal aus
+Wählen Sie ein Portal aus
+Wählen Sie eine bereits vorhandene Seitendefinition aus oder klicken Sie auf "Neue Seitendefinition hinzufügen"
+Einstellung
+Portalendgeräte
+Portalinformation
+Seiteneinstellungen
+Subscription-Book-Repository
+Lokation der Abonnement-Engine
+Eigenschaften der Abonnement-Engine
+Tabellenpräfix:
+Verzeichnis für temporäre Dateien:
+Der Portal-Designer von MicroStrategy Narrowcast Server ermöglicht Administratoren die Konfiguration von einem Web-Portal, worüber Endbenutzer einfach und schnell Dienste von MicroStrategy Narrowcast Server abonnieren können.
+Das Portal ist nicht vollständig konfiguriert, so daß Endbenutzer darauf zugreifen können. Folgende Einstellungen müssen zunächst konfiguriert werden:
+Anmeldungsangaben des Projekts verwenden:
+Willkommen zum Portal-Designer von MicroStrategy Narrowcast Server!
+Schriftart für Bericht überschreiben
+Selektieren und priorisieren Sie die Standard-Schriftart für die Web-Oberfläche.
+MicroStrategy Web verwendet die erste Schriftart aus der priorisierten Liste, welche auf der Client-Maschine des Endanwenders verfügbar ist.
+Es wurden noch keine Kanäle für diese Seite definiert.
+Wählen Sie den Kanalordner aus
+Der Wert für die Einstellung ## ist ungültig. Sofern dieser Wert nicht korrekt eingestellt ist, können einige Funktionen des Portal-Designers fehlschlagen.
+Stellen Sie sicher, daß die ID der Datei #1 auf eine gültige Sprachunterstützung im Projekt-Repository zeigen.
+Fahren Sie in der Seite ## fort, um dieses Problem zu beheben.
+Die Standardwerte für ## sind nicht gültig. Stellen Sie sicher, daß die IDs der Datei #1 auf gültige Objekte im Projekt-Repository zeigen.
+Einige oder alle der Standard-## hatten ungültige Definitionen. Stellen Sie sicher, daß die Dienstordner der Datei ## auf gültige Ordner im Projekt-Repository zeigen.
+Bei der Einstellung der Standardwerte ist ein unerwarteter Fehler aufgetreten. Verweisen Sie auf ## für weiterführende Details.
+Eine Seite wurde erfolgreich in den Metadaten erstellt, obwohl einige Fehler aufgetreten sind, während versucht wurde, die Standardwerte zu setzen:
+Die Datenbank-Verbindung "#1" zeigt nicht auf eine Datenbank, welche Tabellen mit dem Präfix "#2" für das Portal-Repository enthält.
+Möchten Sie diese erstellen?
+Metadatentabellen erstellen
+Standard-Seite
+Seite mit Standard-Einstellungen
+Verwenden Sie eine neue Seite:
+Wählen Sie ein Endgerät für das Portal aus
+Wählen Sie ein Standard-Endgerät aus
+Geben Sie einen Namen für die Seitendefinition an.
+Geben Sie einen Namen ohne die folgenden Zeichen an:
+Geben Sie eine Beschreibung ohne die folgenden Zeichen an:
+Geben Sie den Namen der Maschine an, auf welcher die Abonnement-Engine läuft.
+Geben Sie ein Verzeichnis für temporäre Dateien an.
+Geben Sie einen Verzeichnispfad für temporäre Dateien ohne die folgenden Zeichen an:
+Beben Sie einen gültigen Wert für die Anzahl der Tage an:
+Geben Sie den Namen der Maschine ohne die folgenden Zeichen an:
+Wählen Sie ein Endgeräteformat aus.
+Bearbeiten Sie die folgenden Schritte, um das korrekte Endgeräteformat zu finden.
+Wählen Sie eine Endgerätekategorie aus.
+Wählen Sie ein Endgeräteformat aus.
+Klicken Sie auf eine Endgerätekategorie für:
+Klicken Sie auf ein Endgeräteformat für:
+Für diese Endgerätekategorie sind keine Formatierungen verfügbar.
+Das Endgeräteformat konnte nicht gefunden werden.
+Es sind keine Endgeräteformate verfügbar.
+Keine Überprüfung
+Die Adressangabe kann eine beliebige Zeichenkette sein.
+Format: Beliebige Zahlenwerte und die folgenden Zeichen - ( )
+Geben Sie eine gültige Adressangabe in der folgenden Form an: Beliebige Zahlenwerte und die folgenden Zeichen - ( )
+Engine-Konfiguration
+Seitenmanagement
+Wählen Sie eine Datenbank-Verbindung für das Portal-Repository.
+Wählen Sie eine Datenbank-Verbindung für das Objekt-Repository.
+Wählen Sie eine Datenbank-Verbindung für das Objekt-Repository.
+Gleiche Datenbank-Verbindung für das Abonnement-Repository verwenden.
+Neue Datenbank-Verbindung hinzufügen
+Neue Seitendefinition hinzufügen
+Seitendefinition
+Wählen Sie die Seitendefinition aus, welche für diesen Server verwendet werden soll:
+Datenbank
+Sie müssen den Namen der Maschine mit der Abonnement-Engine angeben
+Persönliche Startseite erstellen
+Es ist ein Fehler bei der Erstellung der Startseite aufgetreten.
+Ihre persönliche Startseite ist bisher nicht erstellt worden. Folgen Sie den unten dargestellten Schritten, um diese zu erstellen.
+Wählen Sie einen Titel für die Startseite aus:
+Wählen Sie ein Formatierungsstil für das Seitenlayout:
+Wählen Sie die Komponente aus, welche Sie in dem jeweiligen Abschnitt anzeigen möchten:
+Persönliche Startseite speichern
+Persönliche Startseite anzeigen
+Persönliche Startseite
+Erster Abschnitt:
+Zweiter Abschnitt:
+Dritter Abschnitt:
+Es ist ein Fehler beim Löschen des Benutzerprofils aufgetreten.
+Das Profil kann nicht entfernt werden, da es von mehr als einem Abonnement genutzt wird.
+Es sind keine Informationsquellen für diese Seite definiert.
+Vorhandene Abonnements für diesen Dienst anzeigen
+Portal-Management
+Die folgenden Portale wurden auf diesem Web-Server gefunden:
+Wählen ein Portal aus der unteren Liste aus, um dessen Konfiguration zu ändern.
+Neues Portal erstellen
+Neues Portal erstellen
+Portalname
+Geben Sie den Namen des virtuellen Verzeichnisses an, um ein neues Portal zu erstellen:
+HISTORIENLISTENBESCHREIBUNG
+Geben Sie eine Standard-Adresse an:
+Formatierung: Text oder Ziffern
+Geben Sie eine Adresse in folgendem Format an: Text oder Ziffern.
+Die Seitendefinitionen werden durch ihre eindeutigen Namen und eine Beschreibung voneinander unterschieden.
+Indem Sie jeder Definition einen eindeutigen Namen zuweisen, können Sie herausfinden, welches Portal welche Eigenschaften aufweist, die der Endbenutzer tatsächlich sehen wird, wenn er auf das virtuelle Verzeichnis zugreift.
+Am besten sollten Sie eine ausführliche Beschreibung der Seitendefinition angeben, so daß jeder Designer auf einen Blick die Eigenschaften der Seite erkennt.
+Das Konzept einer "Seitendefinition" beschreibt die Eigenschaften, welche bestimmen, was der Benutzer tatsächlich durch den Browser sieht, wenn er auf die URL eines virtuellen Verzeichnisses zugreift.
+Ein Portal kann eine von vielen Seitendefinitionen nutzen.
+Die folgende Liste enthält Seitendefinitionen, welche im aktuellen Portal-Repository existieren.
+Es ist möglich, daß zwei oder mehrere Portale auf der gleichen oder auf verschiedenen Maschinen auf dieselbe Seitendefinition zeigen.
+Sie können entweder eine bereits bestehende Seitendefinition auswählen oder eine neue erstellen.
+Wählen Sie eine bereits bestehende Seitendefinition aus, die von diesem Server genutzt werden soll oder klicken Sie auf "Neue Seitendefinition hinzufügen".
+Eine Integration mit der Zustellungs-Engine ermöglicht den Benutzern die Angabe einer Dienstpersonalisierung, Ablaufplänen und dem Endgerät, auf welchem Sie die Informationen erhalten möchten.
+Der Portal-Designer erlaubt Administratoren die Standardeinstellungen, wie z.B. Sprachunterstützung und DHTML-Nutzung, anzugeben.
+Als Portal-Designer haben Sie folgende Aufgaben:
+Konfiguration und Management des Portals, um Endbenutzern das Abonnieren von einer Vielzahl von Diensten über das Web zu ermöglichen.
+Datenquellen und Portallayout konfigurieren
+Dienste und Endgeräte veröffentlichen.
+Wählen Sie Standard-Endgeräte für das Portal aus.
+Geben Sie die Eigenschaften der Informationsquelle und die Standard-Einstellungen für das Portal an:
+Der Portal-Designer ermöglicht folgende Funktionen:
+Konfiguration der Abonnement-Engine
+Auswahl oder Bearbeitung der Portalkonfiguration
+Auswahl oder Erstellung der Seitendefinition
+Konfiguration von statischen und dynamischen Dienstangeboten.
+Klicken Sie auf "Weiter", um mit dem Vorgang zu beginnen.
+Das Objekt-Repository enthält Informationen, Dienste und Endgerätedefinitionen für die Ablaufplanung.
+Die folgende Tabelle enthält bestehende Datenbank-Verbindungen, in welchen Daten gespeichert werden können.
+Sie können eine bereits bestehende Verbindung auswählen oder einen neuen Alias im aktuellen Portal-Repository erstellen.
+Für weiterführende Informationen über Datenbank-Aliase lesen Sie die Infodatei, welche mit der Software mitgeliefert wird.
+Falls die gleiche DB-Verbindung für das Abonnement-Repository genutzt werden soll, selektieren Sie das Markierungsfeld und Sie werden direkt zum Kanaldialog weitergeleitet.
+Das Abonnement-Repository speichert Abonnementinformationen über Benutzer, Adressen und Personalisierungsprofile.
+Eine typische Installation wird die Abonnement-Engine auf derselben Maschine (d.h. lokaler Host) installieren.
+Das Portal-Repository speichert Konfigurationseinstellungen, welche das Layout der Portaloberfläche für den Endbenutzer definiert.
+Diese Informationen beinhalten:
+Seitennamen und -beschreibungen
+Kanaleinstellungen
+Veröffentlichte Dienste
+Endgeräteordner
+Standard-Einstellungen
+Der Datenbank-Alias wird benutzt, um die Datenbank-Verbindung für die Abonnement-Engine zu definieren. Dadurch kann die Abonnement-Engine die vom Portal generierten Abfragen ausführen.
+Sie können einen bereits bestehenden Datenbank-Alias auswählen oder einen Neuen erstellen
+Wählen Sie einen bestehenden Datenbank Alias aus, wo sich die Metadaten für die Portaldefinition befinden.
+Der Seiten-Management-Assistent unterstützt Sie bei der Konfiguration der Seitendefinitionen.
+Die Seitendefinition enthält die Liste der Eigenschaften, Konfigurationen und Einstellungen, welche von einem Portal genutzt werden um das Layout und den Inhalt zu definieren, welche dem Endbenutzer angezeigt wird.
+Der Assistent beinhaltet folgende Themen:
+Auswählen, bearbeiten und erstellen einer Seitendefinition
+Dienste für die Seitendefinition publizieren
+Auswahl, Bearbeitung und Publizierung von Endgerätetypen
+Eigenschaften für das Informationsquellenmodul spezifizieren
+Standard-Einstellungen für die Seitendefinition
+Der Portal-Management-Assistent unterstützt Sie bei der Erstellung und Modifikation einer Portalkonfiguration.
+Portalerkennung und -berarbeitung
+Neues Portal erstellen
+Das Konzept von einem "Portal" bezieht sich auf die installierten ASP-Seiten/-Dateien auf der Web-Server-Maschine und dem virtuellen Verzeichnis, welches auf diese Dateien verweist.
+Die folgenden Portale sind auf diesem Web-Server erkannt worden.
+Wählen Sie das Portal aus, mit welchem Sie arbeiten möchten.
+Klicken Sie auf "Entfernen", um das Portal aus der Liste der verfügbaren Optionen zu entfernen.
+NOT USED
+Derzeit existiert keine Portaldefinition, welche entsprechend Ihrer Spezifikationen konfiguriert ist. Sie können eine neue Portaldefinition erstellen, indem Sie einen Portalnamen und die zugehörige Lokation angeben.
+Die folgende Liste einhält Seitendefinitionen, welche bereits im Portal-Repository angelegt sind. Es ist möglich, daß einige Seitendefinitionen auf der gleichen Maschine oder auf verschiedenen Maschinen zur gleichen Seitendefinition zeigen.
+Sie können eine bereits bestehende Seitendefinition auswählen oder eine neue Seitendefinition erstellen.
+Die Definition eines neuen Kanals besteht aus einer Ordnerdefinition und der Verknüpfung mit bestehenden Diensten, der Zuordnung eines Namens und einer Beschreibung für die Publizierung innerhalb des Portals.
+Wählen Sie einen Ordner aus der unteren Liste und klicken Sie auf "Weiter".
+Die Publizierung eines neuen Kanalordners bedeutet, daß der gesamte Ordnerinhalt publiziert wird. Stellen Sie sicher, daß der Name und die Beschreibung des Kanalordners den zugehörigen Inhalt widerspiegeln..
+Eine Beschreibung, obwohl optional, kann eingegeben werden um eine bessere Vorstellung davon zu geben, für was dieser Kanal am besten geeignet ist.
+Es gibt ein Markierungsfeld, welches anzeigt, ob der Kanal und dessen Eigenschaften für den Endbenutzer verfügbar sind.
+Kanalname und -beschreibung
+Ein Endgerät ist ein bestimmtes Mittel um Abonnements zum Endbenutzer zu liefern. Jede Adresse, die ein Benutzer im Portal erstellt, ist so konstruiert, daß diese nur ein Endgerät, wie z.B. MS Outlook 98 oder MS Outlook 2000, verwendet.
+Ein Endgerätetyp repräsentiert eine Gruppierung von Endgeräten über Welche die Endbenutzer Informationen empfangen bzw. abrufen. Bei der Erstellung einer neuen Seitendefinition werden Standard-Endgerätetypen automatisch zugeordnet.
+Endgerätetypen:
+Persönliche Digitale Assistenten
+Mobiltelefone
+Funkrufempfänger
+Email
+Diese Standard-Endgerät wurden bei der Installation des Portal-Designers erstellt.
+In diesem Assistenten sind folgende Funktionen verfügbar:
+Umbenennung eines Endgerätetyps
+Bearbeitung einer Endgerätetypdefinition
+Definition der Portalunterstützung für Endgerätetypen
+Bearbeitung des Endgerätetypordners
+Erstellung eines neuen Endgerätetyps
+Sie müssen für jede neue Definition von einem Endgerätetyp den Namen, die URL für die grafischen Symbole, das Adressenformat und Feldinformationen für die Anzeige spezifizieren..
+Dieser Dialog ermöglicht Ihnen das Hinzufügen oder Entfernen von Ordnerelementen für diesen Endgerätetyp.
+Die Elemente auf der linken Seite sind für diesen Endgerätetyp verfügbar, jedoch nicht aktiviert. Die Elemente auf der rechten Seite stehen zur aktiven Benutzung zur Verfügung.
+Ein Endgerät ist in diesem Kontext ein Kommunikationsmedium, um Informationen zum Endanwender bzw. Abonnenten zu übermitteln. Die eingestellten Standard-Einstellungen beziehen sich auf einen Email-Client und ein Portalendgerät.
+Klicken Sie auf das entsprechende Endgerät, um die Auswahl zu ändern.
+Sie müssen für jede Informationsquelle definieren, ob der Endbenutzer Anmeldungsinformationen (Kennung und Kennwort) angeben muss.
+Bei der Verwendung der Projektanmeldung wird der Endbenutzer direkt (ohne Anmeldungsaufforderung) zu den angeforderten Informationen geleitet.
+Es besteht die Option, daß die Angabe von Anmeldungsinformationen für den Benutzer erforderlich oder optional ist.
+Die Standard-Einstellung berechtigt den Benutzer nicht die Angebe von Anmeldungsinformationen für beliebige Informationsquellen.
+Sie müssen die Anforderung anpassen, sofern Sie Anmeldungsinformationen anwenden möchten.
+Wählen Sie die Einstellungen für die übrigen Seiteneigenschaften.
+Über diese Seiteneinstellungen können Sie steuern wie die Standard-Benutzeroberfläche des Portals dargestellt wird.
+Herzlichen Glückwunsch! Sie haben dieses Portalseite erfolgreich definiert!
+Klicken Sie auf die Schaltfläche "Beenden", um die Anmeldungsseite für dieses Portal aufzurufen.
+Wenn Änderungen vorgenommen werden müssen, konfigurieren Sie die Site-Definition oder die Einstellungen mit der Portal-Management-Funktion des Portal Designer neu.
+Ursprung
+Portal
+Administration
+Benutzer-IP-Adresse
+Es ist ein Fehler bei der Erstellung des Abonnements aufgetreten.
+Stellen Sie sicher, daß Sie ein Standard-Profil für das Eingabeobjekt definiert haben.
+Es ist ein Fehler beim Laden des Eingabeobjekts von MicroStrategy Narrowcast Server aufgetreten.
+Ablaufverfolgung
+Information
+Warnung
+Folgende Standard-Einstellungen verwenden
+Sitzungsvariablen
+Zugeordnete Seite
+Entfällt
+Geben Sie einen Namen für das Portal an.
+Sind Sie sicher, daß Sie dieses Endgerät löschen möchten?
+Sind Sie sicher, daß Sie dieses Portal löschen möchten?
+Sind Sie sicher, daß Sie dieses Seite löschen möchten?
+Geben Sie einen Namen für den JData Connect Server an
+Geben Sie einen Namen für die DB-Verbindung an
+Geben Sie einen Namen für die ODBC-Datenquelle an
+DB-Verbindung hinzufügen
+ODBC-Datenquellenname:
+Möchten die Datenbank-Verbindung testen?
+Übersicht
+Die ausgewählte Seitendefinition verwendet eine ungültige Datenbank-Alias-Definition für das Abonnement-Repository. Überprüfen Sie die Seitendefinition und die zugehörige DB-Verbindung oder wählen Sie eine andere Seitendefinition aus.
+Die Tabellen für das Abonnement-Repository existieren bereits, jedoch in einer ungültigen Version. Überprüfen die Definition des Tabellenpräfix.
+Die Datenbank-Alias-Definition für das Objekt-Repository ist ungültig. Überprüfen Sie die entsprechende Definition.
+Die Tabellen für das Objekt-Repository existieren bereits, liegen jedoch nicht in der korrekten Version vor.
+Die Datenbank-Verbindung für die Repository-Tabellen ist ungültig. Überprüfen Sie die entsprechende Definition oder geben Sie eine andere DB-Verbindung an.
+Die Tabellen existieren bereits, jedoch in einer ungültigen Version. Überprüfen die Definition des Tabellenpräfix.
+Es ist ein Fehler beim Verbindungsaufbau zu den Portal-Metadaten aufgetreten. Überprüfen Sie Ihre Angaben für die Verbindungsdefinition.
+Es ist ein Fehler beim Speichern der DB-Alias-Verbindung aufgetreten.
+Ein unerwarteter Fehler ist bei der Erstellung der neuen DB-Alias-Verbindung aufgetreten.
+Derzeit sind keine Datenbank-Verbindungen definiert.
+Diese Seite ermöglicht Ihnen die Erstellung oder Bearbeitung von neuen Kanälen für diese Seitendefinition.
+Geben Sie einen Namen für den Kanal an.
+Wählen Sie die Endgeräte aus, welche durch diese Seite unterstützt werden.
+Wählen Sie das Standard-Endgerät aus, welches für neue Adressen verwendet werden soll und das Standard-Portalendgerät für die Versendung von Diensten zur Portalseite "Persönliche Berichte".
+Wählen Sie die Werte für die übrigen Seiteneigenschaften aus.
+Dienstkonfiguration
+Statische Abonnements
+Dynamische Abonnements
+Speicher
+Selektieren Sie eine alternative Eingabe
+Das Portal publiziert die Dienste in die entsprechend ausgewählten Ordner. Manche Dienste müssen unter Umständen zusätzlich konfiguriert werden.
+Spezifizieren die Standard-Konfiguration für die unten aufgelisteten Dienste.
+Klicken Sie auf die untere Schaltfläche #, um einen Dienst individuell zu konfigurieren.
+Dienste konfigurieren
+Statische Abonnementmengen
+Dynamische Abonnementmengen
+Page-By-Eingabeaufforderung für die Abonnenten ausblenden
+Page-By-Eingabeaufforderung beantworten mit:
+Unkonfigurierte Abonnementmengen für die Abonnenten ausblenden
+Der Portal-Designer von MicroStrategy Narrowcast Server ermöglicht die Konfiguration des Datenspeichers für Abonnementdefinitionen auf Dienstebene.
+Sie werden aufgefordert den Dienst auszuwählen, welchen Sie konfigurieren möchten und anschließend werden die zugeordneten statischen und dynamischen Abonnementmengen für diesen Dienst angezeigt.
+Sie müssen für den ausgewählten Dienst die Eingabeaufforderung für statische und dynamische Abonnementmengen konfigurieren.
+Sie können zusätzliche Eingabeaufforderungen hinzufügen, um weitere Informationen von den Abonnenten einzusammeln.
+Bei der Verwendung von dynamischen Abonnementmengen, müssen Sie den Datenspeicher für die Abonnementdefinitionen definieren.
+Sie haben die folgenden Dienste bisher konfiguriert. Klicken Sie auf "Bearbeiten",  um die bestehende Konfiguration zu bearbeiten oder klicken Sie auf den Ordnernamen, um andere Dienste innerhalb des Ordners zu konfigurieren.
+Klicken Sie unten auf #, um einen weiteren Dienst zu konfigurieren.
+Mit diesem Dienst sind ein oder mehrere statische Abonnementmengen verknüpft. Die Abonnenten in diesen Abonnementmengen werden im Abonnement-Repository gespeichert.
+Standard-Einstellungen für statische Abonnementmengen
+Klicken Sie unten, um eine einzelne Konfiguration für alle statischen Abonnementmengen zu definieren. Diese Standard-Einstellung wird für alle Abonnementmengen von diesem Dienst verwendet.
+Konfiguriert:
+Konfigurieren
+Statische Abonnementmengen individuell konfigurieren
+Klicken Sie auf die Verknüpfung "Konfigurieren", um eine statische Abonnementmenge individuell zu konfigurieren. Sämtliche Abonnementmengen, welche nicht individuell konfiguriert worden sind, verwenden die Standard-Einstellungen.
+Dieser Dienst enthält keine statischen Abonnements.
+Die Page-By-Eingabeaufforderungen werden nicht den Abonnenten angezeigt. Sie können jedoch eine alternative Eingabeaufforderung auswählen, welche den Abonnenten angezeigt wird.
+Wählen Sie aus der unteren Liste ein Eingabeobjekt aus.
+Selektieren Sie die Lokation für die Antworten für diese Eingabeaufforderung.
+Sie können entweder:
+# verwenden
+Oder einer der folgenden Speicherzuordnungen verwenden:
+Tabellen
+Neue Speicherzuordnung hinzufügen
+Löschen
+Wählen Sie die Tabellen aus in welchen die Information gespeichert werden soll.
+Data Warehouse:
+Wählen Sie die Datenbank-Verbindung aus
+Spalten filtern nach:
+Verfügbare Tabellen:
+Ausgewählte Tabellen:
+Wählen Sie die Tabellenspalten aus in welchen die Information gespeichert werden soll.
+Fügen Sie per Drag und Drop die Komponenten von der linken Seite zu den Tabellenspalten auf der rechten Seite hinzu.
+Eingabeantwortkomponenten
+Allgemein:
+Abonnementkomponenten
+Konfiguration läuft:
+Standard-Dienstkonfiguration
+Sie haben ausgewählt den oben dargestellten Dienst zu bearbeiten. Sie können entweder die unten aufgeführten Standard-Einstellungen verwenden oder Sie spezifizieren weitere Einstellungen für individuelle Abonnementmengen in den nächsten Schritten.
+Standard-Diensteinstellungen
+Page-By-Eingabeaufforderungen
+Zusätzliche Eingabeaufforderungen
+Sie können den Abonnenten zusätzliche Eingabeaufforderungen anzeigen, indem Sie die unteren Einstellungen bearbeiten.
+Dieser Dienst enthält die folgende Page-By-Eingabeaufforderung:
+Sie haben definiert diese Eingabeaufforderung anzuzeigen:
+als Ersatz für diese Page-By-Eingabeaufforderung:
+Warehouse-Speicher
+Auswahl ändern
+Zugehörige Verknüpfungen
+Diesen Dienst erneut abonnieren
+Einen anderen Dienst abonnieren
+Alle Abonnements anzeigen
+Selektieren Sie ein Profil für diese Eingabeaufforderung.
+JData Connect Server-Name
+Sie haben erfolgreich ein Benutzerkonto eingerichtet.
+Falls Sie Ihr Kennwort vergessen haben sollten, so können Sie diesen Kennworthinweis anzeigen, um auf das korrekte Kennwort zurückzuschließen.
+Alle Datenwerte als Text exportieren
+Dienstauswahl
+Speicherauswahl
+Tabellenauswahl
+Spaltenauswahl
+Abonnementmenge konfigurieren
+Eingabeauswahl
+Dienstkonfiguration beenden
+Wählen Sie den Dienst aus, welchen Sie bearbeiten möchten.
+Eingabe
+Publikation(en)
+Standard-Einstellungen für dynamische Abonnementmengen
+Mit diesem Dienst sind ein oder mehrere dynamische Abonnementmengen verknüpft. Die Abonnenten in diesen Abonnementmengen werden im Warehouse über die Speicherzuordnung gespeichert.
+Diese Speicherzuordnung speichern unter:
+Klicken Sie unten, um eine einzelne Konfiguration für alle dynamischen Abonnementmengen zu definieren. Diese Standard-Einstellung wird für alle Abonnementmengen von diesem Dienst verwendet.
+Dynamische Abonnementmengen individuell konfigurieren
+Klicken Sie auf die Verknüpfung "Konfigurieren", um eine dynamische Abonnementmenge individuell zu konfigurieren. Sämtliche Abonnementmengen, welche nicht individuell konfiguriert worden sind, verwenden die Standard-Einstellungen.
+Zusätzliche Eingabe
+Die ausgewählte Eingabeaufforderung kann nicht in der Portaldefinition verwendet werden.
+Wechseln Sie zur vorherigen Seite zurück und wählen Sie eine andere Eingabeaufforderung aus.
+Die ausgewählte Eingabeantwort kann entweder im Abonnement-Repository gespeichert werden oder über eine Speicherzuordnung in einer anderen Lokation.
+Das Speichern der Eingabeantwort im Abonnement-Repository speichert sämtliche  Informationen innerhalb des Abonnement-Repository.
+Das Speichern über eine Speicherzuordnung erstellt eine Einstellungs-ID für die Eingabeaufforderung im Abonnement-Repository und die Eingabeantwort in der definierten Lokation der Speicherzuordnung.
+Die ausgewählte Eingabeantwort wird über die Speicherzuordnung gespeichert.
+Das Speichern der Eingabeantwort über eine Speicherzuordnung erstellt eine Einstellungs-ID für die Eingabeaufforderung im Abonnement-Repository.
+Wählen Sie die Speicherzuordnung, welche in Verbindung mit dieser Eingabeaufforderung verwendet werden soll:
+Datenbank-Verbindung
+Individueller Wert:
+Individuell
+Eingabeaufforderung hinzufügen:
+Durchsuchen
+Antwort auf eine weitere Eingabeaufforderung:
+Speicherzuordnung der Abonnementmenge
+Neue Speicherzuordnung für
+Dieser Dienst beinhaltet keinerlei dynamischer Abonnementmengen.
+Übersicht der Seiteneinstellungen
+Übersicht der Portalkonfiguration
+Geben Sie den Maschinennamen an, sofern diese auf einer anderen Maschine installiert worden ist.
+Seitendefinition
+Definieren Sie die Datenbank-Verbindung
+Personalisieren Sie den Dienstinhalt. Auf den folgenden Seiten können Sie den Dienstinhalt durch die Beantwortung der Eingabeaufforderungen personalisieren. Klicken Sie auf "Weiter", um fortzufahren..
+Übersicht der Seiteneinstellungen
+Ein Kanal ist ein sichtbares Element innerhalb des Portals. Sie präsentiert die Projektinformation so, daß die Navigation für den Benutzer erleichtert wird.
+Jeder Kanal ist zu einem Dienstordner im Objekt-Repository zugeordnet.
+Es ist ein Fehler beim Verbindungsaufbau zur Abonnement-Engine aufgetreten. Entweder ist der Server-Name ungültig oder die Abonnement-Engine ist auf diesem Server nicht in Betrieb. Überprüfen Sie Ihre Angaben und wiederholen Sie diesen Vorgang.
+Die Definition eines neuen Kanals erfordert die Auswahl eines Ordners aus dem Objekt-Repository. Wählen Sie den Kanalordner aus, welcher angezeigt werden soll.
+Dieser Dienst enthält keine Page-By-Eingabeaufforderungen.
+Übersicht der Dienstkonfiguration
+Konfiguriert
+Es ist ein Fehler bei der Überprüfung der Datenbank-Verbindung aufgetreten.  (#)  Überprüfen Sie die Definition der Datenbank-Verbindung und wiederholen Sie diesen Vorgang.
+Die Datenbank-Verbindung zur Abonnement-Engine konnte nicht eingerichtet werden.
+Die angegebene Datenbank-Verbindung ist nicht korrekt.
+Warnung!  Sofern Sie diese Datenbank-Verbindung löschen, werden automatisch alle Objekte (z.B. Objekt-Repository, Speicherzuordnungen, etc.) ungültig, welche diese verwenden.
+Falscher Datenquellenname
+Möchten Sie '#' löschen?
+Datenbank-Verbindung löschen
+-- Wählen Sie eine Datenbank-Verbindung aus --
+Einstellungs-ID für: #
+Eingabeantwort für: #
+Das Benutzerkonto existiert nicht.
+Wählen Sie einen Titel für die Startseite aus
+Persönliche Startseite erstellen
+CSV-Dateiformat
+Es ist ein Fehler bei der Erstellung der Startseite aufgetreten.
+Metrikwerte als Text exportieren (nur Excel)
+Erster Abschnitt:
+Dieser Bericht kann nach MS Excel in Text- oder CSV-Format exportiert werden. Diese Option kann entweder in den Exporteinstellungen ausgewählt werden, oder direkt beim Exportieren.
+Maximale Anzahl von Exportspalten für MS Excel:
+Maximale Anzahl von Exportzeilen für MS Excel (Text- oder CSV-Format):
+Persönliche Startseite speichern
+Zweiter Abschnitt:
+Persönliche Startseite anzeigen
+Wählen Sie ein Formatierungsstil für das Seitenlayout:
+Wählen Sie die Komponente aus, welche Sie in dem jeweiligen Abschnitt anzeigen möchten:
+Dritter Abschnitt:
+Ihre persönliche Startseite ist bisher nicht erstellt worden. Folgen Sie den unten dargestellten Schritten, um diese zu erstellen.
+Persönliche Startseite
+Zwischenspeicherfunktion
+Startseite
+Übersichtsseite für personalisierte Dienste anzeigen:
+Bericht
+Dokument
+PDF
+Größe des Diagramms anpassen
+Tabelle und Diagramm auf gleiche Seite exportieren
+Maximale Spaltenanzahl für den Datenexport
+Maximale Zeilenanzahl für den Datenexport
+Eingabehilfe-Modus:
+Kompatibilität mit Screen Reader aktivieren
+Navigation überspringen
+Aufsteigend
+Absteigend
+Sortierung löschen
+Sortieren...
+Verschieben
+In den Zeilenbereich
+In den Spaltenbereich
+In Seitenachse
+Links
+Rechts
+Neu...
+Speichern unter...
+Seite einrichten
+Übergeordneten Ordner durchsuchen
+Senden an
+Ansicht
+Design-Modus
+Tabellenansicht
+Diagrammansicht
+Tabelle und Diagramm
+Zurücksetzen
+Seitenachse
+Formel
+Objektauswahl
+Funktionsleisten
+Daten
+Benutzergruppe
+Zwischensummen
+Attributanzeige
+Aliase...
+Einheit hinzufügen
+Daten zurücksetzen
+Erneute Eingabe
+Formatierung
+Erweiterte Formatierung...
+Spaltenköpfe zusammenführen
+Gitternetzstil
+Formatierung zurücksetzen
+Fenster
+Berichtsdetails
+In dieser Tabelle werden die angeforderten Berichtsergebnisse angezeigt.
+In dieser Tabelle werden die angeforderten Ordnerinhalte angezeigt.
+Kopf- und Fußzeile:
+Berichtseinstellungen verwenden
+Benutzerdefinierte Einstellungen verwenden
+(bearbeiten)
+Editor für Kopf-/Fußzeile
+Kopfzeile:
+Fußzeile:
+Links:
+Zentriert:
+Rechts:
+Abonnierte Berichte anzeigen
+Abonnierte Berichte ausblenden
+Verwandte Berichte anzeigen
+Verwandte Berichte ausblenden
+'Filter + Schablone ausführen' anzeigen
+'Filter + Schablone ausführen' ausblenden
+Historienliste anzeigen
+Historienliste ausblenden
+Suchhinweise anzeigen
+Suchhinweise ausblenden
+LDAP-Authentifizierung
+Datenbank-Anmeldung
+Kopfzeilen als Text exportieren (nur Excel)
+Benutzeranmeldung verschlüsseln
+Berichtsobjekte
+Alle Objekte
+Im MicroStrategy Intelligence Server ## wurde das konfigurierte Nutzungslimit des Hauptspeichers überschritten. Benachrichtigen Sie Ihren Administrator.
+Schriftart anpassen auf
+der ursprünglichen Größe
+Januar
+Februar
+März
+April
+Mai
+Juni
+Juli
+August
+September
+Oktober
+November
+Dezember
+S
+M
+D
+M
+D
+F
+S
+Berichte
+Dokumente
+Diese Eingabe erfordert einen Eingabewert zwischen ## und ### Zeichen.
+Diese Eingabe erfordert einen Eingabewert von mindestens ## Zeichen.
+Diese Eingabe erfordert einen Eingabewert von höchstens ## Zeichen.
+Diese Eingabe erfordert einen Eingabewert von genau ## Zeichen.
+Dynamisches HTML:
+Zur Historienliste hinzufügen
+Berichtsfilter
+Anzeigefilter
+Zeilen/Spalten hinzufügen
+Bedingung für Anzeigefilter hinzufügen...
+Definition:
+Startseite
+BERICHTSFILTER
+ANZEIGEFILTER
+DETAILS ZU BERICHTSFILTER
+Filter
+Schaltflächen für die Pivotierung Anzeigen
+Bedingung hinzufügen
+Ausblenden
+Änderungen automatisch übernehmen
+Details zu Berichtsfilter
+PDF-Optionen
+Export in PDF nicht möglich.
+Sie können diesen Bericht nicht in eine PDF-Datei exportieren, da die vom Administrator festgelegte maximale Anzahl von Spalten und Zeilen, die in eine PDF exportiert werden können, überschritten wurde.
+Benutzeroption angeben
+Beim Export in PDF Optionen anzeigen
+Seitenzahl einfügen
+Seitenanzahl einfügen
+Datumsangabe einfügen
+Zeitangabe einfügen
+Projektnamen einfügen
+Berichtsnamen einfügen
+Schablonennamen einfügen
+Filternamen einfügen
+Berichtswerte laden
+ERGEBNISSE
+DRILL - Erweitert
+Drill-Funktion
+Sortieren
+Abonnements
+Markierten Bereich filtern
+SEITENACHSE
+Bericht ausführen
+Keine
+Zur Tabelle hinzufügen
+Zur Filterdefinition hinzufügen
+- Keine -
+Objekte:
+Ordner:
+Formatierung
+Schriftart
+Zahl
+Rahmen
+Ausrichtung
+Übernehmen
+Alle Zwischensummen
+Kopfzeile
+Namen der Zwischensummen
+Zwischensummenwerte
+Beispiel:
+ABCabc
+Effekte
+Fett:
+Kursiv:
+Unterstrichen:
+Durchgestrichen:
+Typ
+Negative zahlenwerte
+Kategorie:
+Dezimalstellen
+Währungssymbol
+Wahrungsposition
+er-Trennzeichen
+Festkomma
+Währung
+Datum
+Prozentwert
+Bruch
+Wissenschaftlich
+Individuell
+Keine
+Alles
+Linie
+Farbe:
+Oben:
+Unten:
+Füllfarbe
+ABCabc ABC abc
+Textausrichtung
+Horizontal
+Zentriert
+Blocksatz
+Vertikal
+Zeilenumbruch
+Dieser Diagrammtyp unterstützt keine Legenden.
+Allgemein
+Titel
+Achsen
+F
+K
+U
+D
+Diagrammtyp:
+Legende anzeigen:
+Datenwerte anzeigen:
+Titel der Reihenachse anzeigen
+Titel der Y-Achse anzeigen
+Titel der Kategorieachse anzeigen:
+Titel der X-Achse:
+Titel der Y1-Achse anzeigen:
+Titel der Y2-Achse anzeigen:
+Werte der Reihenachse anzeigen
+Werte der Y-Achse anzeigen
+Werte der Gruppenachse anzeigen
+Werte der Kategorieachse anzeigen
+Werte der X-Achse anzeigen
+Werte der Y1-Achse anzeigen
+Werte der Y2-Achse anzeigen
+Titel anzeigen:
+Untertitel anzeigen:
+Fußnote anzeigen:
+Manuelle Einstellung verwenden für:
+Maximalwert:
+Minimalwert:
+Tabellenintervall:
+Schließen
+PAGE-BY:
+Pfad für Objekt-Browser auswählen
+Dynamische Gruppierung
+Konsolidierung
+## Element(e) gefunden
+Abonnieren...
+Drucken...
+Exportieren...
+PDF...
+Berichtsobjekte hinzufügen...
+Drill-Funktion...
+Markierten Bereich filtern...
+Diagramm...
+Formatierung
+Bericht
+Gesamt-/Zwischensummen anzeigen
+Alles löschen
+Normal
+Gesamt
+Durchschnitt
+Zählung
+Geometr. Mittel
+Maximum
+Median
+Minimum
+Modus
+Produkt
+Standard-Abweichung
+Summe
+Abweichung
+Individuell:
+Alle Zwischensummen
+Nur Gesamtsummen
+Keine
+Bandfärbung anzeigen
+Gesamtsummen
+Bericht speichern
+Abbrechen
+Per Ziehen zum Bericht hinzufügen
+Weitere Optionen über Rechtsklick
+Übernehmen
+Format übernehmen
+Dokumentdetails
+Objekt per Ziehen pivotieren
+Bericht bearbeiten
+Attribut
+Attribut:
+Dynamische Gruppierung:
+Filter
+Filter:
+Metrik
+Metrik:
+Konsolidierung:
+Hinzufügen
+Suchen:
+1. Sortierung nach:
+2. Dann nach:
+3. Dann nach:
+- Sortierung auswählen -
+Aufsteigend
+Absteigend
+Übernehmen
+Abbrechen
+Rechts
+Links
+Rechts
+Links
+Zeit
+Standard
+Schriftart:
+Links:
+Rechts:
+Werte
+Abbrechen
+Schließen
+Größe
+Schriftart auswählen
+Nein
+Ja
+Rechts mit Leerzeichen
+Links mit Leerzeichen
+Spaltenachse
+Zeilenachse
+Füllfarbe
+Textfarbe
+Dezimalstellen verringern
+Dezimalstellen erweitern
+Trennzeichen
+Prozentformat
+Währungsformat
+Zentriert
+Links
+Rechts
+Ausdruck nicht unterstützt
+Ausdruck kann nicht formatiert werden.
+Wert eingeben...
+Attribute...
+Filtern von
+Oder
+ist NULL
+ist nicht NULL
+Nicht in
+Nach rechts verschieben
+Nach links verschieben
+Nach oben verschieben
+Nach unten verschieben
+Leere Liste
+Leer
+Name:
+Neue Metrik einfügen...
+Neue Metrik
+Aus Tabelle entfernen
+Erweiterte Formatierung...
+*Remove from Report*
+Sortieren
+Hinzufügen >
+in der Liste enthalten
+nicht in der Liste enthalten
+Dropdown-Menüs:
+Übernehmen
+Abbrechen
+Bedingung entfernen
+Kennwort ist abgelaufen
+Einige Projekte werden nicht angezeigt.
+Zur Anzeige einiger Projekte müssen Sie Ihr Kennwort ändern.
+Hinweis: Wenn Sie das Kennwort geändert haben, müssen Sie sich erneut anmelden.
+Unicode-Zeichensatz verwenden
+Zustellungen...
+4/7
+04/07
+4/7/98
+04/07/98
+04/07/1998
+7-Apr
+7-Apr-98
+Apr-98
+Apr '98
+April 1998
+4/7/98 15:41
+4/7/98 3:41 PM
+April 7, 1998
+15:41
+3:41 PM
+15:41:46
+3:41:46 PM
+04/07/98 3:41 PM
+Jetzt senden...
+04/07/98 15:41
+Bericht erneut übermitteln
+Die vorgenommene Page-By-Auswahl ist nicht vorhanden. Mögliche Ursache: das Warehouse wurde aktualisiert.
+Treffen Sie hier Ihre Auswahl, um automatisch gültige Page-By-Kriterien zu bestimmen.
+Das Eingabeobjekt kann in MicroStrategy Web nicht angezeigt werden. Die Standard-Antwort wird für die Berichtsausführung verwendet.
+Das Eingabeobjekt kann in MicroStrategy Web nicht angezeigt werden. Da keine Standardantwort mit diesem Bericht verknüpft ist, kann er möglicherweise nicht ausgeführt werden.
+Oben
+Unten
+Keine
+Gestrichelt
+Gepunktet
+Extra dünn
+Dünn
+Mittel
+Breit
+Zahl [Double]
+Schwarz
+Dunkelblau
+Blau
+Hellblau
+Graublau
+Grün
+Grau - 60 %
+Grau - 50 %
+Grau - 25 %
+Grau - 20 %
+Grau - 10 %
+Grau - 7 %
+Gebrochen Weiß
+Dunkelrot
+Rot
+Gelb
+Hellgelb
+Blaßgelb
+Dunkelgelb
+Oliv
+Helloliv
+Braun
+Lila
+Helllila
+Lavendel
+Dunkelrosa
+Pink
+Weiß
+Öffnen der Menüs nur per Mausklick
+Englisch (UK)
+Standard-Wert verwenden
+OBJEKTE UMBENENNEN/BEARBEITEN
+Dieser Bericht kann im derzeitigen Zustand nicht geliefert werden. Zuerst müssen Sie den Bericht speichern.
+Ihre Nachricht wurde gesendet.
+Ihr ## Abonnement ## wurde erfolgreich erstellt. Sie erhalten in Kürze eine Vorschau.
+Ihr ## Abonnement ## wurde erfolgreich erstellt.
+AutoFormat:
+Objektauswahl
+Zur übergeordneten Ebene
+Änderung des abgelaufenen Kennworts durch Benutzer zulassen
+Ihr Kennwort ist abgelaufen. Wenden Sie sich an den Administrator, um dieses Konto zu aktivieren.
+Verzeichnis:
+Unicode-Zeichensatz verwenden
+Öffnen
+Um diesen Bericht zu empfangen, wählen Sie unten eine Adresse und eine Personalisierung aus.
+Um diesen Bericht zu abonnieren, wählen Sie unten einen Ablaufplan, eine Personalisierung und eine Adresse aus.
+Bei der Bearbeitung eines Abonnements ist nur eine Adresse zulässig.
+Um diesen Bericht zu abonnieren, wählen Sie unten einen Ablaufplan, eine Personalisierung und eine (oder mehrere) Adresse(n) aus.
+Geplante Berichte
+Geplante E-Mails
+Der Adressname existiert bereits. Wählen Sie einen anderen Namen.
+Fehler beim Bearbeiten der Adresse.
+Fehler beim Löschen der Adresse.
+Fehler beim Aktualisieren der Standardadresse.
+Löschbestätigung für die Adresse
+Soll diese Adresse wirklich gelöscht werden?
+Der Adressname darf nicht leer sein.
+Addressen-Client darf nicht leer sein.
+Der Adresswert darf nicht leer sein.
+Fehler beim Verarbeiten Ihrer Adressinformationen. Sie müssen sich möglicherweise neu anmelden.
+Namensanzeige
+Gerät
+Eine neue Adresse hinzufügen
+Standard neu festlegen
+Betreff
+Jetzt senden
+Sie haben die folgende geplante E-Mail für diesen Bericht abonniert:
+Sie haben keine geplante E-Mail.
+Geplante E-Mail hinzufügen
+Sie haben zu dieser Adresse ## ###Abonnement(s)####. Wenn Sie die Adresse löschen, werden alle Abonnements für diese Adresse gelöscht.
+Die folgende Datei wurde nicht korrekt in Web Server registriert: MGSubscription.dll. Wenden Sie sich an den Administrator.
+Geplante E-Mail
+Geplante E-Mail...
+Version der Abonnement-API:
+Sie besitzen ## ###Abonnement(s)#### für diesen Bericht, der per E-Mail geliefert wird.
+Sie besitzen ## ###Abonnement(s)#### für dieses Dokument, das per E-Mail geliefert wird.
+Wählen Sie einen Ablaufplan aus der unteren Liste aus.
+Wählen Sie aus Ihrer ##Adressliste### eine Adresse aus.
+ODER
+Neue Adresse.
+An eine neue Adresse senden
+An eine existierende Adresse senden
+Diese Funktion steht derzeit nicht zur Verfügung.
+Um diesen Bericht zu abonnieren, wählen Sie unten einen Ablaufplan, eine Adresse und eine Personalisierung aus.
+Intelligence Server
+Narrowcast Server
+Integration von Narrowcast
+Um dieses Web-Portal so zu konfigurieren, dass Inhalt durch Narrowcast Server gesendet wird, müssen Sie den Ort für die Abo-Engine und das zu verwendende Narrowcast-System angeben.
+## wurde nicht von einem Narrowcast-System konfiguriert, das Web zum Versenden von Inhalt verwenden soll. Wählen Sie eine andere Abo-Engine aus.
+Dieses Web-Portal wurde dazu konfiguriert, Inhalt mit Hilfe des Systems ## und von ### als Abo-Engine zu versenden.
+Lokation der Abonnement-Engine:
+Verfügbare Narrowcast-Systeme:
+(DEAKTIVIERT)
+Bevor Sie diesen Bericht bearbeiten können, müssen Sie (die) folgende(n) Eingabeaufforderung(en) beantworten: 
+Geben Sie eine Zahl ein.
+Geben Sie ein Datum im korrekten Datumsformat an.
+Fehler beim Bearbeiten eines untergeordneten Filterausdrucks. Überprüfen Sie Ihre Eingabe(n).
+Die Suche nach Berichtselementen kann nicht ausgeführt werden.
+Einen neuen Bericht aus beliebigen Objekten im Projekt erstellen
+Bericht erstellen
+Es wird ein leerer Bericht angezeigt, in dem Sie mehrere Datenobjekte platzieren können.
+Wählen Sie alternativ aus den Optionen unten den Berichtstyp aus, den Sie erstellen möchten.
+Wählen Sie aus den Optionen unten den Berichtstyp aus, den Sie erstellen möchten.
+€
+Bearbeitungsschaltflächen anzeigen
+Neuer Auftrag wird erstellt
+Ergebnisse werden generiert
+HTML wird generiert
+Auftrag läuft auf einem anderen Server
+Anforderung wird verarbeitet
+Bitte warten...
+Geben Sie eine Zahl in folgendes Feld ein
+Allgemein
+Spezial
+*Keep the connection alive between the Web Server and Intelligence Server (used when there is a firewall between the Web Server and the Intelligence). Please refer to the product documentation for information on how to configure your system when using this feature.*
+MicroStrategy Web unterstützt nicht den Export von in Dokumenten enthaltenen Diagrammen nach Excel.
+Geben Sie in folgendes Feld eine Ganzzahl ein, die größer als ### und kleiner als ## ist.
+### und ## sind keine gültigen Datumsangaben.
+## ist kein gültiges Datum.
+Maximale Spaltenanzahl pro Seite
+Mit diesem Vorgang löschen Sie Ihre Historienliste.
+Möchten Sie Ihre Historienliste wirklich löschen?
+Für diese Ansicht wurden keine Daten zurückgegeben. Möglicherweise schließt der angewandte Filter alle Daten aus.
+Excel mit Formatierung (Berichte die nach Excel 97 oder älter exportiert werden, werden keine Formatierung beinhalten)
+Im Designmodus bearbeiten
+Erweiterte Suche
+Weiter
+Wählen Sie die Elemente aus, die Sie beibehalten möchten, und klicken Sie auf 'OK' oder auf die Schaltfläche 'Übernehmen'. Klicken Sie auf die Schaltfläche 'Abbrechen', um diesen Editor zu schließen ohne die Änderungen zu übernehmen
+Nicht in (Eingabe: Wert1 ; Wert 2; ...; WertN)
+Erneute Eingabe abbrechen
+Keine Auswahl
+OK
+Übernehmen
+Abbrechen
+Speichern
+Reihe:
+Kategorien:
+Legende
+Datenwerte
+Erste 5 Seiten
+Vorherige 5 Seiten
+Nächste 5 Seiten
+Letzte 5 Seiten
+Hilfe für ###-Editor
+Aktiviert
+Deaktiviert
+Standard
+Bei Eingabeaufforderungen dürfen nur Zahlen eingegeben werden.
+Bei Eingabeaufforderungen müssen Datumsangaben im korrekten Format eingegeben werden.
+Für diese Ansicht werden keine Daten zurückgegeben, weil dieser Bericht über keine Schablonenobjekte verfügt. ##Fügen Sie Objekte zur Schablone hinzu###.
+Es wurden keine Daten für diese Seite entsprechend der Auswahl zurückgegeben.
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Time - Not Used
+J and K Time - Not Used
+Fehler beim Rendern des Anzeigefilters.
+Fehler beim Rendern des Berichtfilters.
+Fehlerhafte Datenbankverbindung.
+Drill von XXXX nach:
+Skalierung:
+Anpassen auf Seite:
+Alle Zeilen
+Alle Spalten
+Deckblatt mit Filterdetails drucken
+Ränder (Zoll):
+Oben:
+Links:
+Rechts:
+Unten:
+Maximale Kopfzeilengröße (Zoll):
+Maximale Fußzeilengröße (Zoll):
+Beim Drucken alle Page-By-Felder erweitern
+Maximale Zellenanzahl pro Block:
+Maximale Diagrammanzahl pro Block:
+Popup-Dialogfeld zum Drucken anzeigen
+Filterdetails einfügen
+Benutzernamen einfügen
+Zahlen- und Datumsformat:
+Link 'Persönliche Berichte' ausblenden, wenn der Benutzer nicht über eine entsprechende Berechtigung verfügt.
+Inkrementelles##Laden:
+Maximale Anzahl von Attributelementen pro Block:
+Maximale Anzahl von Berichtsobjekten pro Block:
+Anpassen auf Seite nicht möglich. Maximale Reduzierung wird verwendet.
+Fehler beim Rendern der Vorschau. Möglicherweise werden die Ergebnisse nicht korrekt angezeigt.
+Nächster Seitenblock
+Vorheriger Seitenblock
+Umbenennen...
+Erweiterte Optionen einblenden
+Erweiterte Optionen ausblenden
+Hier ist die Eingabe nicht obligatorisch.
+Metrik auswählen...
+UND NICHT
+ODER NICHT
+Alle Metriken
+Alles
+In dieser Eingabeaufforderung ist keine Auswahl verfügbar.
+Zurück zur vorherigen Seite
+Aufgrund fehlender Adresseninformationen konnte Ihre Anforderung nicht bearbeitet werden. Geben Sie die Adresseninformationen an und versuchen Sie es erneut.
+Die Historienliste für diesen Intelligence Server ist voll. Zur Ausführung eines Berichts müssen Sie in einem der auf diesem Server ausgeführten Projekte eine oder mehrere Nachrichten aus der Historienliste löschen.
+Der Bericht konnte aufgrund fehlender Systemressourcen nicht angezeigt werden.
+Ihr Auftrag wurde an einen separaten Intelligence Server weitergeleitet. Bitte füehren Sie Ihren Bericht nochmals aus.
+Ihr Auftrag wurde an einen separaten Intelligence Server weitergeleitet. Der Bericht wird in der Historienliste zur Verfügung stehen. Klicken Sie hier für die Historienliste.
+Automatische Anmeldung zulassen bei Verlust der Sitzung
+Sicherheit:
+Benutzerprivilegien für jede Anfrage überprüfen
+2
+Wortumbruch
+Wortumbruch in Kopfzeilen von Berichttabellen zulassen
+Ordner:
+Dunkelgelb
+Violett
+Krickentengrün
+Helltürkis
+Himmelblau
+Hellgrün
+Blaß
+Türkis
+Leuchtend grün
+Rosé
+Hautfarben
+Aqua
+Limone
+Gold
+Hellorange
+Orange
+Blaugrau
+Krickentengrün
+Seegrün
+Dunkelgrün
+Olivgrün
+Pflaume
+Indigo
+Grau - 40 %
+Grau - 80 %
+Fehler beim Versuch, eine Verbindung zu ## herzustellen. Stellen Sie sicher, dass der Name der Abo-Engine korrekt ist und dass die Abo-Engine ausgeführt wird. Versuchen Sie es anschließend erneut.
+Jetzt eine Vorschau senden
+Fehler beim Abrufen der Liste der Systeme. Der Dienst für die Abonnementverwaltung ist nicht verfügbar.
+Fehler beim Abrufen der Liste der Systeme.
+TABELLENBERICHT:
+Berichtsfilter:
+Berichtsobjekte hinzufügen
+Export in PDF aktivieren
+Funktionsleiste
+Sie müssen den Bericht speichern, bevor Sie ihn abonnieren können.
+Sie müssen den Bericht speichern oder alle von Ihnen vorgenommenen Änderungen zurücksetzen, bevor Sie ihn abonnieren können.
+Sie müssen den Bericht speichern, bevor Sie ihn planen können.
+Sie müssen den Bericht speichern, bevor Sie ihn senden können.
+(Beispiel: [Metric1] + [Metric2])
+Hinweis: Wenn Sie die Option 'Meine ausgewählte Standard-Berichtsformatierung verwenden" auswählen, werden alle benutzerdefinierten Berichtsformatierungen deaktiviert.
+Fehler beim Versuch, eine Verbindung zur Abo-Engine herzustellen.
+Tabelle bearbeiten
+Berichtsfilter bearbeiten
+Rot
+von ## Seite(n)
+Wenn Tabelle und Diagramm auf separaten Seiten angezeigt werden sollen, wählen Sie aus den nachstehenden Tabellenoptionen aus:
+Die Historienliste für diesen Intelligence Server ist voll. Die Historienlisten werden gemeinsam für alle Projekte verwendet, die auf einem Intelligence Server ausgeführt werden. 
+Version:
+Intelligence Server Version
+Web Version
+Filter und Schablone in gespeicherte Berichtsdefinition einbetten.
+Designmodus:
+Hierarchie
+Hierarchie:
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+Abgeleitete Metrik
+Abgeleitete Metrik:
+Für diese Ansicht wurden keine Daten zurück gegeben. Bitte das Fileterkriterium oder Schablonenobjekt aendern.
+Dieser Speichervorgang könnte die original Filter und Schablone veraendern
+Moechten Sie die Verknüpfungen zu original Filter und Schablone behalten?
+Dieser Speichervorgang könnte den original Filter veraendern
+Möchten Sie die Verknüpfung zu dem original Filter behalten?
+Dieser Speichervorgang könnte die original Schablone veraendern
+Moechten Sie die Verknüpfungen zu der original Schablone behalten?
+Fortfahren
+Abbrechen
+Meldung zur Historienliste erstellt um
+Excel 2000 SR-1 oder höher
+Datenmanipulation
+Designmodus
+Filter
+Gesamtsummen
+Grafik für Schwellenwert
+(Individuell)
+Anhalten
+Ihre Anforderung konnte nicht ausgefuehrt werden.
+Bitte versuchen Sie es noch einmal. Falls das Problem bestehen bleibt, kontaktieren sie bitte den Administrator.
+Die Drill-Anforderung kann nicht fertiggestellt werden ohne das Elternattribut zu beinhalten. Das kann von der Beinhaltung der Ansichtsfilter qualifikation im Elternattribut verursacht werden.
+Überprüfen sie bitte das die Anforderungen des Benutzers keinen potenziell bösartigen Inhalt haben.
+Geben Sie in folgendes Feld eine Ganzzahl zwischen ### und ## ein
+Bericht öffnen
+Filter öffnen
+Dokument öffnen
+Schablone öffnen
+Versionsinformationen...
+Tabellenköpfe sperren
+Sperrung des Zeilentitel
+Sperrung des Kolumnentitel
+Funktion zum Sperren von Tabellenköpfen
+Öffentlicher Berichtsordner
+Öffentliche Objekte > Berichte
+Aktuelle Auswahl
+Letzter Ordner
+Filter-Editor:
+Verwenden Sie eingebettete Filter im Filter-Editor für Berichte
+Sortierung:
+Aktivieren Sie das Sortieren in ausgeblendeten Attributfeldern mit dem Editor für die erweiterte Sortierung
+Drill-Funktion für Kontextmenü deaktivieren
+Senden
+Auftrag verfallen
+Aus Sicherheitsgr"unden sind HTML tags nicht als Eingabe erlaubt. Bitte kontaktieren Sie Ihren Administrator, falls Sie HTML tags als Eingabe brauchen.
+HTML tags f"ur jede Anfrage verifizieren
+2
+Diese Metrikbedingung wird auf Ebene ## angewendet.
+Zeigen Sie bei der Verwendung von Metrikbedingungen in der Ansicht des Filter-Editors die Auswertungsebene an
+Druckeinstellungen für jeden bericht speichern
+Freigabe der Grössenanpassung der Kolumnen und Zeilen feature
+Tabellenlayout
+Automatische Fensteranpassung
+Automatische Inhaltsanpassung
+Festgelegte Spaltenbreite
+Anpassung der Grösse der Kolumnen und Zeilen...
+SPALTEN
+ZEILEN
+Alle Spalten
+Weite:
+Autmatische Anpassung
+Festgelegte Höhe:
+Anpassung der Grösse der Kolumnen und Zeilen
+Kolumnen Achsen Titel
+Datenwerte
+Breite:
+Speichern Sie Modifizierungen im Berichtsfilter.
+Zeitzone
+Standard
+(GMT-11:00) Midway-Inseln
+(GMT-10:00) Hawaii
+(GMT-09:00) Alaska
+(GMT-08:00) Pazifik (USA, Kanada)
+(GMT-07:00) Arizona
+(GMT-07:00) Mountain (USA, Kanada)
+(GMT-06:00) Central (USA, Kanada)
+(GMT-05:00) Eastern (USA, Kanada)
+(GMT-04:00) Atlantik (Kanada)
+(GMT-04:00) Puerto Rico
+(GMT-03:30) Neufundland
+(GMT-03:00) Argentinien
+(GMT-03:00) Brasilien
+(GMT-02:00) Mittelatlantik
+(GMT-01:00) Azoren, Kapverdische Inseln
+(Greenwich Mean Time) GMT
+(GMT +1:00) West Europa
+(GMT +2:00) Zentral-Afrika
+(GMT +2:00) Ägypten
+(GMT +2:00) Ost Europe
+(GMT +3:00) Ost-Afrika
+(GMT +3:30) Mittlerer Osten
+(GMT +4:00) Naher Osten
+(GMT +5:00) Pakistan/Lahore
+(GMT +6:00) Bangladesch
+(GMT +7:00) Vietnam
+(GMT +8:00) China (Taiwan)
+(GMT +9:30) Zentral-Australien
+(GMT +10:00) Ost-Australien
+(GMT +11:00) Salomon-Inseln
+(GMT +12:00) Neuseeland
+Excel 2000 SR-1 oder früher
+Excel XP oder höher
+Hinweis: Mit dieser Option können Benutzer Ihre unverschlüsselten Kennwörter in Cookies auf Ihren Client-Rechnern speichern.
+Standartweite für die Zeilen Achsen Kolumnen:
+Standardweite für die Daten Kolumnen:
+(GMT +5:30) Indien
+Verstecke Optionen...
+Mehr Optionen...
+Maximum Anzahl Zellen zum Exportieren
+Maximum Anzahl Zellen per Block
+Dieser Bericht kann nicht ins PDF Format exportiert werdem, weil die Limite überschritten wurde, welche der Administator gesetzt hat, für die Maximum Anzahl Zellen per block die ins pdf exportiert werden können.
+Weite: ##px
+(GMT-06:00) Mexiko Stadt
+(GMT +09:00) Seoul
+(GMT +09:00) Osaka, Sapporo, Tokio
+Arial
+Scheduled E-Mail
+Jetzt senden
+Einfügen der Page By Information
+Maximum Anzahl der zu exportierenden Zellen ins Volltext Format:
+Maximum Anzahl der zu exportierenden Zellen ins HTML Format:
+(Archiviere)
+Setup für interne Diagnose
+Ebene:
+Protokollverzeichnis:
+Setup für benutzerdefinierte Diagnose
+Pfad zum Setup der benutzerdefinierten Diagnose
+Anzeige:
+Von:
+Bis:
+Fehlermeldungen
+Warnungen
+Deaktiviert
+Nachrichten
+Verwenden Sie im Pfad / als Verzeichnistrennzeichen.
+Das eingegebene Datum hat kein gültiges Format.
+Das Von-Datum muss kleiner oder gleich dem Bis-Datum sein.
+Es war kein gültiger Pfad verfügbar:
+Protokolldateien können nicht verarbeitet werden: Datei überschreitet die maximale Größe von
+MB Um Protokolldateien anzuzeigen, öffnen Sie diese direkt oder geben Sie einen kürzeren anzuzeigenden Zeitraum an.
+Erste nicht verarbeitbare Datei:
+Fehler beim Lesen des Inhalts der Protokolldatei(en):
+Die erforderliche XSL-Datei wurde nicht gefunden:
+Fehler beim Lesen des Inhalts der XSL-Datei:
+Diagnosekonfiguration
+Protokolle anzeigen
+Es gibt keine Protokolleinträge, die die angeforderten Daten und Typen enthalten.
+Inhalt der Protokolldatei kann nicht angezeigt werden:
+Das Lesen der ursprünglichen Eigenschaften aus der Setup-Datei war nicht möglich.
+Die angegebene Setup-Datei kann nicht gefunden oder zur Diagnose verwendet werden.
+Folgende Datei wurde nicht korrekt registriert: Mbwahelp.dll. Bitte kontaktieren Sie den Administrator.
+Bericht öffnen
+Öffne filter
+Öffne schablone
+Fehler beim Überschreiben eines modifizierten Objekts
+Fehler beim Verarbeiten von Diagnose-Protokolldatei(en).
+Server-Eigenschaften.
+Standard-Servereigenschaften
+Server
+Standardeigenschaften
+Sicherheit
+Konfiguration
+Protokolle anzeigen
+Minuten
+Schwellenwerte bei Drill-Vorgang beibehalten
+Sortierschaltflächen einblenden
+Sortierschaltflächen ausblenden
+Diagnose
+Zeilenumbruch von metrischen Werten in Berichtstabelle zulassen
+Kennwort kann nicht geändert werden. Folgende Information fehlt:
+Statistiken
+Modus:
+Statistikdatei:
+Deaktiviert
+Bildschirm
+Datei
+Bildschirm und Datei
+Geben Sie einen absoluten Pfad ein und verwenden Sie / als Verzeichnistrennzeichen.
+Standard-Werte laden
+*To subscribe to this document, please select a schedule and personalization below.
+Groß-/Kleinschreibung standardmäßig beachten
+Zulassen, dass Benutzer Ihre Einstellungen für einzelne Projekte ändern und speichern können
+Fett
+Kursiv
+Unterstrichen
+Im Einstellungsfenster die Option 'Auf ALLE Projekte anwenden' anzeigen
+Bericht im Designmodus anzeigen
+Schriftstil:
+Schriftgröße:
+Page-By-Abschnitt
+Zusammenführen von Zeilenköpfen im Menü 'Format' aktivieren
+Zeilenköpfe zusammenführen
+Lesen aus Bericht
+Objektbeschreibungen in der Tabelle als Quickinfos anzeigen
+Option zum Speichern eingebetteter Objekte verbergen, wenn Benutzer nicht die Berechtigung "Liste der Berichtsobjekte über Web ändern" hat.
+Leerzeichen beim Import aus Textdatei beibehalten
+Seiten weit
+Seiten hoch
+(Nur bei Windows-Betriebssystem)
+Telefonnr 1
+Telefonnr 2
+Postleitzahl
+Erweiterte Postleitzahl
+SSN
+Benutzerdefinierte Einstellungen bearbeiten
+Sortierschaltflächen
+Pivot-Schaltflächen
+(s)
+Sortierung nach:
+Dann nach:
+Integration von Narrowcast Server
+Web-Server
+Verbindungseigenschaften
+Klasse
+Methode
+Nachricht
+Verschlüsselung:
+Der Datenverkehr zwischen Web und IServer-Rechnern ist verschlüsselt.
+Cache:
+Der Cache für die Benutzerberechtigungen wird bei jeder Webanfrage erneut aktualisiert.
+Cookies:
+Cookies deaktivieren
+Cookies zum Speichern temporärer Daten in dieser Sitzung verwenden
+Cookies zum Speichern permanenter Daten zwischen Sitzungen verwenden
+Cookies zum Speichern temporärer Daten zu IServer-Sitzungen verwenden
+URL:
+Sitzungsdaten sind in der URL enthalten.
+Anmeldung:
+Automatisches Anmelden bei Verlust der Verbindung zulassen
+€
+Auf die Konfigurationseinstellungen der Abo-Engine konnte nicht zugegriffen werden Damit die Web-Bereitstellung von MicroStrategy funktioniert, muss entweder der Ordner oder das Laufwerk, in/auf dem die Abo-Engine installiert ist, freigegeben werden. Ist diese Voraussetzung nicht erfüllt, funktionieren weder das Abo-Portal noch die Web-Bereitstellung von MicroStrategy. Möchten Sie das Installationslaufwerk der Abo-Engine für die lokale Administratorgruppe dieses Rechners automatisch freigeben?
+Wenn das Laufwerk der Abo-Engine-Rechners häufig freigegeben und seine Freigabe wieder aufgehoben wird, wird die folgende Windows-Meldung auf dem Rechner mit der Abo-Engine angezeigt. In diesem Fall ist eine Benutzereingabe erforderlich: 'Systemfehler: Der Netzwerkname wurde gelöscht.' Der Administratordienst funktioniert erst wieder, wenn Sie auf 'OK' klicken, um die Meldung zu bestätigen. Hinweis: Diese Meldung weist nicht auf ein Problem hin. Klicken Sie einfach auf 'OK', um fortzufahren.
+Laufwerk kann nicht freigegeben werden. Geben Sie das Installationslaufwerk der Abo-Engine für die lokale Administratorgruppe dieses Rechners manuell frei.
+Excel-Version:
+Bereitstellungsformat:
+Inhalt komprimieren
+Ausblenden
+Nachricht:
+(Maximal ## Zeichen)
+Klicken Sie hier, um eine Meldung hinzuzufügen.
+Anpassen:
+Seite(n) breit und
+Seite(n) hoch
+Cookies:
+Benutzen sie Cookies um die Leistungsfähigkeit zu optimieren wenn Benutzereinstellungen gelesen werden.
+Die angeforderte Aktion kann nicht ausgeführt werden, da andere Objekte vom manipulierten Objekt abhängig sind.
+Sie haben für ihr Dokument folgende Ablaufpläne erstellt:
+Die Formel für die abgeleitete Metrik is leer.
+enthält nicht
+beginnt nicht mit
+endet nicht mit
+Prozent von '##'
+Rang von '##'
+Rang
+Menge von ##
+Evaluation der Menge bei ##
+bei ##
+wo (##)
+ApplySimple
+gleich
+ungleich
+leer
+Maximum Länge der Textnachricht (in Zeichen):
+Die folgenden Auslieferungsformate unterstützen zur Zeit keine Grafiken: ##. Auslieferungen die solche Formate benutzen werden nur Tabellen enhalten.
+Die ausgwählte Auslieferungsformate unterstützt keine Grafiken. Die Auslieferung enhält nur Tabellen.
+Der in der Eingabe definierte Stil kann nicht zur Rederung des Eingabeobjekts '#' benutzt werden (Stil name: ###)
+Es konnte kein passender Stil zur Renderung des Eingabeobjekts '###' (Stil name; ###)
+Benutzereingabe Filterung:
+Berechtigung zur Benutzung von HTML in der Druckkopf- und Fusszeile. Diese Einstellung erlaubt es dem Benutzer, Skripts im Browser auszuführen.

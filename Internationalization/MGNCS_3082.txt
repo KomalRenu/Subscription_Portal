@@ -1,0 +1,972 @@
+Copyright © 1996-2015 MicroStrategy, Incorporated. All rights reserved. Confidential.
+Inicio
+Mis informes
+Crear informe
+Salir de la sesión
+Orientación:
+Buscar
+Todos los derechos reservados. Confidencial.
+Servidor:
+Puerto
+Nombre de usuario
+Contraseña
+Guardar mi contraseña
+El tamaño y orientación del papel debería corresponder con los parámetros del navegador.
+Introduzca su antigua y su nueva contraseña.
+Iniciar sesión
+Error ejecutando el documento. Contacte con su Administrador.
+Carta 215.90 x 279.40 mm
+A4 210.00 x 297.00 mm
+Folio 215.90 x 330.20 mm
+Proyectos
+BIENVENIDO
+Descripción
+avanzado...
+Explorar una lista de informes preparados disponibles para todos los usuarios.
+Ver un resumen actualizado del estado de mis peticiones.
+Usted está aquí:
+Manualmente
+No existen jerarquías en este proyecto.
+objeto(s)
+No puede hacer una búsqueda de atributos de este tipo.
+Página ## de ###
+Factor de balance de carga
+Propietario
+Modificado
+Siempre
+Nunca
+Modo de visualización
+Última Actualización:
+Error
+Información de contacto:
+Número máximo de búsquedas concurrentes:
+Introduzca la información del Administrador del Sistema para que pueda ser contactado por los usuarios:
+Solicitado
+Revisar Estado de nuevo
+Cancelar Petición
+En la cuadrícula negra de abajo verá los números "12345" si su navegador soporta archivos CSS. ¿Ve dichos números?
+INFORMES RELACIONADOS
+Sí. Mi navegador soporta esta configuración.
+No. Utilizar una configuración distinta.
+Su petición ha excedido el tiempo máximo de espera. Vuelva a intentarlo más tarde.
+Ir a
+Ejecutando
+Azul y Gris
+Renglones:
+Tabla
+Gráfico
+Mensajes ## - ### de ####
+## - ### de ####
+Guardar
+Ejecutar la selección dinámica de nuevo
+Versión para imprimir
+Exportar datos
+Columnas
+Colorido
+Agente
+Clásico
+Contabilidad
+Financiero
+Rangos grises
+¿Utilizar HTML dinámico?
+Rojo y Negro
+Romántico
+Tipo Pequeño
+Aplicar
+Ocultar botones para cambiar la situación de objetos
+Mostrar botones para cambiar la situación de los objetos
+Mover a filas
+Subir
+Bajar
+Paginar por este campo
+Mover a columnas
+Mover el encabezado a la izquierda
+Mover el encabezado a la derecha
+Ordenar
+Navegar
+Desde:
+Hasta:
+Opciones de navegación:
+Navegar sólo en las selecciones
+Arriba
+Abajo
+Puesta de sol
+Columnas:
+Más páginas
+Visualizar:
+Ocultar barra de opciones
+Mostrar barra de herramientas
+Publicar
+No hay información disponible para navegar.
+El formato correcto para el operador No entre es valor1;valor2
+Detalles del filtro:
+El filtro está vacío.
+- ninguno -
+Navegar a
+Detalles
+Quitar
+Ordenar ascendentemente
+Ordenar descendentemente
+Último informe:
+marcar como "no leído"
+Motor analítico procesando
+Ejecutando los informes hijo
+El Historial del usuario está lleno. Si quiere ejecutar un informe, necesita borrar uno o más mensajes.
+Continuar
+Debido a un error del servidor de Web, los contenidos de este informe no pudieron ser exportados. Por favor, intente con otro informe.
+Paginado por:
+Está a punto de salir de todos los proyectos.
+No
+Sí
+Cancelar
+Puede revisar el Historial o intentarlo después.
+Error al comprobar el estado del documento
+Número de error
+Documento listo
+Selección dinámica preparada
+FAQ's
+Última carpeta:
+No existen datos para este documento.
+Excel con formato (versión '97 o mayor)
+Formato de archivo CSV
+Abrir una ventana nueva al exportar
+Opciones para imprimir
+Texto de encabezado:
+Modo de inicio de sesión
+Estilo para la numeración de páginas:
+(ninguno)
+Página 1 de n
+Página de inicio por defecto:
+¿Cancelar las peticiones pendientes de esta sesión?
+Combinar encabezados de columnas
+(por defecto)
+Carpeta superior:
+Cambiar mi contraseña
+y
+Volver arriba
+Canal activado (el canal se encuentra visible para los usuarios finales)
+Volver al Directorio Superior
+Error al ejecutar el informe
+Atrás
+Doble eje línea radial
+Dispersión XYZ en 3D
+Ha sido desconectado de la sesión.
+Error al acceder el Historial del usuario.
+Los mensajes del Historial no pudieron ser obtenidos del Servidor MicroStrategy.
+Los mensajes del Historial no pudieron ser eliminados del Servidor MicroStrategy.
+Propiedades
+Debido a un error de sintaxis, la petición de pivotar no fue completada.
+Debido a un error de sintaxis, la petición de paginación no fue completada.
+Por favor, contacte con su administrador.
+No se ha encontrado MicroStrategy Server al que se está tratando de conectar. Inténtelo de nuevo.
+Ha seleccionado demasiados objetos para una selección dinámica de objeto.
+Ha seleccionado muy pocos objetos para una selección dinámica de objeto.
+Ha seleccionado demasiados elementos para una selección dinámica de elemento.
+Ha seleccionado muy pocos elementos para una selección dinámica de elemento.
+El formato correcto para el operador Entre es valor1;valor2
+Esta selección dinámica es requerida y debe ser contestada.
+Introduzca un valor en el campo de texto.
+El siguiente archivo no se registró correctamente en el Servidor de Web: M8dssxml.dll. Contacte con el Administrador para más conocer más detalles.
+Seleccione algunos elementos antes de navegar
+No puede calificar más de un componente a la vez.
+Las selecciones dinámicas para este informe no pudieron ser mostradas porque ya han sido contestadas.
+Error al cargar
+Lista de Mensajes de Error
+Hora
+Descripción del error
+Archivo
+Función ASP
+Función de la API
+Comentarios
+Nivel
+Su contraseña ha sido cambiada.
+Cambiar Contraseña
+Contraseña anterior:
+Contraseña nueva:
+No más de
+No menos de
+selecciones
+ninguno
+Disponibles
+Seleccionados
+Buscar
+elementos
+Indicador
+Atributo
+Entre  (introduzca valor1 ; valor2)
+Exactamente
+Mayor que
+Mayor o igual que
+Menor que
+Menor o igual que
+Como
+No como
+Valor
+Es
+El(los) primero(s)
+El(los) último(s)
+Agregar
+Sus selecciones
+Igualar
+Todas las selecciones
+Cualquier selección
+Mis selecciones
+Agregar a las selecciones
+Buscar por:
+Ejecutar Informe
+Guardar informe
+Calificar sobre la descripción del atributo.
+Volver a seleccionar jerarquía
+Elegir jerarquía
+Otras jerarquías:
+Operador
+Calificar
+Seleccionar
+Elementos
+Carpeta actual
+Subcarpetas
+Contenidos de la carpeta
+Introduzca los criterios de búsqueda.
+La lista puede ser larga.
+No hay elementos de entrada en esta jerarquía.
+¿NECESITA AYUDA?
+Después de seleccionar una jerarquía a la izquierda, podrá ver los atributos de dicha jerarquía en esta sección.
+Ir al paso 2
+Otros
+En
+Nota: Netscape 4, Internet Explorer 4 y versiones posteriores soportan DHTML.
+Los operadores "Like" y "Not Like" no soportan tipos de datos no textuales.
+Ha seleccionado demasiadas calificaciones para una selección dinámica de expresión.
+Ha seleccionado muy pocas calificaciones para una selección dinámica de expresión.
+Ha seleccionado demasiadas calificaciones para una selección dinámica jerárquica.
+Ha seleccionado muy pocas calificaciones para una selección dinámica jerárquica.
+Ayuda en línea
+No se mostraron todas las respuestas por defecto de esta selección dinámica.
+(Sólo se permite tipo texto)
+No exactamente
+No entre (introduzca valor1 ; valor2)
+Ir al Estado del Informe Previo
+Página del Administrador
+Borrar
+Volver a:
+¿Está seguro de que desea borrar este objeto?
+Confirmación de Borrado
+Su petición no pudo ser procesada debido a un error del servidor.
+Inténtelo de nuevo. Si el problema persiste, contacte con el Administrador del servidor.
+Nombre de la carpeta:
+Requerido
+Opcional
+Entre
+y
+Esta selección dinámica requiere un valor entre ## y ###.
+Esta selección dinámica requiere un valor mayor o igual que ##.
+Esta selección dinámica requiere un valor menor o igual que ##.
+Esta selección dinámica requiere un valor anterior o igual a ##.
+Esta selección dinámica requiere un valor posterior o igual a ##.
+El texto introducido es demasiado largo. Inténtelo de nuevo.
+El texto introducido es demasiado corto. Inténtelo de nuevo.
+No entre
+Modificar
+Actualizar
+Versión ASP:
+Error cargando los datos del XML.
+Uno de los nodos del XML no se encuentra disponible. Contacte con el administrador para más detalles.
+Error en los resultados del informe
+Error de MicroStrategy Server:
+Error al leer la definición de la selección dinámica en MicroStrategy Server. Ejecute el informe o documento de nuevo.
+La contraseña no coincide con la confirmación. Introdúzcala otra vez.
+Advertencias
+Errores
+Anteriores ##
+Siguientes ##
+¿No tiene una cuenta?
+Paginación según
+Bienvenido
+Si no es ##,
+pulse aquí
+Preferencias
+Volver al directorio superior
+Seleccione un día:
+Mes
+Día
+Año
+Mensajes
+Quitar de las selecciones
+Introduzca una fecha válida.
+En (introduzca valor1; valor2; ...; valorN)
+Error al contestar la selección dinámica. Revise sus respuestas.
+Ocultar la ayuda
+Mostrar la ayuda
+Esta selección dinámica requiere entre ## y ### selecciones.
+Esta selección dinámica requiere al menos ## selecciones.
+Esta selección dinámica no puede aceptar más de ## selecciones.
+Error en los resultados del documento
+Ejecutar Documento
+Determinar automáticamente
+Esta selección dinámica requiere exactamente ## selecciones.
+Nombre
+Visualización de Lista
+Iconos grandes
+Alemán
+Francés
+Italiano
+Japonés
+Coreano
+Sueco
+Por defecto
+El atributo está bloqueado
+La lista de elementos no puede mostrarse
+Indicadores
+Esta selección dinámica requiere únicamente 1 selección.
+Introduzca valores válidos separados por punto y coma.
+Siga las instrucciones señaladas con una marca roja.
+¡Advertencia!
+Esta selección dinámica requiere al menos una selección.
+Esta selección dinámica no puede aceptar más de una selección.
+Parámetros incorrectos en la URL
+Se requieren los siguientes parámetros en la URL:
+DD/MM/YYYY
+HH:MM:SS
+Una expresión o grupo de elementos de un atributo es equivalente a una selección.
+Seleccione un componente para la calificación.
+Resumen
+Portugués (Brasil)
+Coincidir mayúsculas y minúsculas
+Anterior
+Siguiente
+Pasos ## - ### de ####
+Primeros ## pasos
+Últimos ## pasos
+o
+Regresar a la selección dinámica
+Resumen de las selecciones
+Selección dinámica sin respuesta
+Su selección:
+Selección dinámica ##
+La selección por defecto es:
+Ver una lista de los informes a los que estoy suscrito.
+Para suscribirse a este informe, seleccione una planificación y su personalización.
+Con la siguiente personalización:
+Añadir suscripción
+Está suscrito a las siguientes planificaciones para este informe:
+Planificación
+Personalizado
+Editar
+Suscripciones
+Si desea contestar estas peticiones de nuevo, utilice la opción de Re-Ejecutar las selecciones dinámicas que se encuentra junto al informe.
+Límite del informe:
+Sus credenciales de fuente de información han cambiado.
+Usted no tiene ninguna suscripción.
+Información no disponible
+Informes
+Direcciones
+Servicios
+Acerca de
+MicroStrategy Narrowcast Server ews un producto de
+Opciones
+Servicio
+Dirección
+Usuario Nuevo
+Nombre del usuario:
+Contraseña:
+Para crear una nueva cuenta haga click abajo.
+Crear nueva cuenta
+Elegir una dirección:
+Crear nueva dirección
+Ha ocurrido un error en la página.
+Error recuperando direcciones
+Usted no tiene direcciones compatibles.
+error recuperando direcciones
+No hay planificaciones disponibles.
+Volver a casa
+Volver a Direcciones
+Volver a Informes
+Volver a Servicios
+Error al entrar
+El nombre del usuario o la contraseña son incorrectos. Por favor introduzcalos de nuevo.
+El nombre del usuario o la contraseña están vacios. Por favor introduzcalos de nuevo.
+Error durante la operación con al dirección
+Por favor vuelva a intentarlos o contacte al Adminsitrador del sistema.
+Uno o más campos de dirección están en blanco. Por favor inténtelo de nuevo.
+Error durante la operación con al suscripción.
+Se ha producido un error al crear una cuenta nueva
+La contraseña y la confirmaciónd e contraseña no coinciden. Por favor inténtelo de nuevo.
+Error alc rear la nueva cuenta de usuario
+Confirmar contraseña:
+Pista sobre la contraseña:
+No se creó ninguna dirección
+Confirmar nueva contraseña:
+Confirmar borrado de dirección
+Confirmar borrado de suscripción
+Está seguro de que quiere borrar la dirección?
+¿Está seguro de que desea borrar la subscripción a los servicios siguientes?
+Opciones de usuario
+Sus opciones han sido guardadas.
+Local:
+Error recuperando informes
+Expira:
+Pendiente
+No hay ningún informe en esta carpeta.
+Ha olvidado su contraseña?
+Introduzca su nombre de usuario y haga click en "mostrar pista de contraseña"
+Mostrar pista de contraseña
+Su pista es:
+Error al recuperar pista
+Ha ocurrido un error al recuperar su pista.
+Volver al login
+Por favor introduzca el nombre de la dirección.
+Por favor introduzdca un nombre de dirección sin los siguientes caracteres:
+Por favor introduzca una dirección.
+Introduzca su dirección con el formato usuario@servidor.tipo tal y como se muestra en el ejemplo siguiente: jsmith@abccompany.com
+El siguiente archivo no se registró correctamente en el Servidor de Web: M9StrUtl.dll. Contacte con el Administrador para más conocer más detalles.
+Gracias por utilizar Microstrategy Narrowcast Server.
+No se ha enviado ningún archivo al servidor de Web.
+Este nombre de usuario ya se está utilizando. Por favor introduzca un nombre de usuario diferente.
+La extensión del archivo no es válida: Se admiten las siguientes extensiones: ##
+Error al actualizar su perfil de usuario.
+Ha ocurrido un error al actualizar su perfil de usuario.
+Error al recuperar datos.
+Ha ocurrid un error al cargar el XML. Por favor contacte con el administrador.
+MicroStrategy Narrowcast Server 7.5.1
+Información de contacto del Administrador.
+E-mail:
+Teléfono:
+Para registrarse en una cuenta, introduzca la información que aparece a continuación.
+La información obligatoria está marcada con un asterisco rojo (*).
+Introduzca un nombre de usuario y contraseña para la cuenta nueva.  No olvide introducir la contraseña dos veces.
+Introduzca un recordatorio estrechamente asociado a la contraseña.
+El proceso ha finalizado. Haga clic en el botón "Crear nueva cuenta" que aparece a continuación.
+Introduzca las credenciales de conexión para las siguientes fuentes de información.
+Se han detectado uno o más errores al procesar la petición de cuenta.
+Siga las instrucciones que aparecen en rojo a continuación y vuelva a intentarlo.
+El espacio para  el recordatorio de la contraseña está vacío. Vuelva a introducirlo.
+Terminar
+Se han detectado uno o más errores al procesar la petición de cambio de contraseña.
+El espacio para la contraseña anterior o nueva estaba vacío. Vuelva a introducirlas.
+Introduzca a continuación los nombres de usuario y contraseñas que sean necesarios.
+Se especificó un archivo que sobrepasa el tamaño máximo (## Kb) permitido por el administrador.
+Entregas
+Hasta:
+Haga clic en un nombre de documento de la parte izquierda para visualizar dicho documento.
+Enviar a la página Mis informes
+Enviar a:
+Registrarse en un servicio
+Examinar una lista de los servicios disponibles para todos los usuarios.
+Ver los informes planificados.
+Especificar información de contacto para las entregas de suscripciones.
+Personalizar estas pantallas en función del navegador y las preferencias de visualización.
+Suscribirse a:
+Personalizar la suscripción
+La sesión de usuario se ha perdido y ha sido desconectado automáticamente.  Conéctese de nuevo.
+Anular mi cuenta
+La cuenta se ha anulado.
+¿Está seguro de que desea anular la cuenta?
+Una vez que haya anulado la cuenta, dejará de recibir servicios y no podrá conectarse. La cuenta sólo puede anularla el administrador del portal.
+Seleccione un idioma.
+Activado (la suscripción se entregará en la planificación especificada)
+Cambiar las credenciales de la fuente de información
+Cambiar credenciales
+Se han detectado uno o varios errores al procesar la petición de cambio de credenciales de fuente de información.
+Versión SDK:
+Cargar archivo
+Canales
+Activos
+Añadir un canal nuevo
+Canal activo
+Canal inactivo
+Crear un canal nuevo
+Editar canal
+Para crear un canal nuevo, tendrá que realizar los siguientes pasos:
+Publique una carpeta de servicios para el canal.
+Introduzca un nombre para el canal.
+No volver a mostrar esta página.
+Nombre y descripción del sitio
+Introduzca un nombre para este canal:
+Introduzca una descripción para el canal (opcional):
+Origen de error
+Esta cuenta se ha anulado. Póngase en contacto con el administrador para activar de nuevo esta cuenta.
+El nombre de usuario está en blanco. Introdúzcalo de nuevo.
+La contraseña está en blanco. Introdúzcalo de nuevo.
+Español
+Inglés
+Importar especificación de filtro de un archivo:
+Introducir una dirección nueva:
+Tipos de dispositivo
+cambiar nombre ...
+definición ...
+Carpetas de dispositivo
+modificar carpetas de dispositivo ...
+Cambiar nombre
+URL de iconos grandes:
+URL de iconos pequeños:
+Formato de dirección:
+Correo electrónico
+Éste es el formato estándar para las direcciones de correo electrónico de Internet.
+Formato: xxxx@xxxxxx.xxx
+Numérico
+Mostrar campos:
+Modificar campos:
+Nombre de dirección
+Valor de dirección
+Estilo
+PIN
+Ventana de entrega
+Tipo de dispositivo:
+Confirmar eliminación del tipo de dispositivo
+Nueva definición
+Definición:
+Disponibles:
+Seleccionadas:
+No se ha seleccionado ninguna carpeta.
+El diseñador de informes ha decidido representar esta selección dinámica mediante un estilo de archivo de texto y una cesta de la compra.
+Dado que DHTML no está activado, no es posible utilizar la función para importar archivos de texto.
+Puede utilizar la cesta de la compra para responder a esta selección dinámica.
+Crear tipo de dispositivo nuevo
+Utilice este formato sólo para cadenas de números.
+Formato: ########
+No se ha creado ningún tipo de dispositivo.
+Confirmar PIN
+Inactivo
+Introduzca un valor numérico para la dirección de acuerdo con el formato siguiente: #########
+Ayuda para:
+El nombre de usuario o la contraseña para el acceso a una o más fuentes de información no es correcto. Inténtelo de nuevo.
+No dispone de ningún informe.
+Seleccione una planificación para entregar el servicio.
+Seleccione una planificación de la lista siguiente.
+Seleccione el lugar de entrega del servicio.
+Para registrarse, realice los pasos siguientes:
+Seleccione un servicio.
+Especifique una planificación y una dirección.
+Personalizar el contenido del servicio (si procede).
+Personalice el contenido del servicio.
+Para personalizar el contenido de la suscripción, puede proporcionar la siguiente información:
+Si la pista no le ayuda a recordar su contraseña, póngase en contacto con el administrador del sistema para restablecerla.
+Aceptar
+Terminado
+La suscripción se ha guardado correctamente.
+Guardar selecciones como (opcional)
+Realizar nuevas selecciones
+Elija de la lista de selecciones guardadas con anterioridad:
+Elija una:
+Aplicar estas selecciones
+No se ha encontrado el proyecto ## en el servidor ###.
+(DESACTIVADO)
+Información del administrador:
+Una vez que haya modificado la conexión con el repositorio del portal, tendrá que volver a configurar la información del sitio.
+Una vez que haya modificado la ubicación del motor de suscripción, tendrá que volver a configurar la conexión con el repositorio del portal y la información del sitio.
+Después de: ## días.
+Nombre de la conexión con la base de datos:
+Conexiones con la base de datos
+Dispositivo por defecto:
+Configuración regional por defecto para nuevos usuarios:
+DHTML por defecto:
+Desactivar
+¿Desea continuar?
+Activar creación de cuentas nuevas:
+Introduzca el nombre del servidor que esté ejecutando el motor de suscripción:
+Introduzca una descripción y un nombre exclusivos del portal.
+Configuración de la interfaz de usuario gráfica:
+Fuentes de información
+Repositorio del portal
+Vencimiento de cuenta nueva:
+Sin vencimiento
+El día:
+Número de teléfono:
+Dispositivo de portal:
+Repositorio de objetos
+Configuración de proyecto:
+Ubicaciones del servidor de los motores de suscripción de los portales utilizados recientemente:
+Seleccione una definición de sitio existente o haga clic en Añadir una nueva definición de sitio.
+Configuración de dispositivo
+Preferencias del sitio
+Repositorio de libro de suscripción
+Ubicación del motor de suscripción
+Prefijo de tablas:
+Directorio de archivos temporales:
+El asistente para administradores de portales de MicroStrategy Narrowcast Server permite a los administradores crear de un modo sencillo portales de suscripción de Web donde los usuarios pueden suscribirse a los servicios de Narrowcast Server a través de un navegador de Web.
+Utilizar credenciales de proyecto
+Bienvenido al asistente para administradores de portales de MicroStrategy Narrowcast Server
+No hay canales definidos para este sitio
+Seleccione la carpeta de canales
+La conexión con la base de datos "#1" no hace referencia a una base de datos que contenga tablas de repositorio del portal con el prefijo "#2".
+¿Desea crearlas?
+Nombre de sitio por defecto
+Sitio con valores por defecto
+Seleccionar Dispositivo de portal
+Seleccionar Dispositivo por defecto
+Introduzca un nombre para la definición de sitio.
+Introduzca un nombre que no contenga los siguientes caracteres:
+Introduzca el nombre del equipo que esté ejecutando el motor de suscripción.
+Introduzca un directorio para los archivos temporales.
+Introduzca una ruta para el directorio de archivos temporales que no contenga los siguientes caracteres:
+Introduzca un número válido para el número de días.
+Seleccionar un estilo de dispositivo
+Para averiguar el estilo de su dispositivo, realice los pasos siguientes:
+Seleccione una categoría.
+Seleccione un estilo.
+Haga clic en una categoría de dispositivo para:
+Haga clic en un estilo de dispositivo para:
+Esta categoría no contiene estilos de dispositivo.
+No se encontró información sobre el estilo del dispositivo.
+No se encontraron estilos disponibles.
+Sin validación
+El valor de dirección puede ser cualquier cadena de texto.
+Formato: cualquier número y los caracteres - ( )
+Introduzca un valor para la dirección de acuerdo con el formato siguiente: cualquier número y los caracteres - ( )
+Configuración del sistema
+Gestión del sitio
+Seleccione la conexión con la base de datos para el repositorio del portal.
+Seleccione la conexión con la base de datos para el repositorio de objetos.
+Seleccione la conexión con la base de datos para el repositorio de libro de suscripción.
+Utilice la misma conexión con la base de datos para el repositorio de libro de suscripción.
+Añadir una nueva conexión con la base de datos
+Añadir una nueva definición de sitio
+Definición de sitio
+Base de datos
+Se ha producido un error al eliminar el perfil de usuario
+El perfil no se puede eliminar porque está compartido por más de una suscripción
+Ver suscripciones existentes para este servicio
+Seleccionar o crear portal
+Crear nuevo portal de suscripción
+Crear nuevo portal
+Nombre del portal
+Para crear un nuevo portal de suscripción, especifique el nombre del directorio virtual:
+Introduzca una dirección por defecto.
+Formato: caracteres numéricos o de texto
+Introduzca una dirección con el formato siguiente: caracteres numéricos o de texto
+Cada definición de sitio se distingue por su descripción y nombre exclusivos.
+Es mejor proporcionar una descripción detallada de la definición de sitio, para que cualquier diseñador sepa de un vistazo las propiedades que tiene el sitio.
+Un sitio engloba un conjunto de servicios a los que los usuarios finales pueden acceder a través de un portal.
+Los usuarios finales pueden acceder a los distintos sitios a través de portales.
+La lista siguiente contiene las definiciones de sitio que existen en el repositorio del portal actual.
+Puede optar por utilizar una definición de sitio existente o crear una nueva.
+Como administrador del portal, deberá asumir las siguientes responsabilidades:
+configurar y gestionar el portal de suscripción para permitir a los usuarios finales suscribirse a la gran variedad de servicios de la Web
+definir y configurar sitios de suscripción
+publicar los tipos de dispositivos y de servicios
+seleccionar los dispositivos por defecto para el portal de suscripción
+especificar las propiedades de la fuente de información y las preferencias del portal por defecto
+El asistente para administradores de portales le permitirá:
+configurar el motor de suscripción
+seleccionar o modificar la configuración de portal
+crear o seleccionar la definición de sitio
+configurar la creación de servicios dinámicos y estáticos
+Haga clic en SIGUIENTE para comenzar.
+El repositorio de objetos es la base de datos que contiene la definición del sistema Narrowcast que desea implementar a través de este portal de suscripción.
+Debe crear una conexión de base de datos para cada base de datos que desee utilizar.
+Es probable que el repositorio de libro de suscripción se encuentre almacenado en la misma base de datos que el repositorio de objetos. En tal caso, active la casilla que indica dicha situación y haga clic en Siguiente.
+El repositorio de libro de suscripción almacena los datos de suscripción (incluyendo los usuarios finales), las direcciones, la personalización y los grupos de suscripciones.
+Una instalación típica instalará el motor de suscripción en el mismo equipo (es decir, el host local).
+El repositorio del portal almacena los valores de configuración que definen la interfaz del portal de suscripción del usuario final.
+Esta información incluye:
+nombres y descripciones de sitios
+parámetros de canal
+servicios publicados
+carpetas de dispositivo
+preferencias por defecto
+Los portales definen la ubicación Web (URL) a través de la cual los usuarios finales pueden acceder a las suscripciones y servicios del portal de suscripción. Un portal es un directorio virtual de servidor Web que proporciona acceso a un único sitio.
+A continuación, se especifican los distintos portales de suscripción que se han definido en este servidor Web.
+Seleccione el portal con el que desee trabajar.
+Nombre y descripción del canal
+Un tipo de dispositivo es un conjunto de dispositivos relacionados.  De forma predeterminada, cada vez que se crea una nueva definición de sitio, se crean y configuran cuatro tipos de dispositivos estándar.
+Para cada una de estas definiciones de tipo de dispositivo, es necesario especificar el nombre del tipo de dispositivo, la dirección URL de iconos grandes y pequeños, el formato de dirección y los campos de dirección que se van a utilizar para mostrar y editar las direcciones de los dispositivos de cada uno de los tipos.
+Esta pantalla permite agregar o eliminar carpetas de dispositivo para este tipo de dispositivo específico.
+Las carpetas situadas a la izquierda están disponibles pero no se utilizan para este tipo de dispositivo.  Las carpetas situadas a la derecha se han seleccionado para este tipo de dispositivo específico.
+En cada sitio de suscripción es posible definir el dispositivo que se va a utilizar para enviar contenido a la página "Mis informes", así como el dispositivo que se va a utilizar por defecto al crear nuevas direcciones.
+Haga clic en el dispositivo apropiado para cambiar la selección.
+Para cada origen de informacion, puede especificar si los usuarios nuevos deberan introducir la informacion de verificacion, como el nombre de usuario y la contrasena, o si se utilizaran las credenciales por defecto. Estos parametros afectan a las cuentas de usuarios nuevas creadas a traves de Subscription Portal.
+No existe ninguna fuente de información definida en este sistema.
+-
+-
+-
+Seleccione la configuración para cada una de las propiedades de sitio siguientes:
+Las preferencias del sitio controlan cómo se definen los valores por defecto para los usuarios de la interfaz del portal.  Puede cambiar cualquiera de los valores con sólo modificar la información que aparece en esta página.
+Enhorabuena. El sitio se ha configurado correctamente.
+Haga clic en el botón Terminar para iniciar el explorador y acceder a este portal.
+Origen
+Portal
+Admin
+IP de usuario
+Se ha producido un error al crear suscripción
+Compruebe que dispone de un perfil por defecto para esta pregunta.
+Se ha producido un error al recuperar información sobre el objeto de la pregunta desde MicroStrategy Narrowcast Server.
+Seguimiento
+Información
+Advertencia
+Utilice estas selecciones por defecto
+Variables de sesión
+Sitio asociado
+No aplicable
+Introduzca un nombre para el portal.
+¿Está seguro de que desea eliminar este dispositivo?
+¿Está seguro de que desea eliminar este portal?
+¿Está seguro de que desea eliminar este sitio?
+Introduzca un nombre para el servidor SequeLink
+Introduzca un nombre para la conexión con la base de datos
+Introduzca un nombre para origen de datos de ODBC
+Añadir conexión con la base de datos
+Nombre de origen de datos ODBC:
+¿Desea comprobar la conexión con la base de datos?
+Descripción general
+Definición incorrecta de alias de base de datos para tablas de repositorio de libro de suscripción.  Seleccione otra definición de sitio.
+Existen tablas de repositorio de libro de suscripción, pero no son la versión correcta.  Introduzca otro prefijo.
+Definición incorrecta de alias de base de datos para tablas de repositorio de objetos.  Seleccione otra definición de sitio.
+Existen tablas de repositorio de objetos, pero no son la versión correcta.  Introduzca otro prefijo.
+Definición incorrecta de conexión con la base de datos para tablas de repositorio de portal.  Seleccione otra.
+Existen tablas de base de datos, pero no son la versión correcta.  Introduzca otro prefijo.
+Se ha producido un error al guardar la conexión de alias de base de datos
+Se ha producido un error inesperado al configurar la nueva conexión de alias de base de datos.
+No existen conexiones definidas con la base de datos.
+Esta página permite crear o editar canales para esta definición de sitio.
+Introduzca un nombre para el canal.
+Configuración de servicios
+Suscripciones estáticas
+Suscripciones dinámicas
+Almacenamiento
+Elegir pregunta alternativa
+El portal de suscripción de MicroStrategy publicará los servicios en la carpeta que seleccione.  Sin embargo, algunos servicios necesitan configuración adicional.
+Especifique la configuración por defecto para los servicios que aparecen a continuación.
+Si desea configurar un servicio específico de forma individual, haga clic en el botón # que aparece a continuación.
+Configurar servicios
+Grupos de suscripciones estáticas
+Grupos de suscripciones dinámicas
+Ocultar preguntas sobre paginación a los suscriptores
+Responder preguntas sobre paginación con:
+Ocultar grupo de suscripciones sin configurar a los suscriptores
+El asistente para administradores de portales de MicroStrategy Narrowcast Server permite configurar el almacenamiento de datos de suscripción como un servicio individual.
+Se le pedirá que seleccione el servicio que desee configurar y, a continuación, aparecerán los grupos de suscripciones dinámicas y estáticas asociados a este servicio.
+Tanto para los grupos de suscripciones dinámicas como estáticas, deberá configurar el objeto de la pregunta para el servicio seleccionado.
+Además, podrá añadir objetos de pregunta adicionales para solicitarle información a los suscriptores.
+Para grupos de suscripciones dinámicos, deberá configurar el almacenamiento de los datos de suscripción.
+Ha configurado los servicios siguientes. Haga clic en Modificar para cambiar la configuración existente o bien haga clic en el nombre de la carpeta para configurar otros servicios en dicha carpeta.
+Si desea configurar otro servicio, haga clic en el botón # que verá a continuación.
+El servicio tiene asociados uno o varios grupos de suscripciones estáticas.  Los suscriptores de estos grupos de suscripciones se almacenarán en el repositorio de libro de suscripción.
+Valores por defecto de los grupos de suscripciones estáticas
+Haga clic a continuación para definir una única configuración para todos los grupos de suscripciones estáticas.  Esta configuración por defecto se utilizará en todos los grupos para este servicio.
+Configurado:
+configurar
+Los suscriptores no podrán ver las preguntas sobre paginación.  Sin embargo, podrá seleccionar una pregunta alternativa que sí se les mostrará.
+Please select a question object below.
+Seleccione la ubicación de las respuestas a esta pregunta.
+Utilizar #
+O BIEN utilizar una de las asignaciones de almacenamiento siguientes:
+Tablas
+Añadir una asignación de almacenamiento nueva
+Borrar
+Seleccione las tablas de base de datos en las que se almacenará la información.
+Warehouse:
+Filtrar columnas por:
+Tablas disponibles:
+Tablas seleccionadas:
+Seleccione las columnas de tabla en las que desea que se almacene la información.
+Arrastre los componentes de la izquierda y colóquelos en las columnas de la derecha. Para expandir/contraer la lista de componentes, haga clic en la flecha que aparece a la izquierda de cada sección. Para poder ver los componentes situados al final de la lista, contraiga las secciones que se encuentren por encima.
+Componentes de respuesta
+General:
+Componentes de suscripción
+Configurar:
+Configuración de servicio por defecto
+Ha seleccionado configurar el servicio anterior.  Puede mantener las preferencias por defecto que aparecen a continuación o bien especificar valores adicionales para grupos de suscripciones individuales en los pasos siguientes.
+Valores por defecto de servicios
+Preguntas sobre paginación
+Preguntas adicionales
+Edite la información que aparece a continuación para solicitarle información adicional a los suscriptores.
+Cambiar selecciones
+Vínculos relacionados
+Registrarse de nuevo en este servicio
+Registrarse en otro servicio
+Ver todas las suscripciones
+Elija un perfil para este objeto de pregunta
+Nombre del servidor SequeLink
+Ha creado la cuenta correctamente.
+Si olvida la contraseña, aparecerá este recordatorio que le ayudará a recordarla.
+Seleccionar servicio
+Seleccionar almacenamiento
+Seleccionar tablas
+Seleccionar columnas
+Configurar grupo de suscripción
+Seleccionar pregunta
+Salir de configuración de servicios
+Seleccione el servicio que desea configurar.
+Pregunta
+Publicaciones
+Valores por defecto de los grupos de suscripciones dinámicas
+El servicio tiene asociados uno o varios grupos de suscripciones dinámicas. Los suscriptores de estos grupos de suscripciones se almacenarán en el Warehouse mediante asignaciones de almacenamiento.
+Guardar esta asignación de almacenamiento como:
+Haga clic a continuación para definir una única configuración para todos los grupos de suscripciones dinámicas. Esta configuración por defecto se utilizará en todos los grupos para este servicio.
+Configurar los grupos de suscripciones dinámicas individualmente
+Si desea configurar un grupo de suscripciones dinámicas individualmente, haga clic en el vínculo de configuración situado junto al grupo. Los grupos de suscripción que no se hayan configurado utilizarán la configuración por defecto del sistema.
+Pregunta adicional
+La pregunta que ha seleccionado no puede utilizarse en el portal de suscripción.
+Retroceda y seleccione una pregunta diferente.
+La respuesta a la pregunta que ha seleccionado puede almacenarse en el repositorio de libro de suscripción o en otra ubicación mediante una asignación de almacenamiento.
+Si decide almacenar la respuesta en el repositorio de libro de suscripción, ésta se almacenará en dicha ubicación.
+Si decide utilizar una asignación de almacenamiento, en el repositorio de libro de suscripción se almacenará un ID de preferencia de la pregunta y las respuestas se almacenarán según la definición de asignación de almacenamiento.
+La respuesta a la pregunta que ha seleccionado debe almacenarse mediante una asignación de almacenamiento. Esto se debe a que solicita al usuario que seleccione de entre una lista de elementos de la que puede elegir más de uno.
+Si utiliza una asignación de almacenamiento para almacenar las respuestas, en el repositorio de libro de suscripción se almacenará un ID de preferencia de la pregunta y las respuestas se almacenarán según la definición de asignación de almacenamiento.
+Seleccione la asignación de almacenamiento que desea utilizar con la pregunta:
+Conexión con la base de datos
+Valor personalizado:
+personalizado
+Añadir una pregunta:
+Explorar
+Responder a otra pregunta:
+Asignación de almacenamiento de grupo de suscripción
+Nueva asignación de almacenamiento para #
+Este servicio no contiene ningún grupo de suscripciones dinámicas.
+Descripción general de la gestión del sitio
+Si se ha instalado en una máquina diferente, introduzca aquí el nombre de dicha máquina.
+definición de sitio
+Introduzca la información de conexión con la base de datos:
+Descripción general de las preferencias del sitio
+Un canal es un conjunto de servicios incluidos en la interfaz del portal de suscripción.
+Cada canal se encuentra asignado a una carpeta de servicios en el repositorio de objetos.
+Se ha producido un error al intentar establecer conexión con el motor de suscripción.  El nombre del servidor es incorrecto o el motor de suscripción no se ha ejecutado en este servidor. Localice el motor de suscripción e introduzca de nuevo la ubicación.
+Para poder definir un canal, es necesario seleccionar una carpeta del repositorio de objetos.  Seleccione la carpeta de servicios para abrirla.
+Este servicio no contiene ninguna pregunta de paginación que haya que configurar.
+Configurado
+Se ha producido un error al intentar validar la conexión con la base de datos.  (#)  Verifique la información e inténtelo de nuevo.
+No se pudo establecer conexión con el motor de suscripción
+La definición de conexión con la base de datos proporcionada por el administrador es incorrecta
+Nombre de origen de datos incorrecto
+Eliminar una conexión de la base de datos
+-- seleccionar una conexión con la base de datos --
+ID de preferencia para: #
+Respuesta para: #
+El usuario no existe.
+Mecanismo de almacenamiento en caché
+Sólo cuando exista más de una pregunta
+No existe ningún objeto válido en esta carpeta
+Mostrar la página de preguntas para servicios personalizados
+Si elimina esta conexión con la base de datos, los objetos que la utilizan (es decir, el repositorio de objetos, las asignaciones de almacenamiento, etc.) no serán válidos.
+¿Desea eliminar '#' ?
+Está configurando el portal "#". Para configurar otro portal o crear uno nuevo,
+Configurar otro servicio
+Esta sección permite gestionar uno o varios sitios de suscripción.  Realizará las tareas siguientes:
+seleccionar un directorio virtual de portal de suscripción existente o crear uno nuevo
+crear o editar una definición de sitio
+Antes de empezar, deberá disponer de la información siguiente para poder completar la definición de sitio:
+Ubicación de la base de datos del repositorio de objetos
+Ubicación de la base de datos del repositorio de libro de suscripción
+Prefijos de tabla de ambas bases de datos
+La configuración del sistema de portales de suscripción ha finalizado.
+motor de suscripción:
+repositorio del portal:
+La tarea de gestión del sitio ha finalizado.  Ha seleccionado los siguientes elementos:
+directorio virtual de portal:
+definición de sitio:
+El sitio ya está preparado para que se pueda visualizar a través del portal.
+Haga clic aquí para acceder al portal de suscripción.
+Esta sección permite editar las preferencias del sitio.  Realizará las tareas siguientes:
+crear canales y asociarlos a carpetas de servicios
+seleccionar los tipos de dispositivos que admitirá el sitio
+seleccionar el dispositivo por defecto que se utilizará al crear una dirección nueva
+seleccionar el dispositivo que se utilizará para enviar servicios a la página "Mis informes"
+seleccionar el modo en que se autorizará a los usuarios para utilizar las distintas fuentes de información
+configurar otras propiedades del sitio
+La edición de las preferencias del sitio ha finalizado. Ha completado las siguientes tareas:
+edición o creación de nuevos canales para el sitio
+selección de los dispositivos que admitirá el sitio
+selección del dispositivo por defecto que se utilizará al crear una dirección nueva
+selección del dispositivo del portal que se utilizará para enviar servicios a la página "Mis informes"
+selección del modo que se utilizará para autorizar el uso de las distintas fuentes de información de este sitio
+configuración del resto de propiedades del sitio
+La integración con el motor de entrega permite a los usuarios especificar la personalización del servicio, las planificaciones y el dispositivo donde desean recibir la información.
+Este sitio no está preparado para el acceso de usuarios finales. Solicite al administrador la configuración de este sitio. Si usted es el administrador, haga clic aquí #.
+Bienvenido al portal de suscripción de MicroStrategy Narrowcast Server.
+El portal de MicroStrategy Narrowcast Server permite a los usuarios suscribirse de un modo sencillo a los servicios de Narrowcast Server a través de un navegador de Web.
+No se encontró la carpeta
+No se encontró la carpeta solicitada en el repositorio de objetos.
+Haga clic aquí para examinar la carpeta principal del proyecto.
+(ID de carpeta: #)
+Mostrar registro de errores
+Los nombres de portal no pueden contener caracteres especiales. Introduzca un nombre que sólo utilice los caracteres a-z, 0-9 o el carácter de subrayado.
+Los nombres de conexión de base de datos no pueden contener caracteres especiales. Introduzca un nombre que sólo utilice los caracteres a-z, 0-9 o el carácter de subrayado.
+La pregunta seleccionada está siendo utilizada como parte de la definición de servicio, por lo que no es posible utilizarla como pregunta alternativa o adicional.
+La pregunta seleccionada está siendo utilizada como pregunta adicional, por lo que no es posible utilizarla como pregunta alternativa.
+La pregunta seleccionada está siendo utilizada como pregunta alternativa, por lo que no es posible utilizarla como pregunta adicional.
+Para poder editar o eliminar suscripciones, asegúrese de que todas las tablas incluyen los campos SUBSCRIPTION_ID o Preference ID para la pregunta.
+Para poder editar o eliminar suscripciones, asegúrese de que todas las tablas incluyen el campo SUBSCRIPTION_ID.
+Este servicio no dispone de ninguna pregunta para asignar
+Contraseña no válida. No se ha anulado el usuario
+Actualizar la conexión con la base de datos
+Editar una conexión con la base de datos
+1. Narrowcast Server Normal (contraseña y nombre de usuario)
+2. MicroStrategy Intelligence Server Estándar (Nombre de Usuario y Contraseña)
+3. MicroStrategy Intelligence Server para NT (nombre de usuario NT)
+Si ha seleccionado opción 2 ó 3, introduzca el nombre de MicroStrategy Intelligence Server.
+Introduzca el nombre de Intelligence Server con el que desee validar a los usuarios.
+No se puede iniciar la sesión con la cuenta de usuario NT. Pida a su administrador que cree un enlace entre esta cuenta de usuario NT y un usuario de MicroStrategy Intelligence Server o que configure el servidor de Web correctamente.
+Número de componentes que deben obtenerse para las selecciones dinámicas de elementos:
+Número de componentes que deben obtenerse para las selecciones dinámicas de objetos:
+Introduzca un número válido para los componentes de selecciones dinámicas de elementos:
+Introduzca un número válido para los componentes de selecciones dinámicas de objetos:
+Configuración de selección dinámica:
+Puede iniciar la sesión en este sitio con sus credenciales de NT. Sólo tiene que hacer clic en el enlace siguiente.
+Modo de inicio de sesión:
+El servicio no tiene ningún grupo de suscripciones estáticas. Puede configurar uno por defecto si desea añadirlo a más adelante para, por ejemplo, cambiar una suscripción dinámica a estática. De otra manera, haga click en Siguiente para continuar.
+MicroStrategy Intelligence Server no ha sido encontrado.
+No tiene privilegios de acceso a uno o más proyectos que contienen informes dentro de este servicio.
+No tiene privilegios de acceso a uno o más informes dentro de este servicio
+Use credenciales de usuario.
+Los parámetros de configuración del Motor de suscripción no pudieron ser accesados. Para el funcionamiento correcto del Portal de Suscripción es necesario que la carpeta o la unidad de disco donde está instalado el Motor de Suscripción esté compartido. El Portal de Suscripción no funcionará si no se cumple este requerimiento. Desearía compartir automáticamente la unidad de disco #1 en el ordenador #2 al grupo local de Administradores de esa máquina?
+No es posible compartir la unidad de disco. Por favor comparta manualmente la unidad de disco #1 en el ordenador #2 al grupo local de Administradores de esa máquina.
+No se ha podido verificar si la carpeta del motor de suscripciones está compartida.
+4. MicroStrategy Intelligence Server LDAP (Nombre de Usuario y Contraseña)
+5. MicroStrategy Intelligence Server DB (Nombre de Usuario y Contraseña)
+Narrowcast Server Normal
+MicroStrategy Intelligence Server Standard
+MicroStrategy Intelligence Server LDAP
+MicroStrategy Intelligence Server DB
+Error al crear el usuario: error de generación del ID. Informe al administrador del sistema.
+Visualización de datos adjuntos:
+Transmitir datos adjuntos en secuencias para usar menos memoria.
+Conexión como usuario NT
+Usted está eliminando el sitio del portal que se crea por defecto. Si usted elimina este sitio, también se eliminarán los servicios para las suscripciones creadas desde MicroStrategy Web. ¿Está seguro que quiere eliminar este sitio del portal? Oprima "Aceptar" para eliminar el sitio o "Cancelar" para detener esta acción." 
+Este producto está patentado. Una o varias de las siguientes patentes pueden aplicarse al producto que se vende aquí: Números de patentes de EE.UU. 5,321,520, 5,416,602, 5,748,560, 6,154,766, 6,173,310, 6,260,050, 6,263,051, 6,269,393, 6,279,033, 6,501,832, 6,567,796, 6,587,547, 6,606,596, 6,658,093, 6,658,432, 6,662,195, 6,671,715, 6,691,100, 6,694,316, 6,697,808, 6,704,723, 6,707,889, 6,741,980, 6,765,997, 6,768,788, 6,772,137, 6,788,768, 6,792,086, 6,798,867, 6,801,910, 6,820,073, 6,829,334, 6,836,537, 6,850,603, 6,859,798, 6,873,693, 6,885,734, 6,888,929, 6,895,084, 6,940,953, 6,964,012, 6,977,992, 6,996,568, 6,996,569, 7,003,512, 7,010,518, 7,016,480, 7,020,251, 7,039,165, 7,082,422, 7,113,474, 7,113,993, 7,127,403, 7,174,349, 7,181,417, 7,194,457, 7,197,461, 7,228,303, 7,260,577, 7,266,181, 7,272,212, 7,302,639, 7,324,942, 7,330,847, 7,340,040, 7,356,758, 7,356,840, 7,415,438, 7,428,302, 7,430,562, 7,440,898, 7,457,397, 7,486,780, 7,509,671, 7,516,181, 7,559,048, 7,574,376, 7,617,201, 7,725,811, 7,801,967, 7,836,178, 7,861,161, 7,861,253, 7,881,443, 7,925,616, 7,945,584, 7,970,782, 8,005,870, 8,035,382, 8,051,168, 8,051,369, 8,094,788, 8,130,918, 8,296,287, 8,321,411, 8,452,755, 8,521,733, 8,522,192, 8,577,902, 8,606,813, 8,607,138, 8,645,313, 8,761,659, 8,775,807, 8,782,083, 8,812,490, 8,832,588, 8,943,044, y 8,943,187. Hay otras solicitudes de patentes en curso.
+No existe un repositorio definido en '#1' con el prefijo '#2'. Por favor, introduzca un prefijo valido.
+Coincidir mayúsculas y minúsculas por defecto
+DataDirect Technologies Corp. Copyright 1991-2015. DataDirect Technologies Corp. Todos los derechos reservados.
+Partes de este programa han sido registradas como propiedad intelectual de DataDirect Technologies Corp., 1991-2015.
+Se han encontrado copias de seguridad de archivos de propiedad. ¿Desea restaurar y utilizar la configuración de los archivos de seguridad? No se recomienda la restauración de archivos de seguridad cuando se actualiza de la versión 7.5 o inferior a la versión 8.0 o superior.
+Fallo al recuperar los ficheros de propiedades de la copia de seguridad. Por favor, reconfigure su portal seleccionado SIGUIENTE.
+El fichero de propiedades de la copia de seguridad ha sido recuperado. Por favor, reinicie el servicio MicroStrategy Subscription Server (Servidor de Subscripción) antes de continuar.
+Filtrar nombres de tabla
+Sugerencia: el prefijo del sistema permite crear las tablas de repositorio para varios sistemas de Narrowcast Server en la misma ubicacion de base de datos. Por ejemplo, puede utilizar el prefijo PRUEBA para un sistema de prueba y el prefijo PROD para un sistema de produccion. Un prefijo de sistema valido se compone de caracteres y numeros, y comienza con un caracter. Los prefijos no pueden tener una longitud superior a ocho caracteres.
+El nombre de alias de base de datos e#f ya se esta usando. Elija un nombre diferente.
+Cantidad de conexiones agrupadas
+En este momento el sistema no está disponible. Se ha desactivado la carpeta de la aplicación.
+Este producto contiene componentes binarios, Copyright (c) 1995-2015 The Cryptix Foundation Limited. Todos los derechos reservados. La redistribución y el uso en código fuente y formato binario, con o sin modificaciones, están permitidos siempre que se cumplan las siguientes condiciones: 1. La redistribución del código fuente debe incluir el aviso de copyright, la presente lista de condiciones y la siguiente renuncia. 2. La redistribución en formato binario debe incluir el anterior aviso de copyright, la presente lista de condiciones y la siguiente renuncia en la documentación y/o en otros materiales suministrados con la distribución.
+THE CRYPTIX FOUNDATION LIMITED Y SUS COLABORADORES PROPORCIONAN ESTE SOFTWARE ''TAL CUAL'' Y QUEDAN EXIMIDOS DE CUALQUIER GARANTÍA EXPRESA O IMPLÍCITA, INCLUIDAS, SIN CARÁCTER LIMITATIVO, LAS GARANTÍAS IMPLÍCITAS DE COMERCIABILIDAD E IDONEIDAD PARA UN FIN DETERMINADO. EN NINGÚN CASO SE RESPONSABILIZARÁ A THE CRYPTIX FOUNDATION LIMITED O A SUS COLABORADORES DE CUALQUIER DAÑO DIRECTO, INDIRECTO, ACCIDENTAL, ESPECIAL, EJEMPLAR O RESULTANTE (INCLUIDAS, SIN CARÁCTER LIMITATIVO, LA OBTENCIÓN DE BIENES O SERVICIOS DE REEMPLAZO, LA PÉRDIDA DE USO, DATOS O BENEFICIOS O LA INTERRUPCIÓN DEL NEGOCIO) OCURRIDO DE CUALQUIER MODO Y EN CUALQUIER TEORÍA DE RESPONSABILIDAD, YA SEA POR CONTRATO, RESPONSABILIDAD ESTRICTA O AGRAVIO (TANTO POR NEGLIGENCIA COMO DE CUALQUIER TIPO) PRODUCIDO DE CUALQUIER FORMA POR EL USO DE ESTE SOFTWARE, AUNQUE SE HAYA AVISADO DE LA POSIBILIDAD DE TAL DAÑO.
+DataDirect
+Cryptix
+Este servicio contiene un tipo de selección dinámica no admitido.
+Error al cargar la información de la carpeta. La carpeta o sus carpetas de niveles superiores pueden estar inactivas.
+Todo el contenido, Copyright
+2015
+Incorporated. Todos los derechos reservados.
+Inglés (Estados Unidos)
+Inglés (Reino Unido)
+Alemán
+Italiano
+Portugués
+Español
+Francés
+Sueco
+Japonés
+Coreano
+Chino (simplificado)
+Chino (tradicional)
+Sistema
+Nombre
+Apellido
+Inicial de nombre intermedio
+Sufijo
+Título
+Saludo
+Dirección
+Ciudad
+Estado
+Código Postal
+País
+Entregue respuestas para los siguientes campos de detalles de usuario
+Definir detalles de usuario

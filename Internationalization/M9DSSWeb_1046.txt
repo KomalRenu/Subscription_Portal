@@ -1,0 +1,2805 @@
+Copyright © 1996-2002 MicroStrategy, Incorporated. All rights reserved. Confidential.
+Home
+Relatórios Compartilhados
+Meus relatórios
+Lista de Histórico
+Criar relatório
+Retrato
+Paisagem
+Efetuar logout
+Orientação:
+Pesquisar
+Projeto
+Tamanho do papel:
+Todos os direitos reservados. Confidencial.
+NÍVEL DE PREFERÊNCIAS
+Servidor:
+Porta
+Nome de usuário
+Senha
+Salvar minha senha
+LOGIN
+Redefinir relatório
+O tamanho, a orientação e as margens do papel devem corresponder às configurações do navegador.
+Digite sua senha antiga e a nova senha.
+Fonte de dados
+Adicionar à minha Lista de Histórico
+Login
+Erro ao executar o documento. Entre em contato com o administrador.
+Efetuar login como Convidado
+Letter 8.5" x 11"
+Erro de sessão
+Esta sessão é inválida porque a conexão se perdeu. Efetue login novamente.
+Legal 8.5" x 14"
+Efetuar logon como usuário Windows
+A4 8.27" x 11.69"
+Folio 8.5" x 13"
+Nome do servidor
+Projetos
+BEM-VINDO
+Descricao
+Sobre o MicroStrategy Web ##
+Os seguintes servidores estão inativos:
+Vá para a página do administrador
+Usar arquivos temporários no Servidor da Web?
+Pesquisa rápida
+avançado...
+Tempo de criação de mensagens da lista de histórico: ##
+Pesquisar uma lista de relatórios preparados disponíveis para todos os usuários.
+Visualizar relatórios criados e salvos para uso futuro.
+Criar e publicar um novo relatório neste site.
+Visualizar um resumo atualizado do status de minhas solicitações.
+Você está aqui:
+Automaticamente
+Manualmente
+ID da pasta
+Não existem hierarquias neste projeto.
+objetos
+Não é possível pesquisar por atributos deste tipo.
+Página ## de ###
+Carregar fator de equilíbrio
+Proprietário
+Modificado
+Sempre
+Nunca
+Excluir pasta
+Excluir relatório
+Excluir documento
+pastas
+relatório(s)
+documento(s)
+Esta pasta está vazia.
+Necessária apenas para usuários do Internet Explorer 4.x.
+As preferências padrão de seu projeto não puderam ser salvas. Suas permissões para a pasta da Web ou seu conteúdo podem estar incorretas.
+Resultados da pesquisa:
+templates de relatório
+A pasta "##" não está disponível.
+ID da tarefa
+ID do relatório:
+Nome do relatório:
+Modo de exibição
+ID da mensagem:
+Processando solicitação...
+Sua solicitação foi submetida. Aguarde...
+Permitir escolha do usuário, o padrão do usuário é Não
+Permitir escolha do usuário, o padrão do usuário é Sim
+Aguarde enquanto seu relatório está sendo exportado.
+O tempo de processamento varia dependendo do tamanho do relatório.
+Última atualização:
+Você deve inserir um nome de relatório.
+O proprietário de um dos objetos do resultado da pesquisa não foi encontrado. Falha na pesquisa.
+Etapa ##
+Status atual:
+Relatório pronto
+Verificando prompts
+Prompts prontos
+Executando...
+Erro
+Executando...
+segundo(s)
+Informações para contato:
+Número máximo de pesquisas simultâneas:
+Informações de contato do Administrador
+Solicitado
+Verificar Status Novamente
+Cancelar essa Solicitação
+Dentro da caixa preta abaixo, você verá os números "12345" se seu navegador suportar os arquivos CSS. Você está vendo esses números?
+RELATÓRIOS RELACIONADOS
+Sim. Meu navegador suporta essa implementação de formatação.
+Não. Usar uma implementação de formatação diferente.
+Esgotado o tempo limite da solicitação. Tente novamente mais tarde.
+Ir
+Executando
+Azul e cinza
+Linhas:
+Planilha
+Gráfico
+Mensagens ## - ### de ####
+## - ### de ####
+Salvar
+Novo prompt
+Versão imprimível
+Exportar dados
+Colunas
+Colorido
+Agent
+Clássico
+Contábil
+Financeiro
+Bandas cinzas
+Utilizar HTML dinâmico?
+Tons pastel
+Vermelho e preto
+Romântico
+Tipo pequeno
+Aplicar
+Ocultar botões de pivotagem
+Exibir botões de pivotagem
+Mover até as linhas
+Mover para cima
+Mover para baixo
+Paginar por este campo
+Mover até as colunas
+Mover à esquerda
+Mover à direita
+Classificar
+Drill
+De:
+Para:
+Opções de drill:
+Drill apenas em seleções
+O que é isso?
+Manter o pai durante o drill
+Para cima
+Para baixo
+Quadrados
+para
+Exibir modo de drill
+Ocultar modo de drill
+Pôr-do-sol
+Colunas:
+Mais páginas
+Mais colunas
+Primeira página
+Última página
+Nenhum dado retornado para esse relatório.
+Erro ao chamar o modo Dormir
+Ocultar pesquisa
+Exibir pesquisa
+Exibir:
+Formatar planilha
+Ocultar barra de ferramentas
+Exibir barra de ferramentas
+Publicar
+Nenhuma informação de drill disponível.
+Ocultar detalhes do filtro
+Exibir detalhes do filtro
+Retornar ao drill simples
+A sintaxe correta para o operador Não está entre é value1;value2
+Detalhes do filtro:
+O filtro está vazio.
+durante o drill
+- nenhum -
+Dados insuficientes para exibir o subtipo do diagrama solicitado para este relatório. Tente utilizar outro subtipo de diagrama.
+Drill para
+Atualizar minha Lista de Histórico
+A mensagem da tarefa não foi encontrada ou os resultados não puderam ser obtidos a partir do MicroStrategy Server.
+Limpar minha Lista de Histórico
+Status
+Hora inicial
+Detalhes
+Remover
+Classificação crescente
+Classificação descrescente
+Último relatório:
+marcar como "não lido"
+Último documento:
+Pronto
+Aguardando o prompt
+Processamento
+Gerando SQL
+Executando SQL
+Processamento de mecanismo analítico
+Examinando cache
+Criando cache
+Aguardando em fila
+Aguardando configuração de limite
+O projeto está ocioso
+Executando relatórios filhos
+Preparando resultados
+Sua Lista de Histórico está cheia. Para executar um relatório, exclua uma ou mais mensagens.
+páginas
+Não perguntar novamente.
+Continuar
+Devido a um erro no servidor da Web, o conteúdo deste relatório não pôde ser exportado. Tente com outro relatório.
+Paginado por:
+Você está prestes a efetuar logout de todos os projetos.
+Selecione uma das opções abaixo e clique no botão Logout:
+Deseja remover as tarefas concluídas da Lista de Histórico?
+Não
+Sim
+Deseja cancelar as solicitações pendentes desta sessão?
+Cancelar
+Apenas as mensagens lidas
+Não exibir o prompt novamente.
+EFETUAR LOGOUT
+O usuário pode ter efetuado logout ou estar ocioso há muito tempo. Esgotado o tempo limite da conexão, tente efetuar login novamente.
+Devido a um erro no servidor da Web, sua solicitação não pôde ser processada. Tente novamente mais tarde.
+ID do documento:
+Nome do documento:
+Você pode verificar a Lista de Histórico ou tentar novamente mais tarde.
+Erro ao verificar o status do documento
+Nº do erro
+Documento pronto
+Prompt pronto
+ÍNDICE
+CONTEÚDO
+Perguntas freqüentes
+Última pasta:
+Nenhum dado retornado para esse documento
+Documento
+Exibição da planilha
+Página inicial atual:
+Estilo da planilha padrão:
+Máximo de linhas na planilha:
+Máximo de colunas na planilha:
+Locale
+Exportar
+Excel com formatação (versão 2000 ou posterior)
+Excel sem formatação
+Excel com texto simples
+Formato de arquivo CSV
+Abrir nova janela ao exportar
+Opções de impressão
+Texto do cabeçalho:
+Texto do rodapé:
+Modo de login
+Estilo de numeração de página:
+(nenhum)
+Página 1 de n
+Página inicial padrão:
+Ativado
+Cancelar as solicitações pendentes desta sessão?
+Mesclar colunas de cabeçalho
+Repetir colunas de cabeçalho
+Remover tarefas concluídas da Lista de Histórico?
+Aplica-se a TODOS os projetos.
+Padrões do projeto
+(padrão)
+Exibição do gráfico
+Tamanho do gráfico:
+Utilizar as configurações armazenadas na definição de relatório
+Altura:
+Largura:
+Número máximo de colunas a exportar para Excel:
+Padrão (nome do usuário & senha)
+Adicionar relatórios e documentos à minha Lista de Histórico:
+DOCUMENTOS EXTRAS
+Exibir a caixa de seleção "Lembrar senha" na página de login
+Convidado
+Não é possível abrir o arquivo XSL necessário para a saída do documento. Esse arquivo pode estar faltando ou conter erros.
+Erro ao gravar imagens gráficas no disco local. Verifique se o disco local tem espaço disponível.
+Erro ao combinar XML do relatório com o arquivo XSL para gerar a saída HTML.
+Exibir detalhes do documento
+Pasta pai:
+Preferências do usuário
+Meus relatórios
+Você precisa efetuar login neste projeto para prosseguir.
+Padrões do Projeto
+Preferências do usuário
+Utilizar os valores padrão
+Páginas por bloco:
+Número máximo de linhas a exportar para o Excel com formatação ou para HTML:
+Número máximo de linhas a exportar para o Excel ou para o CSV:
+Alterar minha senha
+Entre
+Geral
+Erro ao efetuar o login:
+Você pode utilizar o curinga "?" para indicar um único caractere.
+Autenticação do Windows
+Utilizar um plug-in de segurança personalizado?
+Classe do plug-in de segurança:
+Você pode utilizar o curinga "*" para indicar qualquer número de caracteres.
+Somente no login
+Antes de executar cada relatório
+Modo assíncrono
+modo síncrono
+Tempo antes de abrir a página de espera:
+Mostrar subscrições
+e
+Modo de execução
+Detalhes do filtro
+Erros de registro
+INSTRUÇÕES
+Ocultar subscrições
+Imprimir
+Avisar ao efetuar logout
+Mostrar opções quando imprimir
+Advertências de registro
+Mostrar propriedades
+Ocultar propriedades
+máximo de ##
+Texto simples
+Imprimir detalhes do filtro:
+No início do conjunto de impressão
+Na parte superior de cada página
+Exportar detalhes do filtro
+Prompts
+Número de elementos exibidos por bloco:
+Relatório inteiro
+Somente parte exibida
+Voltar ao início
+Não é possível efetuar logon como usuário Windows.
+Insira um nome de pasta.
+Ativado para canal (o canal é visível para usuários finais)
+Mensagem de erro:
+Retornar à pasta pai
+Error ao executar o relatório
+Tipo de gráfico
+Área vertical
+Área horizontal
+Barra vertical
+Barra horizontal
+Linha vertical
+Linha horizontal
+Pizza
+Dispersão
+Polar
+Radar
+Bolhas
+Mínimos e máximos... Stock
+Histograma
+3D risers
+3D flutuante
+Grupo de conexão 3D
+Série de conexão 3D
+3D Surface
+Dispersão 3D
+Subtipo de gráfico
+Absoluto
+Empilhado
+Bipolar absoluto
+Bipolar empilhado
+Eixo duplo absoluto
+Eixo duplo empilhado
+Por cento
+Lado a lado
+Eixo duplo lado a lado
+Bipolar lado a lado
+Fatia do círculo
+Múltiplas fatias
+Múltiplas fatias do círculo
+Múltiplas fatias proporcionais
+Múltiplas fatias do círculo proporcionais
+Voltar
+Formato da imagem:
+Dispersão de eixo duplo X-Y
+Dispersão X-Y com rótulos
+Dispersão de eixo duplo X-Y com rótulos
+Eixo duplo polar
+Gráfico de coordenadas polares
+Gráfico de coordenadas polares com eixo duplo
+Gráfico de coordenadas
+Linha de radar
+Área empilhada de radar
+Linha de radar com eixo duplo
+Área empilhada de radar com eixo duplo
+Bolhas com eixo duplo
+Mínimos e máximos com eixo duplo
+Mínimos e máximos aberto
+Mínimos e máximos aberto com eixo duplo
+Mínimos e máximos aberto-fechado
+Mínimos e máximos aberto-fechado com eixo duplo
+Histograma vertical
+Histograma horizontal
+Barras
+Pirâmide
+Octógonos
+Cut-corner bars
+Cubos
+Esferas
+Áreas
+Faixas
+Passos
+Superfície 3D com laterais
+Superfície favo de mel 3D
+Gráfico de dispersão XYZ 3D
+Gráfico de dispersão XYZ 3D com rótulos
+Dispersão X-Y
+Mínimos e máximos
+Retornar à pasta:
+Retornar ao relatório:
+Retornar ao documento:
+Sua Lista de Histórico está vazia.
+Obrigado por utilizar o MicroStrategy Web.
+Você foi desconectado.
+Para efetuar login neste site novamente, clique abaixo.
+Não é possível exportar
+Não é possível exportar esse relatório pois ele excedeu o número máximo de colunas e linhas a serem exportadas definido pelo administrador .
+Faça algumas alterações no relatório ou entre em contato com o administrador.
+Você precisa conectar-se ao menos a um projeto para iniciar o uso do MicroStrategy Web.
+Não existem MicroStrategy Servers registrados na máquina do servidor da Web.
+Nenhum projeto ativo disponível no servidor ##.
+O nome do usuário ou a senha está incorreto(a). Digite-os novamente. Lembre-se de que a senha diferencia maiúsculas e minúsculas.
+Sua senha está incorreta. Digite-a novamente. Lembre-se de que a senha diferencia maiúsculas e minúsculas.
+Nenhum dado do conteúdo da pasta foi recuperado.
+Falha na execução do relatório.
+O relatório não pôde ser recuperado do servidor.
+O relatório não pôde ser recriado.
+As configurações de seu navegador podem estar incorretas. Certifique-se de ativar cookies.
+Erro ao acessar a Lista de Histórico do usuário.
+As mensagens da Lista de Histórico não puderam ser recuperadas do MicroStrategy Server.
+As mensagens da Lista de Histórico não puderam ser removidas do MicroStrategy Server.
+Erro ao configurar o status da mensagem no MicroStrategy Server.
+Nenhuma pasta, nenhum relatório ou documento encontrado neste local.
+Propriedades
+Devido a um erro de sintaxe, sua solicitação de pivotagem não foi concluída.
+Devido a um erro de sintaxe, sua solicitação Paginar por não foi concluída.
+Devido a um erro de sintaxe, suas solicitações de pivotagem e Paginar por não foram concluídas.
+Devido a um erro de sintaxe, sua solicitação de classificação não foi concluída.
+Devido a um erro de sintaxe, suas solicitações de pivotagem e de classificação não foram concluídas.
+Devido a um erro de sintaxe, suas solicitações Paginar por e de classificação não foram concluídas.
+Devido a um erro de sintaxe, suas solicitações Paginar por, pivotagem e de classificação não foram concluídas.
+Seu relatório não pôde ser exibido.
+Algumas das sessões não puderam ser fechadas. O MicroStrategy Server talvez tenha fechado sua sessão ou o MicroStrategy Server não está respondendo.
+Não é possível exibir alguns prompts.
+Falha em todos os prompts.
+Falha na execução do documento.
+O documento não pôde ser recuperado do servidor.
+Os projetos não puderam ser exibidos.
+Sua Lista de Histórico não pôde ser exibida.
+O projeto está off-line ou off-line pendente.
+Erro ao salvar preferências pessoais.
+Não foi possível salvar suas preferências pessoais. As configurações de seu navegador podem estar incorretas.
+Confirmação de atualização
+Suas preferências pessoais foram salvas.
+Não é possível exibir a página
+Entre em contato com o administrador.
+Nenhuma configuração encontrada.
+Suas preferências pessoais não foram encontradas. As configurações de seu navegador podem estar incorretas. Certifique-se de ativar cookies.
+Informações inválidas
+Corrija os campos marcados e tente novamente.
+Os campos incorretos foram ignorados e salvos com valores padrão.
+O MicroStrategy Server ao qual você está tentando conectar-se não foi encontrado. Tente novamente mais tarde.
+Você não possui direitos de acesso ao projeto selecionado.
+Você selecionou muitos objetos para um prompt de objeto.
+Você selecionou poucos objetos para um prompt de objeto.
+Você selecionou muitos elementos para um prompt de elemento.
+Você selecionou poucos elementos para um prompt de elemento.
+Essa conta foi desativada pelo administrador.
+A senha expirou.
+Você não tem permissão para alterar sua senha.
+Não existem objetos a excluir.
+A sintaxe correta para o operador Entre é value1;value2
+A versão do MicroStrategy Server e a versão do cliente são incompatíveis
+A função Dormir não pôde ser chamada na execução síncrona.
+Esse prompt é obrigatório e deve ser respondido.
+Insira um valor na caixa de texto.
+A conexão com o MicroStrategy Server foi perdida. Efetue login novamente...
+O seguinte arquivo não foi registrado corretamente no Servidor da Web: M8dssxml.dll. Peça mais detalhes ao administrador.
+Utilizar a página do administrador para configurar alguns projetos.
+Um ou mais servidores podem estar inativos.
+Selecione alguns elementos antes da ação de drill
+Não é possível qualificar mais de um item ao mesmo tempo.
+Os prompts desse relatório não puderam ser exibidos, pois já foram respondidos.
+Erro ao carregar
+Se você excluir essa pasta, removerá também seu conteúdo do servidor.
+Lista de mensagens de erro
+Tempo
+Descrição do erro
+Arquivo
+Função ASP
+Função de API
+Comentários
+Nível
+Sua senha foi alterada.
+Você está agora conectado ao projeto
+como usuário
+Alterar senha
+Sua senha expirou. Você precisará alterá-la para conectar-se.
+Senha antiga:
+Nova senha:
+Verificação da nova senha:
+Senha expirada
+Digite uma senha diferente da anterior.
+Preencha todos os campos de texto exibidos abaixo:
+Atualizar
+MODO DE PESQUISA
+Carregar os valores padrão
+Ir para a minha Lista de Histórico
+não mais que
+não menos que
+seleções
+nenhum
+Disponível
+Selecionado
+Localizar
+elementos
+Métrica
+Atributo
+Entre (inserir value1; value2)
+Exatamente
+Maior do que
+Maior ou igual a
+menor do que
+Menor ou igual a
+Como
+Não é como
+Valores
+é
+Maior
+Menor
+Adicionar
+Suas seleções
+Coincidir
+Todas as seleções
+Qualquer seleção
+Minhas seleções
+Adicionar às seleções
+Pesquisar:
+Executar relatório
+Salvar relatório
+Qualificar na descrição de atributo
+Retornar para selecionar hierarquia
+Escolher uma hierarquia
+Outras hierarquias:
+Operador
+Qualificar
+Selecionar
+Elementos
+Pasta atual
+Subpastas
+Conteúdo da pasta
+Inserir critérios da pesquisa.
+A lista pode ser longa.
+Não existem pontos de entrada nessa hierarquia.
+PRECISA DE AJUDA?
+O que são Relatórios Compartilhados?
+O que é um documento?
+Como posso selecionar um novo projeto?
+Você atingiu o número máximo de mensagens por usuário. Entre em contato com o administrador.
+O que são padrões do projeto?
+Você pode me falar mais sobre os padrões do projeto?
+Os usuários finais podem alterar as configurações padrão do projeto?
+O número máximo de mensagens por projeto foi alcançado. Entre em contato com o administrador.
+O que são preferências do usuário?
+O que significa "Aplicar a TODOS os projetos"?
+Como posso cancelar e retornar ao Início?
+O que significa "Carregar valores padrão"?
+O que é a Lista de Histórico?
+Como posso remover relatórios e documentos de minha Lista de Histórico?
+Como posso classificar minha Lista de Histórico?
+O que significa "Aguardando em fila"?
+O que são Meus Relatórios?
+O que é um relatório?
+Como posso selecionar um relatório?
+O que significa excluir?
+Depois de excluir um objeto, posso restaurá-lo?
+Como posso determinar se minha solicitação está pronta?
+Para que serve o botão "Adicionar à minha Lista de Histórico"?
+Depois de selecionar uma hierarquia à esquerda, você será capaz de visualizar os atributos da mesma nesta seção.
+Como posso alterar o estilo deste relatório?
+Como posso reorganizar linhas e colunas deste relatório?
+Como posso exibir os dados que não pude alcançar ao rolar?
+Como posso efetuar o drill para outros dados relacionados a partir deste relatório?
+Vá para a etapa 2
+Como posso realizar uma pesquisa?
+Outros
+Em
+Quais são os tipos diferentes de prompts suportados?
+Nota: O Netscape 6, o Internet Explorer 5 e versões mais recentes desses navegadores suportam DHTML.
+Muitas linhas foram retornadas do MicroStrategy Server. O administrador pode alterar o número máximo de linhas a serem retornadas pelo MicroStrategy Desktop.
+Os operadores "Like" e "Not Like" não suportam o tipo de dados não-texto.
+Você selecionou muitas qualificações para um prompt de expressão.
+Como posso obter mais detalhes sobre meu relatório ou documento?
+Você selecionou poucas qualificações para um prompt de expressão.
+Você selecionou muitas qualificações para um prompt hierárquico.
+Você selecionou poucas qualificações para um prompt hierárquico.
+Por que preciso de uma senha?
+Por que preciso alterar minha senha?
+Primeira vez aqui ou deseja apenas conhecer este site?
+Ajuda on-line
+O que significa efetuar logout?
+Você pode me falar sobre o subsistema de segurança?
+Por que preciso efetuar login?
+O que são cookies e como serão utilizados neste site da Web?
+O que significa efetuar login como Convidado?
+Por que minha senha expira?
+O que significa salvar um relatório?
+Algumas das respostas padrão neste prompt não foram exibidas.
+Como posso salvar um relatório?
+Por que não consigo exportar?
+(Apenas o tipo texto é permitido)
+Não exatamente
+O que são Preferências do usuário?
+Não entre (inserir value1; value2)
+Para que serve esta página?
+Como posso configurar um MicroStrategy Server neste servidor da Web?
+O que significa publicar um MicroStrategy Server na Web?
+Vá para o estado do relatório anterior
+Desktop
+Relatórios compartilhados
+Criar relatório
+Página de espera
+Resultados do relatório
+Página do Administrador
+Senha expirada
+Detalhes da tarefa
+Se esta janela permanecer aberta após concluída a exportação, você poderá fechá-la.
+Salvar como
+Excluir
+Não é possível Exportar
+Privilégios do usuário
+O seguinte arquivo não foi registrado corretamente no Servidor da Web: M9win32.dll. Peça mais detalhes ao administrador.
+Retornar para:
+Você está prestes a excluir este objeto:
+No entanto, este relatório poderá ser exportado para texto simples selecionando-se essa opção nas preferências ou quando solicitado da exportação.
+Salvar o relatório com quaisquer prompts incorporados no filtro.
+Tem certeza de que deseja excluir este objeto?
+Confirmação de exclusão
+O objeto não existe nos metadados.
+Devido a um erro no servidor, sua solicitação não pôde ser processada.
+Tente novamente. Se o problema persistir, entre em contato com o administrador do servidor.
+Instrução SQL:
+Descrição do relatório:
+Template:
+Filtro:
+[ ... ]
+Nome da pasta:
+Número total de linhas:
+Número total de colunas:
+Caminho do relatório:
+Caminho do documento:
+Mensagem criada:
+Última atualização da mensagem:
+Descrição do documento:
+Tempo de término:
+Tarefa ainda em execução.
+Salvar relatório como:
+Nome do relatório:
+Salvar relatório como uma definição estática.
+Prompt sem seleções.
+Requerido
+Opcional
+Criar Pasta
+Salvar confirmação
+Seu relatório foi salvo com sucesso.
+Clique em Continuar abaixo para retornar ao relatório original.
+Mais opções...
+Executar seu novo relatório:
+Executar o relatório recém criado, de seu novo local, com seu novo nome.
+Relatórios salvos:
+Pesquisar outros relatórios salvos na mesma pasta que este.
+Existe um relatório com o mesmo nome que o novo.
+Substituir
+Publicar relatório como:
+Salvar prompt:
+Salvar relatório dentro de:
+Conteúdo desta pasta:
+Criar pasta:
+Você pode substituí-lo ou salvar o novo relatório com outro nome.
+Existe uma pasta com o mesmo nome que a nova.
+Utilize um nome de pasta diferente.
+Você inseriu um nome inválido.
+Selecione um nome diferente e tente novamente.
+Salvar o relatório com todos os prompts embutidos.
+Simples
+Contém
+começa com
+Termina com
+Local:
+Em todas as pastas
+Apenas dentro da pasta
+Modo de drill
+Localizar todos os objetos
+Criado
+A versão do MicroStrategy Server à qual você está tentando se conectar não é compatível com esta versão do MicroStrategy Web. Ela deve ser ## ou posterior.
+Entre
+Durante o(s) último(s)
+Criado por qualquer usuário
+Criado apenas por mim
+A descrição inclui:
+e
+Avançado
+Página de pesquisa
+Verificar o nome do objeto.
+Consultar a seção ##.
+Data da criação/modificação:
+Dia(s)
+Hora(s)
+Ano(s_
+Mês(es)
+Obter ajuda
+Dicas da pesquisa:
+Utilizar o critério "Contém".
+Semana(s)
+A pesquisa por ## não retornou resultados.
+Sua pesquisa não retornou resultados.
+Tipo de objeto:
+Tentar ##pesquisa avançada### para mais opções de pesquisa.
+Preferências avançadas
+Se você quiser responder novamente ao prompt no documento, execute o documento do zero.
+Nova pesquisa
+Detalhes da pesquisa
+objetos encontrados
+Se manualmente, quantos dos relatórios e documentos executados mais recentemente você deseja manter disponíveis para manipulação?
+Observação: Esses relatórios e documentos ficarão disponíveis para manipulação mesmo se não tiverem sido salvos na Lista de histórico.
+Acesso negado
+O seguinte privilégio é necessário para acessar o recurso solicitado:
+Entre em contato com o administrador do MicroStrategy Server para verificar se o privilégio requerido foi concedido.
+Aviso: Esse documento não pôde ser salvo na Lista de Histórico.
+LISTAS DE HISTÓRICO EXTRAS
+Esse prompt requer um valor entre ## e ###.
+Esse prompt requer um valor não menor que ##.
+Esse prompt requer um valor não maior que ##.
+Esse prompt requer um valor não posterior que ##.
+Esse prompt requer um valor não anterior que ##.
+Permitir drill apenas com hyperlinks
+Permitir a expansão simples
+Permitir drill em qualquer lugar
+Você não possui privilégios para salvar relatórios na pasta "Relatórios compartilhados".
+Você não possui privilégios para salvar relatórios na pasta "Meus relatórios".
+O texto inserido é muito longo. Digite-o novamente.
+O texto inserido é muito curto. Digite-o novamente.
+Você não possui permissão suficiente para acessar o recurso solicitado. Se o problema persistir, entre em contato com o administrador do MicroStrategy Server.
+Nome inválido para a classe do plug-in de segurança
+Nome do usuário/senha inválidos. Certifique-se de que o plug-in de segurança esteja corretamente instalado e registrado.
+Não está entre
+O MicroStrategy Server não está disponível. Deve estar desconectado ou inativo.
+Detalhes do erro:
+ID do erro XMLAPI do MicroStrategy Web:
+O servidor da Web encontrou um erro desconhecido em tempo de execução.
+Verifique o arquivo de registro do MicroStrategy Web para detalhes.
+Não é possível exportar esse relatório pois ele excedeu o número máximo de colunas e linhas a serem exportadas para Excel, CSV ou HTML definido pelo administrador.
+Desativar todos os drills
+Aviso: Esse relatório não pôde ser salvo na Lista de Histórico.
+Servidores conectados:
+Cluster
+Modo de conexão
+Carregado
+Ocupado
+Livre
+Tamanho máximo do grupo
+Ação
+Mostrar nomes dos forms dos atributos
+Alterar
+Desconectar-se
+Conectar
+Modificar
+Servidores desconectados:
+Tamanho inicial do grupo
+Usuário conecta manualmente Web ao Intelligent Server
+Conectar automaticamente ao Intelligence Server quando o servidor da Web ou o Intelligence Server for reiniciado
+Exibir Todos os Servidores Disponíveis
+Atualizar
+Adicionar um servidor manualmente
+Detalhes de propriedade do servidor
+Conectado
+Todos os servidores disponíveis
+Não há um MicroStrategy Server disponível no momento.
+Não há MicroStrategy Servers disponíveis no momento.
+Nenhum MicroStrategy Server foi desconectado recentemente.
+Essa ação não pôde ser executada porque você não possui acesso para gravar esse objeto ou sua pasta pai.
+Para que serve um prompt?
+Ocultar todos os servidores disponíveis
+SOBRE
+A pasta que você está tentando abrir não existe neste projeto.
+O relatório que você está tentando executar não existe neste projeto.
+O documento que você está tentando executar não existe neste projeto.
+Hierarquia do sistema
+Próximos projetos
+Projetos anteriores
+Versão ASP:
+Versão API XML:
+Versão do navegador:
+Cookies do MicroStrategy Web:
+Versão do MicroStrategy Server:
+Mostrar relatórios de gráficos por padrão no modo de exibição 'Planilha e gráfico'
+Ocultar planilha
+Caminho de registro de chamada de funções que causou erros
+Para cima
+Para baixo
+Erro ao carregar os dados XML.
+Um dos nós XML necessários não está disponível. Peça mais detalhes ao administrador.
+O seguinte arquivo não foi registrado corretamente no Servidor da Web: scrrun.dll. Peça mais detalhes ao administrador.
+O seguinte arquivo não foi registrado corretamente no Servidor da Web: MSXML.dll. Peça mais detalhes ao administrador.
+Erro interno da rede: falha ao descompactar a mensagem. A causa pode estar relacionada a versões incompatíveis do MicroStrategy Web e do MicroStrategy Intelligence Server.
+Erro ao efetuar login
+Erro ao alterar a senha
+Erro nos relatórios compartilhados
+Erro em Meus relatórios
+Erro nos prompts
+Erro nos resultados do relatório
+Erro na Lista de Histórico
+Erro nos detalhes da tarefa
+Erro ao salvar como
+Erro ao pesquisar
+Erro ao excluir
+Erro ao criar relatórios
+Erro na ajuda on-line
+Erro ao efetuar logout
+O arquivo não existe.
+Erro ao abrir o arquivo.
+Erro ao ler o arquivo.
+Erro do MicroStrategy Server:
+Erro ao carregar projetos
+Erro ao ler a definição de prompt do MicroStrategy Server. Execute o relatório ou o documento novamente.
+Erro ao carregar a pergunta do prompt.
+Exibir relatórios filhos
+Ocultar relatórios filhos
+Sua nova senha não corresponde à primeira. Digite-as novamente.
+Exibir relatórios filhos para documentos
+Ocultar relatórios filhos para documentos
+Você não tem permissão para alterar a senha de outro usuário
+Ocorreu um erro ao tentar ler os arquivos da ajuda. Tente novamente e, se ocorrer o mesmo problema, entre em contato com o administrador do servidor da Web.
+Erro ao localizar a pasta.
+Navegação
+Documentos
+Solicitação de drill inválida. A solicitação foi cancelada.
+O comando de drill não pôde ser executado.
+Drilling
+Erro ao executar a tarefa.
+Erro ao exibir os prompts.
+Tempo antes da atualização da página:
+Classificar por:
+Avisos
+Erros
+Anterior ##
+Próximo ##
+O MicroStrategy Web é um produto da
+Exportar
+Formatação do gráfico
+Formatação da planilha
+Convidados
+Você não possui uma conta?
+Você pode entrar neste site como nosso convidado. Clique abaixo.
+Busca incremental
+Você pode tentar efetuar logon neste site utilizando suas credenciais do Windows. Basta clicar no link abaixo.
+Login - logout - segurança
+Paginar por
+Bem-vindo
+Se você não for ##,
+clique aqui
+Preferências
+Pivotagem
+Exibir detalhes do relatório
+Retornar à pasta pai
+Imprimindo
+Execução de relatório e documento
+Salvando relatórios
+Exibir registro de erro
+Selecione um dia:
+Mês
+Dia
+Ano
+Mensagens
+Remover das seleções
+Mínimo de ##
+Sempre manter
+Sempre excluir
+Avisar usuário no logout
+Avisar usuário na impressão
+Avisar usuário
+Número de objetos exibidos por bloco:
+Relatórios compartilhados e meus relatórios
+Classificando
+Lista de classificação
+Clique no título da coluna a classificar.
+Retornar ao relatório
+Peça ao administrador do MicroStrategy Server para vincular essa conta de usuário do Windows a um usuário do MicroStrategy Server ou peça para configurar o servidor da Web corretamente.
+Aguarde...
+Arquivo de cabeçalho:
+Arquivo de rodapé:
+Utilize a pesquisa avançada para especificar restrições de datas, tipos de objeto e descrições.
+Os padrões do projeto foram salvos.
+Insira uma data válida.
+DESCRIÇÃO DA PASTA
+As opções de impressão permitem que você personalize a aparência do relatório antes da impressão.
+Uma vez exibido o relatório, é possível imprimi-lo utilizando os recursos de impressão de seu navegador.
+Em (inserir value1; value2; ...; valueN)
+Erro ao responder o prompt. Revise suas respostas.
+Número máximo de linhas por página:
+Número máximo de colunas por página:
+Número padrão de linhas por página:
+Número padrão de colunas por página:
+O template de HTML não foi localizado no MicroStrategy Server.
+Ocultar ajuda
+Exibir ajuda
+Ocultar esta seção
+Exibir esta seção
+Estilo da planilha
+Utilizar o formato armazenado na definição do relatório
+Utilizar meu estilo de planilha padrão selecionado
+Estilo de relatório desconhecido
+Servidor da Web
+Tempo limite do servidor ocupado:
+Siga as instruções fornecidas para redimensionar o relatório para impressão.
+Esse prompt requer entre ## e ### seleções.
+Esse prompt requer pelo menos ## seleções.
+Esse prompt não pode aceitar mais de ## seleções.
+Linhas da planilha por página impressa:
+Colunas da planilha por página impressa:
+Erro nos resultados do documento
+Adicionar...
+Método de solicitação
+Preferências avançadas:
+Executar Documento
+Suporte Técnico
+Os resultados deste relatório não estão mais disponíveis. Envie novamente a solicitação.
+Determinar automaticamente
+Executar novamente o relatório
+Executar novamente o documento
+Erro ao obter XML de resposta por prompt.
+RELATÓRIOS EXTRAS
+Exibir informações avançadas
+ESTILOS DE PLANILHA
+Ocultar informações avançadas
+Esse prompt requer exatamente ## seleções.
+O conteúdo desta página não pôde ser exibido porque o MicroStrategy Server não está sendo executado. Entre em contato com o administrador.
+Erro na página do administrador
+O seguinte arquivo não foi registrado corretamente no Servidor da Web: MAWeb.dll. Peça mais detalhes ao administrador.
+O Servidor da Web encontrou um erro ao atualizar os clusters de servidor.
+O Servidor da Web encontrou um erro ao conectar-se ao servidor:
+O Servidor da Web encontrou um erro ao desconectar-se do servidor:
+O Servidor da Web encontrou um erro ao recuperar as informações do cluster de servidor.
+O Servidor da Web encontrou um erro ao verificar a disponibilidade de MicroStrategy Servers e ao carregá-los.
+Nome
+Visualização em lista
+Visualização de ícones grandes
+Nome do servidor incorreto.
+Alemão
+Inglês (Americano)
+Espanhol (Espanha)
+Francês
+Italiano
+Japonês
+Coreano
+Sueco
+Inglês (Reino Unido)
+Espanhol (México)
+Padrão
+O atributo está bloqueado
+Não é possível exibir a lista de elementos
+métrica
+## páginas anteriores
+próximas ## páginas
+primeiras ## páginas
+Copyright
+Atualizar dados
+Este prompt permite apenas uma seleção.
+As opções de exportação permitem que você personalize o formato e a aparência dos dados antes da exportação.
+Clique em Exportar para iniciar a exportação.
+Opções de exportação
+Insira valores válidos separados por ponto-e-vírgula.
+Tempo limite da solicitação:
+Formato de número incorreto, tente novamente.
+Número máximo de elementos para a pesquisa:
+Tempo limite da pesquisa:
+Insira um nome de servidor na caixa de texto na parte inferior da página.
+A pesquisa encontrou mais de ## itens. Apenas os primeiros ## itens serão exibidos.
+Abrir pasta
+Siga as instruções marcadas abaixo com um sinalizador vermelho.
+Aviso!
+Executar relatório
+O gráfico deste relatório não está disponível para usuários do MicroStrategy Web.
+O conteúdo desta página não pôde ser exibido porque o projeto está em modo ocioso. Entre em contato com o administrador do MicroStrategy Server.
+Esta ação não pôde ser executada porque você não tem privilegios para escrever nesta pasta ou relatório.
+Se o número de linhas do relatório exceder o limite definido pelo administrador, ele será exportado para texto simples.
+Esse prompt requer pelo menos 1 seleção.
+Esse prompt não pode aceitar mais de 1 seleção.
+Criando nova tarefa
+Parâmetros incorretos em URL
+Os seguintes parâmetros são requeridos em URL:
+Aplica-se a todos os projetos, exceto aos que têm um alias.
+Tamanho máximo do título:
+Aplica-se a todos os projetos.
+Número máximo de guias por página:
+Alias do projeto:
+Exibir guia deste projeto
+Exibição do projeto
+DD/MM/YYYY
+HH:MM:SS PM
+Abrir nova janela ao imprimir
+Uma expressão ou um grupo de elementos de um atributo é equivalente a uma seleção.
+O arquivo XSL deste documento pode estar faltando ou pode conter uma XSL formatada de forma incorreta.
+Observação: Essas opções não se aplicam aos prompts e editores de filtro que contêm listas predefinidas de elementos ou objetos.
+Mais...
+.
+Selecione um item para qualificação.
+Erro no relatório
+Erro no documento
+Essa ação não pôde ser executada porque você não possui privilégio para criação de objetos.
+Exportar valores numéricos como:
+Números
+Texto
+Atualizar relatório:
+Recuperar dados do último cache válido do MicroStrategy Server
+Executar novamente contra warehouse
+Ocultar totais
+Mostrar totais
+Esse relatório excedeu o número de células permitidas pelo gerenciador XML do MicroStrategy Server.
+Resumo
+Imprimir a planilha e o gráfico na mesma página
+Filtro em seleções
+Cabeçalhos de coluna:
+Expandir os campos Paginar por a seguir ao imprimir:
+Número máximo de linhas a serem exportadas para texto simples:
+Número máximo de colunas a serem exportadas para HTML ou texto simples:
+Avisar ao exportar
+Mostrar opções ao exportar
+Exportar planilhas para:
+Exportar gráficos para:
+Ao exportar a planilha com o gráfico, exportar a planilha:
+Com formatação
+Sem formatação
+Em texto simples
+Português (Brasil)
+Utilizar hyperlinks em relatório para:
+Fazer drill imediatamente
+Abrir menu suspenso
+Visualizar prompts:
+Todos em uma página
+Cada um em uma página
+Exibir sempre prompts obrigatórios primeiro
+Retornar à página do administrador
+Ocorreu um erro no relatório
+Ocorreu um erro no documento
+Número máximo de séries e categorias:
+Séries:
+Categorias:
+Coincidir maiúsculas e minúsculas
+Local
+Delimitador:
+Vírgula
+Tab
+Ponto-e-vírgula
+Espaço
+filtro(s)
+template(s)
+Anterior
+Próximo
+Etapas ## - ### de ####
+Retornar ao relatório
+Primeiras ## etapas
+Últimas ## etapas
+ou
+Retornar ao Prompt
+Resumo de suas seleções
+Erro no conteúdo da pasta
+O Prompt não foi respondido
+Sua seleção:
+Prompt ##
+A seleção padrão é:
+Exportar documentos para:
+Os resultados dos relatórios programados são adicionados à Lista de Histórico.
+Estrutura
+O valor de cada preferência deve ser igual ou menor que o valor da preferência diretamente acima.
+Mostrar Versão Imprimível
+Minhas Subscrições
+Visualizar uma lista dos relatórios aos quais me subscrevi.
+Subscrever
+Para se subscrever a estes relatórios, selecione uma programação ou personalização abaixo.
+Tem certeza de que deseja excluir esse canal?
+Com a seguinte personalização:
+Adicionar subscrição
+Você está inscrito às seguintes assinaturas para este relatório:
+Programar
+Personalizado
+Cancelar subscrição
+Editar
+Subscrições
+Escolha uma programação:
+O novo relatório auto-substituirá versões antigas.
+Esta opção é automaticamente ativada para usuários sem acesso à Lista de Histórico.
+Você tem ## ###subscrição(ões)#### para este relatório.
+Permitir que o usuário altere esta preferência
+Mesclar
+Repetir
+A geração em SQL não está concluída.
+Clicar em 'Exibir Versão Imprimível' para mostrar a aparência do relatório quando impresso.
+Não
+Classificar entre
+Excluir mais alto
+Excluir mais baixo
+Não classificar entre
+Classificar igual a
+Classificar não igual a
+Nível básico de relatório
+Nível de relatório
+Nível padrão
+Nível desconhecido
+Se quiser ver os resultados do relatório, alterne o modo de exibição para Planilha. Entre em contato com o administrador para obter mais detalhes.
+Preferências da planilha, quanto ao número máximo de linhas, serão ignoradas para este relatório.
+Se quiser responder a esses prompts novamente, clique no link Novo prompt ao lado do relatório.
+Métricas filhas
+Se Não, então:
+Você tem ## ###subscrição(ões)#### para este documento.
+Remover esta coluna
+Erro em Minhas Subscrições
+Tem certeza que seja sobregravar esta subscrição?
+Confirmar sobregravação
+Você irá agora sobregravar esta subscrição:
+Limite de relatório:
+Máquina Virtual Java
+Suas informações de origem de informações foram alteradas.
+Você não tem nenhuma subscrição.
+Lista de projetos:
+Exibir todos os projetos conectados ao servidor da Web antes do usuário efetuar o login
+Efetuar o login e em seguida exibir os projetos acessíveis pelo login fornecido
+A senha fornecida está incorreta ou o nome de usuário e senha fornecidos não acessam nenhum dos projetos atualmente disponíveis no sistema.
+Excluir template
+Excluir filtro
+Informações não disponíveis
+Detalhes do template:
+Seu template foi salvo com êxito.
+Seu filtro foi salvo com êxito.
+Existe um template com o mesmo nome que o novo.
+Você pode substituí-lo ou salvar o novo template com outro nome.
+Existe um filtro com o mesmo nome que o novo.
+Você pode substituí-lo ou salvar o novo filtro com outro nome.
+Relatórios
+Endereços
+Serviços
+Sobre
+Ajuda
+Sua solicitação está sendo processda. Aguarde...
+O MicroStrategy Narrowcast Server é um produto da
+Opções
+Pesquisa rápida
+Pastas de serviço
+Código do erro
+Descrição do erro
+Pastas que exibem erros
+Um nível acima
+Pastas filhas que exibem erros
+Descrição:
+Serviço
+Endereço
+Personalização
+Métrica
+Salvar alterações
+Novos usuários
+Nome de usuário:
+Senha:
+Você pode criar uma nova conta. Clique abaixo.
+Criar uma nova conta
+Escolha um endereço:
+Crie um novo endereço
+Ocorreu um erro nesta página.
+Erro ao recuperar endereços
+Você não tem nenhum endereço compatível.
+Erro ao recuperar programações
+Não existe nenhuma programação disponível.
+(Nenhuma descrição de serviço disponível)
+Erro ao exibir subscrições
+Não existem serviços nesta pasta.
+Não existem subscrições para este serviço.
+LINKS RÁPIDOS
+AVISOS
+Voltar para Home
+Voltar para endereços
+Voltar para relatórios
+Voltar para serviços
+Erro durante o login
+O nome do usuário ou a senha está incorreto(a). Digite-os novamente.
+O nome do usuário ou a senha está em branco. Digite-os novamente.
+Erro durante a operação de endereço
+Tente novamente ou contate seu administrador do sistema.
+Um ou mais campos de endereços estão em branco. Tente novamente.
+Erro durante a operação de subscrição
+Erro ao criar uma nova conta
+A senha e a senha confirmada não coincidem. Digite-os novamente.
+O nome do usuário, ou a senha ou a dica da senha está em branco.
+Erro ao criar nova conta de usuário
+Criar novo usuário
+Confirmar senha:
+Dica da senha:
+Cancelar solicitação
+Sua solicitação foi cancelada.
+Clique na guia acima para continuar.
+Nenhum endereço criado
+Recuperar programações para a subscrição
+Recuperar endereços de usuários para a subscrição
+Recuperar informações do serviço
+Recuperar serviços em pastas
+Recuperar subscrições de usuário
+Recuperar prompt para a subscrição
+Atualizando subscrições do usuário
+Atualizar endereços do usuário
+Criar novo usuário
+Validar login de usuário
+Recuperar endereços de usuário
+Recuperar pastas
+Processando...
+Confirmar nova senha:
+Confirmar exclusão de endereço
+Confirmar exclusão de subscrição
+Tem certeza de que deseja excluir o endereço?
+Tem certeza de que deseja excluir a(s) assinatura(s) para o(s) seguinte(s) serviço(s)?
+Opções de usuário
+Suas opções foram salvas.
+Local:
+JavaScript:
+Usar JavaScript?
+Status:
+Erro ao recuperar relatórios
+Erro ao exibir relatório
+Relatório:
+Criado:
+Expira:
+Pastas de relatórios
+Pendente
+Este relatório não está atualmente disponível.
+Ocorreu um erro ao recuperar seus relatórios.
+Ocorreu um erro ao exibir este relatório.
+Anexos
+Recuperar relatório
+Não existem relatórios nesta pasta.
+Não existem programações definidas neste projeto.
+Salvar personalização como:
+Erro ao salvar personalização
+Ocorreu um erro ao salvar sua personalização.
+Esqueceu sua senha?
+Insira seu nome do usuário e clique em "Exibir dica de senha".
+Exibir dica da senha
+Sua dica da senha é:
+Erro ao recuperar dica da senha
+Ocorreu um erro ao recuperar sua dica da senha.
+Voltar ao login
+Recuperar dica da senha
+Atualizar perfil do usuário
+Recuperar informações de endereço
+Salvar informações de subscrição
+Insira um nome de endereço.
+Insira um nome de endereço sem os seguintes caracteres:
+Insira um endereço.
+Insira um endereço sem espaços ou os seguintes caracteres:
+Insira seu endereço no formato nomeusuário@servidor.tipo, como no exemplo a seguir: jsilva@empresabac.com
+O seguinte arquivo não foi registrado corretamente no Servidor da Web: M9StrUtl.dll. Peça mais detalhes ao administrador.
+Obrigado por usar o MicroStrategy Narrowcast Server.
+Não existe um arquivo enviado ao servidor da Web.
+Este nome de usuário já está em uso. Insira um nome de usuário diferente.
+O arquivo contém uma extensão inválida. As extensões de arquivo permitidas são: ##
+Erro ao atualizar perfil do usuário
+Ocorreu um erro ao atualizar seu perfil do usuário.
+A senha antiga está incorreta. Digite-a novamente.
+A nova senha e confirmação não coincidem. Digite-os novamente.
+Erro ao recuperar dados
+Ocorreu um erro ao carregar o XML. Contate o administrador do sistema.
+MicroStrategy Narrowcast Server 7.1
+Versão
+Informações de contato do administrador do sistema
+e-mail:
+Telefone:
+Insira a dica da senha que irá lembrá-lo de sua senha.
+O PIN e confirmação não coincidem. Digite-os novamente.
+Salvar template em:
+Salvar filtro em:
+Salvar template como:
+Salvar filtro como:
+Relatório
+Template
+Filtro
+EXECUTAR FILTRO + TEMPLATE
+Executar este filtro:
+com este template:
+Selecione um template
+Selecione um filtro
+Para registrar-se para uma conta, insira as seguintes informações como abaixo.
+As informações requeridas são indicadas com um asterisco vermelho(*).
+Insira um nome de usuário e senha para sua nova conta.  Certifique-se em inserir sua senha duas vezes.
+Insira uma dica o mais claramente possível associada com sua senha.
+Insira um endereço de e-mail.
+(por exemplo: nome@empresa.com)
+Concluído! Clique no botão "Criar nova conta" abaixo.
+Insira suas credenciais de login para a(s) seguinte(s) origem(ns) de informações.
+Foram encontrados um ou mias erros ao processar sua solicitação para uma nova conta.
+Siga as instruções em vermelho abaixo e tente novamente.
+A dica da senha está em branco. Digite-a novamente.
+Alterar minhas senhas
+Você pode alterar uma ou mais senhas abaixo.
+Sua conta de login.
+Concluído! Clique no botão "Concluir" abaixo.
+Concluir
+Foram encontrados um ou mais erros ao processar sua solicitação de alteração de senha.
+O senha antiga ou nova está em branco. Digite-os novamente.
+Importar filtros:
+Extensões de arquivo permitidas:
+Observação: Separe cada extensão com vírgulas (ou seja: ext1, ext2, ext3).
+Tamanho máximo dos arquivos a serem carregados:
+Detalhes do prompt:
+Insira o(s) nome(s) de usuário e senha(s) abaixo.
+Obter conteúdo
+Você especificou um tamanho de arquivo que excede o tamanho máximo (##Kb) permitido pelo administrador.
+Advertência: Nem todos os caminhos de expansão aparecem devido a uma opção de governo no MicroStrategy Desktop.
+O conteúdo do arquivo não atende o formato do arquivo requerido para processar seus dados.
+Entregas
+Até:
+Clique em um nome de documento à esquerda para visualizar aquele documento aqui.
+Enviar para a página Meus Relatórios
+Enviar para:
+Todos:
+Registrar-se para um serviço
+Pesquisar uma lista de serviços preparados disponíveis para todos os usuários.
+Visualizar seus relatórios planejados.
+Especificar suas informações de contato para suas entregas de subscrições.
+Personalizar estas telas de acordo com suas preferências de seu navegador e visualização.
+Subscrição de:
+Personalizar sua Subscrição
+Personalizar sua subscrição para este serviço ao responder a(s) pergunta(s) listada(s) abaixo.
+Concluído!
+Para remover uma subscrição, você precisa selecionar um caixa de seleção e em seguida clicar em Cancelar subscrição.
+Para remover um relatório ou documento da Lista de Histórico, você precisa selecionar uma caixa de seleção e em seguida clicar em Remover.
+Programar
+RELATÓRIOS ASSINADOS
+Sua sessão de usuário foi perdida e você foi automaticamente desconectado.  Efetue o login novamente.
+Desativar minha conta
+Sua conta foi desativada.
+Tem certeza de que deseja desativar sua conta?
+Quando você desativa sua conta, não mais poderá receber serviços ou ser capaz de efetuar o login. Sua conta somente pode ser reativada pelo administrador do portal.
+Escolha um idioma.
+Ativada (a assinatura será entregue na data agendada)
+Idioma:
+Alterar credenciais de origem de informações
+Alterar credenciais
+Foram encontrados um ou mais erros ao processar sua solicitação de alteração de credenciais de origem de informações.
+A3 11,69" x 16,54"
+Versão SDK:
+Transactor Server:
+Carregar arquivo
+Canais
+Ativo
+Adicionar um novo canal
+Ativar o canal
+Canal inativo
+Excluir o canal
+Criar novo canal
+Editar canal
+Para criar um novo canal, você precisa executar as seguintes etapas:
+Publicar uma pasta de serviços para o canal.
+Dar um nome ao canal.
+Não exibir esta página novamente.
+Nome e descrição do site
+Insira um nome para este novo canal:
+Insira uma descrição para este canal (opcional):
+Origem do erro
+Selecione os elementos de atributo que desejar manter no novo relatório e pressione o botão Filtro.
+Se você não selecionar nenhum elemento para colunas, todas as colunas irão permanecer no novo relatório. O mesmo se aplica para as linhas.
+Filtro
+Ocultar filtros nas seleções
+Exibir filtros nas seleções
+Ocultar menu Relatório
+Exibir menu Relatório
+Essa conta foi desativada. Contate o administrador para reativar essa conta.
+O nome do usuário estava em branco. Digite-o novamente.
+A senha estava em branco. Digite-a novamente.
+Espanhol
+Inglês
+Número máximo de elementos a serem importados:
+Filtros compartilhados
+Modelos compartilhados
+Meus Objetos
+Importar filtro de um arquivo:
+Inserir novo endereço:
+Tipos de dispositivos
+renomear ...
+definição ...
+Pasta de dispositivos
+editar pasta de dispositivos ...
+Renomear
+URL ícone grande:
+URL ícone pequeno:
+Formato de endereço:
+e-mail
+Este é o formato padrão para endereços de e-mail na Internet.
+Formato: xxxx@xxxxxx.xxx
+Numérico
+Exibir campos:
+Editar campos:
+Nome do endereço
+Valor do endereço
+Estilo
+PIN
+Bloco de entrega
+Nome do tipo de dispositivo:
+Confirmar exclusão de tipo de dispositvo
+Tem certeza de que deseja excluir o tipo de dispositivo '##'?
+Nova definição
+Definição:
+Disponível:
+Selecionado:
+Nenhuma pasta selecionada.
+Salvar o filtro como uma definição estática.
+Salvar quaisquer prompts no filtro.
+Salvar o modelo como uma definição estática.
+Salvar quaisquer prompts no modelo.
+Seu gerador de relatórios decidiu que um carrinho de compras e um estilo de arquivo de texto representem este prompt.
+Como o DHTML está desativado, você não pode usar a função de importar arquivo de texto.
+Você pode usar o carrinho de compras para responder esse prompt.
+Essa ação não pôde ser executada porque o projeto está bloqueado.
+Paginar por automático
+Não é possível exportar esse relatório pois ele excedeu o número máximo de colunas e linhas a serem exportadas para Excel ou HTML definido pelo administrador.
+Entretanto, este relatório pode ser exportado para o Excel com texto comum, CSV ou texto comum ao selecionar esta opção em Preferências ou quando consultado antes de exportar.
+Criar um novo tipo de dispositivo
+Use este formato somente para uma seqüência de caracteres de números.
+Formato: ########
+Nenhum tipo de dispositivo foi criado.
+Confirmar PIN
+Inativo
+Digite um valor numérico para o endereço no seguinte formato: #########
+Ajuda com:
+O nome do usuário ou a senha estão incorretos para uma ou mais origens de informações. Tente novamente.
+Você não tem nenhum relatório.
+Selecione um planejamento para a entrega deste serviço.
+Selecione uma programação na lista abaixo.
+Selecione onde deseja que este serviço seja entregue.
+Para registrar-se, complete as seguintes etapas:
+Selecione um serviço.
+Especifique uma programação e um endereço.
+Personalize seu conteúdo do serviço (se aplicável).
+Personalize o conteúdo de seu serviço.
+Você pode fornecer as seguintes informações para personalizar o conteúdo para esta assinatura.
+Se a sua dica não ajudá-lo a lembrar de sua senha, contate seu administrador do sistema para que sua senha possa ser reinicializada.
+OK
+Êxito!
+Sua assinatura foi salva com êxito.
+Tipo de fonte:
+Salvar Seleções Como (opcional)
+Efetuar novas seleções
+Escolha nesta lista de seleções anteriormente salvas.
+Escolha uma:
+Aplicar estas seleções
+O projeto ### não pôde ser encontrado no servidor ###.
+Nível:
+(DESATIVADO)
+Informações do administrador:
+Após alterar a conexão do repositório do portal, será preciso reconfigurar as informações do site.
+Após alterar o local do mecanismo de assinatura, será preciso reconfigurar a conexão do repositório do portal e as informações do site.
+Após: ### dias.
+Alterar nome e descrição
+Configuração
+Configurado?
+Nome da conexão do banco de dados:
+Conexões de banco de dados
+Conexões com o banco de dados:
+Dispositivo padrão:
+Idioma padrão:
+Local padrão de novos usuários:
+Uso padrão de DHTML:
+Desativar
+Deseja continuar?
+Repositório de documentos:
+Ativar a criação de novos usuários:
+Insira o nome do servidor que está executando o mecanismo de assinatura:
+Insira um nome único e descrição para este portal.
+Configurações da IGU:
+Origem de informações
+Origens de informações
+Nível de login:
+Exigido
+Repositório do portal
+Pseudônimo do BD Metadata:
+Conexão do BD Metadata:
+Prefixo de tabelas Metadata:
+Expiração de novos usuários:
+Sem expiração
+Ativado:
+Ou espelhar site existente:
+Número de telefone:
+Selecione como os usuários irão efetuar o login nas origens de informações deste projeto:
+Configuração do portal:
+Dispositivo do portal:
+Clique no botão para configurar este site:
+Repositório de objetos
+Configurações do projeto:
+Fornecer credenciais
+Locais de servidor de mecanismos de assinatura de portal recentemente usados:
+Selecione outro portal
+Selecione um portal
+Selecione um definição de site existente ou clique em Adicionar definição de novo site.
+Configuração
+Dispositivos do portal
+Informações do portal
+Preferências do site
+Repositório do livro de assinaturas
+Local do mecanismo de assinatura
+Propriedades do mecanismo de assinatura
+Prefixo de tabelas:
+Diretório de arquivos temp:
+O MicroStrategy Narrowcast Server Portal Designer permite que os administradores criem com facilidade portais de assinatura da Web, onde os usuários podem efetuar a assinatura dos serviços Narrowcast Server através de um navegador da Web.
+Esta Portal não está pronto para ser acessado por usuários finais. Para torná-lo disponível, todos os seguintes precisam ser configurados:
+Use as credenciais de projeto
+Bem-vindo ao MicroStrategy Narrowcast Server Subscription Portal Designer.
+Atualizar fonte do relatório
+Selecione e priorize as fontes para a interface.
+MicroStrategy Web usará a primeira fonte da lista prioritária que está disponível no computador do usuário.
+Não existem canais definidos para esse site
+Selecione a pasta canais
+O valor para o ## não é válido. Se este valor não for corretamente definido, algumas ações do "portal designer" irão falhar.
+Verifique se a ID no arquivo #1 aponta para um local válido no repositório de projetos.
+Para corrigir esta situação continue na página ##.
+Os valores padrão para o ## não são válidos. Verifique se as IDs no arquivo #1 apontam para objetos válidos no repositório de projetos.
+Alguns ou todos os padrões ## têm definições inválidas. Verifique se as pastas de serviços no arquivo ## apontam para pastas válidas no repositório de projetos.
+Ocorreu um erro inesperado ao definir os padrões. Consulte ## para obter mais detalhes.
+Um site foi criado com êxito no MD, entretanto, alguns erros foram detectados ao tentar definir os valores padrão:
+A conexão "#1" ao banco de dados não aponta para um banco de dados contento tabelas de repositório do portal com o prefixo "#2".
+Deseja criá-las?
+Criação de tabelas Metadata
+Nome padrão de site
+Site com valores padrão
+Usar um novo site:
+Selecionar dispositivo do portal
+Selecionar dispositivo padrão
+Forneça um nome para a definição do site.
+Insira um nome sem os seguintes caracteres:
+Insira uma descrição sem os seguintes caracteres:
+Forneça o nome da máquina que está executando o mecanismo de assinatura.
+Forneça um diretório para os arquivos temporários.
+Insira um caminho para o diretório de arquivos temporários sem os seguintes caracteres:
+Insira um número válido para o número de dias.
+O nome da máquina não pode conter os seguintes caracteres:
+Selecione um estilo de dispositivo
+Para encontrar o estilo de seu dispositivo, complete as seguintes etapas:
+Selecione uma categoria.
+Selecione um estilo.
+Clique em uma categoria de dispositivo para:
+Clique em um estilo de dispositivo para:
+Não existem estilos de dispositivos nesta categoria.
+Informações de estilo de dispositivo não encontradas.
+Nenhum estilo disponível.
+Nenhuma validação
+O valor do endereço pode ser qualquer seqüência de caracteres de texto.
+Formato: quaisquer números e os seguintes caracteres - ( )
+Insira um valor para o endereço no seguinte formato: quaisquer números e os seguintes caracteres - ( )
+Configuração do mecanismo
+Gerenciamento do site
+Selecione a conexão ao banco de dados para o repositório do portal.
+Selecione a conexão ao banco de dados para o repositório de objetos.
+Selecione a conexão ao banco de dados para o repositório do caderno de assinaturas.
+Use a mesma conexão ao banco de dados para o repositório do caderno de assinaturas.
+Adicionar uma nova conexão ao banco de dados
+Adicionar uma nova definição e site
+Definição de site
+Selecione a definição de site usada por este servidor:
+Banco de dados
+Você precisa fornecer um nome para a máquina que está executando o mecanismo de assinaturas
+Criar sua página inicial
+Erro ao criar sua página
+Você não criou sua página inicial. Siga as etapas abaixo.
+Escolha um título para sua página:
+Selecione um estilo para o layout:
+Selecione o componente que deseja visualizar em cada painel:
+Salvar Minha página inicial
+Visualizar Minha página
+Minha página inicial
+Primeiro painel:
+Segundo painel:
+Terceiro painel:
+Erro ao excluir perfil do usuário
+O perfil não pode ser excluído porque está sendo compartilhado por mais de uma assinatura
+Não existem origens de informações definidas para esse site.
+Visualizar assinaturas existentes para este serviço
+Gerenciamento de portal
+Os seguintes portais de assinaturas foram excluídos deste servidor da Web.
+Selecione abaixo um portal para editar sua configuração.
+Criar um novo portal de assinaturas
+Criar um novo portal
+Nome do portal
+Para criar um novo portal de assinaturas, especifique o nome do diretório virtual.
+DESCRIÇÃO DA LISTA DE HITÓRICO
+Insira um endereço padrão.
+Formato: quaisquer caracteres de texto ou numéricos
+Insira um endereço no seguinte formato: quaisquer caracteres de texto ou numéricos
+Cada definição de site se destingue por seu nome único e descrição.
+Ao criar um nome único para cada definição, você saberá que portal contém que propriedades que o usuário irá de fato visualizar ao acessar o diretório virtual.
+Recomenda-se fornecer uma boa descrição da definição do site, para que qualquer projetista possa imediatamente saber que propriedades o site contém.
+O conceito de "definição de site" é um conjunto de propriedades que definem o que de fato o usuário irá visualizar através do navegador, ao acessar o URL ou qualquer diretório virtual.
+Um portal pode usar uma de qualquer das definições do site.
+A lista a seguir contém definições de site que existem no repositório atual de portal.
+É possível para dois ou mais portais, na mesma máquina ou em máquinas diferentes, apontarem para a mesma definição de site.
+Você pode selecionar uma definição de site existente ou criar uma nova definição de site.
+Selecione um definição de site existentes a ser usada por este servidor ou clique em Adicionar uma nova definição de site.
+A integração com o mecanismo de entrega, permite aos usuários especificar a personalização de serviços, planejamentos e o dispositivo onde desejam receber as informações.
+O Portal Designer permite ao administrador a definir configurações padrão como o idioma e uso do DHTML.
+Como o Portal Designer você tem as seguintes responsabilidades:
+configurar e gerenciar o portal de assinaturas para permitir ao usuário final a efetuar a assinatura de uma variedade de serviços na Web
+configurar origens de dados e layouts de portais
+publicar serviços e tipos de dispositivos
+selecionar dispositivos padrão para o portal de assinaturas
+especificar propriedades de origens de informações e preferências de portal padrão
+O Portal Designer lhe fornece os recursos para:
+configurar o mecanismo de assinaturas
+selecionar ou editar as configurações do portal
+criar ou selecionar a definição do site
+configurar as ofertas de serviços estáticos e dinâmicos
+Clique em AVANÇAR para iniciar.
+O repositório de objetos armazena informações de planejamento, serviços e definições de dispositivos.
+A tabela a seguir contém conexões existentes ao banco de dados onde os dados serão armazenados.
+Você pode selecionar uma conexão existente ou criar um novo pseudônimo no repositório do portal atual.
+Para obter mais informações sobre pseudônimos de banco de dados, consulte o arquivo leiame que acompanhou o software.
+Se a mesma conexão será usada para o repositório do caderno de assinaturas, selecione a caixa de seleção e você irá avançar diretamente para a tela de canais.
+O repositório do caderno de assinaturas armazena dados de assinaturas, incluindo usuários finais, endereços, personalização e conjuntos de assinaturas.
+Uma instalação típica irá instalar o mecanismo de assinaturas na mesma máquina (ou seja, hostlocal).
+O repositório do portal armazena definições de configurações que definem a interface do portal de assinaturas do usuário final.
+Estas informações incluem:
+nomes e descrições de sites
+configurações de canais
+serviços publicados
+pastas de dispositivos
+preferências padrão
+O pseudônimo de bando de dados é usado para definir a conectividade de banco de dados para o mecanismo de assinaturas.  Isto permite que o mecanismo de assinaturas execute as consultas indicadas, originadas pelo portal de assinaturas.
+Você pode selecionar um pseudônimo de bando da dados existente ou criar um novo.
+Selecione um pseudônimo de bando de dados existente onde o Metadata do portal está localizado.
+O Assistente de gerenciamento de Site irá ajudá-lo com as várias funções para configurar com êxito a definição do site.
+A definição do site contém a lista de propriedades, configurações e definições que são usadas pelo portal para definir o layout e o conteúdo exibido para o usuário final.
+Este assistente consiste nos seguintes tópicos:
+Seleção, edição e criação de uma definição de site
+Publicação de serviços para a definição do site
+Seleção, edição e publicação de tipos de dispositivos
+Especificar as propriedades do módulo de origens de informações
+Especificar as preferências padrão para a definição do site
+O Assistente de Gerenciamento de Portal irá ajudá-lo, caso precise editar as configurações de um portal existente ou em criar um novo portal de assinaturas.
+Detecção e edição de portal
+Criação de um novo portal de assinaturas
+O conceito de "portal" se refere ao efetivo conjunto de páginas ASP que são instaladas na máquina do servidor da Web e o diretório virtual que aponta para estes arquivos.
+Os seguintes portais de assinaturas foram excluídos deste servidor da Web.
+Selecione o portal com o qual deseja trabalhar.
+Clique em Remover para excluir o portal da lista de opções disponíveis.
+Suponha que você tenha criado vários portais, um para gerentes, outro para diretores e um terceiro para associados.  Entretanto, você agora precisa criar um para os engenheiros.
+Não existe um portal de assinaturas que esteja configurado exatamente para as especificações que você necessita.  Você pode criar um a partir deste local ao inserir um nome de portal e o local do portal.
+A lista a seguir contém sites que já existem no repositório atual de portal.  É possível para dois ou mais portais físicos, na mesma máquina ou em máquinas diferentes, apontarem para a mesma definição de site.
+Você pode selecionar uma das definições de sites existentes ou criar uma nova definição de site no repositório.
+A definição de um novo canal consiste em selecionar uma pasta de uma série de serviços existentes no repositório Narrowcast, atribuindo um nome e descrição para o canal e publicando-o no portal de assinaturas.
+Selecione uma pasta na tabela abaixo e clique em Avançar.
+Quando você publica uma nova pasta de canais, está publicando todo o conteúdo daquela pasta.  Você pode optar por alterar o nome da pasta para melhor refletir o conteúdo da pasta.
+Um descrição, embora opcional, pode ser inserida para fornecer uma melhor idéia sobre para que este canal é melhor adequado.
+Uma caixa de seleção é fornecida para indicar se este canal e suas propriedades estarão disponíveis para os usuários finais.
+Nome e descrição do canal
+Um dispositivo é um meio específico de entregar conteúdo de assinaturas para o usuário final.  Cada endereço criado pelo usuário no portal é projetado para usar somente um dispositivo, como o Outlook 98 ou Outlook 2000.
+O tipo do dispositivo é um grupo de dispositivos para que o usuário selecione como irá receber o conteúdo. Quando uma nova definição de site é criada, quatro tipos de dispositivos padrão serão criados e automaticamente configurados.
+Os tipos são:
+Assistentes Digitais Pessoais
+Telefones Móveis
+Pagers
+Correio Eletrônico
+Estes dispositivos padrão são criados quando o MicroStrategy Narrowcast Portal Designer é instalado e as pastas associadas com estes dispositivos são armazenadas no repositório Narrowcast.
+Neste assistente você tem as seguintes opções disponíveis:
+renomear um tipo de dispositivo específico
+alterar a definição de tipo de dispositivo
+excluir um tipo de dispositivo a ser suportado pelo portal
+editar a pasta de tipos de dispositivos
+criar um novo tipo de dispositivo
+Para cada definição de novo dispositivo, será preciso especificar o nome do tipo de dispositivo, o ícone grande e pequeno do URL, o formato do endereço e que campos serão usados ao exibir e editar.
+Esta tela permite adicionar ou remover elementos da pasta para este tipo de dispositivo específico.
+Elementos à esquerda estão disponíveis, mas não ativos neste tipo de dispositivo.  Elementos à direita estão atualmente selecionados para este tipo de dispositivo específico.
+Neste contexto, um dispositivo é uma forma específica de entregar conteúdo para o usuário final.  Os padrões fornecidos são "cliente de e-mail genérico" e "dispositivo de portal".  Você pode alterar os padrões se tiver outras necessidades.
+Clique no dispositivo apropriado para alterar a seleção.
+Para cada origem de informações será preciso especificar se será necessário que os usuários insiram suas informações de autenticação, como um nome de usuário e senha.
+Se as credenciais de projeto são usadas, o mecanismo de autenticação será ignorado e os usuários serão transferidos para as informações que solicitaram.
+Existe também a opção de requerer credenciais de usuários ou torná-las opcionais.
+O valor padrão é o de não permitir que os usuários insiram nenhuma autenticação para qualquer uma origem de informações.
+Você terá que alterar o requisito se desejar que as medidas de autenticação estejam em efeito.
+Selecione as configurações para o restante das propriedades do site.
+As preferências do site, controlam como os valores padrão serão definidos para os usuários da interface do portal.  Você pode alterar qualquer uma das configurações, ao alterar as informações que aparecem nesta página.
+Parabéns! Você configurou com êxito este site!
+Clique no botão Concluir para iniciar o navegador e efetuar o login neste portal.
+Se você observar qualquer alteração que precise ser efetuada, use a ferramenta Portal Management da Portal Designer para reconfigurar a definição ou preferências do site.
+Origin
+Portal
+Admin
+Endereço IP do usuário
+Erro ao criar assinatura
+Certifique-se de que tenha um perfil padrão para o objeto de pergunta.
+Erro ao recuperar as informações do objeto de pergunta do MicroStrategy Narrowcast Server.
+Rastrear
+Informações
+Aviso
+Usar estas seleções por padrão
+Variáveis da sessão
+Site associado
+Não aplicável
+Forneça um nome para o portal.
+Tem certeza de que deseja excluir esse dispositivo?
+Tem certeza de que deseja excluir esse portal?
+Tem certeza de que deseja excluir esse site?
+Forneça um nome para o servidor JData Connect
+Forneça um nome para a conexão do banco de dados
+Forneça um nome para a origem de dados ODBC
+Adicionar conexão de banco de dados
+Nome da origem de dados ODBC:
+Testar a conexão de banco de dados?
+Visão geral
+Definição incorreta de pseudônimo de banco de dados para as tabelas do repositório de caderno de assinaturas.  Selecione outra definição de site.
+As tabelas do repositório do caderno de assinaturas existe, mas não está na versão correta.  Insira outro prefixo.
+Definição incorreta de pseudônimo de banco de dados para as tabelas do repositório de objetos.  Selecione outra definição de site.
+As tabelas do repositório de objetos existe, mas não está na versão correta.  Insira outro prefixo.
+Definição incorreta de conexão de banco de dados para as tabelas do repositório de portal.  Selecione outro.
+As tabelas do banco de dados existem, mas não estão na versão correta.  Insira outro prefixo.
+Não foi possível criar uma conexão com o Metadata portal.  Verifique as informações que você inseriu.
+Erro ao salvar a conexão de pseudônimo de banco de dados
+Ocorreu um erro inesperado ao definir a nova conexão de pseudônimo de banco de dados.
+Não existem conexões de banco de dados definidas.
+Esta página permite criar ou editar novos canais para esta definição de site.
+Forneça um nome para o canal.
+Selecione os dispositivos suportados por este site.
+Selecione o dispositivo padrão que será usado ao criar novos endereços e o dispositivo de portal padrão para enviar serviços para a página "Meus relatórios".
+Selecione os valores para o restante das propriedades do site.
+Configurações de serviços
+Assinaturas estáticas
+Assinaturas dinâmicas
+Armazenamento
+Escolher pergunta alternativa
+O Portal de Assinaturas do MicroStrategy irá publicar os serviços na pasta que você selecionar.  Entretanto, alguns serviços requerem configurações adicionais.
+Especifique abaixo as configurações padrão para estes serviços.
+Para configurar um serviço específico individualmente, clique no botão # abaixo.
+Configurar serviços
+Conjuntos de assinaturas estáticas
+Conjuntos de assinaturas dinâmicas
+Ocultar página por perguntas de assinantes
+Responder página de perguntas com:
+Ocultar conjuntos de assinaturas não configurados dos assinantes
+O MicroStrategy Narrowcast Server Portal Designer permite a configuração de armazenamento de dados de assinaturas no nível de serviço individual.
+Você será solicitado a selecionar o serviço que desejar configurar, e em seguida será exibido os conjuntos de assinaturas estáticas e dinâmicas associados com este serviço.
+Para os conjuntos de assinaturas estáticas e dinâmicas, você configura o objeto de perguntas para o serviço selecionado.
+Além disso, você pode adicionar objetos de perguntas adicionais para consultar os assinantes sobre informações.
+Para conjuntos de assinaturas dinâmicas, você configura o armazenamento de dados de assinaturas.
+Você configurou o(s) seguinte(s) serviço(s). Clique em 'Editar' para editar as configurações existentes ou clique no nome da pasta para configurar outros serviços naquela pasta.
+Para configurar outro serviço, clique em # abaixo.
+Este serviço tem um ou mais conjuntos de assinaturas estáticas associados com ele.  Os assinantes neste conjuntos de assinaturas serão armazenados no repositório do caderno de assinaturas.
+Configurações padrão de conjuntos de assinaturas estáticas
+Para definir uma única configuração para todos os conjuntos de assinaturas estáticas, clique abaixo.  Este padrão será usado por todos os conjuntos para este serviço.
+Configurado:
+configurar
+Configurar individualmente os conjuntos de assinaturas estáticas
+Para configurar individualmente um conjunto de assinaturas estáticas, clique no link Configurar junto ao conjunto.  Os conjuntos de assinaturas que não tiverem sido configurados irão usar os padrões do sistema.
+Este serviço não contém quaisquer conjuntos de assinaturas estáticas.
+Página por perguntas não será exibida para os assinantes.  Entretanto, você pode selecionar um pergunta alternativa que será exibida para os assinantes.
+Please select a question object below.
+Selecione o local para as respostas para esta pergunta.
+Você pode:
+Usar a #
+OU usar um dos seguintes mapeamentos de armazenamento:
+Tabelas
+Adicionar um novo mapeamento de armazenamento
+Limpar
+Selecione as tabelas do banco de dados onde as informações serão armazenadas.
+Wharehouse de dados:
+selecionar a conexão de banco de dados
+Filtrar colunas por:
+Tabelas disponíveis:
+Tabelas selecionadas:
+Selecione as colunas da tabela onde você deseja que as informações sejam armazenadas.
+Arraste e solte os componentes da esquerda para as colunas da tabela na direita.
+Componentes de respostas
+Geral:
+Componentes de assinaturas
+Configurando:
+Configurações padrão do serviço
+Você decidiu configurar o serviço acima.  Você pode manter as preferências padrão abaixo listadas ou especificar configurações adicionais para conjuntos individuais de assinaturas nas próximas etapas.
+Padrões do serviço
+Paginar por perguntas
+Perguntas adicionais
+Você pode consultar os assinantes por perguntas adicionais ao editar as informações abaixo.
+Este serviço contém a seguinte página por perguntas.
+Você decidiu exibir este objeto de pergunta:
+em lugar desta página por perguntas:
+Armazenamento de wharehouse
+Alterar seleções
+Links relacionados
+Registrar-se para este serviço novamente
+Registrar-se para um outro serviço
+Visualizar todas as suas assinaturas
+Selecione um perfil para este objeto de pergunta.
+Nome do servidor JData Connect
+Você criou com êxito sua conta.
+Se você esqueceu sua senha, esta dica será exibida e ao visualizar esta dica novamente, sua senha será lembrada.
+Exportar todos os valores como texto
+Serviço selecionado
+Selecionar armazenamento
+Selecionar tabelas
+Selecionar colunas
+Configurar conjunto de assinaturas
+Selecionar pergunta
+Sair da configuração de serviços
+Selecione o serviço que desejar configurar.
+Pergunta
+Publicação(ões)
+Configurações padrão de conjuntos de assinaturas dinâmicas
+Este serviço tem um ou mais conjuntos de assinaturas dinâmicas associados com ele. Os assinantes neste conjuntos de assinaturas serão armazenados no wharehouse usando o mapeamento de armazenamento.
+Salvar este mapeamento de armazenamento como:
+Para definir uma única configuração para todos os conjuntos de assinaturas dinâmicas, clique abaixo. Este padrão será usado por todos os conjuntos para este serviço.
+Configurar individualmente os conjuntos de assinaturas dinâmicas
+Para configurar individualmente um conjunto de assinaturas dinâmicas, clique no link Configurar junto ao conjunto. Os conjuntos de assinaturas que não tiverem sido configurados irão usar os padrões do sistema.
+Pergunta adicional
+A pergunta selecionada não pode ser usada no portal de assinaturas.
+Volte e selecione outra pergunta.
+A resposta para a pergunta que você selecionou, pode ser armazenada no repositório do caderno de assinaturas ou em outro local usando um mapeamento de armazenamento.
+Se você decidir armazenar a resposta no repositório do caderno de assinaturas, a própria resposta será armazenada neste local.
+Se você decidir usar um mapeamento de armazenamento, uma ID de preferência da resposta será armazenada no repositório do caderno de endereços e as respostas serão armazenadas com base na definição do mapeamento de armazenamento.
+A resposta para a pergunta que você selecionou, tem que ser armazenada usando um mapeamento de armazenamento. Isto ocorre, porque o usuário é instruído a selecionar de uma lista de elementos e o usuário pode selecionar mais do que uma.
+Se você decidir usar um mapeamento de armazenamento par armazenar as respostas, uma ID de preferência da pergunta será armazenada no repositório do caderno de endereços e as respostas serão armazenadas com base na definição do mapeamento de armazenamento.
+Selecione o mapeamento de armazenamento a ser usado com esta pergunta:
+Conexão de banco de dados
+Valor personalizado:
+personalizado
+Adicionar uma pergunta:
+Procurar
+Resposta para outra pergunta:
+Mapeamento de armazenamento de conjunto de assinaturas
+Novo mapeamento de armazenamento para #
+Este serviço não contém quaisquer conjuntos de assinaturas dinâmicas.
+Visão geral das preferências do site
+Visão geral das edições de configurações do portal
+se foi instalado em uma outra máquina, insira aqui o nome daquela máquina.
+definição do site
+Insira as informações de conexão de banco de dados:
+Personalize o conteúdo de seu serviço. Nas páginas a seguir você pode indicar os itens do conteúdo deste serviço, respondendo as perguntas. Clique em Avançar para continuar.
+Visão geral das preferências do site
+Um canal é um elemento visual no portal de assinaturas.  Ele apresenta as informações do projeto sob uma forma para facilitar a navegação do usuário final.
+Cada canal é mapeado para uma pasta de serviços no repositório de objetos.
+Ocorreu um erro ao tentar estabelecer uma conexão com o mecanismo de assinaturas.  O nome do servidor está incorreto ou o mecanismo de assinatura não está sendo executado neste servidor.  Localize o mecanismo de assinatura e informe o local novamente.
+A definição de um novo canal requer a seleção de uma pasta no repositório de objetos.  Selecione a pasta de canal a ser exibida.
+Este serviço não contém uma página por perguntas a ser configurada.
+Visão geral das configurações do serviço
+Configurado
+Ocorreu um erro ao tentar validar a conexão e banco de dados.  (#)  Verifique suas informações e tente novamente.
+A conexão para o mecanismo de assinaturas não pôde ser estabelecida
+A definição da conexão de banco de dados fornecida pelo administrador está incorreta
+Advertência!  Se você excluir esta conexão de bando de dados, os objetos que a utilizam (ou seja, repositório de objetos, mapeamentos de armazenamento, etc.) se tornarão inválidos.
+Nome incorreto de origem de dados
+Deseja excluir '#' ?
+Excluir uma conexão de banco de dados
+-- selecionar uma conexão de banco de dados --
+ID de preferência para: #
+Resposta para: #
+O usuário não existe.
+Escolha um título para sua página
+Crie sua página inicial
+Arquivo em formato CVS
+Erro ao criar sua página
+Exportar valores de métrica como texto (somente Excel)
+Primeiro painel
+Porém, esse relatório pode ser exportado para Excel (formato texto), CSV ou em "Plain Text" ao selecionar a opção nas preferências ou no prompt ao exportar.
+Número máximo de colunas para exportar no Excel
+Número máximo de linhas para exportar no Excel como texto ou CSV
+Salve minha Página Inicial
+Segundo painel
+Veja Minha Página
+Selecione um estilo para o layout
+Selecione o componente a ser visualizado em cada painel
+Terceiro painel
+Você ainda não criou sua Página Inicial. Por favor siga as indicações abaixo
+Minha Página Inicial
+Mecanismo de armazenamento em cache
+Home
+Exibir página de resumo para serviços personalizados:
+Relatório
+Documento
+PDF
+Reduzir gráfico para ajustar
+Exportar a planilha e gráfico na mesma página
+Número máximo de colunas a exportar
+Número máximo de linhas a exportar
+Modo de acessibilidade:
+Ativar compatibilidade com leitor da tela
+Ignorar navegação
+Crescente
+Decrescente
+Limpar classificações
+Classificar...
+Mover
+Para linhas
+Para colunas
+Para eixo da página
+Esquerda
+Direito
+Novo...
+Salvar como...
+Configurar página
+Procurar pasta pai
+Enviar para
+Exibir
+Modo estrutura
+Modo de exibição em planilha
+Modo de Exibição em Gráfico
+Planilha e gráfico
+Redefinir
+Euxo da página
+Fórmula
+Navegador de Objetos
+Barra de Ferramentas
+Dados
+grupo
+Subtotais
+Exibição de Atributos
+Renomear/Editar Objetos...
+Adicionar unidade
+Redefinir dados
+Novo prompt
+Formato
+Formatação Avançada...
+Mesclar colunas de cabeçalho
+Estilo de planilha
+Redefinir formatação
+Janela
+Detalhes do relatório
+Essa tabela exibe os resultados do relatório solicitado
+Essa tabela exibe o conteúdo da tabela solicitada
+Cabeçalho e rodapé:
+Usar configurações do relatório
+Use configurações personalizadas
+(editar)
+Editor de cabeçalho/rodapé
+Cabeçalho:
+Rodapé:
+Esquerda:
+Centro:
+Direito:
+Mostrar relatórios inscritos
+Ocultar relatórios inscritos
+Mostrar relatórios relacionados
+Ocultar relatórios relacionados
+Mostrar execução de filtro + modelo
+Ocultar execução de filtro + modelo
+Mostrar extras da lista de histórico
+Ocultar extras da lista de histórico
+Mostrar dicas de pesquisa
+Ocultar dicas de pesquisa
+Autenticação LDAP
+Autenticação do banco de dados
+Exportar cabeçalhos como texto (somente Excel)
+Credenciais do usuário Criptografadas
+Objetos do relatório
+Todos os objetos
+O MicroStrategy Intelligent Server ## excedeu o limite de memória. Por favor contate o administrador.
+Ajustar fonte para
+do tamanho original
+Janeiro
+Fevereiro
+Março
+Abril
+Maio
+Junho
+Julho
+Agosto
+Setembro
+Outubro
+Novembro
+Dezembro
+D
+S
+T
+Q
+Q
+S
+S
+Relatórios
+Documentos
+Esse prompt requer um valor com ## a ### caracteres.
+Esse prompt requer um valor com no mínimo ## caracteres.
+Esse prompt requer um valor com no máximo ## caracteres.
+Esse prompt requer um valor com exatamente ## caracteres.
+HTML Dinâmico:
+Adicionar à lista de histórico
+Filtro do relatório
+Filtro Exibir
+Adicionar linhas/colunas
+Adicionar condição do filtro de exibição...
+Definição:
+Home
+FILTRO DO RELATÓRIO
+FILTRO EXIBIR
+DETALHES DO FILTRO DO RELATÓRIO
+Filtro
+Exibir Botões de Pivotagem
+Adicionar condição
+Ocultar
+Aplicar alterações automaticamente
+Detalhes do filtro de relatório
+Opções de PDF
+Não é possível exportar para PDF
+Não é possível exportar esse relatório para PDF, pois ele excedeu os limites definidos pelo Administrador para o número máximo de colunas e linhas a serem exportadas para PDF.
+Fornecer opção do usuário
+Mostrar opções ao exportar para PDF
+Inserir número de página
+Inserir número de páginas
+Inserir data
+Inserir hora
+Inserir nome do projeto
+Inserir nome do relatório
+Inserir nome do template
+Inserir nome do filtro
+Carregar valores do relatório
+Resultados
+DRILL - Avançado
+Drill
+Classificar
+Subscrições
+Filtro em seleções
+EIXO DA PÁGINA
+Executar relatório
+nenhum
+Adicionar à planilha
+Adicionar ao Filtro
+- nenhum -
+objetos:
+Pastas:
+Formato
+Fonte
+Número
+Borda
+Alinhamento
+Aplicar
+Todos os subtotais
+Cabeçalho
+Nomes de subtotais
+Valores de subtotais
+Amostra:
+ABCabc
+Efeitos
+Negrito:
+Itálico:
+Sublinhado:
+Tachado:
+Tipo
+Números negativos
+Categoria:
+Casas decimais
+Símbolo da unidade monetária
+Posição da unidade monetária
+Usar separador de milhar
+Fixo
+Unidade monetária
+Data
+Porcentagem
+Fração
+Científico
+Personalizar
+nenhum
+TODOS
+Linha
+Cor:
+Início:
+Fim:
+Cor de preenchimento
+ABCabc ABC abc
+Alinhamento de texto
+Horizontal
+Centro
+Justificar
+Vertical
+Quebra automática do texto
+Esse tipo de gráfico não suporta legendas.
+Geral
+Títulos
+Eixos
+N
+I
+S
+T
+Tipo de gráfico:
+Exibir legendas:
+Mostrar valores de dados:
+Mostrar título do eixo da série
+Mostrar título do eixo Y
+Mostrar título do eixo da categoria:
+Título do eixo X:
+Mostrar título do eixo Y1:
+Mostrar título do eixo Y2:
+Mostrar valores do eixo da série
+Mostrar valores do eixo Y
+Mostrar valores do eixo do grupo
+Mostrar valores do eixo da categoria
+Mostrar valores do eixo X
+Mostrar valores do eixo Y1
+Mostrar valores do eixo Y2
+Mostrar título:
+Mostrar subtítulo:
+Mostrar nota de rodapé:
+Usar configuração manual para:
+Valor máximo:
+Valor mínimo:
+Intervalo da grade:
+Fechar
+PAGINAR POR:
+Selecionar caminho para o navegador de objetos
+Grupo Personalizado
+Consolidação
+## item(ns) encontrado(s)
+Subscrever...
+Imprimir...
+Exportar...
+PDF...
+Adicionar objetos do relatório...
+Drill...
+Filtro em seleções...
+Gráfico...
+Formato
+Relatório
+Mostrar totais
+Limpar todas
+Normal
+Total
+Média
+Contagem
+Média Geométrica
+Máximo
+Mediana
+Mínimo
+Modo
+Produto
+Desvio padrão
+Soma
+Variância
+Personalizar:
+Todos os subtotais
+Totais gerais apenas
+nenhum
+Mostrar bandas
+Totais
+Salvar relatório
+Cancelar
+Arrastar para adicionar ao relatório
+Clique com o botão direito para obter mais opções
+Aplicar
+Aplicar estilo
+Detalhes do documento
+Arrastar objeto para dinamizar
+Editar relatório
+Atributo
+Atributo:
+Grupo Personalizado:
+Filtro
+Filtro:
+Métrica
+Métrica:
+Consolidação:
+Adicionar
+Localizar:
+1. Classificar por:
+2. e então por:
+3. e então por:
+- Selecionar classificação -
+Crescente
+Decrescente
+Aplicar
+Cancelar
+Direito
+Esquerda
+Direito
+Esquerda
+Tempo
+Padrão
+Fonte:
+Esquerda:
+Direito:
+Valores
+Cancelar
+Fechar
+Tamanho
+Selecionar fonte
+Não
+Sim
+Direita com espaço
+Esquerda com espaço
+Eixo da coluna
+Eixo da linha
+Cor de preenchimento
+Cor do texto
+Diminuir decimal
+Aumentar decimal
+Estilo da vírgula
+Estilo da porcentagem
+Estilo da unidade monetária
+Centro
+Esquerda
+Direito
+Expressão não suportada
+Não foi possível reproduzir expressão
+Inserir valor...
+Atributos...
+Filtro em
+ou
+Nulo
+Não é Nulo
+Não em
+Deslocar para a direita
+Deslocar para a esquerda
+Deslocar para cima
+Deslocar para baixo
+Lista vazia
+Vazio
+Nome:
+Inserir nova métrica...
+Nova métrica
+Remover da planilha
+Formatação avançada...
+Remover de relatório
+Classificar
+Adicionar >
+Na lista
+Não relacionado
+Menus suspensos:
+Aplicar
+Cancelar
+Remover condição
+Senha Expirada
+Alguns dos projetos não estão sendo mostrados
+Você deve alterar sua senha para que alguns projetos apareçam
+Nota: Você deverá entrar novamente uma vez que sua senha seja alterada
+OBS. Du måste logga in på nytt när du väl ändrat ditt lösenord
+Entregas...
+4/7
+04/07
+4/7/98
+04/07/98
+04/07/1998
+7-abr
+7-abr-98
+abr-98
+abr '98
+Abril 1998
+4/7/98 15:41
+4/7/98 15:41
+Abril 7, 1998
+15:41
+15:41
+15:41:46
+15:41:46
+04/07/98 15:41
+Enviar agora...
+04/07/98 15:41
+Enviar relatório novamente
+A seleção por página efetuada não existe. Isto pode ter acontecido porque o warehouse foi atualizado.
+Selecione aqui para identificar automaticamente a página válida por critério.
+Esta pergunta de prompt não pode ser exibida no MicroStrategy Web. A resposta padrão será utilizada para execução do relatório.
+Esta pergunta de prompt não pode ser exibida no MicroStrategy Web. Como não existe nenhuma resposta-padrão associada a ela, este relatório pode não ser executado.
+Início
+Fim
+nenhum
+Tracejada
+Pontilhada
+Hair
+Fino
+Médio
+Espesso
+Duplo
+Black
+Dark Blue
+Blue
+Light Blue
+Grey-Blue
+Green
+Grey-60%
+Grey-50%
+Grey-25%
+Grey-20%
+Grey-10%
+Grey-7%
+Off White
+Dark Red
+Red
+Yellow
+Light Yellow
+Pale Yellow
+Dark Olive
+Olive
+Light Olive
+Brown
+Purple
+Light Purple
+Lavender
+Dark Pink
+Pink
+White
+Requerer clique no mouse para abrir menus
+Inglês (UK)
+Usar Padrão
+RENOMEAR/EDITAR OBJETOS
+Este relatório não pode ser entregue em seu estado atual. Você precisará salvar este relatório primeiro.
+Sua mensagem foi enviada.
+Sua ## assinatura ## foi criada com sucesso. Você receberá uma visualização em breve.
+Sua ## assinatura ## foi criada com sucesso.
+Estilo automático:
+Navegador de Objetos
+Um nível acima
+Permitir aos usuários alterarem senha expirada
+Sua senha expirou. Contate o administrador para ativar esta conta.
+Caminho:
+Utilizar conjunto de caracteres Unicode
+Abrir
+Para receber este relatório, por favor selecione um endereço e personalização abaixo.
+Para assinar este relatório, por favor selecione uma programação, uma personalização e um endereço abaixo.
+Apenas um endereço é permitido quando editando uma assinatura.
+Para assinar este relatório, por favor selecione uma programação, uma personalização e endereço(s) abaixo.
+Relatórios Programados
+E-mails programados
+O nome de endereço já existe. Por favor escolha um nome diferente.
+Ocorreu um erro ao editar o endereço.
+Ocorreu um erro ao excluir o endereço.
+Ocorreu um erro ao atualizar o endereço padrão.
+Confirmar exclusão de endereço
+Tem certeza de que deseja excluir este endereço?
+O nome do endereço não pode ficar em branco.
+O dispositivo de endereço não pode ficar em branco.
+Valor de endereço não pode ficar em branco.
+Erro ao processar sua informação de endereço. Pode ser necessário efetuar login novamente.
+Nome de exibição
+Dispositivo
+Adicionar um novo endereço
+Definir novo padrão
+Assunto
+Enviar agora
+Você está registrado para o seguinte e-mail programado para este relatório:
+Você não tem nenhum e-mail programado.
+Adicionar e-mail programado
+Você tem ## ### assinatura(s) #### neste endereço. Excluir o endereço excluirá todas as assinaturas para o endereço.
+O seguinte arquivo não foi registrado corretamente no servidor da Web: MGSubscription.dll. Peça mais detalhes ao administrador.
+E-mail programado
+E-mail Programado...
+Versão API de assinatura:
+Você tem ## ###assinatura(s)#### para este relatório que será entregue por e-mail.
+Você tem ## ###assinatura(s)#### para este documento que será entregue por e-mail.
+Selecione uma programação na lista abaixo.
+Selecionar um endereço da sua ##lista de endereços###
+ou
+Inserir novo endereço.
+Enviar para um novo endereço
+Enviar para um endereço existente
+Esta função não está disponível no momento.
+Para assinar este relatório, por favor selecione uma programação, um endereço e uma personalização abaixo.
+Intelligence Servers
+Narrowcast Server
+Integração Narrowcast
+Para configurar este portal da Web para enviar conteúdo através do Narrowcast Server, você deve fornecer a localização do mecanismo de assinatura e o sistema Narrowcast a ser utilizado.
+## não foi configurado por qualquer sistema Narrowcast para ser utilizado pela Web para enviar conteúdo. Por favor selecione outro mecanismo de assinatura.
+Este portal da Web foi configurado para enviar conteúdo utilizando o ## sistema e ### como mecanismo de assinatura.
+Local do mecanismo de assinatura:
+Sistemas Narrowcast disponíveis:
+(DESATIVADO)
+Antes que você possa editar este relatório, você deve responder ao(s) seguinte(s) prompt(s).
+Sua resposta deve ser um número.
+Sua resposta deve ser uma data no formato correto de data.
+Erro ao editar a sub expressão do filtro. Por favor revise sua(s) resposta(s).
+A pesquisa do elemento do relatório não pode ser executada.
+Criar um novo relatório a partir de qualquer objeto do projeto
+Criar um relatório
+Será exibido um relatório vazio, onde você poderá inserir vários objetos de dados.
+Ou então, selecione o tipo de relatório que você deseja criar, entre as opções abaixo.
+Selecione o tipo de relatório que você deseja criar, entre as opções abaixo
+R$
+Mostrar botões de edição
+Criando uma nova tarefa
+Gerando resultados
+Gerando HTML
+Trabalho sendo executado em outro servidor
+Processando solicitação
+Por favor aguarde...
+Insira um número no seguinte campo
+Geral
+Especial
+*Keep the connection alive between the Web Server and Intelligence Server (used when there is a firewall between the Web Server and the Intelligence). Please refer to the product documentation for information on how to configure your system when using this feature.*
+O MicroStrategy Web não suporta a exportação de gráficos dentro de documentos para o Excel
+Por favor digite um número inteiro maior que ### e menor que ### no campo a seguir
+### e ## não são datas válidas
+## não é uma data válida
+Número de colunas por página
+Você está prestes a limpar sua lista de histórico.
+Tem certeza que deseja limpar sua lista de histórico? 
+Nenhum dado retornado para esta exibição. Isso pode ter acontecido porque o filtro aplicado exclui todos os dados.
+Excel com formatação (relatórios exportados ao Excel 97 ou versões anteriores não incluirão formatação)
+Editar em modo de estrutura:
+Pesquisa avançada
+AVANÇAR
+Selecione os elementos que deseja manter e pressione o botão OK ou Aplicar. Pressione o botão Cancelar para fechar este editor sem aplicar as alterações.
+Fora (inserir valor1; valor2; ...; valorN)
+Cancelar novo prompt
+Nada selecionado
+OK
+Aplicar
+Cancelar
+Salvar
+Seqüências:
+Categorias:
+Legenda
+Valores de dados
+Primeiras 5 páginas
+5 páginas anteriores
+Próximas 5 páginas
+Últimas 5 páginas
+Ajuda para editor ###
+Ativado
+Desativar
+Padrão
+Todas as respostas ao prompt devem ser números.
+Todas as respostas ao prompt devem ser datas no formato correto de data.
+Nenhum dado retornado para esta visualização porque este relatório não possui modelos de objetos. ##Por favor adicione objetos ao modelo###.
+Nenhum dado retornado para esta página por seleção.
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Time - Not Used
+J and K Time - Not Used
+Ocorreu um erro ao executar o acabamento do filtro Exibir.
+Ocorreu um erro ao executar o acabamento no filtro de relatório.
+Erro de conexão de banco de dados.
+Analisar de XXXX até:
+Escala:
+Ajustar à pagina:
+Todas as linhas
+Todas as colunas
+Imprimir página de rosto com detalhes do filtro
+Margens (polegadas):
+Início:
+Esquerda:
+Direito:
+Fim:
+Tamanho máximo do cabeçalho (polegadas):
+Tamanho máximo do rodapé (polegadas):
+Expandir todas as páginas por campos quando imprimir
+Número máximo de células por bloco:
+Número máximo de gráficos por bloco:
+Exibir caixa de diálogo de impressão
+Inserir detalhes do filtro
+Inserir nome do usuário
+Formato do número e data:
+Ocultar o link 'Meus Relatórios' quando o usuário não possuir privilégios de salvar na Web
+Busca##incremental:
+Número máximo de elementos de atributo por bloco:
+Número máximo de objetos de relatório por bloco:
+Não é possível ajustar à página. Redução máxima será utilizada.
+Ocorreu um erro ao exibir a visualização. Os resultados podem não ser exibidos corretamente.
+Bloco de páginas seguinte
+Bloco de páginas anterior
+Renomear...
+Exibir opções avançadas
+Ocultar opções avançadas
+Nenhuma resposta é requerida para este prompt.
+Selecionar métrica...
+E NÃO
+OU NÃO
+Todas as métricas
+TODOS
+Não existem seleções disponíveis neste prompt.
+Retornar à página anterior.
+Sua solicitação não pôde ser processada porque uma informação de endereço não foi especificada. Por favor especifique a informação do endereço e tente novamente.
+A Lista de histórico desse Intelligence Server está cheia. Para executar um relatório, exclua uma ou mais mensagens da Lista de histórico, em um dos projetos executados nesse servidor.
+O relatório não pôde ser exibido por falta de recursos do sistema.
+Seu trabalho foi designado a um Intelligent Server separado.  Por favor, execute seu relatório novamente.
+Seu trabalho foi designado a um Intelligent Server separado.  O relatório estará disponível na Lista de Histórico quando finalizado.  Clique aqui para abrir a Lista de Histórico.
+Permitir LOGIN automático se a sessão for fechada
+Segurança:
+Verificas privilégios do usuário para cada solicitação
+2
+Quebra automática de linha
+Permitir quebra automática do texto do cabeçalho na planilha do relatório
+Pasta:
+Amarelo escuro
+Violeta
+Azul-petróleo
+Turquesa claro
+Azul-céu
+Verde claro
+Azul pálido
+Turquesa
+Verde brilhante
+Rosa
+Marrom
+Verde-água
+Lima
+Dourado
+Laranja claro
+Laranja
+Cinza-azulado
+Azul-petróleo escuro
+Verde-mar
+Verde escuro
+Verde oliva
+Ameixa
+Índigo
+Cinza-40%
+Cinza-80%
+Ocorreu um erro ao tentar conectar a ##, verifique se o nome do mecanismo de assinaturas está correto e se o mecanismo está ativado, e tente novamente.
+Enviar uma visualização agora
+Ocorreu um erro ao recuperar a lista de sistemas. O serviço do Administrador de Assinaturas pode estar inativo.
+Ocorreu um erro ao recuperar a lista de sistemas.
+PLANILHA DO RELATÓRIO:
+FILTRO DE RELATÓRIO:
+Adicionar objetos do relatório
+Ativar exportação para PDF
+Barra de ferramentas
+Salve o relatório para que possa assiná-lo.
+Salve o relatório ou reinicie todas as alterações para que possa assiná-lo.
+Salve o relatório para que possa programá-lo.
+Salve o relatório para que possa enviá-lo.
+(exemplo: [Métrica1] + [Métrica2])
+Observação: A seleção de "usar meu estilo de planilha padrão selecionado" desativa toda a formatação da planilha personalizada.
+Ocorreu um erro ao conectar com o Mecanismo de Assinaturas
+Editar planilha
+Editar filtro de relatório
+Vermelho
+de ## página(s)
+Se você optar por exibir a planilha e o gráfico em páginas separadas, selecione entre as opções abaixo para a planilha:
+A Lista de histórico desse Intelligence Server está cheia. As listas de histórico são comuns a todos os projetos executados em um Intelligence Server.
+Versão:
+Versão do Intelligence Server:
+Versão do Web:
+Filtro incorporado e modelo na definição de relatório salva.
+Modo de estrutura:
+Hierarquia
+Hierarquia:
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+Métrica derivada
+Métrica derivada:
+Nenhum dato foi retornado nesta exibição.  Modifique o critério do filtro ou objetos do modelo.
+Salvar agora poderá alterar o filtro e modelo originais
+Você gostaria de manter os atalhos para o filtro e modelo originais?
+Salvar agora poderá alterar o filtro original
+Você gostaria de manter o atalho para o filtro original?
+Salvar agora poderá alterar o modelo original
+Você gostaria de manter o atalho para o modelo original?
+Continuar
+Cancelar
+Tempo de criação de mensagens da lista de histórico
+Excel 2000 SR-1 ou versões mais recentes
+Manipulação de datos
+Modo de estrutura
+Filtros
+Totais
+Imagen de Threshold
+(Personalizar)
+Parar
+Sua solicitação não pôde ser processada.
+Por favor tente novamente. Se o problema persistir, contate o Administrador.
+A solicitação de drill não pode ser completada sem que seja incluído o atributo pai.  Isto pode ser atribuído à inclusão do atributo pai na qualificação do filtro exibir.
+Verificar se solicitações dos usuários não têm conteúdos potencialmente danosos.
+Digite um número inteiro entre ### e ## no campo a seguir
+Abrir relatório
+Abrir filtro
+Abrir documento
+Abrir modelo
+Informações sobre a versão...
+Bloquear cabeçalhos de planilhas
+Travar cabeçalhos de Linhas
+Travar cabeçalho de colunas
+Ativar o recurso bloquear cabeçalhos de planilhas
+Pasta Relatórios compartilhados
+Objetos públicos > Relatórios
+Seleção atual
+Última pasta
+Editor de filtro:
+Usar filtros incorporados no editor de filtro do relatório
+Classificação:
+Ativar classificação em formulários de atributos ocultos usando o editor de classificação avançada
+Desativar expansão do menu de contexto
+Enviar
+Trabalho expirado
+Por razões de segurança. tags HTML não são permitidas como input. Caso precise utilizar tags HTML, por favor contate o administrador.
+Verifique tags HTML para todas as requsições
+2
+Esta condição métrica é aplicada no nível ##.
+Mostrar nível de avaliação durante o uso das condições métricas no editor de filtro de exibição
+Salvar configurações de impressão para cada relatório
+Disponiblizar redimensionar colunas e linhas
+Layout da planilha
+Ajustar automaticamente à janela
+Ajustar automaticamente ao conteúdo
+Larguras fixas da coluna
+Redimensionar Colunas e linhas...
+COLUNAS
+LINHAS
+Todas as colunas
+Largura:
+Auto ajustar
+Altura fixa:
+REDIMENSIONAR COLUNAS E LINHAS
+Cabeçalho de eixo de coluna
+Valores de dados
+Largura:
+Salvar modificações no filtro do relatório.
+Fuso horário
+Padrão
+(GMT-11:00) Ilhas Midway
+(GMT-10:00) Havaí
+(GMT-09:00) Alasca
+(GMT-08:00) Hora do Pacífico (EUA e Canadá)
+(GMT-07:00) Arizona
+(GMT-07:00) Hora das Montanhas (EUA e Canadá)
+(GMT-06:00) Hora Central (EUA e Canadá)
+(GMT-05:00) Hora do Leste (EUA e Canadá)
+(GMT-04:00) Hora do Atlântico (Canadá)
+(GMT-04:00) Porto Rico
+(GMT-03:30) Terra-Nova
+(GMT-03:00) Argentina
+(GMT-03:00) Brasil
+(GMT-02:00) Meso-Atlântico
+(GMT-01:00) Açores, Cabo Verde
+(GMT) Horário de Greenwich
+(GMT +1:00) Europa Ocidental
+(GMT +2:00) África Central
+(GMT +2:00) Egito
+(GMT +2:00) Europa Oriental
+(GMT +3:00) África Oriental
+(GMT +3:30) Oriente Médio
+(GMT +4:00) Oriente Próximo
+(GMT +5:00) Paquistão/Lahore
+(GMT +6:00) Bangladesh
+(GMT +7:00) Vietnã
+(GMT +8:00) China (Formosa)
+(GMT +9:30) Austrália Central
+(GMT +10:00) Leste Austrália
+(GMT +11:00) Ilhas Salomão
+(GMT +12:00) Nova Zelândia
+Excel 2000 SR-1 ou versões mais antigas
+Excel XP ou versões mais recentes
+Observação: Esta opção permitirá que os usuários salvem suas senhas não criptografadas em cookies nas máquinas cliente.
+Largura padrão para a colunas do eixo de linhas:
+Largura padrão para colunas de dados:
+(GMT +5:30) Índia
+Esconder opções...
+Mais Opções...
+Número máximo de células para exportar
+Número máximo de células por bloco
+Você não pode exportar este PDF porque excedeu os limites que o adminstrador configurou como o maximo de linhas que podem ser exportadas para o PDF.
+Largura: ##px
+(GMT-06:00) Cidade do México
+(GMT +9:00) Seul
+(GMT +9:00) Osaka, Saporo, Tóquio
+Arial
+E-MAIL PROGRAMADO
+ENVIAR AGORA
+Inserir informação de paginação
+Número máximo de células à ser exportadas para plain text:
+Número máximo de células à ser exportadas para HTML:
+(Arquivo)
+Configuração interna do diagnóstico
+Nível:
+Diretório dos arquivos de registro:
+Configuração personalizada do diagnóstico
+Caminho para o arquivo de configuração personalizada dos diagnósticos:
+Exibir:
+De:
+Para:
+Erros
+Avisos
+Desativar
+Mensagens
+Use / como delimitador de diretório no caminho
+As informações sobre data digitadas não estão em um formato válido
+A data-de deve ser anterior ou igual a data-até.
+Nenhum caminho de arquivo válido disponível:
+Não é possível processar os arquivos de registro: o tamanho total do arquivo é superior ao limite de
+Mb. Para exibir os registros, acesse-os diretamente ou especifique um intervalo de datas menor para exibição.
+Não foi possível processar o primeiro arquivo:
+Erro ao ler o conteúdo do(s) arquivo(s) de registro:
+O arquivo XSL necessário não foi encontrado:
+Erro ao ler o conteúdo do arquivo XSL:
+Configuração do diagnóstico
+Exibir registros
+Não há registros que coincidam com as datas e os tipos solicitados.
+Não é possível exibir o conteúdo do arquivo de registro:
+Não foi possível ler as propriedades originais do arquivo de configuração.
+Não foi possível encontrar ou usar o arquivo de configuração indicado para diagnóstico.
+O arquivo a seguir não foi corretamente registrado no Web Server: mbwahelp.dll. Por favor fale com o administrador para mais detalhes.
+Abrir relatório
+Abrir filtro
+Abrir template
+Salvar em cima erros de objetos modificados
+Erro ao processar o(s) arquivo(s) de registro de diagnóstico.
+Propriedades do servidor
+Propriedades padrão do servidor
+Servidores
+Propriedades padrão
+Segurança
+Configuração
+Exibir registros
+Minutos
+Manter limites durante a análise
+Mostrar botões Classificar
+Ocultar botões Classificar
+Diagnóstico
+Permitir quebra automática de linha dos valores métricos na planilha do relatório
+Não foi possível alterar a senha porque as informações a seguir estão ausentes:
+Estatísticas
+Modo:
+Arquivo de estatísticas:
+Desativar
+Tela
+Arquivo
+Tela e arquivo
+Digite um caminho absoluto e use / como delimitador de diretório no caminho.
+Carregar os valores padrão
+*To subscribe to this document, please select a schedule and personalization below.
+Relacionar maiúsculas e minúsculas por padrão
+Permitir que os usuários alterem e armazenem as preferências de usuário para projetos individuais
+Negrito
+Itálico
+Sublinhado
+Mostrar 'Aplicar a todos os projetos' nas preferências
+Exibir relatório no modo de Projeto
+Estilo da fonte:
+Tamanho da fonte:
+Paginar por seção
+Ativar mesclagem dos cabeçalhos de linha no menu Formato
+Mesclar cabeçalhos de linha
+Leitura do relatório
+Mostrar descrições dos objetos como dicas de ferramentas na planilha
+Ocultar opção para salvar objetos incorporados quando o usuário não tiver o privilégio "Modificar a lista de objetos de relatório na Web"
+Preservar espaço em branco durante a importação de um arquivo de texto
+Páginas de Largura
+Páginas de Altura
+(somente sistemas operacionais Windows)
+Telefone 1
+Telefone 2
+CEP
+Código postal ampliado
+SSN
+Editar configurações personalizadas
+Botões Classificar
+Botões dinâmicos
+(s)
+Classificar por:
+e então por:
+Narrowcast Server Integration
+Servidor da Web
+Propriedades de conexão
+Classe
+método
+Mensagem
+Codificação:
+O tráfego entre a Web e as máquinas Iserver é codificado.
+Cache:
+O cache de privilégio do usuário é atualizado para cada nova solicitação da Web.
+Cookies:
+Desativar cookies.
+Usar cookies para armazenamento temporário de informações em uma sessão.
+Usar cookies para armazenamento permanente de informações entre sessões.
+Usar cookies para armazenamento temporário de informações sobre as sessões do IServer.
+URL:
+As informações sobre a sessão estão incluídas no URL.
+Login:
+Permitir logon automático se a sessão for perdida.
+R$
+Não foi possível acessar as definições de configuração do Mecanismo de assinatura. Para que o MicroStrategy Web delivery funcione, a pasta ou a unidade em que o Mecanismo de assinatura foi instalado deve ser compartilhada. O Portal de assinaturas e o MicroStrategy Web delivery não funcionarão se esse requisito não for atendido. Gostaria de compartilhar automaticamente a unidade de instalação do Mecanismo de assinatura para o grupo administrador local da máquina?
+Se a unidade da máquina do Mecanismo de assinatura for compartilhada e descompartilhada várias vezes, a seguinte mensagem do Windows será exibida na máquina do Mecanismo de assinatura e ficará aguardando a entrada do usuário: 'Erro de sistema: O nome de rede foi excluído. O serviço do Administrador de assinaturas não funcionará até que você clique em OK e descarte a mensagem. Observe que a mensagem não indica um problema, e você deve simplesmente clicar em OK e continuar.
+Não é possível compartilhar a unidade. Compartilhe a unidade de instalação do mecanismo de assinatura manualmente na máquina do mecanismo de instalação para o grupo administrador local.
+Versão do Excel:
+Formato de entrega:
+Compactar conteúdo
+Ocultar
+Mensagem:
+(Máximo de ## caracteres)
+Clique aqui para adicionar uma mensagem
+Caber para:
+páginas de ancho por
+altura da(s) página(s)
+Cookies:
+Usar cookies para optimizar a performance quando lendo preferências do usuário
+A ação requerida não pode ser completada porque outro objeto depende do objeto manipulado.
+Você está subscrito aos seguintes programas para este documento:
+A expressão para a métrica derivada esta vazia.
+Não contém
+Não começa com
+Não termina com
+Porcentagem do '##'
+Rank de '##'
+Rank
+Grupo de ##
+Avaliar o grupo na ##
+por ##
+onde (##)
+ApplySimple
+Igual
+Não é igual a
+Vazio
+Tamanho máximo da mensagem de texto (em caracteres):
+Os seguinte formatos de entrega não suportam gráficas atualmente: ##. Entregas usando um desses formatos incluirão somente a planilha.
+O formato de entrega selecionado não suporta gráficas atualmente. A entrega incluirá
+O estilo definido no prompt não pôde ser usado para visualizar a definição do prompt '##' (nome do estilo: ###).
+Não foi possível encontrar um estilo apropriado para visualizar prompt '##' (nome do estilo: ###).
+Filtro de Input do usuário:
+Permitir uso de HTML no cabeçalho e rodapé da impressão. Este parâmetro permitirá que usuários executem scripts no navegador.

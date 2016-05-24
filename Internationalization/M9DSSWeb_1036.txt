@@ -1,0 +1,2804 @@
+Copyright © 1996-2002 MicroStrategy, Incorporated. All rights reserved. Confidential.
+Page d'accueil
+Rapports partagés
+Mes rapports
+Historique
+Créer un rapport
+Portrait
+Paysage
+Déconnexion
+Orientation :
+Rechercher
+Projet
+Format du papier :
+Tous droits réservés. Confidentiel.
+NIVEAU DE PREFERENCES
+Serveur :
+Port
+Nom de l'utilisateur
+Mot de passe
+Enregistrer mon mot de passe
+IDENTIFIANT
+Réinitialiser le rapport
+Le format du papier, l'orientation et les marges doivent correspondre aux paramètres du navigateur.
+Veuillez saisir votre ancien mot de passe et votre nouveau mot de passe.
+Données sources
+Ajouter à mon Historique
+Identifiant
+Erreur lors de l'exécution du document. Veuillez contacter votre administrateur.
+Se connecter en tant qu'invité
+Lettre US 8 1/2 x 11 po
+Erreur de session
+Cette session n'est pas valide car la connexion a été perdue. Veuillez vous reconnecter.
+Légal US 7 1/4 x 10 1/2 po
+Se connecter en tant qu'utilisateur Windows
+A4 210 x 297 mm
+Folio 216 x 330 mm
+Nom du serveur
+Projets
+BIENVENUE
+Description
+A propos de MicroStrategy Web ##
+Les serveurs suivants sont hors service :
+Aller à page d’accueil Administrateur
+Voulez-vous utiliser les fichiers temporaires sur le serveur Web ?
+Recherche rapide
+élaboré...
+Date et heure de création du message Historique : ##
+Parcourir une liste de rapports déjà préparés et disponibles à tous les utilisateurs.
+Afficher les rapports que j'ai créés et enregistrés pour un usage futur.
+Créer et publier un nouveau rapport sur ce site.
+Afficher un résumé à jour de l'état de mes requêtes.
+Vous êtes ici :
+Automatiquement
+Manuellement
+Identifiant du dossier
+Il n'y a pas de hiérarchies dans ce projet.
+objet(s)
+Il est impossible de rechercher sur des attributs de ce type.
+Page ## sur ###
+Facteur d'équilibrage de la charge
+Propriétaire
+Modifiés
+Toujours
+Jamais
+Supprimer le dossier
+Supprimer le rapport
+Supprimer le document
+dossier(s)
+rapport(s)
+document(s)
+Ce dossier est vide.
+Requis seulement pour les utilisateurs de Internet Explorer 4.x.
+Les préférences par défaut de votre projet n'ont pas pu être sauvegardées. Vos permissions sur le dossier Web ou son contenu sont peut-être incorrectes.
+Résultats de la recherche :
+Modèle(s) de rapport
+Le dossier "##" n’est pas disponible.
+Identifiant de la tâche
+Identifiant du rapport :
+Nom du rapport :
+Mode d'affichage
+Identifiant du message :
+Traitement de la requête en cours...
+Votre requête a été soumise. Veuillez patienter...
+Autorise l'utilisateur à choisir, la valeur par défaut est Non
+Autorise l'utilisateur à choisir, la valeur par défaut est Oui
+Veuillez patienter lors de l'exportation de votre rapport.
+Le temps d'exécution est dépendant de la taille du rapport.
+Dernière mise à jour :
+Vous devez saisir un nom de rapport.
+Le propriétaire d'un des objets du résultat de la rechercher n'a pu être trouvé. La recherche a échoué.
+Etape ##
+Etat actuel :
+Rapport prêt
+Vérification des invites
+Invites prêtes
+Exécution...
+Erreur
+Exécution...
+seconde(s)
+Information sur le contact :
+Nombre maximum de recherches simultanées :
+Pour contacter l'administrateur
+Requis
+Vérifier à nouveau l'état
+Annuler cette requête
+Vous devriez voir les chiffres "12345" dans le cadre ci-dessous si votre navigateur supporte les fichiers CSS. Voyez-vous ces chiffres ?
+RAPPORTS CONNEXES
+Oui. Mon navigateur supporte cette implémentation de formatage.
+Non. Utiliser une implémentation de formatage différente.
+Le temps d'exécution de votre requête est dépassée. Veuillez réessayer ultérieurement.
+Aller à
+Exécution
+Bleu et Gris
+Lignes :
+Grille
+Graphique
+Messages ## - ### de ####
+## - ### de ####
+Enregistrer
+Nouvelle invite
+Version imprimable
+Exporter les données
+Colonnes
+Coloré
+Agent
+Classique
+Comptabilité
+Finance
+Bandes Grises
+Utiliser Dynamic HTML ?
+Pastels
+Rouge et Noir
+Romantique
+Type Petit
+Appliquer
+Masquer les boutons pivot
+Afficher les boutons pivot
+Déplacer vers les lignes
+Déplacer vers le haut
+Déplacer vers le bas
+Saut de page sur ce champ
+Déplacer vers les colonnes
+Déplacer à gauche
+Déplacer à droite
+Trier
+Analyser
+De :
+A :
+Options d'analyse :
+Analyser seulement sur les sélections
+Qu'est-ce que c'est ?
+Conserver le parent lors de l'analyse
+En haut
+En bas
+Carrés
+pour
+Afficher le mode d'analyse
+Masquer le mode d'analyse
+Couché de Soleil
+Colonnes :
+Plus de pages
+Plus de colonnes
+Première page
+Dernière page
+Aucune donnée renvoyée pour ce rapport.
+Erreur dans l'appel à Sleep
+Masquer le bouton recherche
+Afficher le bouton recherche
+Afficher :
+Formater la grille
+Masquer la barre d'outils
+Afficher la barre d'outils
+Publier
+Aucune information d'analyse disponible.
+Masquer les détails du filtre
+Afficher les détails du filtre
+Retour à une analyse simple
+La syntaxe correct pour l'opérateur Pas entre est valeur1;valeur2
+Détails sur le filtre :
+Le filtre est vide.
+lors de l'analyse
+- aucun -
+Il n'y a pas suffisamment de données pour afficher le sous-type de graphique requis pour ce rapport. Essayer d'utiliser un autre sous-type de graphique.
+Analyser vers
+Réactualiser mon Historique
+Le message pour ce rapport n'a pu être trouvé ou les résultats n'ont pas pu être récupérés du serveur MicroStrategy.
+Effacer mon Historique
+Etat
+Heure de démarrage
+Détails
+Supprimer
+Trier par ordre croissant
+Trier par ordre décroissant
+Dernier rapport :
+marquer comme "non lu"
+Dernier document :
+Prêt
+En attente de l'invite automatique
+Traitement en cours
+Génération du SQL
+Exécution du SQL
+Moteur d'analyse en cours de traitement
+Recherche le cache:
+Crée le cache
+Dans la file d'attente
+En attente des paramètres de gestion
+Projet suspendu
+Exécute les rapports fils
+Préparation des résultats
+Votre Historique est saturé. Pour exécuter un rapport, vous devez supprimer au moins un message.
+pages
+Ne pas me demander à nouveau.
+Continuer
+En raison d'une erreur du serveur Web, le contenu de ce rapport n'a pas pu être exporté. Veuillez essayer un autre rapport.
+Saut de page :
+Vous êtes sur le point de vous déconnecter de tous les projets.
+Veuillez faire une sélection à partir des options ci-dessous puis cliquer sur le bouton déconnexion :
+Voulez-vous supprimer les rapports terminés de l'Historique ?
+Non
+Oui
+Voulez-vous annuler les requêtes en attente de cette session ?
+Annuler
+Seuls les messages lus
+Ne plus afficher cette invite.
+DÉCONNEXION
+L'utilisateur peut avoir été déconnecté ou mis en attente pendant longtemps. La connexion a expiré, essayer à nouveau de vous connecter.
+En raison d'une erreur du serveur Web, votre requête n'a pas pu être traitée. Veuillez réessayer plus tard.
+Identifiant de document :
+Nom du document :
+Vous pouvez vérifier votre Historique ou essayer ultérieurement.
+Erreur lors de la vérification de l'état du document.
+Numéro de l'erreur
+Document prêt
+Invite prête
+Index
+CONTENU
+FAQ's
+Dernier dossier :
+Aucune donnée renvoyée pour ce document.
+Document
+Affichage de la grille
+Page de démarrage en cours :
+Style de grille par défaut :
+Nombre maximum de lignes dans la grille :
+Nombre maximum de colonnes dans la grille :
+Locale
+Exporter
+Excel avec formatage (version 2000 ou plus)
+Excel sans formatage
+Excel avec texte en clair
+Format CSV
+Ouvrir une nouvelle fenêtre lors de l'exportation
+Options d'impression
+Texte d'en-tête :
+Texte de pied de page :
+Mode de connexion
+Style de la numérotation des pages :
+(aucun)
+Page 1 de n
+Page de début par défaut :
+Activé
+Annuler les requêtes en attente de cette session ?
+Fusionner les en-têtes de colonnes
+Répéter les en-têtes de colonnes
+Supprimer les rapports terminés de l'Historique ?
+Appliquer à TOUS les projets.
+Valeurs par défaut du projet
+(par défaut)
+Affichage du graphique
+Taille du graphique :
+Utiliser les paramètres enregistrés dans la définition du rapport
+Hauteur :
+Largeur :
+Nombre maximum de colonnes à exporter vers Excel :
+Standard (Nom de l'utilisateur et mot de passe)
+Ajouter les rapports et les documents à mon Historique :
+EXTRAS DU DOCUMENT
+Afficher la case à cocher "Me rappeler mon mot de passe" sur la page de connexion
+Invité
+Impossible d'ouvrir le fichier XSL nécessaire pour ce document. Ce fichier est manquant ou contient des erreurs.
+Erreur lors de l'écriture du graphique sur le disque local. Veuillez vous assurer qu'il y a suffisamment d'espace libre sur le disque local.
+Erreur lors de la combinaison du XML du rapport et du fichier XSL pour générer le document HTML.
+Montrer les détails du document
+Dossier parent :
+Préférences utilisateur
+Mes rapports
+Vous devez vous connecter à ce projet pour continuer.
+Valeurs par défaut du projet.
+Préférences Utilisateur
+Utiliser les valeurs par défaut
+Pages par bloc :
+*Maximum number of rows to export to Excel with formatting or to HTML:*
+Nombre maximum de lignes à exporter vers Excel en texte clair ou CSV :
+Modifier mon mot de passe
+Entre
+Général
+Erreur de connexion :
+Vous pouvez utiliser le caractère générique "?" pour représenter un seul caractère.
+Authentification Windows
+Utiliser un plug-in de sécurité personnalisé ?
+Classe du Plug-In de sécurité :
+Vous pouvez utiliser le caractère générique "*" pour représenter un ou plusieurs caractères.
+Seulement lors de la connexion
+Avant l'exécution de chaque rapport
+Mode asynchrone
+Mode synchrone
+Temps écoulé avant l'ouverture de la page d'attente :
+Afficher les abonnements
+et
+Mode d'exécution
+Détails du filtre
+Enregistrer les erreurs
+INSTRUCTIONS
+Masquer les abonnements
+Imprimer
+Afficher l'invite lors de la déconnexion
+Afficher les options pendant l'impression
+Enregistrer les avertissements
+Afficher les propriétés
+Masquer les propriétés
+maximum ##
+Texte en clair
+Imprimer les détails du filtre :
+Au début de l'impression.
+En haut de chaque page
+Exporter les détails du filtre
+Invites
+Nombre d’éléments à afficher par bloc :
+Totalité du rapport
+Portion d'affichage seulement
+Revenir en haut de la page
+Vous ne pouvez vous connecter en tant qu'utilisateur Windows.
+Vous devez saisir un nom de dossier.
+Canal activé (canal visible par l'utilisateur final)
+Message d'erreur :
+Retour au Dossier Parent
+Erreur d'exécution du rapport
+Type de graphique
+Zone verticale
+Zone horizontale
+Barre verticale
+Barre horizontale
+Ligne verticale
+Ligne horizontale
+Secteur
+Diffusion
+Polaire
+Radar
+Bulle
+Haut/bas... Stock
+Histogramme
+Colonnes 3D
+Flottement 3D
+Groupes connectés 3D
+Séries connectées 3D
+Surface 3D
+Diffusion 3D
+Sous-type de graphique
+Absolu
+Empilé
+Bipolaire absolu
+Bipolaire empilé
+Absolu à deux axes
+Deux axes empilés
+En pour-cent
+Côte à côte
+Deux axes côte à côte
+Bipolaire côte à côte
+Secteur en anneau
+Secteurs multiples
+Secteurs en anneaux multiples
+Secteurs proportionnels multiples
+Secteurs en anneaux proportionnels multiples
+Retour
+Format d'image :
+Diffusion X-Y à deux axes
+Diffusion X-Y avec légendes
+Diffusion X-Y à deux axes avec légendes
+Polaire à deux axes
+Graphique des coordonnées polaires
+Graphique à deux axes des coordonnées polaires
+Graphique des coordonnées
+Ligne de radar
+Zone de radar empilée
+Ligne de radar à deux axes
+Zone de radar empilée à deux axes
+Bulle à deux axes
+Deux axes haut/bas
+Haut/bas-ouvert
+Deux axes haut/bas ouverts
+Haut-bas-ouvert-fermé
+Deux axes haut/bas ouverts-fermés
+Histogramme vertical
+Histogramme horizontal
+Barres
+Pyramides
+Octogones
+Barres aux bords coupés
+Cubes
+Sphères
+Zones
+Rubans
+Etapes
+Surface 3D avec côtés
+Surface alvéolée 3D
+Diagramme de diffusion XYZ 3D
+Diagramme de diffusion XYZ 3D avec libellés
+X-Y Diffusion
+Haut/bas
+Retour au dossier :
+Retour au rapport :
+Retour au document :
+Votre Historique est vide.
+Merci d'utiliser MicroStrategy Web.
+Vous avez été déconnecté.
+Pour se reconnecter à ce site, cliquer ci-dessous.
+Incapable d'exporter
+Vous ne pouvez exporter ce rapport car il dépasse le nombre maximum de lignes et de colonnes à exporter défini par l'administrateur.
+Veuillez effectuer des manipulations sur le rapport ou contacter l’administrateur.
+Vous devez être connecté à un projet au minimum pour commencer à utiliser MicroStrategy Web.
+Aucun  MicroStrategy Server n'est enregistré sur le serveur MicroStrategy Web.
+Aucun projet valide n'est disponible sur le serveur ##.
+Votre identifiant ou votre mot de passe est incorrect. Veuillez les ressaisir. Souvenez vous que le mot de passe est respecter la casse.
+Votre mot de passe est incorrect. Veuillez le ressaisir. Souvenez vous que le mot de passe est sensible à la casse.
+Aucune donnée pour le contenu du dossier récupérée.
+Échec de l'exécution du rapport.
+Le rapport n'a pas pu être récupéré à partir du serveur.
+Le rapport n'a pas pu être recréé.
+Il se peut que les paramètres de votre navigateur soient incorrects. Veuillez vous assurer d'activer les cookies.
+Erreur lors de l'accès à l'Historique des utilisateurs.
+Votre Historique de messages n'a pas pu être récupéré à partir du Microstrategy Server.
+Votre Historique de messages na pas pu être supprimé du  MicroStategy Server.
+Erreur dans le paramétrage de l'état des messages sur le MicroStrategy Server.
+Aucun dossier, rapport ou document trouvé à cet emplacement.
+Propriétés
+En raison d'une erreur de syntaxe, votre requête pivot n'a pas abouti.
+En raison d'une erreur de syntaxe, votre requête saut de page n'a pas abouti.
+En raison d'une erreur de syntaxe, vos requêtes saut de page et pivot n'ont pas abouti.
+En raison d'une erreur de syntaxe, votre requête de tri n'a pas abouti.
+En raison d'une erreur de syntaxe, vos requêtes pivot et tri n'ont pas abouti.
+En  raison d'une erreur de syntaxe, vos requêtes saut de page et tri n'ont pas abouti.
+En raison d'une erreur de syntaxe, vos requêtes saut de page, pivot et tri n'ont pas abouti.
+Votre rapport n'a pas pu être affiché.
+Certaines de vos sessions n'ont pas pu être fermées. Il se peut que le MicroStrategy Sever ferme votre session ou que le MicroStrategy  Server ne réponde pas.
+Certaines invites ne peuvent pas être affichées.
+Échec de toutes les invites.
+Échec de l'exécution du document.
+Le document n'a pas pu être récupéré à partir du serveur.
+Les projets n'ont pas pu être affichés.
+Votre Historique n'a pas pu être affichée.
+Le projet est déconnecté ou en attente de déconnexion.
+Erreur dans l'enregistrement des préférences personnelles.
+Vos préférences personnelles n'ont pas pu être enregistrées. Il se peut que les paramètres de votre navigateur soient incorrects.
+Confirmation de la mise à jour
+Vos préférences personnelles ont été enregistrées.
+Affichage de la page impossible
+Veuillez contacter votre administrateur.
+Aucun paramètre trouvé.
+Vos préférences personnelles n'ont pas été trouvées. Il se peut que les paramètres de votre navigateur soient incorrects. Veuillez vous assurer que les cookies sont activés.
+Information incorrecte
+Veuillez corriger les champs marqués et essayer à nouveau.
+Les champs incorrects ont été ignorés et enregistrés avec les valeurs par défaut.
+Le MicroStrategy Server auquel vous essayez de vous connecter n'a pas été trouvé. Veuillez réessayer plus tard.
+Vous n'avez pas les droits d'accès au projet sélectionné.
+Vous avez sélectionné trop d'objets pour une invite d'objets.
+Vous n'avez pas sélectionné assez d'objets pour une invite d'objets.
+Vous avez sélectionné trop d'éléments pour une invite d'éléments
+Vous n'avez pas sélectionné assez d'éléments pour une invite d'éléments
+Ce compte a été désactivé par l'administrateur.
+Le mot de passe a expiré.
+Vous n'êtes pas autorisé à modifier votre mot de passe.
+Il n'y a pas d'objet à supprimer.
+La syntaxe correct pour l'opérateur Entre est valeur1;valeur2
+La version du MicroStrategy Server et la version du client  sont incompatibles
+N'a pas pu appeler la fonction Sleep en exécution synchrone.
+Cette invite est requise et vous devez y répondre.
+Veuillez entrer une valeur dans la zone de texte.
+La connexion avec le MicroStrategy Server a été perdue. Veuillez vous reconnecter...
+Le fichier suivant n'a pas été enregistré correctement sur le serveur  Web  : M8dssxml.dll. Veuillez vous adresser à l'administrateur pour plus de détails.
+Veuillez utiliser la page Administrateur pour configurer certains projets.
+Un de vos serveurs ou plus peut être en panne.
+Veuillez sélectionner des éléments avant l'analyse
+Vous ne pouvez pas qualifier sur plus d'un article à la fois.
+Les invites pour ce rapport ne peuvent pas être affichées car elles ont déjà été renseignées.
+Erreur de chargement
+Si vous supprimer ce dossier, vous allez aussi supprimer tout ce qu'il contient du serveur.
+Liste des messages d'erreurs
+Heure
+Description des erreurs
+Fichier
+Fonction ASP
+Fonction API
+Commentaires
+Niveau
+Votre mot de passe a été changé.
+Vous êtes maintenant connecté au projet
+en tant qu'utilisateur
+Modifier le mot de passe
+Votre mot de passe a expiré. Veuillez le modifier afin de vous connecter.
+Ancien mot de passe :
+Nouveau mot de passe :
+Confirmation du nouveau mot de passe :
+Mot de passe expiré
+Veuillez taper un mot de passe différent du précédent.
+Veuillez remplir toutes les zones de texte affichées ci-dessous :
+Mettre à jour
+MODE RECHERCHE
+Charger les valeurs par défaut
+Aller à mon Historique
+pas plus de
+pas moins de
+sélections
+aucun
+Disponible
+Sélectionné
+Chercher
+éléments
+Mesure
+Attribut
+Entre (saisir valeur1 ; valeur2)
+Exactement
+Supérieur à
+Supérieur ou égal à
+Inférieur à
+Inférieur ou égal à
+Comme
+Différent
+Valeur
+Est
+Au plus haut
+Au plus bas
+Ajouter
+Vos sélections
+Correspondre
+Toutes les sélections.
+Quelle que soit la sélection.
+Mes sélections
+Ajouter aux sélections
+A la recherche de :
+Exécuter le Rapport
+Enregistrer un rapport
+Qualifier sur la description de l'attribut
+Retour à la hiérarchie de sélection
+Choisir une hiérarchie
+Autres hiérarchies :
+Opérateur
+Qualifier
+Sélectionner
+Eléments
+Dossier actuel
+Sous-dossiers
+Contenu du dossier
+Veuillez entrer les critères de recherche.
+La liste peut être longue.
+Aucun point d’entrée dans cette hiérarchie.
+BESOIN D'AIDE ?
+Que sont les Rapports partagés ?
+Qu'est-ce qu'un document ?
+Comment sélectionner un nouveau projet ?
+Vous avez atteint le nombre maximal de message par utilisateur. Veuillez contacter votre administrateur.
+Que sont les valeurs par défaut du projet ?
+Peut-on m'informer davantage sur les valeurs par défaut du projet ?
+Un utilisateur final peut-il changer les valeurs par défaut du projet ?
+Le nombre maximum de message par projet a été atteint. Veuillez contacter votre administrateur.
+Quelles sont les préférences utilisateur ?
+Que signifie "Appliquer à TOUS les projets" ?
+Comment annuler et revenir à la page d'accueil ?
+Que signifie "Charger les valeurs par défaut" ?
+Qu'est-ce que l'Historique ?
+Comment supprimer des rapports et des documents de mon Historique ?
+Comment trier mon Historique ?
+Que signifie "Dans la file d'attente" ?
+Que sont Mes rapports ?
+Qu'est-ce qu'un rapport ?
+Comment créer un rapport ?
+Que signifie supprimer ?
+Après avoir supprimé un objet, est-il possible de le récupérer ?
+Comment savoir si ma requête a été exécutée ?
+À quoi sert le bouton "Ajouter à mon Historique" ?
+Après avoir sélectionné une hiérarchie à gauche, vous pourrez voir les attributs de cette hiérarchie dans cette section.
+Comment changer le style de ce rapport ?
+Comment réorganiser les lignes et les colonnes de ce rapport ?
+Comment afficher les données qui ne peuvent pas être atteintes par défilement ?
+Comment procéder à des analyses dans ce rapport à partir de données similaires ?
+Aller à l'étape 2
+Comment effectuer une recherche ?
+Autres
+Dans
+Quels sont les différents types d'invite pris en charge ?
+Note: Netscape 6, Internet Explorer 5 et les versions ultérieures supportent le DHTML.
+Trop de lignes sont revenues du serveur MicroStrategy. L'administrateur peut modifier le nombre maximum de lignes renvoyées au MicroStrategy Desktop.
+Les opérateurs "Comme" et "Différent" ne supportent pas les données de type non texte.
+Vous avez sélectionné trop de qualification pour l'invite de l'expression.
+Comment obtenir plus d'informations concernant mon rapport ou mon document ?
+Vous n'avez pas sélectionné assez de qualification pour l'invite de l'expression.
+Vous avez sélectionné trop de qualification pour l'invite hiérarchique.
+Vous n'avez pas sélectionné assez de qualification pour l'invite hiérarchique.
+Pourquoi ai-je besoin d'un mot de passe ?
+Pourquoi ai-je besoin de changer mon mot de passe ?
+C'est votre première visite ou vous souhaitez en apprendre davantage sur ce site ?
+Aide en ligne
+Que signifie se déconnecter ?
+Pouvez-vous me fournir des informations sur le sous-système de sécurité ?
+Pourquoi ai-je besoin de me connecter ?
+Qu'est-ce qu'un cookie et comment est-il utilisé sur ce site Web ?
+Que signifie se connecter en tant qu'invité ?
+Pourquoi mon mot de passe expire-t-il ?
+Qu'est-ce que signifie "sauvegarder un rapport" ?
+Quelques unes des réponses par défaut de cette invite n'ont pas été affichées.
+Comment enregistrer un rapport ?
+Pourquoi ne puis-je pas exporter ?
+(Seul le type texte est permis)
+Pas exactement
+Que sont les privilèges utilisateur ?
+Pas entre (saisir valeur1; valeur2)
+Quelle est l'utilité de cette page ?
+Comment configurer un MicroStrategy Server sur ce serveur Web ?
+Que signifie "publier un serveur MicroStrategy sur le Web" ?
+Retour à l'état antérieur
+Desktop
+Rapports partagés
+Créer un rapport
+Page d’attente
+Résultats du rapport
+Page d'Administration
+Mot de passe expiré
+Détails sur la tâche
+Si cette fenêtre est toujours ouverte à la fin de l'exportation, n'hésitez pas à la fermer.
+Enregistrer sous
+Supprimer
+Export impossible
+Privilèges utilisateur
+Le fichier suivant n'a pas été correctement enregistré sur le Serveur Web : M9win32.dll. Veuillez informer l'administrateur.
+Retour à :
+Vous êtes sur le point de supprimer cet objet :
+Toutefois, ce rapport peut être exporté en fichier texte en sélectionnant cette option soit dans les préférences ou à l'invite au moment de l'export.
+Enregistrer le rapport avec les invites intégrées dans le filtre.
+Etes-vous sûr de vouloir supprimer cet objet ?
+Confirmer la suppression
+L'objet n'existe pas dans les méta données.
+Votre requête n'a pas pu être traitée due à une erreur du serveur.
+Veuillez réessayer. Si le problème persiste, contacter l'administrateur système.
+Instruction SQL :
+Description du rapport :
+Modèle :
+Filtre :
+[ ... ]
+Nom de dossier :
+Nombre total de lignes :
+Nombre total de colonnes :
+Chemin du rapport :
+Chemin du document :
+Message créé :
+Dernière mise à jour du message :
+Description du document :
+Heure de fin :
+Tâche en cours d’exécution.
+Enregistrer le rapport sous :
+Nom du rapport :
+Enregistrer le rapport dans sa définition statique.
+Invite avec sélections.
+Requis
+Facultatif
+Créer un dossier
+Confirmation de sauvegarde
+Votre rapport a été sauvegardé avec succès.
+Cliquer sur Continuer ci-dessous pour retourner au rapport original.
+Autres options...
+Exécuter votre nouveau rapport :
+Lancer le rapport qui vient d'être créé, depuis son nouvel emplacement, sous son nouveau nom.
+Rapports sauvegardés :
+Afficher les autres rapports sauvegardés provenant du même répertoire.
+Il y a un rapport portant le même nom que le nouveau.
+Ecraser
+Publier le rapport en tant que :
+Enregistrer l'invite :
+Enregistrer le rapport à l'intérieur :
+Contenu de ce dossier :
+Créer un dossier :
+Vous pouvez écraser le nouveau rapport ou l'enregistrer sous un autre nom.
+Il y a un dossier avec le même nom que le nouveau.
+Veuillez utiliser un nom de dossier différent.
+Vous avez entré un nom incorrect.
+Sélectionner un nom différent et réessayer.
+Enregistrer le rapport avec toutes les invites intégrées.
+Simple
+Contient
+Commence par
+Finit par
+Emplacement :
+Dans tous les dossiers
+Que dans le dossier
+Mode Analyse
+Trouver tous les objets
+Créés
+La version du serveur MicroStrategy auquel vous essayez de vous connecter n'est pas compatible avec cette version de MicroStrategy Web. Il vous faut utiliser ## ou mieux.
+Entre
+Durant le(s) dernier(s)
+Créé par n'importe quel utilisateur
+Créé par moi seulement
+La description inclut :
+et
+Élaboré
+Page de recherche
+Vérifier le nom de l'objet.
+Consulter la section ##.
+Date créée/modifiée :
+Jour(s)
+Heure(s)
+Année(s)
+Mois
+Aide à la recherche
+Astuces pour la recherche :
+Utiliser le critère "contient".
+Semaine(s)
+Votre recherche de ## n'a retourné aucun résultat.
+Votre recherche n'a retourné aucun résultat.
+Type d'objet :
+Essayer la "recherche avancée" pour plus d'options.
+Préférences avancées
+Si vous désirez répondre à nouveau à l’invite dans le document, veuillez complètement ré-exécuter le document.
+Nouvelle recherche
+Détails de la recherche
+Objet(s) trouvé(s)
+En mode manuel, combien de rapports et documents ouverts récemment souhaitez-vous garder disponibles pour la manipulation ?
+Remarque : ces rapports et documents resteront disponibles pour la manipulation même s'ils ne sont pas enregistrés dans l'historique. 
+Accès refusé
+Le privilège suivant est nécessaire pour accéder à la ressource que vous avez demandée :
+Veuillez contacter l'administrateur de MicroStrategy Server pour vérifier que le privilège nécessaire a été accordé.
+Attention : Ce document ne peut être sauvegardé dans l'Historique.
+EXTRAS DE L'HISTORIQUE
+Cette invite requiert une valeur comprise entre ## et ###.
+Cette invite requiert une valeur supérieure à ##.
+Cette invite requiert une valeur inférieure à ##.
+Cette invite requiert une valeur antérieure à ##.
+Cette invite requiert une valeur ultérieure à ##.
+Permettre l'analyse par hyperliens seulement.
+Autoriser l'analyse simple
+Permettre l'analyse dans tous les sens.
+Vous n'avez pas l'autorisation d'enregistrer des rapports dans le dossier "Rapports Partagés".
+Vous n'avez pas l'autorisation d'enregistrer des rapports dans le dossier "Mes rapports".
+Le texte que vous avez saisi est trop long, veuillez essayer de nouveau.
+Le texte que vous avez saisi est trop court, veuillez essayer de nouveau.
+Vous n'avez pas suffisamment d'autorisation pour accéder à votre demande. Si le problème persiste, veuillez contacter l'administrateur du MicroStrategy Server.
+Nom incorrect pour la classe des plugs-in de sécurité
+Nom d’utilisateur/mot de passe incorrect. Veuillez vous assurer que le plug-in de sécurité est correctement installé et enregistré.
+Pas entre
+Le MicroStrategy Server n’est pas disponible. Il peut être déconnecté ou arrêté.
+Détails de l'erreur :
+Identifiant de l'erreur MicroStrategy Web XMLAPI :
+Le Web Serveur a rencontré une erreur d'exécution inconnue.
+Veuillez vérifier le fichier journal MicroStrategy Web pour plus de détails.
+Vous ne pouvez pas exporter ce rapport car il dépasse les limites que l'administrateur a fixées pour le nombre maximum de lignes et de colonnes exportables vers Excel, CSV ou HTML.
+Désactiver toutes les analyses.
+Attention : Ce rapport ne peut être sauvegardé dans l'Historique.
+Serveurs connectés :
+Cluster
+Mode Connexion
+Chargé
+Occupé
+Libre
+Taille maximum de la réserve
+Action
+Affiche les noms des formes d'attribut
+Modifier
+Déconnecter
+Connecter
+Modifier
+Serveurs non connectés :
+Taille initiale de la réserve
+L'utilisateur connecte manuellement Web et Intelligence Server
+Connexion automatique à Intelligence Server lorsque Web Server ou Intelligence Server est redémarré.
+Afficher tous les serveurs disponibles
+Rafraîchir
+Ajouter un serveur manuellement
+Détail sur les propriétés du serveur
+Connecté(e)
+Tous les serveurs disponibles
+Aucun MicroStrategy Server n'est disponible actuellement.
+Aucun MicroStrategy Server n'est connecté actuellement.
+Aucun MicroStrategy Server n'a été déconnecté récemment.
+Cette action n'a pu être exécutée car vous n'avez pas d'accès en écriture sur cet objet ou le dossier parent.
+Quelle est la fonction d'une invite ?
+Masquer tous les serveurs disponibles
+A PROPOS DE
+Le dossier que vous essayez d'ouvrir n'existe pas dans ce projet.
+Le rapport que vous essayez d'exécuter n'existe pas dans ce projet.
+Le document que vous essayez d'ouvrir n'existe pas dans ce projet.
+Hiérarchie du système
+Projets suivantes
+Projets précédentes
+Version ASP :
+Version XML API :
+Version du navigateur :
+Cookies de MicroStrategy Web :
+Version du MicroStrategy Server :
+Afficher les rapports graphiques par défaut en mode 'Grille et graphique'
+Cacher la grille
+Enregistrer le chemin des appels de fonctions entraînant des erreurs
+En remontant
+En profondeur
+Erreur lors du chargement de données XML.
+L'un des noeuds XML requis est indisponible. Veuillez vous renseigner auprès de l'administrateur.
+Le fichier suivant n'a pas été enregistré correctement sur le serveur Web  : scrrun.dll. Veuillez vous renseigner auprès de l'administrateur.
+Le fichier suivant n'a pas été enregistré correctement sur le serveur Web : MSXML.dll. Veuillez vous renseigner auprès de l'administrateur.
+Erreur interne réseau : échec de décompression du message. Cela peut être dû à une incompatibilité entre les versions de MicroStrategy Web et de MicroStrategy Intelligence Server.
+Erreur lors de la connexion
+Erreur lors du changement du mot de passe
+Erreur dans les rapports partagés
+Erreur dans Mes rapports
+Erreur dans les invites
+Erreur dans le résultat du rapport
+Erreur dans l'Historique
+Erreur dans le détail des tâches
+Erreur lors de la sauvegarde
+Erreur dans la recherche
+Erreur dans la suppression
+Erreur dans la création du rapport
+Erreur dans l'aide en ligne
+Erreur lors de la déconnexion
+Fichier inexistant.
+Erreur à l'ouverture du fichier.
+Erreur lors de la lecture du fichier.
+Erreur MicroStrategy Intelligence Server :
+Erreur lors du chargement des projets
+Erreur lors de la lecture de la définition de l'invite par le serveur MicroStrategy. Veuillez exécuter de nouveau le rapport ou l'invite.
+Erreur lors du chargement d'une invite.
+Afficher rapports fils
+Masquer rapports fils
+Votre deuxième nouveau mot de passe ne correspond pas au premier. Veuillez les entrer à nouveau.
+Afficher les rapports fils des documents
+Cacher les rapports fils des documents
+Vous n'êtes pas autorisé à modifier le mot de passe d'une autre personne
+Une erreur de lecture des fichiers d'aide est survenue. Recommencer et contacter l'administrateur Web Server si le problème se reproduit.
+Erreur lors de la recherche du dossier.
+Navigation
+Documents
+Requête d'analyse incorrecte. Elle a été annulée.
+Exécution de la commande d'analyse impossible.
+Analyser en profondeur
+Erreur lors de l'exécution de la tâche.
+Erreur lors de l'affichage des invites.
+Période de rafraîchissement :
+Trier par :
+Avertissements
+Erreurs
+Précédent ##
+Suivant ##
+MicroStrategy Web est un produit de
+Exportation
+Formatage du graphique
+Formater la grille
+INVITÉS
+Pas de compte ?
+Site accessible en tant qu'invité, cliquer ci-dessous.
+Travail incrémental
+Vous pouvez essayer de vous connecter à ce site en utilisant vos références Windows. Il vous suffit de cliquer sur le lien ci-dessous.
+Connexion – déconnexion - sécurité
+Saut de page
+Bienvenue
+Si vous n'êtes pas ##.
+cliquer ici
+Préférences
+Pivoter
+Afficher les détails du rapport
+Retour au dossier parent
+Imprimer
+Exécution du rapport et du document
+Enregistrement de rapports
+Voir le journal des erreurs
+Sélectionner un jour :
+Mois
+Jour
+Année
+Messages
+Supprimer des sélections
+## minimum
+Toujours conserver
+Toujours supprimer
+Avertir l'utilisateur à la déconnexion
+Avertir l'utilisateur à l'impression
+Avertir l'utilisateur
+Nombre d'objet à afficher par blocs :
+Rapports partagés et Mes rapports
+Tri
+Liste de tri
+Cliquer sur la colonne sur laquelle vous désirez effectuer le tri.
+Retour au rapport
+Veuillez demander à l'administrateur de MicroStrategy Server de lier ce compte utilisateur Windows à un utilisateur de MicroStrategy Server ou de configurer correctement le serveur Web.
+Attendre SVP...
+En tête de fichier :
+Pied de fichier :
+Utiliser les fonctions de recherche avancées pour spécifier des restrictions sur les dates, les types d'objet et les descriptions.
+Les valeurs par défaut du projet ont été enregistrées.
+Veuillez saisir une date valide.
+DESCRIPTION DU DOSSIER
+Les options d'impressions vous permettent de définir l'apparence du rapport avant son impression.
+Une fois le rapport affiché, vous pouvez imprimer le rapport avec les capacités d'impression du navigateur.
+Dans (saisir valeur1; valeur2; ...; valeurN)
+Erreur lors du renseignement de l'invite. Veuillez vérifier vos réponses.
+Nombre maximal de lignes par pages :
+Nombre maximal de colonnes par pages :
+Nombre de lignes par page par défaut :
+Nombre de colonnes par page par défaut :
+Le modèle HTML n'a pu être trouvé sur le MicroStrategy Server.
+Masquer l'aide
+Afficher l'aide
+Masquer cette section
+Afficher cette section
+Style de la grille
+Utiliser le format enregistré dans la définition du rapport
+Utiliser ma sélection de style de grille par défaut
+Style de rapport inconnu.
+Serveur Web
+Temps de déconnexion des serveurs occupés :
+Utiliser la règle fournie pour dimensionner les rapports pour l'impression.
+Cette invite requiert entre ## et ### sélections.
+Cette invite requiert au moins ## sélections.
+Cette invite ne peut accepter plus de ## sélections.
+Lignes de la grille par page imprimée :
+Colonnes de la grille par page imprimée :
+Erreur dans les résultats du document
+Ajouter...
+Méthode de soumission de la requête
+Préférences avancées :
+Execution du Document
+Assistance technique
+Les résultats de ce rapport ne sont plus disponibles. Veuillez soumettre à nouveau la requête.
+Déterminer automatiquement
+Re-exécuter le rapport
+Re-exécuter le document
+Erreur lors de la récupération du XML de réponse à l'invite.
+EXTRAS DU RAPPORT
+Afficher L'Information Avancée
+STYLES DE GRAPHIQUE
+Cacher l'information avancée
+Cette invite requiert exactement ## sélections.
+Le contenu de cette page ne peut pas être affiché parce que le serveur MicroStrategy est hors service. Veuillez contacter votre administrateur.
+Erreur dans la page d'administration
+Le fichier suivant n'a pas été correctement enregistré sur le Serveur Web : MAWeb.dll. Veuillez informer l'administrateur.
+Le serveur Web a rencontré une erreur lors du rafraîchissement des clusters de serveurs.
+Le serveur Web a rencontré une erreur lors de la connexion au serveur :
+Le serveur Web a rencontré une erreur lors de la déconnexion du serveur :
+Le serveur Web a rencontré une erreur lors de la récupération des informations sur les clusters de serveur.
+Le serveur Web a rencontré une erreur lors de la recherche de serveurs MicroStrategy disponibles et à leur chargement.
+Nom
+Mode Liste
+Mode Grandes Icônes
+Nom de serveur incorrect.
+Allemand
+Anglais (US)
+Espagnol (Espagne)
+Français
+Italien
+Japonais
+Coréen
+Suédois
+Anglais (Grande-Bretagne)
+Espagnol (Mexique)
+Par défaut
+L'attribut est verrouillé
+La liste des éléments ne peut être affiché
+mesures
+## pages précédentes
+## pages suivantes
+## premières pages
+Copyright
+Réactualiser les données
+Cette invite permet une seule sélection.
+Les options d'exportation vous permettent de définir l'apparence des données avant l'exportation.
+Rafraîchir le rapport.
+Options d'exportation
+Veuillez saisir des valeurs de types valides séparées par des points-virgules.
+Temps d'exécution de la requête écoulée :
+Format de nombre incorrect, veuillez réessayer.
+Nombre maximum d'éléments pour la recherche :
+Temps d’exécution de le recherche écoulé :
+Veuillez entrer un nom de serveur dans la zone de texte située en bas de la page.
+La recherche a trouvé plus de ## éléments. Seuls les ## premiers éléments seront affichés.
+Dossier ouvert
+Veuillez suivre les instructions marquées par un drapeau rouge.
+ATTENTION
+Exécuter le rapport
+Le graphique pour ce rapport n’est pas disponible pour les utilisateurs Web.
+Le contenu de cette page ne peut être affiché, le projet est en mode "pause". Veuillez contacter l'administrateur du MicroStrategy Server.
+Cette action n'a pas pus être exécutée parce que vous n'avez pas d'accés en écriture dans ce répertoire ou pour ce rapport.
+Le nombre de lignes dans votre rapport a dépassé la limite fixé par votre administrateur, votre rapport sera exporté en fichier plat.
+Cette invite requiert au moins une sélection.
+Cette invite ne peut accepter plus d'une sélection.
+Création d'une nouvelle tache.
+Mauvais paramètres dans l'URL
+Les paramètres suivants sont nécessaires dans l'URL :
+S'applique à tous les projets sauf ceux qui ont un alias.
+Longueur maximale du titre :
+Appliquer à tous les projets.
+Nombre maximum d'onglets par page :
+Alias du projet :
+Afficher les onglets pour ce projets
+Affichage du projet
+DD/MM/YYYY
+HH:MM:SS
+Ouvrir une nouvelle fenêtre lors de l'impression
+Une expression ou un groupe d'éléments pour un attribut est équivalent à une sélection.
+Le fichier XSL pour ce document est manquant ou contient un XSL non valide.
+Remarque : ces options ne s'appliquent pas aux invites et aux éditeurs de filtres contenant des listes prédéfinies d'éléments ou d'objets.
+Plus...
+,
+Veuillez sélectionner un élément pour la qualification.
+Erreur dans rapport
+Erreur dans document
+Cette action n'a pu être exécutée car vous n'avez pas de privilèges pour créer des objets.
+Exporter les valeurs numériques comme :
+Nombres
+Texte
+Rafraîchir le rapport :
+Extraire les données du dernier cache Intelligence Server valide
+Ré-éxecuter par rapport à l'entrepot de données
+Masquer les totaux
+Afficher les totaux
+Ce rapport a excédé le nombre maximum de cellules autorisés par le paramètre XML du serveur MicroStrategy.
+Résumé
+Imprimer la grille et le graphique sur la même page
+Filtrer sélections
+En-têtes de colonne :
+Développer la page suivante par champs lors de l'impression :
+Nombre maximum de lignes à exporter en texte clair :
+Nombre maximum de colonnes à exporter en HTML ou en texte clair :
+Me demander lors de l'exportation
+Afficher les options lors de l'exportation
+Exporter les grilles vers :
+Exporter les graphiques vers :
+Lors de l'exportation de la grille avec le graphique, exporter la grille :
+Avec formatage
+Sans formatage
+En texte clair
+Portugais (Brésil)
+Utiliser des hyperliens sur le rapport pour :
+Analyser immédiatement
+Afficher un menu déroulant
+Afficher les invites :
+Toutes sur une page
+Chacune sur une page distincte
+Toujours afficher en premier les invites requises
+Revenir à la page d'Administration
+Une erreur est survenue dans le rapport
+Une erreur est survenue dans le document
+Nombre maximum de série et de catégories :
+Séries :
+Catégories :
+Respecter la casse
+Emplacement
+Délimiteur :
+Virgule
+Onglet
+Point-virgule
+Espace
+filtre(s)
+modèle(s)
+Précédent
+Suivant
+Etapes ## - ### de ####*
+Retour au rapport
+Premières ## étapes
+Dernières ## étapes
+ou
+Retour à l'invite
+Résumé de vos sélections
+Erreur dans le contenu du dossier
+Invite sans réponse
+Votre sélection :
+Invite ##
+La sélection par défaut est :
+Exporter les documents vers :
+Les résultats des rapports planifiés sont ajoutés à l'Historique.
+Contour
+La valeur de chaque préférence doit être inférieure ou égale à la valeur de la préférence située juste au-dessus.
+Afficher la version imprimable
+Mes Abonnements
+Afficher une liste des rapports auxquels je suis abonné.
+S'abonner
+Pour vous abonner à ce rapport, vous devez sélectionner un planning et une personnalisation ci-dessous.
+Êtes-vous sûr de vouloir supprimer ce canal ?
+Avec la personnalisation suivante :
+Ajouter l'abonnement
+Vous êtes souscript aux plannifications suivantes pour ce rapport :
+Planning
+Personnalisé
+Se désabonner
+Modifier
+Abonnements
+M'envoyer ces rapports chaque :
+Le nouveau rapport remplacera ses versions antérieures.
+Cette option est automatiquement activée pour les utilisateurs n'ayant pas accès à l'Historique.
+Vous disposez de ## ###abonnement(s)#### à ce rapport.
+Autoriser l'utilisateur à modifier cette préférence
+Fusionner
+Répéter
+La génération SQL est incomplète.
+Cliquez sur 'Afficher la version imprimable' pour afficher un aperçu avant impression du rapport.
+Non
+Rang entre
+Exclure le plus haut
+Exclure le plus bas
+Rang pas entre
+Rang égal à
+Rang différent de
+Niveau de base du rapport
+Niveau du rapport
+Niveau par défaut
+Niveau inconnu
+Si vous désirez voir les résultats de ce rapport, sélectionnez le mode de Grille. Veuillez contacter votre administrateur pour plus d’informations.
+Vos préférences de nombre maximum de lignes dans la grille seront ignorées pour ce rapport.
+Si vous souhaitez répondre à nouveau à ces invites, cliquez sur le lien Réinvite à côté du rapport.
+Mesures de fils
+Si non, alors :
+Vous avez ## ###abonnement(s)#### pour ce document.
+Supprimer cette colonne
+Erreur dans Mes abonnements
+Êtes-vous sûr de vouloir écraser cet abonnement ?
+Confirmation d'écrasement
+Vous êtes en train d'écraser cet abonnement :
+Limite de rapport :
+Ordinateur virtuel Java
+Vos références de source d'informations ont été modifiées.
+Vous n'avez aucun abonnement.
+Liste de projets :
+Afficher tous les projets connectés au serveur Web avant que l'utilisateur ne se connecte
+Établir la connexion, puis afficher les projets accessibles à la connexion fournie
+Le mot de passe fourni est incorrect ou bien le nom d'utilisateur et le mot de passe fournis ne permettent d'accéder à aucun projet actuellement disponible sur le système.
+Supprimer modèle
+Supprimer filtre
+Informations non disponibles
+Détails sur le modèle :
+Votre modèle a été enregistré avec succès.
+Votre filtre a été enregistré avec succès.
+Un modèle porte déjà le même nom.
+Vous pouvez l'écraser ou enregistrer le nouveau modèle sous un autre nom.
+Un filtre porte déjà le même nom.
+Vous pouvez l'écraser ou enregistrer le nouveau filtre sous un autre nom.
+Rapports
+Adresses
+Services
+À propos de
+Aide
+Votre requête est en cours de traitement. Veuillez patienter...
+MicroStrategy Narrowcast Server est un produit de
+Options
+Recherche rapide
+Dossiers du service
+Code d'erreur
+Description de l'erreur
+Erreur dans l'affichage des dossiers
+Niveau supérieur
+Erreur dans l'affichage de dossiers enfants
+Description :
+Service
+Adresse
+Personnalisation
+Mesures
+Enregistrer les modifications
+Nouveaux utilisateurs
+Nom d'utilisateur :
+Mot de passe :
+Vous pouvez créer un nouveau compte. Cliquez ci-dessous.
+Créer un nouveau compte
+Choisir une adresse :
+Créer une nouvelle adresse
+Une erreur est apparue sur cette page.
+Erreur lors de la récupération des adresses
+Vous n'avez aucune adresse compatible.
+Erreur lors de la récupération des plannings
+Aucun planning disponible.
+(Pas de description de service disponible)
+Erreur dans l'affichage des abonnements
+Il n'y a pas de services dans ce dossier.
+Il n'y a pas d'abonnements à ce service.
+LIENS RAPIDES
+ANNONCES
+Retour à la page d'accueil
+Retour à la page Adresses
+Retour à la page Rapports
+Retour à la page Services
+Erreur lors de la connexion
+Votre nom d'utilisateur ou votre mot de passe est incorrect. Veuillez les entrer à nouveau.
+Il manque votre nom d'utilisateur ou votre mot de passe. Veuillez les entrer à nouveau.
+Erreur lors de l'opération sur l'adresse
+Veuillez réessayer ou contacter votre administrateur système.
+Un ou plusieurs champs d'adresse sont vides. Veuillez réessayer.
+Erreur lors de l'opération d'abonnement
+Erreur lors de la création d'un nouveau compte
+Mot de passe différent du mot de passe confirmé. Veuillez les entrer à nouveau.
+Il manque votre nom d'utilisateur, votre mot de passe ou votre indication de mot de passe.
+Erreur lors de la création du nouveau compte utilisateur
+Créer nouvel utilisateur
+Confirmer le mot de passe :
+Indication de mot de passe :
+Annuler la requête
+Votre requête a été annulée.
+Cliquez sur un onglet ci-dessus pour poursuivre.
+Aucune adresse créée
+Récupération des plannings pour l'abonnement
+Récupération des adresses utilisateur pour l'abonnement
+Récupération des informations de service
+Récupération des services dans les dossiers
+Récupération des abonnements utilisateur
+Récupération de l'invite pour l'abonnement
+Mise à jour des abonnements utilisateur
+Mise à jour des adresses utilisateur
+Création d'un nouvel utilisateur
+Validation de la connexion utilisateur
+Récupération des adresses utilisateur
+Récupération des dossiers
+Traitement en cours...
+Confirmer le nouveau mot de passe :
+Confirmer la suppression d'adresse
+Confirmer la suppression d'abonnement
+Êtes-vous sûr de vouloir supprimer l'adresse ?
+Êtes-vous sûr de vouloir supprimer la ou les souscriptions au(x) service(s) suivant(s) ?
+Options utilisateur
+Vos options ont été enregistrées.
+Localisation :
+JavaScript :
+Utiliser JavaScript ?
+État :
+Erreur lors de la récupération des rapports
+Erreur dans l'affichage des rapports
+Rapport :
+Créé :
+Expire le :
+Dossiers de rapport
+En attente
+Ce rapport n'est pas disponible pour le moment.
+Une erreur est survenue lors de la récupération de vos rapports.
+Une erreur est survenue dans l'affichage de ce rapport.
+Pièces jointes
+Récupération du rapport
+Il n'y a pas de rapports dans ce dossier.
+Pas de plannings définis pour ce projet.
+Enregistrer la personnalisation sous :
+Erreur lors de l'enregistrement de la personnalisation
+Une erreur est survenue lors de l'enregistrement de votre personnalisation.
+Vous avez oublié votre mot de passe ?
+Entrez votre nom d'utilisateur et cliquez sur "Afficher indication de mot de passe".
+Afficher indication de mot de passe
+Votre indication de mot de passe est :
+Erreur lors de la récupération de l'indication de mot de passe
+Une erreur est survenue lors de la récupération de votre indication de mot de passe.
+Retour à la page Connexion
+Récupération de l'indication de mot de passe
+Mise à jour du profil utilisateur
+Récupération des informations sur l'adresse
+Enregistrement des informations sur l'abonnement
+Veuillez entrer un nom d'adresse.
+Veuillez entrer un nom d'adresse sans les caractères suivants :
+Veuillez entrer une adresse.
+Veuillez entrer une adresse sans espaces et sans les caractères suivants :
+Veuillez entrer une adresse selon le modèle nomutilisateur@serveur.extension. Exemple : jpmartin@societeabc.fr
+Le fichier suivant n'a pas été enregistré correctement sur le serveur  Web  : M9StrUtl.dll. Veuillez vous adresser à l'administrateur pour plus de détails.
+Merci d'utiliser MicroStrategy Narrowcast Server.
+Aucun fichier n'a été soumis au serveur Web.
+Ce nom d'utilisateur est déjà utilisé. Veuillez entrer un autre nom d'utilisateur.
+Le fichier contient une extension incorrecte. Les extensions de fichier suivantes sont autorisées : ##
+Erreur lors de la mise à jour du profil utilisateur
+Une erreur est survenue lors de la mise à jour de votre profil utilisateur.
+L'ancien mot de passe est incorrect. Veuillez le saisir à nouveau.
+Le nouveau mot de passe de confirmation est différent du nouveau mot de passe saisi. Veuillez les entrer à nouveau.
+Erreur lors de la récupération des données
+Une erreur est survenue lors du chargement de XML. Veuillez contacter l'administrateur système.
+MicroStrategy Narrowcast Server 7.1
+Numéro de version
+Coordonnées de l'administrateur système
+E-mail :
+Téléphone :
+Entrez une indication de mot de passe qui vous rappellera votre mot de passe.
+Le PIN et la confirmation ne correspondent pas. Veuillez les entrer à nouveau.
+Enregistrer le modèle à l'intérieur :
+Enregistrer le filtre à l'intérieur :
+Enregistrer le modèle sous :
+Enregistrer le filtre sous :
+Rapport
+Modèle
+Filtre
+EXÉCUTER FILTRE + MODÈLE
+Exécuter ce filtre :
+avec ce modèle :
+Sélectionnez un modèle :
+Sélectionnez un filtre :
+Pour souscrire un compte, veuillez fournir les informations ci-dessous.
+Les informations obligatoires sont marquées d'un astérisque (*) rouge.
+Veuillez entrer un nom d'utilisateur et un mot de passe pour votre nouveau compte.  Assurez-vous d'entrer votre mot de passe deux fois.
+Entrez une indication associée à votre mot de passe.
+Veuillez entrer une adresse e-mail.
+(par exemple : nom@entreprise.com)
+Vous avez terminé ! Cliquez sur le bouton "Créer un nouveau compte" ci-dessous.
+Veuillez entrer vos références de connexion pour la/les source(s) d'informations suivante(s).
+Une ou plusieurs erreurs sont survenues lors du traitement de votre requête pour un nouveau compte.
+Veuillez suivre les instructions en rouge ci-dessous et essayer à nouveau.
+Il manque l'indication de mot de passe. Veuillez le saisir à nouveau.
+Modifier mes mots de passe
+Vous pouvez modifier un ou plusieurs de vos mots de passe ci-dessous.
+Votre connexion de compte.
+Vous avez terminé ! Cliquez sur le bouton "Terminer" ci-dessous.
+Terminer
+Une ou plusieurs erreurs sont survenues lors du traitement de votre requête de changement de mot de passe.
+Il manque l'ancien ou le nouveau mot de passe. Veuillez les entrer à nouveau.
+Filtre importé:
+Extensions de fichier autorisées :
+Remarque : Veuillez séparer chaque extension par une virgule (p. ex. ext1, ext2, ext3).
+Taille maximum des fichiers à charger :
+Détails de l'invite :
+Veuillez entrer le(s) nom(s) d'utilisateur et le(s) mot(s) de passe ci-dessous.
+Obtenir le contenu
+Vous avez spécifié un fichier dépassant la taille maximum autorisée ('## kO) par l'administrateur.
+Avertissement : Tous les chemins d'analyse n'apparaissent pas à cause d'une option de contrôle dans MicroStrategy Desktop.
+Le contenu du fichier n'a pas le format requis pour le traitement de ses données.
+Livraisons
+Jusqu'à :
+Cliquez à gauche sur un nom de document pour afficher le document ici.
+Envoyer à la page Mes rapports
+Envoyer à :
+Chaque :
+Souscription à un service
+Parcourir une liste de services préparés et disponibles à tous les utilisateurs.
+Afficher vos rapports planifiés.
+Veuillez spécifier vos coordonnées pour la livraison de l'abonnement.
+Personnaliser ces écrans en fonction de vos préférences de navigation et d'affichage.
+Abonner :
+Personnaliser votre abonnement
+Personnalisez votre abonnement à ce service en répondant aux questions ci-dessous.
+Terminé !
+Pour supprimer un abonnement, sélectionnez une case à cocher et cliquez sur Se désabonner.
+Pour supprimer un rapport ou un document de l'historique, cochez la case correspondante et cliquez sur Supprimer.
+Planification
+RAPPORTS ABONNÉS
+Votre session a été perdue et vous avez été déconnecté du système.  Veuillez vous reconnecter.
+Désactiver mon compte
+Votre compte est désactivé.
+Êtes-vous sûr de vouloir désactiver votre compte ?
+Une fois votre compte désactivé, vous ne pourrez plus bénéficier des services ou vous connecter à ce site. Votre compte ne pourra être réactivé que par l'administrateur du site portail.
+Veuillez choisir une langue.
+Activé (la souscription prendra effet au moment spécifié)
+Langue :
+Modifier les références de source d'informations
+Changer les références
+Une ou plusieurs erreurs sont survenues lors du traitement de votre demande de modification des références de source d'informations.
+A3 297 x 420 mm
+Version SDK :
+Serveur Transactor :
+Charger fichier
+Canaux
+Actif
+Ajouter un nouveau canal
+Canal activé
+Canal désactivé
+Supprimer le canal
+Créer un nouveau canal
+Éditer le canal
+Pour créer un nouveau canal, procédez comme suit :
+Publier un dossier de services pour le canal.
+Donner un nom au canal.
+Ne plus afficher cette page.
+Nom et description du site
+Entrer un nom pour ce nouveau canal :
+Entrer une description pour ce canal (facultatif) :
+Source de l'erreur
+Sélectionnez les éléments d'attributs que vous souhaitez conserver et appuyez sur le bouton Filtre.
+Si vous ne sélectionnez aucun élément pour les colonnes, celles-ci resteront dans le nouveau rapport. La même règle s'applique aux lignes.
+Filtre
+Masquer le filtre lors des sélections
+Afficher le filtre lors des sélections
+Masquer le menu Rapport
+Afficher le menu Rapport
+Ce compte a été désactivé. Veuillez contacter l'administrateur pour le réactiver.
+Le champ Nom d'utilisateur est vide. Veuillez le saisir à nouveau.
+Le champ Mot de passe est vide. Veuillez le saisir à nouveau.
+Espagnol
+Anglais
+Nombre maximum d'éléments à importer :
+Filtres partagés
+Modèles partagés
+Mes objets
+Importer un filtre à partir d'un fichier :
+Saisir une nouvelle adresse :
+Types de périphériques
+renommer ...
+définition ...
+Dossiers de périphériques
+éditer les dossiers de périphériques ...
+Renommer
+URL grande icône :
+URL petite icône :
+Format d'adresse :
+E-mail
+Format standard des adresses e-mail.
+Format : xxxx@xxxxxx.xxx
+numérique
+Zones d'affichage :
+Zones d'édition :
+Adresse
+Valeur de l'adresse
+Style
+Code personnel
+Bloc de livraison
+Nom de type périphérique :
+Confirmer la suppression du type de périphérique
+Êtes-vous sûr de vouloir supprimer le type de périphérique '##' ?
+Nouvelle définition
+Définition :
+Disponible :
+Sélectionné :
+Aucun dossier n'est sélectionné.
+Enregistrer le filtre comme définition statique.
+Enregistrer les invites dans le filtre.
+Enregistrer le modèle comme définition statique.
+Enregistrer les invites dans le modèle.
+Votre concepteur de rapport a voulu que cette invite soit représentée par un shopping cart et un style de fichier texte.
+Étant donné que DHTML est désactivé, vous ne pouvez pas utiliser la fonction d'importation de fichier texte.
+Vous pouvez utiliser le shopping cart pour répondre à cette invite.
+Cette action n'a pas pu être exécutée car le projet est verrouillé.
+Saut de page automatique
+Vous ne pouvez pas exporter ce rapport car il dépasse les limites que l'administrateur a fixées pour le nombre maximum de lignes et de colonnes exportables vers Excel ou HTML.
+Vous pouvez cependant exporter ce rapport vers Excel en texte brut, vers CSV ou en texte brut en sélectionnant cette option dans les Préférences ou sur invite avant l'exportation.
+Créer un nouveau type de périphérique
+N'utilisez ce format que pour une chaîne de chiffres.
+Format : ########
+Aucun type de périphérique n'a été créé.
+Confirmer le code personnel
+Inactif
+Veuillez entrer une valeur numérique pour l'adresse, ayant la forme suivante : #########
+Aide :
+Le nom d'utilisateur ou le mot de passe est incorrect pour une ou plusieurs sources d'informations. Veuillez réessayer.
+Vous n'avez aucun rapport.
+Sélectionnez un planning pour la livraison de ce service.
+Veuillez sélectionner un planning dans la liste ci-dessous.
+Sélectionnez un endroit pour la livraison de ce service.
+Pour souscrire, veuillez suivre les étapes suivantes :
+Sélectionnez un service.
+Veuillez spécifier un planning et une adresse.
+Veuillez personnaliser le contenu de votre service (le cas échéant).
+Veuillez personnaliser le contenu de votre service.
+Vous pouvez fournir les informations suivantes pour personnaliser le contenu de cette souscription :
+Si l'indication que vous avez fournie pour retrouver votre mot de passe ne vous est d'aucune aide, veuillez contacter votre administrateur système afin de modifier votre mot de passe.
+OK
+Félicitations !
+Votre souscription a été enregistrée avec succès.
+Type de police :
+Enregistrer les sélections sous (facultatif)
+Faites de nouvelles sélections
+Faites votre choix dans la liste des sélections enregistrées :
+Sélectionnez-en une :
+Appliquer ces sélections
+Impossible de trouver le projet ## sur le serveur ###.
+Niveau :
+(DÉSACTIVÉ)
+Informations administrateur :
+Après avoir modifié la connexion à la base de données du site portail, vous devrez reconfigurer les informations sur le site.
+Après avoir modifié l'emplacement du moteur de souscription, vous devrez reconfigurer la connexion à la base de données du site portail et les informations sur le site.
+Après : ## jours.
+Modifier nom et description
+Configuration
+Configuré?
+Nom de la connexion à la base de données :
+Connexions à la base de données
+Connexions à la base de données :
+Périphérique par défaut :
+Langue par défaut :
+Paramètres régionaux par défaut des nouveaux utilisateurs :
+DHTML d'utilisation par défaut :
+Désactiver
+Souhaitez-vous continuer?
+Base de documents :
+Activer la création de nouveaux utilisateurs :
+Saisir le nom du serveur sur lequel tourne le moteur de souscription :
+Saisir un nom et une description uniques pour ce portail :
+Configuration de l'interface utilisateur graphique :
+Source des informations
+Sources des informations
+Niveau de connexion :
+Obligatoire
+Base de données du site portail
+Alias de la BD de métadonnées :
+Connexion à la BD de métadonnées :
+Préfixe des tables de métadonnées :
+Expiration des nouveaux utilisateurs :
+Pas de délai d'expiration
+Le :
+Ou copier un site existant :
+Numéro de téléphone :
+Veuillez sélectionner le mode de connexion de l'utilisateur aux sources d'informations de ce projet :
+Configuration du portail
+Périphérique du portail :
+Cliquez sur le bouton pour configurer ce site :
+Base d'objets
+Configuration du projet :
+Fournir les références
+Emplacements de serveurs de moteurs de souscription récemment utilisés :
+Veuillez sélectionner un autre site portail
+Sélectionner site portail
+Sélectionnez une définition de site existante ou cliquez sur Ajouter nouvelle définition de site.
+Configuration
+Périphériques du site portail
+Informations sur le site portail
+Préférences du site
+Base de registre de souscription
+Emplacement du moteur de souscription
+Propriétés du moteur de souscription
+Préfixe des tables :
+Répertoire des fichiers temporaires :
+Narrowcast Server Portal Designer de MicroStrategy permet aux administrateurs de créer facilement des portails de souscription, sur lesquels les utilisateurs peuvent s'abonner à des services de serveur Narrowcast par le biais d'un navigateur Internet.
+Ce portail n'est pas encore accessible aux utilisateurs finaux. Pour le rendre accessible, vous devez configurer tous les points suivants :
+Utiliser les références projet
+Bienvenue dans Narrowcast Server Subscription Portal Designer de MicroStrategy !
+Remplacer la police du rapport
+Choisissez et ordonnez les polices pour l'interface.
+MicroStrategy Web utilisera la première police de la liste disponible sur la machine de l'utilisateur.
+Aucun canal n'est défini pour ce site
+Sélectionnez le dossier des canaux
+La valeur pour ## est incorrecte. Si la valeur n'est pas définie correctement, certaines actions du concepteur de portail échoueront.
+Veuillez vérifier que l'ID du fichier n° 1 pointe vers les bons paramètres régionaux dans la base de projet.
+Pour résoudre ce problème, veuillez vous référer à la page ##.
+Les valeurs par défaut pour ## sont incorrectes. Veuillez vérifier que les ID du ficher n° 1 pointent vers des objets valides de la base de projet.
+Certains ou tous les ## par défaut ont des définitions non valides. Veuillez vérifier que les dossiers des services sur le fichier ## pointent vers les bons dossiers de la base de projet.
+Erreur inattendue lors de la définition des valeurs par défaut. Pour plus d'informations, veuillez vous référer à ##.
+Un site a été créé dans la MD, néanmoins quelques erreurs ont été détectées lors de la définition des valeurs par défaut :
+La connexion de base de données "N° 1" ne pointe pas vers une base de données contenant des tables de la base de site portail ayant le préfixe "N° 2".
+Souhaitez-vous les créer ?
+Création des tables de métadonnées
+Nom de site par défaut
+Site avec les valeurs par défaut
+Utilisez un nouveau site :
+Sélectionnez le périphérique du portail
+Sélectionnez le périphérique par défaut
+Veuillez fournir un nom pour la définition du site.
+Veuillez entrer un nom sans les caractères suivants :
+Veuillez entrer une description sans les caractères suivants :
+Veuillez fournir le nom de l'ordinateur sur lequel tourne le moteur de souscription.
+Veuillez fournir un répertoire pour les fichiers temporaires.
+Veuillez saisir un chemin pour le répertoire destiné aux fichiers temporaires sans les caractères suivants :
+Veuillez saisir un nombre valide comme nombre de jours.
+Le nom de l'ordinateur ne peut pas contenir les caractères suivants :
+Sélectionnez un style de périphérique
+Pour trouver le style du périphérique, veuillez procéder comme suit :
+Sélectionnez une catégorie.
+Sélectionnez un style.
+Cliquez sur une catégorie de périphérique pour :
+Cliquez sur un style de périphérique pour :
+Il n'y a pas de style de périphérique dans cette catégorie.
+Aucune information trouvée sur le style de périphérique.
+Aucun style disponible.
+Aucune validation
+La valeur de l'adresse peut être n'importe quelle chaîne de caractères.
+Format : n'importe quel nombre et les caractères suivants - ( )
+Veuillez entrer une valeur ayant la forme suivante pour l'adresse : n'importe quel nombre et les caractères suivants - ( )
+Configuration du moteur
+Gestion du site
+Sélectionnez la connexion pour la base de données du site portail.
+Sélectionnez la connexion de base de données pour la base d'objets.
+Sélectionnez la connexion de base de données pour la base de registre de souscription.
+Utilisez la même connexion de base de données pour la base de registre de souscription.
+Ajoutez une nouvelle connexion de base de données
+Ajoutez une nouvelle définition de site
+Définition du site
+Veuillez sélectionner une définition de site pour ce serveur :
+Base de données
+Vous devez fournir un nom à l'ordinateur sur lequel tourne le moteur de souscription
+Créez votre page de démarrage
+Erreur survenue lors de la création de votre page
+Vous n'avez pas créé votre page de démarrage. Veuillez procéder comme suit.
+Choisissez un titre pour votre page :
+Sélectionnez un style pour la mise en page :
+Sélectionnez l'élément que vous souhaitez voir sur chaque panneau :
+Enregistrez Ma page de démarrage
+Voir Ma page
+Ma page de démarrage
+Premier panneau :
+Second panneau :
+Troisième panneau :
+Erreur lors de la suppression du profil utilisateur
+Ce profil ne peut être supprimé, car il est partagé par plusieurs souscriptions
+Aucune source d'informations n'est définie pour ce site.
+Affichez les souscriptions existantes pour ce service
+Gestion du site portail
+Les portails suivants ont été détectés sur ce serveur web.
+Sélectionnez un site portail afin de modifier sa configuration.
+Créer nouveau portail de souscription
+Créer nouveau portail
+Nom du site portail
+Pour créer un nouveau portail de souscription, veuillez spécifier le nom du répertoire virtuel :
+DESCRIPTION DE L'HISTORIQUE
+Veuillez entrer une adresse par défaut.
+Format : n'importe quel caractère texte ou numérique
+Veuillez entrer une adresse selon le modèle suivant : n'importe quel caractère texte ou numérique
+Chaque définition de site se distingue par son nom et sa description uniques.
+En créant un nom unique pour chaque définition, vous saurez quelles sont les propriétés contenues dans un certain portail et quelles sont celles que l'utilisateur pourra voir lorsqu'il accèdera au répertoire virtuel.
+Il est judicieux de décrire de manière précise la définition du site pour que les concepteurs puissent voir tout de suite quelles sont les propriétés contenues dans un site.
+Le concept de "définition du site" comprend les propriétés qui permettent de définir ce que l'utilisateur verra par le biais de son navigateur lorsqu'il accède à l'URL du répertoire virtuel.
+Un portail peut utiliser l'une des définitions de sites.
+La liste suivante contient des définitions de sites existant actuellement dans la base de données du portail.
+Il est possible que plusieurs portails sur un même ou différents ordinateurs pointent vers la même définition de site.
+Vous pouvez sélectionner une définition de site existante ou créer une nouvelle définition de site.
+Sélectionnez une définition de site existante devant être utilisée par le serveur ou cliquez sur Ajouter nouvelle définition de site.
+L'intégration au moteur de livraison permet aux utilisateurs de personnaliser les services qu'ils utilisent, de spécifier les plannings et le périphérique sur lequel ils souhaitent recevoir les informations.
+Le concepteur de portails permet aux administrateurs de définir des paramètres par défaut tels que la langue ou l'utilisation de DHTML.
+En tant que concepteur de portail, vous avez les responsabilités suivantes :
+configurer et gérer le portail de souscription afin de permettre aux utilisateurs d'accéder et de souscrire à différents services sur le Web
+configurer les sources des données et la mise en page du portail
+publier des services et des types de périphériques
+sélectionner les périphériques par défaut pour le portail de souscription
+spécifier les propriétés des sources d'informations et les préférences par défaut du portail
+Portal Designer vous permet de :
+configurer le moteur de souscription
+sélectionner ou modifier la configuration du portail
+créer ou sélectionner une définition de site
+configurer des offres de services statiques ou dynamiques
+Cliquez sur SUIVANT pour commencer.
+La base d'objets permet de stocker les informations concernant le planning, les services et les définitions des périphériques.
+la table suivante contient les connexions de bases de données existantes où peuvent être stockées des données.
+Vous pouvez sélectionner une connexion existante ou créer un nouvel alias dans la base de données actuelle du site portail.
+Pour plus d'informations sur les alias de bases de données, référez-vous au fichier lisezmoi fourni avec le logiciel.
+Si vous utilisez la même connexion pour la base de registre de souscription, sélectionnez la case à cocher pour aller directement à l'écran des canaux.
+La base de registre de souscription permet de stocker les données de souscription : utilisateurs, adresses, paramètres de personnalisation et de souscription.
+Dans une configuration typique, le moteur de souscription est installé sur le même ordinateur (plus particulièrement localhost).
+La base de donnée du site portail permet de stocker les paramètres de configuration pour l'interface du portail de souscription de l'utilisateur.
+Ces informations comprennent :
+nom et description du site
+paramètres de canal
+services publiés
+dossiers de périphériques
+préférences par défaut
+L'alias de base de données est utilisé pour définir la connectivité des bases de données pour les moteurs de souscription.  Ceci permet au moteur de souscription d'exécuter les requêtes indiquées, provenant du portail de souscription.
+Vous pouvez soit sélectionner un alias de base de données existant, soit en créer un nouveau.
+Sélectionnez un alias de base de données existant à l'emplacement où se situent les métadonnées :
+L'assistant de gestion du site vous assistera dans les différentes fonctions et vous permettra ainsi de mener à bien la configuration de la définition de votre site.
+La définition du site contient une liste de propriétés, de configurations et de paramètres utilisés par un portail pour définir la mise en page et le contenu montrés à l'utilisateur.
+Cet assistant contient les sujets suivants :
+Sélection, édition et création d'une définition de site
+Publier des services pour la définition de site
+Sélection, édition et publication de types de périphériques
+Spécifier les propriétés du module de sources d'informations
+Spécifier les préférences par défaut pour la définition du site
+L'assistant de gestion du portail vous assistera si vous devez modifier la configuration actuelle d'un portail ou si vous souhaitez créer un nouveau portail de souscription.
+Détection et édition de portail
+Créer nouveau portail de souscription
+Le concept de "portail" se réfère au jeu actuel de pages ASP installées sur le serveur web et au répertoire virtuel qui pointe vers ces fichiers.
+Les portails suivants ont été détectés sur ce serveur web.
+Sélectionnez le portail avec lequel vous souhaitez travailler.
+Cliquez sur Supprimer pour retirer le portail de la liste des options disponibles.
+Supposez que vous ayez créé plusieurs portails, l'un pour les administrateurs, l'autre pour les directeurs et le troisième pour les associés.  Néanmoins, vous devez aussi en créer un pour les ingénieurs.
+Aucun portail de souscription n'est configuré selon vos besoins.  Vous pouvez en créer un à partir de cet emplacement en entrant un nom de portail et en précisant son emplacement.
+La liste suivante contient des sites existant déjà dans la base de données du portail.  Il est possible que plusieurs sites physiques sur un même ou différents ordinateurs pointent vers la même définition de site.
+Vous pouvez sélectionner une des définitions de site existantes ou en créer une nouvelle.
+La définition d'un nouveau canal consiste à sélectionner un dossier à partir d'une série de services existant au sein de la base de registre Narrowcast, en assignant un nom et une description au canal et en le publiant dans le portail de souscription.
+Sélectionnez un dossier dans la table ci-dessous et cliquez sur Suivant.
+Lorsque vous publiez un nouveau dossier Canaux, vous publiez tous les contenus de ce dossier.  Vous pouvez choisir de modifier le nom du dossier afin qu'il corresponde mieux à son contenu.
+Une description, même facultative, peut être entrée pour décrire ce à quoi le canal est destiné.
+Une case à cocher permet d'indiquer si ce canal et ses propriétés sont disponibles pour les utilisateurs finaux.
+Nom et description du canal
+Un périphérique est un appareil spécifique pour fournir un contenu de souscription à l'utilisateur final.  Chaque adresse créée dans le portail par un utilisateur est conçue pour n'utiliser qu'un périphérique, comme Outlook 98 ou 2000.
+Le type de périphérique est un groupe permettant à l'utilisateur de choisir le moyen par lequel il recevra le contenu. Lorsqu'une nouvelle définition de site est créée, quatre types de périphériques standard seront créés et configurés automatiquement.
+Les types sont :
+Les assistants numériques personnels
+Les téléphones portables
+Les récepteurs d'appels
+Le courrier électronique
+Ces périphériques par défaut sont créés lorsque le Narrowcast Portal Designer de MicroStrategy est installé et que les dossiers associés à ces périphériques sont stockés dans la base de registre Narrowcast.
+Cet assistant met les options suivantes à votre disposition :
+renommer un type de périphérique défini
+modifier une définition de type de périphérique
+supprimer un type de périphérique devant être pris en charge par le portail
+éditer le dossier de type de périphérique
+créer un nouveau type de périphérique
+Pour chaque nouvelle définition de type de périphérique, vous devrez spécifier le nom du type de périphérique, l'icône de l'URL étendue et réduite, le format de l'adresse et les champs qui seront utilisés lors de l'affichage et l'édition.
+Ce champ vous permet d'ajouter ou de supprimer des éléments à partir du dossier pour ce type de périphérique défini.
+Les éléments à gauche sont disponibles, mais ne sont plus actifs sur ce type de périphérique.  Les éléments à droite sont en cours de sélection pour ce type de périphérique spécifique.
+Dans ce contexte, un périphérique est une façon définie de fournir un contenu à l'utilisateur final.  Les paramètres par défaut sont "client messagerie électronique générique" et "périphérique de portail".  Vous pouvez modifier ces paramètres par défaut.
+Cliquez sur le périphérique approprié pour modifier la sélection.
+Pour chaque source d'informations, vous devrez définir si les utilisateurs doivent entrer leurs informations d'authentification, comme un nom d'utilisateur et un mot de passe.
+Si vous utilisez les références du projet, le mécanisme d'authentification sera ignoré et les utilisateurs seront transférés vers les informations qu'ils ont demandées.
+Vous pouvez aussi exiger les références de l'utilisateur.
+La valeur par défaut est de ne pas permettre aux utilisateurs d'entrer d'authentification pour des sources d'informations.
+Vous devrez modifier l'exigence si vous souhaitez mettre des mesures d'authentification en place.
+Sélectionnez les paramètres pour le rappel des propriétés du site.
+Les propriétés du site permettent de contrôler la définition des valeurs par défaut pour les utilisateurs de l'interface portail.  Vous pouvez modifier chaque paramètre en modifiant les informations qui apparaissent sur cette page.
+Félicitations ! Vous venez de configurer ce site avec succès !
+Cliquez sur le bouton Terminer pour lancer le navigateur et vous connecter à ce portail.
+Si vous remarquez une modification quelconque à effectuer, utilisez l'outil Portal Management de Portal Designer pour reconfigurer la définition du site ou les préférences.
+Origine
+Portail
+Administration
+Adresse I.P. utilisateur
+Une erreur est survenue lors de la création de souscription
+Veuillez vous assurer que vous avez le profil par défaut pour l'objet question.
+Une erreur est survenue lors de l'obtention d'informations de l'objet question à partir du serveur MicroStrategy Narrowcast.
+Analyse
+Informations
+Avertissement
+Utiliser ces sélections par défaut
+Variables de session
+Site associé
+Non applicable
+Veuillez fournir un nom pour le portail.
+Êtes-vous sûr de vouloir supprimer ce périphérique ?
+Êtes-vous sûr de vouloir supprimer ce portail ?
+Êtes-vous sûr de vouloir supprimer ce site ?
+Veuillez fournir un nom pour le serveur JData Connect
+Veuillez fournir un nom pour la connexion de base de données.
+Veuillez fournir un nom pour la source de données ODBC.
+Ajouter une connexion de base de données
+Nom source de données ODBC :
+Tester la connexion de base de données ?
+Présentation
+Définition d'alias de base de données incorrecte pour les tables de la base de registre de souscription.  Veuillez sélectionner une autre définition de site.
+Les tables de la base de registre de souscription existent mais n'ont pas la bonne version.  Veuillez entrer un autre préfixe.
+Définition d'alias de base de données incorrecte pour les tables de la base d'objets.  Veuillez sélectionner une autre définition de site.
+Les tables de la base d'objets existent mais n'ont pas la bonne version.  Veuillez entrer un autre préfixe.
+Définition de connexion de base de données incorrecte pour les tables de la base de données du site portail.  Veuillez en sélectionner une autre.
+Les tables de la base de données existent mais n'ont pas la bonne version.  Veuillez entrer un autre préfixe.
+Impossible d'établir une connexion aux métadonnées du portail.  Veuillez vérifier les informations que vous avez entrées.
+Une erreur est survenue lors de la sauvegarde de connexion d'alias de base de données
+Une erreur inattendue est survenue lors de la définition de la nouvelle connexion d'alias de base de données.
+Aucune connexion de base données n'a été définie.
+Cette page vous permet de créer ou d'éditer de nouveaux canaux pour cette définition de site.
+Veuillez fournir un nom pour le canal.
+Veuillez sélectionner les périphériques gérés par ce site.
+Veuillez sélectionner le périphérique par défaut utilisé lors de la création de nouvelles adresses et le périphérique de portail par défaut pour l'envoi de services à la page "Mes rapports".
+Veuillez sélectionner les valeurs pour le reste des propriétés du site.
+Configuration des services
+Souscriptions statiques
+Souscriptions dynamiques
+Stockage
+Choisir une autre question
+Le portail de souscription MicroStrategy publiera les services dans le dossier que vous sélectionnez.  Néanmoins, certains services nécessitent une configuration supplémentaire.
+Veuillez définir la configuration par défaut des services ci-dessous.
+Cliquez sur le bouton # ci-dessous pour configurer un service défini de façon individuelle.
+Configurer des services
+Jeux de souscription statique
+Jeux de souscription dynamique
+Masquer aux abonnés les questions de saut de page
+Répondre aux questions de saut de page par :
+Masquer aux abonnés le jeu de souscription non configuré
+Narrowcast Server Portal Designer de MicroStrategy vous permet de configurer le stockage de données de souscription à un échelon de service individuel.
+Vous devrez sélectionner le service que vous souhaitez configurer, ensuite vous verrez les jeux de souscription statique et dynamique associés à ces services.
+Tant pour les jeux de souscription statique et dynamique, vous configurez l'objet de la question pour le service sélectionné.
+En outre, vous pouvez ajouter des objets de question supplémentaires pour inviter les abonnés à délivrer des informations.
+Vous configurerez le stockage des données de souscription pour les jeux de souscription dynamique.
+Vous avez configuré le(s) service(s) suivant(s). Cliquez sur 'Édition' pour éditer la configuration existante ou cliquez sur le nom du dossier pour configurer les autres services dans ce dossier.
+Pour configurer un autre service, cliquez sur # ci-dessous
+Ce service contient au moins un jeu de souscription dynamique qui y est associé.  Les abonnés de ces jeux de souscription seront stockés dans la base de registre de souscription.
+Paramètres par défaut des jeux de souscription statique
+Pour définir une configuration unique pour tous les jeux de souscription statique, cliquez ci-dessous.  Ce paramètre par défaut sera utilisé par tous les jeux pour ce service
+Configuré(e) :
+configurer
+Configurer des jeux de souscription statique individuellement
+Pour configurer un jeu de souscription statique individuellement, cliquez sur le lien de configuration à côté du jeu.  Les jeux de souscription qui n'ont pas été configurés utiliseront les paramètres par défaut du système.
+Ce service ne contient pas de jeux de souscription statique.
+Les abonnés ne verront pas les questions de saut de page.  Néanmoins, vous pouvez sélectionner une autre question qui pourra être visualisée par les abonnés.
+Please select a question object below.
+Veuillez sélectionner l'emplacement pour les réponses à cette question.
+Vous pouvez :
+Utiliser le signe #
+OU une des allocations de stockage suivantes :
+Tables
+Ajoutez une nouvelle allocation de stockage
+Effacer
+Veuillez sélectionner les tables de bases de données où les informations seront stockées.
+Entrepôt de données :
+sélectionnez une connexion de base de données
+Trier les colonnes par :
+Tables disponibles :
+Tables sélectionnées :
+Veuillez sélectionner les colonnes de la table où vous souhaitez stocker les informations.
+Glissez et déplacez les composantes de gauche à droite dans les colonnes de la table.
+Composantes de réponse
+Généralités :
+Composantes de souscription
+Configuration :
+Configuration de service par défaut
+Vous avez choisi de configurer le service ci-dessous.  Vous pouvez soit conserver les préférences par défaut affichées ci-dessous, soit définir des paramètres supplémentaires pour différents jeux de souscription dans les étapes suivantes.
+Paramètres de service par défaut
+Questions de saut page
+Questions supplémentaires
+Vous pouvez inviter les abonnés à soumettre des questions supplémentaires en éditant les informations ci-dessous.
+Ce service contient les questions de saut de page suivantes :
+Vous avez choisi d'afficher cet objet de question :
+à la place de cette question de saut de page :
+Stockage en entrepôt
+Modifier les sélections
+Liens connexes
+S'abonner à ce service à nouveau
+S'abonner à un autre service
+Afficher toutes vos souscriptions
+Veuillez choisir un profil pour cet objet de question.
+Nom de serveur JData Connect
+Vous avez créé votre compte.
+Si vous oubliez votre mot de passe, vous verrez cet indice qui est censé vous rappeler votre mot de passe.
+Exporter toutes les valeurs en tant que texte
+Sélectionner le service
+Sélectionner le stockage
+Sélectionner les tables
+Sélectionner les colonnes
+Configurer le jeu de souscription
+Sélectionner la question
+Quitter la configuration de services
+Veuillez sélectionner le service que vous souhaitez configurer.
+Question
+Publication(s)
+Paramètres par défaut des jeux de souscription dynamique
+Ce service contient au moins un jeu de souscription dynamique qui y est associé. Les abonnés de ces jeux de souscription seront stockés dans l'entrepôt par des allocations de stockage.
+Enregistrer cette allocation de stockage sous :
+Pour définir une configuration unique pour tous les jeux de souscription dynamique, cliquez ci-dessous. Ce paramètre par défaut sera utilisé par tous les jeux pour ce service
+Configurer des jeux de souscription dynamique individuellement
+Pour configurer un jeu de souscription dynamique individuellement, cliquez sur le lien de configuration à côté du jeu. Les jeux de souscription qui n'ont pas été configurés utiliseront les paramètres par défaut du système.
+Question supplémentaire
+La question que vous avez sélectionnée ne peut pas être utilisée dans le portail de souscription.
+Veuillez revenir en arrière et sélectionner une autre question.
+La réponse à la question que vous avez sélectionnée peut être stockée soit dans la base de registre de souscription, soit à un autre endroit via une allocation de stockage.
+Si vous choisissez de stocker la réponse dans la base de registre de souscription, la réponse elle-même y sera stockée.
+Si vous utilisez une allocation de stockage, un ID préférentiel de la question sera stocké dans la base de registre de souscription et les réponses seront stockées dans la définition d'allocation de stockage.
+La réponse à la question que vous avez sélectionnée doit être stockée via une allocation de stockage. Vous serez invité à faire une sélection parmi une liste d'éléments et vous pouvez en choisir plusieurs.
+Lorsque vous utilisez une allocation de stockage pour stocker les réponses, un ID préférentiel de la question sera stocké dans la base de registre de souscription et les réponses seront stockées dans la définition d'allocation de stockage.
+Veuillez sélectionner l'allocation de stockage à utiliser avec cette question :
+Connexion à la base de données
+Valeur personnalisée :
+personnalisé
+Ajouter une question :
+Parcourir
+Répondre à une autre question :
+Allocation de stockage de jeu de souscription
+Nouvelle allocation de stockage pour le n°
+Ce service ne contient pas de jeux de souscription dynamique.
+Aperçu des préférences du site
+Éditer l'aperçu de configuration du portail
+S'il a été installé sur un autre ordinateur, entrez son nom à cet endroit.
+définition du site
+Entrez les informations sur la connexion de la base de données :
+Veuillez personnaliser le contenu de votre service. Les pages suivantes vous permettent d'indiquer ce que vous souhaitez comme contenu de ce service en répondant aux questions. Cliquez sur Suivant pour continuer.
+Aperçu des préférences du site
+Un canal est un élément visuel dans le portail de souscription.  Il présente les informations de projet de façon à faciliter la navigation de l'utilisateur final.
+Chaque canal est relié à un dossier de services dans la base d'objets.
+Une erreur est survenue lors de l'établissement de la connexion au moteur de souscription.  Le nom du serveur est incorrect ou le moteur de souscription ne fonctionne pas sur ce serveur.  Veuillez situer le moteur de souscription et ressaisir le chemin.
+Pour définir un nouveau canal, vous devez sélectionner un dossier de la base d'objets.  Sélectionnez le dossier du canal à afficher.
+Ce service ne contient pas de questions de saut de page à configurer.
+Aperçu de la configuration des services
+Configuré(e)
+Une erreur est survenue lors de la validation de la connexion de base de données.  (#) Veuillez vérifier vos informations et réessayer.
+Impossible d'établir la connexion au moteur de souscription.
+L'administrateur a fourni une définition de connexion de base de données incorrecte
+Attention !  Si vous supprimez cette connexion de base de données, les objets qui l'utilisent (comme la base d'objets, les allocations de stockage, etc.) seront incorrects.
+Nom de source de données incorrect
+Souhaitez-vous supprimer '#' ?
+Suppression d'une connexion de base de données
+-- sélectionner une connexion de base de données --
+ID préférentiel pour : #
+Réponse pour : #
+L'utilisateur n'existe pas.
+Choisissez un titre pour votre page :
+Créer votre page de démarrage
+Format de fichier CSV
+Erreur survenue lors de la création de votre page
+Exporter toutes les valeurs de mesure en tant que texte (Excel uniquement)
+Premier panneau :
+Vous pouvez toutefois exporter ce rapport vers Excel avec texte brut, CSV ou texte brut en sélectionnant cette option dans les préférences ou sur invite avant l'exportation.
+Nombre maximum de colonnes à exporter vers Excel :
+Nombre maximum de lignes à exporter vers Excel avec texte brut ou CSV :
+Enregistrer ma page de démarrage
+Second panneau :
+Voir ma page
+Sélectionnez un style pour la mise en page :
+Sélectionnez l'élément que vous souhaitez voir sur chaque panneau :
+Troisième panneau :
+Vous n'avez pas créé votre page de démarrage. Veuillez procéder comme suit.
+Ma page de démarrage
+Mécanisme de stockage en mémoire cache
+Page d'accueil
+Afficher la page de résumé pour des services personnalisés :
+Rapport
+Document
+PDF
+Réduire le graphique pour l'adapter
+Exporter la grille et le graphique sur la même page
+Nombre maximum de colonnes à exporter
+Nombre maximum de lignes à exporter
+Mode d'accessibilité :
+Permettre la compatibilité de lecteur d'écran
+Ignorer la navigation
+Ascendant
+Descendant
+Effacer les tris
+Trier...
+Déplacer
+Vers lignes
+Vers colonnes
+Vers l'axe des pages
+Gauche
+Droite
+Nouveau...
+Enregistrer sous...
+Mise en page
+Parcourir le dossier parent
+Envoyer à
+Vue
+Mode Conception
+Mode Grille
+Mode Graphique
+Grille et graphique
+Réinitialiser
+Axe des pages
+Formule
+Explorateur d’objets
+Barre d’outils
+Données
+groupe
+Sous-totaux
+Affichage des attributs
+Renommer/Éditer des objets...
+Ajouter une unité
+Réinitialiser les données
+Réinviter
+Format
+Formatage Avancé...
+Fusionner les en-têtes de colonnes
+Style quadrillage
+Réinitialiser le formatage
+Fenêtre
+Détails du rapport
+Cette table affiche les résultats du rapport demandé
+Cette table affiche le contenu du dossier demandé
+En-tête et pied de page :
+Utiliser les paramètres du rapport
+Utiliser les paramètres personnalisés
+(modifier)
+Editeur d'en-tête/pied de page
+En-tête:
+Bas de page:
+Gauche:
+Centre:
+Droite:
+Afficher les rapports souscrits
+Masquer les rapports souscrits 1
+Afficher les rapports associés
+Masquer les rapports associés
+Afficher Filtre d'exécution + Modèle
+Masquer Filtre d'exécution + Modèle
+Afficher les extras de l'historique
+Masquer les extras de l'historique
+Afficher les astuces pour la recherche
+Masquer les astuces pour la recherche
+Authentification LDAP
+Authentification de base de données
+Exporter les en-têtes sous forme de texte (Excel uniquement)
+Encode les accréditations de l'utilisateur
+Objets de rapport
+Tous les objets
+Le MicroStrategy Intelligence Server ## a dépassé la limite de mémoire définie. Veuillez contacter votre administrateur.
+Ajuster la police à
+de la taille originale
+Janvier
+Février
+Mars
+Avril
+Mai
+Juin
+Juillet
+Août
+Septembre
+Octobre
+Novembre
+Décembre
+D
+L
+M
+M
+J
+V
+S
+Rapports
+Documents
+Cette invite requiert une valeur comprise entre ## et ### caractères.
+Cette invite requiert une valeur supérieure ou égale à ## caractères.
+Cette invite requiert une valeur inférieure ou égale à ## caractères.
+Cette invite requiert une valeur d'exactement ## caractères.
+HTML dynamique :
+Ajouter à l'historique
+Filtre de rapport
+Filtre de vue
+Ajouter lignes/colonnes
+Ajouter la condition Filtre de vue...
+Définition:
+Page d'accueil
+FILTRE DE RAPPORT
+FILTRE DE VUE
+DETAILS DU FILTRE DE RAPPORT
+filtre
+Afficher les Boutons Pivot
+Ajouter une condition
+Masquer
+Application automatique des modifications
+Détails du filtre de rapport
+Options PDF
+Impossible d'exporter en PDF
+Vous ne pouvez pas exporter ce rapport en PDF car il dépasse le nombre maximum de lignes et de colonnes à exporter en PDF définis par l'administrateur.
+Fournir l'option utilisateur
+Afficher les options lors de l'exportation en PDF
+Insérer numéro de page
+Insérer nombre de pages
+Insérer date
+Insérer heure
+Insérer nom du projet
+Insérer nom du rapport
+Insérer nom du modèle
+Insérer nom du filtre
+Charger les valeurs du rapport
+Résultats
+ANALYSE - Avancée
+Analyse
+Trier
+ABONNEMENTS
+FILTRE SUR LES SELECTIONS
+AXE DES PAGES
+Exécuter le rapport
+aucun
+Ajouter à la grille
+Ajouter au filtre
+- Aucun -
+objets:
+Répertoires:
+Format
+Police
+Nombre
+Bordure
+Alignement
+Appliquer
+Tous les sous-totaux
+En-tête
+Noms de sous-totaux
+Valeurs des sous-totaux
+Echantillon:
+ABCabc
+Effets
+Gras:
+Italique:
+Souligné:
+Barré:
+Type
+Nombres négatifs
+Catégorie:
+Places des décimales
+Symbole monétaire
+Position monétaire
+Utiliser le séparateur des milliers
+Fixe
+Monnaie
+Date
+Pourcentage
+Fraction
+Scientifique
+Personnalisé
+Aucun
+Tous
+Ligne
+Couleur:
+Haut:
+Bas:
+Couleur de remplissage
+ABCabc ABC abc
+Alignement de texte
+Horizontal
+Centre
+Justifier
+Vertical
+Texte à la ligne
+Ce type de graphique ne prend pas en charge les légendes
+Général
+Titres
+Axes
+G
+I
+S
+T
+Type de graphique:
+Afficher légende:
+Afficher les valeurs de données
+Afficher le titre de l'axe des séries
+Afficher le titre de l'axe Y
+Afficher le titre de l'axe de catégorie :
+Titre de l'axe X :
+Afficher le titre de l'axe Y1 :
+Afficher le titre de l'axe Y2 :
+Afficher les valeurs de l'axe des séries
+Afficher les valeurs de l'axe Y
+Afficher les valeurs de l'axe de groupe
+Afficher les valeurs de l'axe de catégorie
+Afficher les valeurs de l'axe X
+Afficher les valeurs de l'axe Y1
+Afficher les valeurs de l'axe Y2
+Afficher le titre :
+Afficher le sous-titre :
+Afficher la note de bas de page :
+Utiliser paramétrage manuel pour:
+Valeur maximale:
+Valeur minimale:
+Intervalle de grille :
+Fermer
+SAUT DE PAGE :
+Sélectionner le chemin de l'explorateur d'objets
+Groupe personnalisé
+Consolidation
+## élément(s) trouvé(s)
+S'abonner (à)...
+Imprimer...
+Exporter...
+PDF...
+Ajouter des objets de rapport...
+Analyse...
+Filtrer sélections...
+Graphique...
+Format
+Rapport
+Afficher les totaux
+Effacer tout
+Normal
+Total
+Moyenne
+Comptage
+Moyenne Géométrique
+Maximum
+Médiane
+Minimum
+Mode
+Produit
+Déviation Standard
+Somme
+Variance
+Personnalisé:
+Tous les sous-totaux
+Seulement les totaux généraux
+Aucun
+Afficher l'effet de bande
+Totaux
+Enregistrer un rapport
+Annuler
+Glisser pour ajouter au rapport
+Cliquer avec le bouton droit pour davantage d'options
+Appliquer
+Appliquer le style
+Détails de document
+Tirer un objet pour exécuter un pivot
+Éditer le rapport
+Attribut
+Attribut:
+Groupe personnalisé:
+filtre
+filtre:
+Mesure
+Mesure:
+Consolidation:
+Ajouter
+Rechercher:
+1. Trier par:
+2. puis par:
+3. puis par:
+- Sélectionner Tri -
+Ascendant
+Descendant
+Appliquer
+Annuler
+Droite
+Gauche
+Droite
+Gauche
+Heure
+Par défaut
+Police:
+Gauche:
+Droite:
+Valeurs
+Annuler
+Fermer
+Taille
+Sélectionner la police
+Non
+Oui
+Droit avec espace
+Gauche avec espace
+Axe des colonnes
+Axe des lignes
+Couleur de remplissage
+Couleur du texte
+Réduire la décimale
+Augmenter la décimale
+Style à virgule
+Style à pourcentage
+Style monétaire
+Centre
+Gauche
+Droite
+Expression non prise en charge
+Impossible de rendre l'expression
+Entrer valeur...
+Attributs...
+Filtrer
+Ou
+Est nul
+N'est pas nul
+Non inclus
+Déplacer vers la droite
+Déplacer vers la gauche
+Déplacer vers le haut
+Déplacer vers le bas
+Liste vide
+Vide
+Nom:
+Insérer une nouvelle mesure...
+Nouvelle mesure
+Supprimer de la grille
+Formatage avancé...
+Supprimer de rapport
+Trier
+Ajouter >
+Dans la liste
+Pas dans la liste
+Menus déroulants :
+Appliquer
+Annuler
+Supprimer la condition
+Mot de passe périmé
+Certains projets ne sont pas affichés
+Changez votre mot de passe pour afficher certains projets
+Remarque: vous devrez vous logger à nouveau une fois votre mot de passe changé
+Utiliser un encodage Unicode
+Livraisons...
+7/4
+07/04
+7/4/98
+07/04/98
+07/04/1998
+7-avr
+7-avr-98
+Avr-98
+Avr '98
+Avril 1998
+7/4/98 15:41
+07.04.1998 15:41 PM
+Avril 7, 1998
+15:41
+15:41:00
+15:41:46
+15:41:46
+07/04/98 15:41 PM
+Envoyer maintenant...
+07/04/98 15:41
+Re-soumettre le rapport
+La sélection de saut de page effectuée n'existe pas. Peut-être parce que l'entrepôt a été mis à jour.
+Sélectionnez ici pour identifier automatiquement les critères de saut de page corrects.
+Cette question d'invite ne peut pas être affichée dans MicroStrategy Web. La réponse par défaut sera utilisée pour une exécution de rapport.
+Cette question d'invite ne peut pas être affichée dans MicroStrategy Web. Comme il n'y a pas de réponse par défaut associée, ce rapport risque de ne pas être exécuté.
+Haut
+Bas
+aucun
+Tirets
+Pointillés
+Filet délié
+Mince
+Moyen
+Epais
+Double
+Noir
+Bleu foncé
+Bleu
+Bleu clair
+Gris-bleu
+Vert
+Gris-60%
+Gris-50%
+Gris-25%
+Gris-20%
+Gris-10%
+Gris-7%
+Blanc cassé
+Rouge foncé
+Rouge
+Jaune
+Jaune clair
+Jaune pâle
+Olive foncé
+Olive
+Olive clair
+Marron
+Pourpre
+Pourpre clair
+Lavande
+Rose foncé
+Rose
+Blanc
+Clic de souris requis pour ouvrir des menus
+Anglais (GB)
+Utiliser les valeurs par défaut
+RENOMMER/ÉDITER DES OBJETS
+Ce rapport ne peut pas être livré dans l'état présent. Vous devrez d'abord enregistrer ce rapport.
+Votre message a été envoyé.
+Votre ## souscription ## a été créée avec succès. Vous recevrez bientôt un aperçu.
+Votre ## souscription ## a été créée avec succès.
+Style automatique :
+Explorateur d’objets
+Niveau supérieur
+Autoriser les utilisateurs à changer les mots de passe expirés
+Votre mot de passe a expiré. Veuillez contacter l'administrateur pour activer ce compte.
+Chemin:
+Utiliser le jeu de caractères Unicode
+Ouvrir
+Pour recevoir ce rapport, veuillez sélectionner une adresse et une personnalisation ci-dessous.
+Pour souscrire à ce rapport, veuillez sélectionner un programme, une personnalisation et une adresse ci-dessous.
+Seule une adresse est permise lors de l'édition d'une souscription.
+Pour souscrire à ce rapport, veuillez sélectionner un programme, une personnalisation et une ou des adresses ci-dessous.
+Rapports planifiés
+E-mails planifiés
+Le nom d'adresse existe déjà. Veuillez choisir un autre nom.
+Une erreur est survenue lors de l'édition de l'adresse.
+Une erreur est survenue lors de la suppression de l'adresse.
+Une erreur est survenue lors de la mise à jour de l'adresse par défaut.
+Confirmer la suppression de l'adresse
+Êtes-vous sûr de vouloir supprimer cette adresse ?
+L'adresse ne peut pas rester vierge.
+Le périphérique d'adresse ne peut pas rester vierge.
+La valeur d'adresse ne peut pas rester vierge.
+Erreur lors de l'exécution de vos informations sur l'adresse. Il est possible que vous ayez à vous reconnecter.
+Afficher nom
+Périphérique
+Ajouter une nouvelle adresse
+Définir une nouvelle valeur par défaut
+Sujet
+Envoyer maintenant
+Vous avez souscrit au message programmé suivant pour ce rapport :
+Vous n'avez aucun message programmé.
+Ajouter e-mail planifié
+Vous avez une ou des ## ###souscriptions#### vers cette adresse. La suppression de cette adresse entraînera également la suppression de toutes ses souscriptions.
+Le fichier suivant n'a pas été enregistré correctement sur le serveur Web : MGSubscription.dll. Veuillez contacter votre administrateur pour plus d'informations.
+E-mail planifié
+E-mail Planifié...
+Souscription version API :
+Vous avez ## ###souscription(s)#### pour ce rapport. Elle ou elles vous seront envoyées par e-mail.
+Vous avez une ou des ## ###souscriptions#### pour ce rapport. Elle ou elles vous seront envoyées par e-mail.
+Veuillez sélectionner un programme dans la liste ci-dessous.
+Sélectionnez une adresse dans votre ##liste###
+OU
+Saisir une nouvelle adresse
+Envoyer à une nouvelle adresse
+Envoyer à une adresse existante
+Cette fonction est actuellement indisponible.
+Pour souscrire afin de recevoir ce rapport, veuillez sélectionner un programme, une personnalisation et une adresse ci-dessous.
+Serveurs Intelligence
+Narrowcast Server
+Intégration Narrowcast
+Pour configurer ce portail Web pour l'envoi de contenu via le serveur Narrowcast, vous devez fournir l'emplacement du moteur de souscription et le système Narrowcast à utiliser.
+## n'a pas été configuré par un système Narrowcast afin d'être utilisé par Web pour envoyer le contenu. Veuillez sélectionner un autre moteur de souscription.
+Ce portail Web a été configuré pour l'envoi de contenu via le système ## et ### en tant que moteur de souscription.
+Emplacement du moteur de souscription :
+Systèmes Narrowcast disponibles :
+(Désactivé)
+Avant de pouvoir éditer ce rapport, vous devez répondre à l'invite ou aux invites suivante(s).
+Votre réponse doit être un nombre.
+Votre réponse doit être une date dans le format correct.
+Erreur lors de l'édition de la sous-expression du filtre. Veuillez revoir votre ou vos réponses.
+La fonction permettant de parcourir les éléments de rapport ne peut pas être exécutée.
+Créer un nouveau rapport à partir des objets du projet
+Création d'un rapport
+Un rapport vide s'affiche. Vous pouvez y placer différents objets de données.
+Vous pouvez également sélectionner le type de rapport que vous souhaitez créer dans les options ci-dessous
+Sélectionnez le type de rapport que vous souhaitez créer dans les options ci-dessous
+€
+Afficher les boutons Éditer
+Création d'une nouvelle tache
+Génération des résultats
+Génération HTML
+Travail en cours sur un autre serveur
+Requête en cours
+Veuillez patienter...
+Veuillez entrer un nombre dans la zone suivante
+Général
+Spécial
+*Keep the connection alive between the Web Server and Intelligence Server (used when there is a firewall between the Web Server and the Intelligence). Please refer to the product documentation for information on how to configure your system when using this feature.*
+MicroStrategy Web ne prend pas en charge l'exportation de graphiques de documents vers Excel
+Veuillez saisir un intègre supérieur à ### et inférieur à ## dans la zone suivante
+### et ## ne sont pas des dates correctes
+## n'est pas une date correcte
+Nombre de colonnes par page
+Vous allez effacer votre historique.
+Êtes-vous sûr de vouloir effacer votre historique ?
+Aucune donnée renvoyée pour cette vue. Le filtre appliqué exclut peut-être toutes les données.
+Excel avec mise en forme (les rapports exportés vers Excel 97 ou versions précédentes n'inclueront pas de mise en forme)
+Éditer en mode Conception
+Recherche avancée
+Suivant
+Sélectionnez les éléments que vous souhaitez conserver et appuyez sur le bouton OK ou Appliquer. Appuyez sur le bouton Annuler pour fermer cet éditeur sans appliquer les modifications.
+Pas dans (saisir valeur1; valeur2; ...; valeurN)
+Annuler Nouvelle invite
+Rien n'est sélectionné
+OK
+Appliquer
+Annuler
+Enregistrer
+Séries:
+Catégories :
+Légende
+Valeurs de données
+5 premières pages
+5 pages précédentes
+5 prochaines pages
+5 dernières pages
+Aide pour l'éditeur de ###
+Activé
+Éteint
+Par défaut
+Toutes les réponses d'invite doivent être des nombres.
+Toutes les réponses d'invite doivent être des dates dans le bon format.
+Aucune donnée n'a été renvoyée pour cette vue, car le rapport ne contient pas d'objets de modèle. ##Veuillez ajouter des objets au modèle###.
+Aucune donnée renvoyée pour cette page par sélection.
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Time - Not Used
+J and K Time - Not Used
+Une erreur est survenue lors de l'affichage de l'option Filtre de vue.
+Une erreur est survenue lors de l'affichage de l'option Filtre de rapport.
+Connexion erronée à la base de données
+Analyser de XXXX vers :
+Mise à l'échelle:
+Ajuster à la page :
+Toutes les lignes
+Toutes les colonnes
+Imprimer la page de couverture avec les détails de filtre
+Marges (pouces) :
+Haut:
+Gauche:
+Droite:
+Bas:
+Taille d'en-tête maximale (pouces) :
+Taille de pied de page maximale (pouces) :
+Étendre tous les champs de saut de page lors de l'impression
+Nombre maximal de cellules par bloc :
+Nombre maximal de graphiques par bloc :
+Afficher la boîte de dialogue contextuelle Imprimer
+Insérer détails sur le filtre
+Insérer nom d'utilisateur
+Format de nombre et de date :
+Masquer le lien 'Mes rapports' lorsque l'utilisateur ne possède pas de privilèges d'enregistrement Web.
+Travail##incrémental :
+Nombre maximal d'éléments d'attributs par bloc :
+Nombre maximal d'objets de rapport par bloc :
+Impossible d'ajuster à la page. La réduction maximale sera utilisée.
+Une erreur est survenue lors de l'affichage de l'aperçu. Les résultats risquent de ne pas s'afficher avec précision.
+Prochain bloc de pages
+Bloc de pages précédent
+Renommer...
+Afficher les options avancées
+Masquer les options avancées
+Aucune réponse n'est requise pour cette invite.
+Sélectionner la mesure...
+ET NON
+OU NON
+Toutes mesures
+Tous
+Il n'y a pas de sélection disponible dans cette invite.
+Revenir à la page précédente
+Votre requête ne peut pas être exécutée car les informations de l'adresse n'ont pas été spécifiées. Veuillez saisir les informations d'adresse et réessayer.
+L'historique de cet Intelligence Server est complet. Pour exécuter un rapport, vous devez supprimer un ou plusieurs messages de l'historique sur l'un des projets en cours d'exécution sur ce serveur.
+Le rapport n'a pu être affiché à cause d'un manque de ressources systèmes.
+L'exécution a été soumise à un autre serveur Intelligence Server. Veuillez ré-exécuter votre rapport.
+L'exécution a été soumise à un autre serveur Intelligence Server. Le rapport sera mis à disposition dans votre historique. Cliquez ici pour accéder à votre Historique.
+Autoriser reconnection automatique si la session est interrompue
+Sécurité:
+Vérifier les privilèges utilisateur pour chaque requête
+2
+Renvoi à la ligne automatique
+Autoriser la mise à la ligne des en-têtes de lignes dans la grille de rapport
+Dossier:
+Jaune foncé
+Violet
+Canard
+Turquoise clair
+Bleu ciel
+Vert clair
+Bleu pâle
+Turquoise
+Vert brillant
+Rose clair
+Brun clair
+Bleu-vert
+Citron
+Or
+Orange clair
+Orange
+Bleu-gris
+Canard
+Vert de mer
+Vert foncé
+Vert olive
+Prune
+Indigo
+Gris-40%
+Gris-80%
+Une erreur s'est produite lors de la tentative de connexion à ##. Vérifiez que le nom du moteur de souscription est correct et que celui-ci est en cours d'exécution, puis réessayez à nouveau.
+Envoyer un aperçu maintenant
+Une erreur s'est produite lors de la récupération de la liste des systèmes. Le service d'administration des souscriptions est peut être arrêté.
+Une erreur s'est produite lors de la récupération de la liste des systèmes.
+GRILLE DE RAPPORT :
+FILTRE DE RAPPORT :
+Ajouter des objets de rapport
+Activer l'exportation au format PDF
+Barre d'outils
+Vous devez enregistrer le rapport avant de souscrire à celui-ci.
+Vous devez enregistrer le rapport ou réinitialiser toutes les modifications avant de souscrire à ce rapport.
+Vous devez enregistrer le rapport avant de le planifier.
+Vous devez enregistrer le rapport avant de l'envoyer.
+(exemple : [Mesure1] + [Mesure2])
+Remarque : Si vous sélectionnez "Utiliser ma sélection de style de grille par défaut", tous les formatages de grille personnalisés seront désactivés.
+Une erreur s'est produite lors de la connexion au moteur de souscription.
+Éditer la grille
+Éditer le filtre de rapport
+Rouge
+de ## page(s)
+Si vous souhaitez afficher la grille et le graphique sur des pages différentes, sélectionnez l'option appropriée ci-dessous :
+L'historique de cet Intelligence Server est complet. Tous les projets en cours d'exécution sur un Intelligence Server ont un historique commun.
+Version :
+Numéro de version d'Intelligence Server:
+Numéro de version de Web :
+Inclure le filtre et le modèle dans la définition du rapport sauvegardée.
+Mode conception :
+Hiérarchie
+Hiérarchie :
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+Mesure Dérivée
+Mesure Dérivée :
+Pas de données retournées pour cette vue. Veuillez modifier les critères du filtre ou les objets du modèle.
+Cette sauvegarde pourrait affecter le filtre ou le modèle original
+Voulez-vous conserver les raccourcis vers le filtre et le modèle originaux ?
+Cette sauvegarde pourrait affecter le filtre original
+Voulez-vous conserver le raccourci vers le filtre original ?
+Cette sauvegarde pourrait affecter le modèle original
+Voulez-vous conserver le raccourci vers le modèle original ?
+Continuer
+Annuler
+Date et heure de création du message Historique
+Excel 2000 SR-1 ou versions plus récentes
+Manipulation des données
+Mode conception
+Filtres
+Totaux
+Image seuil
+(Personnalisé)
+Arrêt
+Votre requête n'a pas pu être traitée.
+Veuillez essayer à nouveau. Si le problème persiste, contactez l'administrateur.
+L'analyse n'a pas pu se terminer sans inclure l'attribut parent. Ceci peut être dû à l'ajout de l'attribut parent dans la définition du filtre de vue.
+Vérifiez que les requêtes n'ont pas de contenu potentiellement malicieux.
+Veuillez saisir dans la zone suivante un entier compris entre ### et ##
+Ouvrir le rapport
+Ouvrir le filtre
+Ouvrir le document
+Ouvrir le modèle
+Informations sur la version...
+Verrouiller les en-têtes des grilles
+Verrouiller les en-têtes de lignes
+Verrouiller les en-têtes de colonne
+Activer la fonctionnalité Verrouiller les en-têtes des grilles
+Dossier Rapports partagés
+Objets publics > Rapports
+Sélection actuelle
+Dernier dossier
+Éditeur de filtres :
+Utiliser les filtres intégrés dans l'éditeur de filtre de rapport
+Tri :
+Activer le tri des formes d'attribut masquées au moyen de l'éditeur de tri avancé
+Désactiver l'analyse du menu contextuel
+Envoyer
+Tâche expirée
+Par raison de sécurité, les tags HTML ne sont pas authorisé en entrée. Si vous avez besoin d'utiliser des tags HTML, veuillez contacter votre administrateur.
+Vérifier les tags HTML à chaque requête
+2
+Cette condition de mesure est appliquée au niveau ##.
+Afficher le niveau d'évaluation en cas d'utilisation de conditions de mesure dans l'éditeur de filtres de vue
+Enregistrer les paramètres d'impression pour chaque rapport
+Avtiver la fonctionnalité de changement de taille pour les colonnes et les lignes
+Formatage de la grille
+Ajustement automatique à la fenêtre
+Ajustement automatique au contenu
+Largeur de colonne fixe
+Changer la taille des collones et des lignes...
+COLONNES
+LIGNES
+Toutes les colonnes
+Largeur :
+Dimensionner Dynamiquement
+Hauteur fixe :
+CHANGER LA TAILLE DES COLONNES ET DES LIGNES
+En-tête de la colonne d'axe
+Valeurs de données
+Largeur :
+Enregistrer les modifications apportées au filtre de rapports.
+Fuseau horaire
+Par défaut
+(GMT-11:00) Îles Midway
+(GMT-10:00) Hawaii
+(GMT-09:00) Alaska
+(GMT-08:00) Pacifique (É.-U. et Canada)
+(GMT-07:00) Arizona
+(GMT-07:00) Montagnes Rocheuses (É.-U. et Canada)
+(GMT-06:00) Centre (É.-U. et Canada)
+(GMT-05:00) Est (É.-U. et Canada)
+(GMT-04:00) Atlantique (Canada)
+(GMT-04:00) Porto Rico
+(GMT-03:30) Terre-Neuve
+(GMT-03:00) Argentine
+(GMT-03:00) Brésil
+(GMT-02:00) Centre-Atlantique
+(GMT-01:00) Les Açores, Îles du Cap Vert
+(GMT) Heure de Greenwich
+(GMT +1:00) Europe de l'Ouest
+(GMT +2:00) Afrique centrale
+(GMT +2:00) Égypte
+(GMT +02:00) Europe de l'Est
+(GMT +3:00) Afrique de l'Est
+(GMT +4:00) Moyen Orient
+(GMT +4:00) Proche Orient
+(GMT +5:00) Pakistan/Lahore
+(GMT +6:00) Bangladesh
+(GMT +7:00) Vietnam
+(GMT +8:00) Chine (Taiwan)
+(GMT +9:30) Australie Centre
+(GMT +10:00) Australie (Ouest)
+(GMT +11:00) Les Îles Salomon
+(GMT +12:00) Nouvelle-Zélande
+Excel 2000 SR-1 ou versions moins récentes
+Excel XP ou versions plus récentes
+Remarque : Cette option permet aux utilisateurs d'enregistrer leurs mots de passe codés dans des cookies situés sur leurs machines client.
+Largeur par défaut pour les colonnes d'axe :
+Largeur par défaut pour les colonnes de données :
+(GMT +5:30) Inde
+Cacher les optoins...
+Plus d'options...
+Nombre maximum de cases à exporter
+Nombre maximum de cases par bloc
+Vous ne pouvez pas exporter ce rapport comme PDF parce qu'il dépasse les limites que l'administrator a défini pour le nombre maximum de cases à exporter en PDF.
+Largeur: ##px
+(GMT-06:00) Mexico
+(GMT +09:00) Séoul
+(GMT +09:00) Osaka, Sapporo, Tokyo
+Arial
+E-MAIL PROGRAMME
+ENVOYER MAINTENANT
+Insérer l'information de saut-de-page
+Nombre maximum de case à exporter en texte semple :
+Nombre maximum de cases à exporter en HTML :
+(Archive)
+Configuration interne du diagnostique
+Niveau:
+Répertoire des fichiers journaux :
+Configuration personnalisée du diagnostic
+Chemin d'accès au fichier de configuration personnalisée du diagnostic :
+Affichage:
+De:
+à:
+Erreurs
+Avertissements
+Éteint
+Messages
+Veuillez utiliser / comme délimiteur du répertoire dans le chemin d'accès
+Le format des informations de date que vous avez saisies est incorrect
+La date de début doit être antérieure ou identique à la date de fin
+Aucun chemin d'accès au fichier correct disponible :
+Impossible de traiter les fichiers journaux : la taille totale du fichier excède la limite de
+Mo. Pour consulter les fichiers journaux, veuillez y accéder directement ou spécifier une plage de dates plus courte.
+Impossible de traiter le premier fichier :
+Erreur lors de la lecture du contenu du ou des fichiers journaux :
+Fichier de XSL requis introuvable :
+Erreur lors de la lecture du contenu du fichier XSL :
+Configuration des diagnostics
+Consulter les fichiers journaux
+Aucun enregistrement du fichier journal ne correspond aux dates et aux types requis.
+Impossible d'afficher le contenu du fichier journal :
+Impossible de lire les propriétés d'origine du fichier de configuration.
+Fichier de configuration indiqué introuvable ou utilisé pour des diagnostics.
+Le fichier suivant n'est pas enregistré correctement sur le serveur web:Mbwahelp.dll. Veuillez contactez l'administrateur pour plus de détails.
+Ouvrir le rapport
+Filtre ouvert
+Modèle ouvert
+Erreur lors de l'écrasement des objets modifiés
+Erreur lors du traitement des fichiers journaux de diagnostics.
+Propriétés du serveur
+Propriétés par défaut du serveur
+Serveurs
+Propriétés par défaut
+Sécurité
+Configuration
+Consulter les fichiers journaux
+minutes
+Conserver les seuils lors de l'analyse
+Afficher les boutons de tri
+Masquer les boutons de tri
+Diagnostics
+Autoriser le retour à la ligne automatique des valeurs de mesures dans la grille de rapport.
+Impossible de modifier le mot de passe en l'absence des informations suivantes :
+Statistiques
+Mode:
+Fichier de statistiques :
+Éteint
+Écran
+Fichier
+Écran et fichier
+Veuillez saisir un chemin d'accès absolu et utiliser / comme délimiteur du répertoire dans le chemin.
+Charger les valeurs par défaut
+*To subscribe to this document, please select a schedule and personalization below.
+Respecter la casse par défaut
+Permettre aux utilisateurs de modifier et de stocker les préférences utilisateur pour des projets individuels. 
+Gras
+Italique
+Souligné
+Afficher 'Appliquer à TOUS les projets' dans les préférences.
+Afficher le rapport en mode Conception
+Style de la police:
+Taille de la police:
+Section Saut de page
+Permettre la fusion des en-têtes de lignes dans le menu Format
+Fusionner les en-têtes de lignes
+Lire à partir du rapport
+Afficher les descriptions d'objets en tant qu'info-bulles dans la grille
+Masquer l'option pour enregistrer les objets intégrés lorsque l'utilisateur ne dispose pas du privilège "Modifier la liste des objets de rapport via Web"
+Préserver les espaces blancs lors de l'importation à partir d'un fichier texte
+Page(s) en Largeur
+Page(s) en Hauteur
+(Systèmes d'exploitation Windows uniquement)
+Numéro de téléphone 1
+Numéro de téléphone 2
+Code postal
+Code postal complet
+SSN
+Éditer les paramètres personnalisés
+Boutons de tri
+Boutons pivot
+(s)
+Trier par:
+puis par:
+Narrowcast Server Integration
+SERVEUR WEB
+Propriétés de connexion
+Classe
+Méthode
+Message
+Cryptage :
+Le trafic entre le Web et les ordinateurs Iserver est crypté.
+Cache:
+Le cache des privilèges utilisateur est actualisé pour chaque nouvelle requête Web.
+Cookies :
+Désactivez les cookies.
+Utilisez les cookies pour stocker les informations temporaires dans la session.
+Utilisez les cookies pour stocker les informations permanentes entre des sessions.
+Utilisez les cookies pour stocker les informations temporaires relatives aux sessions de IServer.
+URL:
+Les informations concernant la session sont incluses dans l'URL.
+Nom d'utilisateur:
+Permettre une connexion automatique en cas d'interruption de la session.
+€
+Impossible d'accéder aux paramètres de configuration du moteur de souscription. Pour que la livraison de MicroStrategy Web fonctionne, le dossier ou le lecteur où est installé le moteur de souscription doit être partagé. La livraison du portail de souscription et de MicroStrategy Web ne fonctionnera pas si cette condition n'est pas satisfaite. Souhaitez-vous partager automatiquement le lecteur d'installation du moteur de souscription pour le groupe d'administrateurs locaux de cet ordinateur ?
+Si le disque dur de l'ordinateur sur lequel est exécuté le moteur de souscription est partagé et départagé plusieurs fois, le message Windows suivant s'affiche dans l'ordinateur Moteur de souscription et attend une action de l'utilisateur : 'Erreur Système : le nom  du réseau a été supprimé.' Le service d'administration des souscriptions ne sera opérationnel que lorsque vous aurez cliqué sur OK et refermé ce message. Notez que ce message ne signale aucun problème : cliquez simplement sur OK pour continuer.
+Impossible de partager le lecteur. Veuillez partager manuellement le lecteur d'installation du moteur de souscription sur l'ordinateur exécutant ce dernier pour le groupe d'administrateurs locaux correspondant.
+Version Excel :
+Format de livraison : 
+Compresser le contenu
+Masquer
+Message:
+(## caractères maximum)
+Cliquez ici pour ajouter un message
+Adjuster:
+page(s) en largeur sur
+page(s) en hauteur
+Cookies
+tiliser des cookies pour optimiser les performances durant la lecture des préférences de l'utilisateur.
+La requête ne peut pas être accomplie parce qu'un autre objet dépend sur l'objet manipulé.
+Vous êtes souscript aux plannifications suivantes pour ce document :
+La formule pour la mesure dérivée est vide.
+Ne contient pas
+Ne commence pas par
+Ne finit pas par
+Pourcentage de '##'
+Rang de '##'
+Rang
+Ensemble de ##
+Evaluer l'ensemble à ##
+par ##
+où (##)
+égale à
+n'est pas égal à
+vide
+Longueur maximum pour le texte du message (en nombre de caractères) :
+Les formats de délivrement suivant ne supportent actuallement pas les graphes : ##. Les délivrements un de ces formats incluront seulement des grilles.
+Le format de délivrement sélectionné ne supporte actuallement pas les graphes. Le délivrement n'inclura que la grille.
+Le style défini dans l'invite n'a pas pus être utilisé pour afficher la définition de l'invite '##' (nom du style : ###).
+N'a pas pus trouvé un style correcte pour afficher l'invite '##' (nom du style : ###).
+Filtrage sur l'entrée de l'utilisateur :
+Permet l'utilisation d'HTML pour l'impression d'en-têtes et de bas de page. Cette configuration permettra les utilisateurs d'exécuter des scripts dans l'exploreur.

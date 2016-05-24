@@ -1,0 +1,972 @@
+Copyright © 1996-2015 MicroStrategy, Incorporated. All rights reserved. Confidential.
+Hem
+Mina Rapporter
+Skapa Rapport
+Logga ut
+Sidorientering:
+Sök
+Med ensamrätt. Konfidentiellt.
+Server:
+Port
+Användarnamn
+Lösenord
+Spara lösenord
+Pappersstorleken och sidorienteringen bör överänstämma med webbläsarens inställningar.
+Ange ditt gamla samt nya lösenord.
+Logga in
+Fel vid exekvering av dokumentet. Kontakta din administratör.
+Letter 21.59 x 27.94 cm
+A4 21 x 29.7 cm
+18.4 x 26.7 cm
+Projekt
+VÄLKOMMEN
+Beskrivning
+avancerad...
+Bläddra genom listan av färdigställda rapporter, tillgänglig för alla användare.
+Visa en uppdaterad summering över statusen på mina förfrågningar.
+Du är här:
+Manuellt
+Det finns inte några hierarkier i detta projekt.
+Objekt
+Du kan inte söka på attribut av denna typ.
+Sida ## av ###
+Faktor för gämn fördelning
+Ägare
+Ändrad
+Alltid
+Aldrig
+Visningsläge
+Senaste uppdatering:
+Fel
+Kontaktinformation:
+Maximalt antal av samtidiga sökningar:
+Ange information om Systemadministratören, så användarna kan kontakta han/hon vid problem:
+Begärd
+Kontrollera Status Igen
+Avbryt denna Förfrågan
+Nedan skall du se siffrorna "12345" i en svart ruta ifall din webbläsare stödjer CSS filer?
+RELATERADE RAPPORTER
+Ja, min webbläsare stödjer denna formatering.
+Nej, använd en annan form av formatering.
+En time out har uppstått på din fråga. Försök senare.
+Kör
+Exekverar
+Blå och grå
+Rader:
+Tabell
+Diagram
+Meddelande ## - ### av ####
+## - ### av ####
+Spara
+Fråga igen
+Version som kan skrivas ut
+Exportera data
+Kolumner
+Färggrann
+Agent
+Klassisk
+Redovisa
+Finans
+Grå band
+Använd dynamisk Html?
+Röd och svart
+Romantisk
+Litet typsnitt
+Verkställ
+Dölj pivotknappar
+Visa pivotknappar
+Flytta till rader
+Flytta upp
+Flytta ned
+Gruppera på detta fält
+Flytta till kolumner
+Flytta åt vänster
+Flytta åt höger
+Sortera
+Borra
+Från:
+Till:
+Borralternativ:
+Borra endast på valen
+Upp
+Ner
+Solnedgång
+Kolumner:
+Fler sidor
+Visa:
+Dölj verktygsfältet
+Visa verktygsfält
+Publicera
+Ingen borrinformation tillgänglig.
+Fel: Operatorn "Inte mellan" förväntar sig två värden separerade med semikolon
+Filterinformation:
+Filtret är tomt.
+- ingen -
+Borra till
+Information
+Ta bort
+Sortera efter stigande ordning
+Sortera efter fallande ordning
+Senaste rapporten:
+markera som "oläst"
+Analytsik
+Exekverar underliggande rapporter
+Din Historik är full. För att köra en rapport måste du ta bort ett eller flera meddelanden.
+Fortsätta
+På grund av ett webbserverfel kan inte innehållet i den här rapporten exporteras.  Försök med en annan rapport.
+Sorterat på:
+Du håller på att logga ut från alla projekt.
+Nej
+Ja
+Avbryt
+Du kan kontrollera Historik eller försöka senare.
+Fel vid kontroll av dokumentstatus
+Felnummer
+Dokument  klart
+Prompt klar
+FAQ's
+Senaste mappen:
+Inget data returnerades i detta dokument.
+Excel med formatering (version '97 eller senare)
+CSV-filformat
+Öppna nytt fönster vid export
+Utskriftsalternativ
+Sidhuvud:
+Inloggningsläge
+Sidnumreringsstil:
+(ingen)
+Sidan 1 av n
+Standard startsida:
+Avbryta denna sessions pågående jobb?
+Sammanfoga kolumnrubriker
+(standard)
+Tillhörande mapp:
+Ändra lösenord
+och
+Tillbaka till toppen
+Kanal aktiverad (Kanalen är synlig för slutanvändarna)
+Tillbaks till Föregående Mapp
+Fel vid exekvering av rapport
+Tillbaka
+Två-axlad radar linje
+3D spridningsdiagram med XYZ-axlar
+Du har blivit utloggad.
+Fel vid åtkomst till användares Historik.
+Dina meddelanden från Historik kunde inte hämtas från MicroStrategy-server.
+Dina meddelanden från Historik kunde inte tas bort från MicroStrategy-server.
+Egenskaper
+På grund av syntaxfel slutfördes inte din pivoteringsförfrågan.
+På grund av syntaxfel slutfördes inte din sidosorteringsförfrågan.
+Kontakta din administratör.
+MicroStrategy Servern  du försöker ansluta till hittades inte. Försök igen senare.
+Du har valt för många objekt för ett objekt parameterval.
+Du har valt för få objekt för ett objekt parameterval.
+Du har valt för många element för ett element parameterval
+Du har valt för få element för ett element parameterval
+Fel: Operatorn "Mellan" förväntar sig två värden separerade med semikolon
+Det här parametervalet krävs och måste fyllas i.
+Fyll i ett värde i textrutan.
+Följande fil har inte registrerats korrekt i webbservern: M8dssxml.dll. Kontakta administratören för mer information.
+Välj några element före borrning
+Du kan inte kvalificeras på mer än ett objekt åt gången.
+Rapportens parameterval kunde inte visas eftersom de blivit besvarade.
+Fel vid laddning
+Felmeddelandelista
+Tid
+Felbeskrivning
+Fil
+ASP-funktion
+API-funktion
+Kommentarer
+Nivå
+Ditt lösenord har ändrats.
+Ändra Lösenord
+Gammalt lösenord:
+Nytt lösenord:
+inte mer än
+inte mindre än
+val
+inga
+Tillgänglig
+Vald
+Hitta
+element
+Måttenhet
+Attribut
+Mellan (ange värdena1 ; värdena2)
+Exakt
+Större än
+Större än eller lika med
+Mindre än
+Mindre än eller lika med
+Som
+Inte Som
+Värde
+Är
+Högsta
+Lägsta
+Lägg till
+Dina val
+Matcha
+Alla val
+Något val
+Mina val
+Lägg till i val
+Sök efter:
+Kör rapport
+Spara Rapport
+Kvalificera vid beskrivning av attribut
+Tillbaks till val av hierarki
+Välj en hierarki
+Andra hierarkier:
+Operator
+kvalificera
+Välj
+Element
+Aktuell mapp
+Undermappar
+Mappinnehåll
+Fyll i sökkriterier.
+Listan kan vara lång.
+Det finns inga ingångspunkter i den här hierarkin.
+BEHÖVER DU HJÄLP?
+Efter att du valt hierarki till vänster, kommer du att se attributen i denna del.
+Gå till steg 2
+Andra
+I
+Notera: Netscape 4 och Internet Explorer 4 eller senare stödjer DHTML.
+Operatorer som "Like" och "Not Like" stödjer inte icke-text datatyper.
+Du har valt för många vilkor för prompten.
+Du har valt för få vilkor för prompten.
+Du har valt för många vilkor för en hierakisk prompt.
+Du har valt för få vilkor för en hierarkisk prompt.
+Online hjälp
+as.Något av standard värdena för denna prompt kunde inte vi.
+(Endast text är tillåtet)
+Inte exakt
+Inte mellan (ange value1 ; value2)
+Gå till föregående rapportläge
+Administrationssida
+Ta bort
+Återvänd till:
+Är du säker på att du vill ta bort detta objekt?
+Ta bort bekräftelse
+Din förfrågan kunde inte behandlas på grund av ett serverfel.
+Försök igen. Om problemet kvarstår, kontakta serveradministratören.
+Mappnamn:
+Krävs
+Valfri
+Mellan
+och
+Denna prompt kräver ett värde mellan ## och ###.
+Denna prompt kräver ett värde inte lägre än ##.
+Denna prompt kräver ett värde inte högre än ##.
+Denna prompt kräver ett värde inte senare än ##.
+Denna prompt kräver ett värde inte tidigare än ##.
+Texten du angav är för lång. Ange en ny text.
+Texten du angav är för kort. Ange en ny text.
+Inte mellan
+Ändra
+Uppdatera
+ASP version:
+Fel vid laddning av XML-data.
+En av de nödvändiga XML-noderna är inte tillgänglig. Kontakta administratören för mer information.
+Fel i rapportresultat
+MicroStrategy Server fel:
+Fel uppstod i prompt definitionen från MicroStrategy Server. Kör om rapporten eller dokumentet.
+Ditt andra nya lösenord matchar inte det första. Skriv in dem igen.
+Varningar
+Fel
+Föregående ##
+Nästa ##
+Har du inte ett konto?
+Sortera på
+Välkommen
+Om du inte är ##,
+klicka här
+Inställningar
+Tillbaks till föregående mapp
+Välj dag:
+Månad
+Dag
+År
+Meddelanden
+Ta bort från urval
+Ange ett giltigt datum.
+I (ange värdena1; värdena2; ...; värdenaN)
+Fel i något urval i prompten. Kontrollera dina urval.
+Dölj hjälp
+Visa hjälp
+Fyll i denna prompt med värden mellan ## och ##.
+Denna prompt kräver minst ## val.
+Denna prompt har en gräns på högst ## val.
+Fel i dokumentet
+Kör Dokument
+Avgör automatiskt
+Du måste ange ## val i denna prompt.
+Namn
+Lista
+Stora ikoner
+Tyska
+Franska
+Italienska
+Japanska
+Koreanska
+Svenska
+Standard
+Attributet är låst
+Elementen i listan kan inte visas
+måttenheter
+Denna prompt kräver endast 1 val.
+Ange giltiga värden separerade med semikolon.
+Följ instruktionerna nedan märkta med en röd flagga.
+Varning!
+Denna prompt  kräver minst ett val.
+Endast ett val är godkänt i denna prompt.
+Fel parametrar i URL.
+Följande parametrar krävs i URL:
+YYYY-MM-DD
+HH:MM:SS
+Ett uttryck eller grupp av element från ett attribut betraktas som ett urval.
+Välj en för kvalificering.
+Sammandrag
+Portugisiska (Brasilien)
+Matcha gemen/versal
+Föregående
+Nästa
+Steg ## - ### av ####
+Första ## steg
+Sista ## steg
+eller
+Tillbaka till förfrågning
+Sammandrag av dina val
+Förfrågningen har inte besvarats
+Ditt val:
+Förfrågan ##
+Standardvalet är:
+Visa en lista med de rapporter jag prenumererar på.
+Om du vill prenumerera på denna rapport skall du välja ett schema och en personalisering här under.
+Med följande personalisering:
+Lägg till prenumeration
+Du har prenumererat på följande scheman för denna rapport:
+Schema
+Personaliserad
+Redigera
+Prenumerationer
+Om du vill svara på dessa parameterval igen, klicka på länken Omförfrågan intill  rapporten.
+Rapportbegränsning:
+Dina rättigheter till informationskällan har ändrats.
+Du har inga prenumerationer.
+Informationen är inte tillgänglig
+Rapportvisning
+Adresser
+Tjänster
+Om
+MicroStrategy Narrowcast Server är en produkt från
+Alternativ
+Tjänst
+Adress
+Nya användare
+Användarnamn:
+Lösenord:
+Du kan skapa ett nytt konto. Klicka bara nedan.
+Skapa ett nytt konto
+Välj en adress:
+Skapa ny adress
+Ett fel har uppstått på den här sidan.
+Fel när adresserna hämtades
+Du har inga kompatibla adresser.
+Fel vid hämtning av scheman
+Det finns inga tillgängliga scheman.
+Tillbaka hem
+Tillbaka till Adresser
+Tillbaka till Rapporter
+Tillbaka till Tjänster
+Fel vid inloggning
+Användarnamnet eller lösenordet var felaktigt. Skriv in dem igen.
+Användarnamnet eller lösenordet saknades. Skriv in dem igen.
+Fel under adresskommando
+Försök igen eller kontakta systemadministratören.
+Ett eller flera adressfält var tomma. Försök igen.
+Fel vid prenumerationskommando
+Fel när ett nytt konto skulle skapas
+Lösenord och bekräftelsen av lösenordet stämde inte. Skriv in dem igen.
+Fel när nytt användarkonto skulle skapas
+Bekräfta lösenord:
+Ledtråd för lösenord:
+Inga adresser skapades
+Bekräfta nytt lösenord:
+Bekräfta borttagning av adress
+Bekräfta borttagning av prenumeration
+Är du säker på att du vill ta bort adressen?
+Är du säker på att du vill ta bort prenumerationen (prenumerationerna) på följande tjänst(er)?
+Användarinställningar
+Dina inställningar har sparats.
+Språk:
+Fel vid hämtning av rapporter
+Utgår:
+Pågående
+Det finns inte några rapporter i den här mappen.
+Glömt ditt lösenord?
+Ange ditt användarnamn och klicka på "Visa ledtråd för lösenord."
+Visa ledtråd för lösenord
+Din ledtråd är:
+Fel när ledtråd för lösenord skulle hämtas
+Det uppstod ett fel när ledtråden till lösenordet skulle hämtas.
+Tillbaka till inloggningen
+Var god ange ett adressnamn.
+Ange ett adressnamn utan följande tecken:
+Var god ange en adress.
+Ange din adress i formatet username@server.type som i följande exempel: jsmith@abccompany.com
+Följande fil har inte registrerats korrekt i webbservern: M9StrUtl.dll. Kontakta administratören för mer information.
+Tack för att du använder MicroStrategy Narrowcast Server.
+Ingen fil skickades till webbservern.
+Detta användarnamn har redan tagits. Ange ett annat användarnamn.
+Filen har ett ogiltigt filtillägg. Tillåtna filtillägg är: ##
+Fel vid uppdatering av användarprofil
+Ett fel uppstod när din användarprofil skulle uppdateras.
+Fel vid hämtning av data
+Det uppstod ett fel vid inladdning av XML. Kontakta systemadministratören.
+MicroStrategy Narrowcast Server 7.5.1
+Kontaktinformation – Systemadministratör
+E-post:
+Telefon:
+För att anmäla dig till ett konto, ange följande information nedan.
+Obligatorisk information anges med en röd asterisk (*).
+Ange ett användarnamn och ett lösenord för ditt nya konto.  Skriv in lösenordet två gånger.
+Ange en ledtråd som påminner om lösenordet så mycket som möjligt.
+Du är klar! Klicka på knappen "Skapa ett nytt konto" nedan.
+Ange din inloggningsinformation för följande informationskälla (källor).
+Ett eller flera fel uppstod vid din begäran om ett nytt konto.
+Läs instruktionerna i rött nedan och försök igen.
+Lösenordsledtråden är tom. Skriv in den igen.
+Slutför
+Ett eller flera fel uppstod vid din begäran om ändrat lösenord.
+Det gamla eller det nya lösenordet saknades. Skriv in dem igen.
+Ange obligatoriska användarnamn och lösenord nedan.
+Du har angivit en fil som är större än maximal filstorlek (## Kb), som ställts in av administratören.
+Leveranser
+Tills:
+Klicka på ett dokumentnamn till vänster för att visa dokumentet här.
+Skicka till Mina Rapporter
+Skicka till:
+Anmäl dig till en tjänst
+Bläddra genom listan av färdigställda tjänster, tillgängliga för alla användare.
+Visa dina schemalagda rapporter.
+Ange kontaktinformation för dina prenumerationer/leveranser.
+Anpassa dessa skärmar efter din webbläsare och dina visningsinställningar.
+Prenumerera på:
+Personanpassa din prenumeration
+Din användarsession har avbrutits och du har loggats ut automatiskt.  Logga in igen.
+Inaktivera mitt konto
+Ditt konto har inaktiverats.
+Är du säker på att du vill inaktivera ditt konto?
+När du avaktiverar ditt konto, kommer du inte att kunna ta emot tjänster eller logga in igen. Ditt konto kan endast aktiveras på nytt av portalens administratör.
+Var god välj språk.
+Aktiverad (prenumerationen kommer att levereras enligt angivet schema)
+Ändra informationskällans rättigheter
+Ändra rättigheter
+Ett eller flera fel uppstod vid behandling av din begäran om ändrade rättigheter för informationskällan.
+SDK version:
+Ladda fil
+Kanaler
+Aktiv
+Lägg till en ny kanal
+Aktiv kanal
+Inaktiv kanal
+Skapa ny kanal
+Redigera kanal
+För att skapa en ny kanal måste du utföra följande steg:
+Publicera en mapp med tjänster för kanalen
+Ge kanalen ett namn
+Visa inte den här sidan igen
+Namn på och beskrivning av platsen
+Ange ett namn för den här kanalen:
+Ange en beskrivning för den här kanalen (valfri):
+Felkälla
+Detta konto har inaktiverats. Kontakta administratören för aktivering av detta konto på nytt.
+Användarnamnet är tomt. Skriv in det igen.
+Lösenordet var tomt. Skriv in det igen.
+Spanska
+Engelska
+Importera filterspecifikation från en fil:
+Ange en ny adress:
+Enhetstyper
+byt namn...
+definition ...
+Enhetens mappar
+redigera enhetens mappar ...
+Byt namn
+Stor URL-ikon:
+Liten URL-ikon:
+Adressformat:
+E-post
+Detta är standardformatet för e-postadresser på Internet.
+Format: xxxx@xxxxxx.xxx
+Numerisk
+Visa fält:
+Redigera fält:
+Adressnamn
+Adressvärde
+Format
+PIN
+Leveransfönster
+Enhetstypens namn:
+Bekräfta borttagning av enhetstyp
+Ny definition
+Definition:
+Tillgänglig:
+Vald:
+Inga mappar har valts.
+Din rapportdesigner valde att låta en varukorg och ett textfilsformat representera denna prompt.
+Eftersom du har stängt av DHTML kan du inte använda funktionen importera textfil.
+Om du vill svara på denna fråga kan du använda varukorgen.
+Skapa ny enhetstyp
+Använd detta format enbart för en talsträng.
+Format: ########
+Inga enhetstyper har skapats.
+Bekräfta PIN
+Inaktiv
+Ange ett numeriskt värde för adressen i följande format: #########
+Hjälp med:
+Antingen användarnamnet eller lösenordet var felaktigt för en eller flera informationskällor Försök igen.
+Du har inga rapporter.
+Välj ett schema för när den här tjänsten ska levereras.
+Välj en tidsplan från listan nedan.
+Välj var du vill att den här tjänsten ska levereras.
+Slutför följande steg för att anmäla dig:
+Välj en tjänst
+Ange en tidsplan och en adress.
+Personanpassa innehållet i tjänsten (i förekommande fall).
+Personanpassa ditt serviceinnehåll.
+Du kan ge följande information om du vill personanpassa innehållet för den här prenumerationen:
+Om ledtråden inte hjälper dig att komma ihåg lösenordet, kontaktar du systemadministratören så att du kan få ett nytt lösenord.
+OK
+Framgång!
+Ditt prenumeration har med framgång sparats.
+Spara markeringarna som (tillval)
+Gör nya markeringar
+Välj från denna lista med tidigare sparade markeringar:
+Välj en:
+Verkställ dessa markeringar
+Projektet ## finns inte på server ###.
+(INAKTIVERAD)
+Administratörinformation:
+Efter att ha modifierat portalrepositoryns anslutning måste du konfigurera om webbplatsinformationen.
+Efter att ha modifierat prenumerationsmotorns placering måste du konfigurera om portalens repositoryanslutning och webbplatsinformationen.
+Efter: ## dagar.
+Namn på databasanslutning:
+Databasanslutningar
+Standardenhet:
+Standardspråk för nya användare:
+Standard använd DHTML:
+Inaktivera
+Vill du fortsätta?
+Gör det möjligt att skapa nya konton:
+Ange namnet på servern som kör prenumerationsmotorn:
+Ange ett unikt namn och en beskrivning för den här portalen.
+GUI-inställningar:
+Informationskällor
+Portalens repository
+Förfallodatum för nytt konto:
+Inget förfallodatum
+På:
+Telefonnummer:
+Portal-enhet:
+Objektets repository
+Projektinställningar:
+Nyligen använda serverplaceringar för portalens prenumerationsmotorer:
+Välj en befintlig webbplatsdefinition eller klicka på Lägg till en ny webbplatsdefinition.
+Enhetsinställningar
+Platsinställningar
+Prenumerationsbok-repository
+Prenumerationsmotorns placering
+Tabellprefix:
+Mapp för temporära filer:
+Portaladministratörsguiden i MicroStrategy Narrowcast-servern gör det lätt för administratören att skapa webbprenumerationsportaler, där användaren kan prenumerera på tjänster från Narrowcast-servern via en webbläsare.
+Använd projektmeriter
+Välkommen till portaladministratörsguiden i MicroStrategy Narrowcast-servern
+Inga kanaler är angivna för denna plats.
+Välj Kanalmappen
+Databasanslutningen "#1" pekar inte på en databas som innehåller portalrepositorytabeller med prefixet "#2".
+Vill du skapa dem?
+Standard Hydra-plats
+Webbplats med standardvärden
+Välj portal-enhet
+Välj standardenhet
+Ange ett namn för webbplatsdefinitionen.
+Ange ett namn utan följande tecken:
+Ange namnet på den server som kör prenumerationsmotorn:
+Ange en mapp för de temporära filerna.
+Ange en sökväg för mappen med temp-filerna utan följande tecken:
+Ange en giltig siffra för antalet dagar.
+Välj enhetsstil
+Slutför följande steg om du vill hitta enhetens stil:
+Välj en kategori.
+Välj stil.
+Klicka på en enhetskategori för:
+Klicka på en enhetsstil för:
+Det finns inga enhetsstilar i den här kategorin.
+Kan ej hitta information om enhetsstilar.
+Inga stilar tillgängliga.
+Ingen verifiering
+Adressvärdet kan vara valfri textsträng.
+Format: valfria siffror och följande tecken - ( )
+Ange ett värde för adressen i följande format: valfria siffror och följande tecken - ( )
+Systemkonfiguration
+Webbplatshantering
+Välj databasanslutning för portalrepositoryn.
+Välj databasanslutning för objektrepositoryn.
+Välj databasanslutning för prenumerationsboksrepositoryn.
+Använd samma databasanslutning för prenumerationsboksrepositoryn.
+Lägg till en ny databasanslutning
+Lägg till en ny webbplatsdefinition
+Webbplatsdefinition
+Databas
+Fel vid radering av användarprofil
+Profilen kan ej raderas eftersom den är gemensam för flera prenumerationer
+Visa befintliga prenumerationer för den här tjänsten
+Välj eller skapa portal
+Skapa ny prenumerationsportal
+Skapa ny portal
+Portalnamn
+Ange namnet på den virtuella mappen om du vill skapa en ny prenumerationsportal:
+Ange en standardadress.
+Format: valfri text eller numeriska tecken
+Ange en adress i följande format: valfri text eller numeriska tecken
+Varje webbplatsdefinition känns igen på sitt unika namn och sin beskrivning.
+Det är bäst att ge en detaljerad beskrivning av webbplatsdefinitionen, så att designern genast vet, vilka egenskaper platsen innehåller.
+En plats identifierar en uppsättning tjänster som görs tillgängliga för slutanvändarna via en portal.
+En plats kan synliggöras för slutanvändarna genom en portal.
+Följande lista innehåller platsdefinitioner som finns i befintlig portalrepository.
+Du kan antingen återanvända en befintlig webbplatsdefinition eller skapa en ny.
+Som portaladministratör har du följande förpliktelser:
+att konfigurera och hantera prenumerationsportalen så att slutanvändaren kan prenumerera på olika tjänster på nätet
+definiera och konfigurera prenumerationsplatser
+publicera tjänster och enhetstyper
+välja standardenheter för prenumerationsportalen
+ange informationskällans egenskaper och standardinställningar för portalen
+Med portaladministratörsguiden kan du:
+konfigurera prenumerationsmotorn
+välja eller redigera portalkonfigurationen
+skapa eller välja webbplatsdefinitionen
+konfigurera statiska och dynamiska tjänsteofferter
+Klicka på NÄSTA för att starta.
+Objektrepositoryn är den databas som innehåller definitionen av Narrowcast-systemet som du vill använda genom denna abonnemangsportal.
+En databasanslutning måste skapas för varje databas som du vill använda.
+Om din prenumerationsbok-repository sparas i samma databas som din objekt-repository (vanligast) kan du kryssa den ruta som indikerar detta och klicka på Nästa.
+Prenumerationsbokrepositoryn lagrar prenumerationsdata som inkluderar slutanvändare, adresser, personlig anpassning och prenumerationsutgåvor.
+Vid en typisk installation installeras prenumerationsmotorn på samma maskin (dvs. lokal värd).
+Portalrepositoryn lagrar konfigurationsinställningar som anger gränsnittet för slutanvändarens prenumerationsportal.
+Denna information inkluderar:
+namn på och beskrivning av webbplatserna
+kanalinställningar
+publicerade tjänster
+enhetens mappar
+standardinställningar
+En portal definierar den webbadress (URL) genom vilken slutanvändarna ansluter till prenumerationsportalens tjänster och prenumerationer. En portal definieras av en virtuell katalog på en webbserver och ger åtkomst till en enda webbplats.
+Följande prenumerationsportaler har definierats på den här webbservern.
+Välj den portal som du vill arbeta med.
+Namn och beskrivning på kanalen
+En enhetstyp är en grupp av relaterade enheter.  När en ny webbplatsdefinition skapas kommer även fyra standardenhetstyper att skapas och konfigureras.
+För varje definition av enhetstyp måste du ange enhetstypens namn, den stora och lilla ikonens URL, adressformatet och vilka fält som kommer att användas vid visning och redigering av adresser för enheter av den här enhetstypen.
+Använd den här skärmen när du ska lägga till eller ta bort mappar för den aktuella enhetstypen.
+Mapparna till vänster är tillgängliga, men används inte för den här enhetstypen.  Mapparna till höger är för närvarande valda för den här specifika enhetstypen.
+Varje prenumerationsplats kan definiera vilken enhet som används som enhet för att skicka innehåll till sidan "Mina rapporter", och vilken enhet som används som standard när nya adresser skapas.
+Klicka på lämplig enhet om du vill ändra urvalet.
+För varje informationskälla kan du ange om nya användare behöver ange verifieringsinformation, till exempel användarnamn och lösenord, eller om standardrättigheterna för informationskällan ska användas. Inställningarna påverkar nya användarkonton som skapas via prenumerationsportalen (Subscription Portal).
+Det finns inga informationskällor angivna i detta system.
+-
+-
+-
+Välj inställningar för följande webbplatsegenskaper:
+Webbplatsinställningarna styr hur standardvärdena anges för användare av portalgränssnittet.  Du kan ändra alla inställningarna genom att modifiera informationen som visas på den här sidan.
+Gratulerar! Din konfiguration av den här sidan är nu klar!
+Klicka på knappen Slutför om du vill starta webbläsaren och logga in på den här portalen.
+Ursprung
+Portal
+Admin
+Användar-I.P.
+Fel när prenumerationen skapades
+Kontrollera att du har en standardprofil för frågan.
+Fel när frågeobjektinformation hämtades från MicroStrategy Narrowcast-servern.
+Trace
+Information
+Varning
+Använd dessa alternativ som standard
+Sessionens variabler
+Tillhörande plats
+Inte tillämplig
+Ange ett namn för portalen.
+Är du säker på att du vill ta bort den här enheten?
+Är du säker på att du vill ta bort den här portalen?
+Är du säker på att du vill ta bort den här webbplatsen?
+Ange ett namn för SequeLink -servern.
+Ange ett namn för databasanslutningen.
+Ange ett namn för ODBC-datakällan.
+Lägg till databasanslutning
+ODBC-datakällans namn:
+Testa databasanslutning?
+Översikt
+Felaktig definition av databasalias för repository-tabeller i prenumerationsboken.  Välj en annan webbplatsdefinition.
+Repository-tabeller finns i prenumerationsboken, men i felaktig version.  Var god ange ett annat prefix.
+Felaktig definition av databasalias för tabeller i objektrepository.  Välj en annan webbplatsdefinition.
+Objektrepository-tabeller finns, men i felaktig version.  Var god ange ett annat prefix.
+Felaktig definition av databasanslutning för tabeller i portalrepositoryn.  Välj en annan.
+Databas-tabeller finns, men i felaktig version.  Var god ange ett annat prefix.
+Fel när du sparade anslutning för databasalias
+Ett oväntat fel uppstod vid inställning av den nya databasalias-anslutningen.
+Inga databasanslutningar har definierats.
+Den här sidan använder du när du ska skapa eller redigera kanaler för den här webbplatsdefinitionen.
+Ange ett namn för kanalen.
+Konfiguration av tjänster
+Statiska prenumerationer
+Dynamiska prenumerationer
+Lagring
+Välj en alternativ fråga
+Prenumerationsportalen i MicroStrategy publicerar tjänsterna i den mapp du väljer.  Vissa tjänster kräver emellertid ytterligare konfiguration.
+Ange standardkonfigurationen för dessa tjänster nedan.
+Om du vill konfigurera en viss tjänst individuellt, klickar du på knappen # nedan.
+Konfigurera tjänster
+Statiska prenumerationsgrupper
+Dynamiska prenumerationsgrupper
+Dölj sorterade frågor från prenumeranter
+Besvara sorterade frågor med:
+Dölj ej konfigurerad prenumerationsgrupp från prenumeranter
+Använd portaladministratörsguiden i MicroStrategy Narrowcast-servern vid konfigurationen av prenumerationsdatalagring på individuell tjänstnivå.
+I ett meddelande ombeds du att välja den tjänst du önskar konfigurera. Därefter visas de statiska och dynamiska prenumerationsgrupper som är kopplade till denna tjänst.
+Vad gäller både de statiska och de dynamiska prenumerationsgrupperna konfigurerar du frågeobjektet för den valda tjänsten.
+Dessutom kan du lägga till ytterligare frågeobjekt för att inhämta information från prenumeranter.
+Vad gäller dynamiska prenumerationsgrupper kommer du att konfigurera lagringen av prenumerationsdata.
+Du har konfigurerat följande tjänst(er). Klicka på 'Redigera' om du vill redigera befintlig konfiguration, eller klicka på mappens namn om du vill konfigurera andra tjänster i samma mapp.
+Klicka på # nedan om du vill konfigurera en annan tjänst.
+Den här tjänsten har en eller flera statiska prenumerationsgrupper som den är kopplad till.  Prenumeranter i dessa prenumerationsgrupper lagras i prenumerationsbokens repository.
+Standardinställningar för statiska prenumerationsgrupper
+Klicka nedan om du vill ange en enda konfiguration för alla statiska prenumerationsgrupper.  Detta standardvärde kommer att användas av alla grupperna i den här tjänsten.
+Konfigurerad:
+konfigurera
+Sorteringsfrågor kommer inte att visas för prenumeranter.  Du kan emellertid välja en alternativ fråga som kommer att visas för prenumeranterna.
+Please select a question object below.
+Välj plats för svaren på den här frågan.
+Använda #
+ELLER använda en av följande lagringsmappar:
+Tabeller
+Lägg till en ny lagringsmapp
+Rensa
+Välj de databastabeller i vilka informationen kommer att lagras.
+Datalager:
+Filtrera kolumnerna efter:
+Tillgängliga tabeller:
+Valda tabeller:
+Välj de databaskolumner i vilka du önskar att informationen ska lagras.
+Dra-och-släpp komponenter från vänster till de högra tabellkolumnerna. Du kan expandera/dra samman komponentlistan genom att klicka på pilen till vänster i varje avsnitt. För att komma åt komponenterna längst ner i listan drar du samman avsnitten ovanför dem.
+Svarskomponenter
+Allmänt:
+Prenumerationskomponenter
+Konfigurering:
+Standard tjänstkonfigurering
+Du hat valt att konfigurera tjänsten ovan.  Du kan antingen behålla standardinställningarna som förtecknas nedan eller ange ytterligare inställningar för individuella prenumerationsgrupper i följande steg.
+Standarder för tjänst
+Sorterade frågor
+Ytterligare frågor
+Du kan be prenumeranterna om ytterligare frågor genom att redigera informationen nedan.
+Ändra urvalet
+Relaterade länkar
+Anmäl dig till den här tjänsten igen
+Anmäl dig till en annan tjänst
+Visa alla dina prenumerationer
+Välj en profil för det här frågeobjektet.
+Servernamn för SequeLink
+Du har nu skapat ditt konto.
+Om du glömmer bort lösenordet, visas denna ledtråd och när du ser den här ledtråden igen, påminns du om ditt lösenord.
+Välj Tjänst
+Välj Lagring
+Välj Tabeller
+Välj Kolumner
+Konfigurera prenumerationsgrupp
+Välj Fråga
+Avsluta Konfigurera tjänster
+Välj den tjänst som du vill konfigurera.
+Fråga
+Publikation(er)
+Standardinställningar för dynamiska prenumerationsgrupper
+Den här tjänsten har en eller flera dynamiska prenumerationsgrupper som den är kopplad till. Prenumeranter i dessa prenumerationsgrupper sparas i lagret med hjälp av lagringmappar.
+Spara den här lagringsmappen som:
+Klicka nedan om du vill ange en enda konfiguration för alla dynamiska prenumerationsgrupper. Detta standardvärde kommer att användas av alla grupperna i den här tjänsten.
+Konfigurera dynamiska prenumerationsgrupper individuellt
+Klicka på konfigurationslänken bredvid gruppen om du vill konfigurera en dynamisk prenumerationsgrupp individuellt. Prenumerationsgrupper som inte har konfigurerats kommer att använda systemets standardvärden.
+Extrafråga
+Frågan du har valt kan inte användas i prenumerationsportalen.
+Gå tillbaka och välj en annan fråga.
+Svaret på den fråga du har valt kan sparas antingen i prenumerationsbokens repository eller på någon annan plats med hjälp av en lagringsmapp.
+Om du vill spara svaret i prenumerationsbokens repository , kommer svaret ensamt att sparas här.
+Om du föredrar att använda en lagringsmapp, kommer ett Inställnings-ID för frågan att sparas i prenumerationsbokens repository, och svaren sparas beroende på lagringsmappens definition.
+Svaret på frågan som du har valt måste sparas i en lagringsmapp. Detta beror på att användaren uppmanas välja från en lista över element, och användaren kan välja fler än ett.
+Om du sparar svaren i en lagringsmapp, kommer ett Inställnings-ID för frågan att sparas i prenumerationsbokens repository, och svaren sparas beroende på lagringsmappens definition.
+Välj lagringsmapp för den här frågan.
+Databasanslutning
+Anpassat värde:
+anpassat
+Lägg till en fråga:
+Bläddra
+Svar på en annan fråga:
+Lagringsmapp för prenumerationsgrupp
+Ny lagringsmapp för #
+Den här tjänsten innehåller inga dynamiska prenumerationsgrupper.
+Översikt över webbplatshantering
+Om den har installerats på en separat maskin anger du namnet på maskinen ifråga här.
+platsdefinition
+Ange information om databasanslutning:
+Platsinställningar - Översikt
+En kanal är en grupp av tjänster inom prenumerationsportalens gränssnitt.
+Varje kanal placeras i en mapp för tjänster i objektrepository.
+Det uppstod ett fel när du försökte upprätta en anslutning till prenumerationsmotorn.  Antingen är serverns namn felaktigt eller prenumerationsmotorn inte igång på den här servern.  Lokalisera prenumerationsmotorn och ange placeringen på nytt.
+Om du vill definiera en kanal måste du välja en mapp från objektrepositoryn.  Välj den mapp som innehåller tjänster som ska visas.
+Den här tjänsten innehåller inga sorteringsfrågor som ska konfigureras.
+Konfigurerad
+Det uppstod ett fel när du försökte bekräfta databasanslutningen.  (#)  Bekräfta din information och försök igen.
+Anslutning till prenumerationsmotorn kan inte upprättas
+Administratörens definition för databasanslutningen är felaktig
+Fel namn på datakälla
+Radera databasens anslutning
+-- välj en databasanslutning --
+Inställnings-ID för: #
+Svar på: #
+Användaren finns inte.
+Mekanism för cachelagring
+Endast när det finns mer än en fråga
+Det finns inte några giltiga objekt i den här mappen
+Visa frågeöversiktssidan för personligt anpassade tjänster
+Om du raderar den här databasanslutningen, blir objekten som använder den (dvs. objektrepository, lagringsmappar, osv.) ogiltig.
+Vill du radera '#' ?
+Just nu konfigurerar du portalen "#". För att konfigurera en annan portal eller för att skapa en ny portal,
+Konfigurera en annan tjänst
+I denna sektion kan du hantera en eller flera prenumerationsplatser.  Du kommer att utföra följande uppgifter:
+välja en virtuell katalog i en befintlig prenumerationsportal, eller skapa en ny
+skapa eller redigera en webbplatsdefinition
+Innan du börjar behöver du följande information för att slutföra din webbplatsdefinition:
+Sökväg till databasen objektrepository
+Sökväg till databasen prenumerationsbok-repository
+tabellprefix för båda databaserna
+Detta avslutar konfigurationen av prenumerationsportalsystemet.
+prenumerationsmotor:
+portalrepository:
+Detta avslutar webbplatshanteringen.  Du har valt följande:
+portalens virtuella katalog:
+platsdefinition:
+Din webbplats kan nu visas genom portalen.
+Klicka här för att gå till prenumerationsportalen.
+I den här sektionen kan du redigera webbplatsens inställningar.  Du kommer att utföra följande uppgifter:
+skapa kanaler och associera dem med mappar som innehåller tjänster
+väljas de enhetstyper som ska stödjas av webbplatsen
+välja den standardenhet som ska användas när en ny adress skapas
+välja den enhet som ska användas för att skicka tjänster till sidan "Mina rapporter"
+välja hur användarna verifieras för olika informationskällor
+konfigurera andra webbplatsegenskaper
+Detta slutför inställningarna av webbplatsens egenskaper. Du har slutfört följande:
+redigerat eller skapat nya kanaler för den här webbplatsen
+valt de enheter som stöds av den här webbplatsen
+valt den standardenhet som ska användas när nya adresser skapas
+valt den portalenhet som ska användas när tjänster ska skickas till sidan "Mina rapporter"
+valt hur användarna ska verifieras för informationskällorna för den här webbplatsen
+konfigurerat de återstående webbplatsegenskaperna
+Integration med leveransmotorn gör att användaren kan ange personlig anpassning av tjänst, scheman och den enhet, på vilken användaren önskar ta emot informationen.
+Den här webbplatsen är inte klar för åtkomst av slutanvändare. Be administratören konfigurera webbplatsen. Om du är administratör, klicka på #.
+Välkommen till prenumerationsportalen på MicroStrategy Narrowcast Server!
+Med prenumerationsportalen i MicroStrategy Narrowcast-server kan användarna enkelt prenumerera på Narrowcast Server-tjänster genom en webbläsare.
+Hittar inte mappen
+Den önskade mappen hittades inte i objektrepositoryn.
+Klicka här för att bläddra till projektets rotkatalog.
+(Katalog-ID: #)
+Visa fel-logg
+Portalnamnen kan inte innehålla specialtecken. Ange ett namn där bara tecknen a-z, 0-9 eller _ används.
+Databasens anslutningsnamn kan inte innehålla specialtecken. Ange ett namn där bara tecknen a-z, 0-9 eller _ används.
+Frågan du valt används redan som en del i tjänstedefinitionen, och du kan inte använda den som en extra fråga eller alternativ fråga.
+Frågan du valt används redan som en extra fråga, och du kan inte använda den som en alternativfråga.
+Frågan du valt används redan som en alternativfråga, och du kan inte använda den som en extra fråga.
+För att redigera eller ta bort prenumerationer, se till att alla tabeller innehåller antingen SUBSCRIPTION_ID (prenumerations-ID) eller Preference ID (alternativ-ID) för frågan.
+För att redigera eller ta bort prenumerationer, se till att alla tabeller innehåller SUBSCRIPTION_ID (prenumerations-ID).
+Denna tjänst har inga frågor som ska mappas
+Ogiltigt lösenord - Användaren inte inaktiverad
+Uppdatera databasanslutningen
+Redigera en databasanslutning
+1. Narrowcast Server Normal (användarnamn och lösenord)
+2. MicroStrategy Intelligence Server standard (Användarnamn och lösenord)
+3. MicroStrategy Intelligence Server NT (NT-användarnamn)
+Ange namn på MicroStrategy Intelligence Server om alternativ 2 eller 3 väljs.
+Ange namn på den Intelligence Server som du vill bekräfta användarna mot.
+Kan inte logga in genom att använda NT-användarkontot . Be administratören att länka detta NT-användarkonto med en MicroStrategy Intelligence Server-användare eller att konfigurera webbservern rätt.
+Antal objekt som ska returneras för elementpromptar:
+Antal objekt som ska returneras för objektpromptar:
+Ange ett giltigt nummer för elementpromptobjekten.
+Ange ett giltigt nummer för objektpromptobjekten.
+Promptinställningar:
+Du kan försöka logga in på denna webbplats med hjälp av dina NT-rättigheter. Klicka bara på länken nedan.
+Inloggningsläge:
+Den här tjänsten inehåller inga statiska prenumerationsgrupper. Du kan konfigurera en en standard ifall du vill lägga till en senare för att till exempel byta från att använda en dynamisk prenumerationsgrupp till en statisk. Tryck annars på Nästa.
+MicroStrategy Intelligence Server hittades inte
+Du har inte accessrättigheter till en eller flera av de projekt som innehåller rapporterna i denna tjänst.
+Du har inte accessrättigheter till en eller flera av rapporterna i denna tjänst.
+Använd inloggningsuppgifter
+Ingen åtkomst till prenumerationsmotorns konfigurationsinställningar. För att Subscription Portal skall kunna fungera måste antingen katalogen eller hårddisken där prenumerationsmotorn är installerad vara delad. Subscription Portal kommer inte att fungera om detta krav ej är mött. Vill du automatiskt dela #1 disken på maskin #2 åt denna maskins lokala administratörgrupp ?
+Kan ej dela hårddisk. Dela #1 disken på maskin #2 åt denna maskins lokala administratörgrupp.
+Det gick inte att kontrollera om mappen för prenumerationsgeneratorn är delad.
+4. MicroStrategy Intelligence Server LDAP (Användarnamn och lösenord)
+5. MicroStrategy Intelligence Server DB (Användarnamn och lösenord)
+Narrowcast Server Normal
+MicroStrategy Intelligence Server Standard
+MicroStrategy Intelligence Server LDAP
+MicroStrategy Intelligence Server DB
+Det gick inte att skapa användare: ID-genereringen misslyckades.  Meddela systemadministratören.
+Visa bilaga:
+Direktöverför de bifogade filerna för att minska mängden minne som används.
+Logga in som NT-användare
+Ni raderar standardportalsajten. Om ni raderar den kommer leveranser för abonnemang skapade i MicroStrategy Web avaktiveras permanent. Will ni fortfarande radera standardportalsajten? Tryck OK för att gå vidare.
+Denna produkt är patenterad. Ett eller flera av nedanstående patent kan vara tillämpliga för denna produkt. Patentnummer USA .5,321,520, 5,416,602, 5,748,560, 6,154,766, 6,173,310, 6,260,050, 6,263,051, 6,269,393, 6,279,033, 6,501,832, 6,567,796, 6,587,547, 6,606,596, 6,658,093, 6,658,432, 6,662,195, 6,671,715, 6,691,100, 6,694,316, 6,697,808, 6,704,723, 6,707,889, 6,741,980, 6,765,997, 6,768,788, 6,772,137, 6,788,768, 6,792,086, 6,798,867, 6,801,910, 6,820,073, 6,829,334, 6,836,537, 6,850,603, 6,859,798, 6,873,693, 6,885,734, 6,888,929, 6,895,084, 6,940,953, 6,964,012, 6,977,992, 6,996,568, 6,996,569, 7,003,512, 7,010,518, 7,016,480, 7,020,251, 7,039,165, 7,082,422, 7,113,474, 7,113,993, 7,127,403, 7,174,349, 7,181,417, 7,194,457, 7,197,461, 7,228,303, 7,260,577, 7,266,181, 7,272,212, 7,302,639, 7,324,942, 7,330,847, 7,340,040, 7,356,758, 7,356,840, 7,415,438, 7,428,302, 7,430,562, 7,440,898, 7,457,397, 7,486,780, 7,509,671, 7,516,181, 7,559,048, 7,574,376, 7,617,201, 7,725,811, 7,801,967, 7,836,178, 7,861,161, 7,861,253, 7,881,443, 7,925,616, 7,945,584, 7,970,782, 8,005,870, 8,035,382, 8,051,168, 8,051,369, 8,094,788, 8,130,918, 8,296,287, 8,321,411, 8,452,755, 8,521,733, 8,522,192, 8,577,902, 8,606,813, 8,607,138, 8,645,313, 8,761,659, 8,775,807, 8,782,083, 8,812,490, 8,832,588, 8,943,044, och 8,943,187. Ytterligare patentansökningar har sökts.
+Ingen repository har definerats I '#1' med prefix '#2'. Ange ett giltigt prefix.
+Använd skiftlägeskänslighet(Case) som standard.
+DataDirect Technologies Corp. Copyright 1991-2015. DataDirect Technologies Corp. Med ensamratt.
+Delar av denna mjukvara är upphovsrättsligt skyddade av DataDirect Technologies Corp., 1991-2015.
+Säkerhetskopior av filer har hittats. Vill du återställa och använda konfigurationen från säkerhetskopiorna? Återställning från säkerhetskopia rekommenderas inte vid uppgradering från 7.5 eller tidigare till 8.0 och senare.
+Återställande av egenskapsfiler misslyckades. Konfigurera om portalen genom att trycka på NÄSTA.
+Sökerhetskopiorna av egenskapsfilerna har återställts. Starta om MicroStrategy Subscription Server-tjänsten för att fortsätta.
+Filtrera tabellnamn
+Tips! Med hjalp av systemprefixet kan du skapa lagringstabeller for flera Narrowcast Server-system pa samma databasplats. Du kan till exempel anvanda prefixet TEST for ett testsystem och prefixet PROD for ett produktionssystem. Ett giltigt systemprefix borjar med ett tecken och bestar av tecken och siffror. Prefixet kan besta av hogst atta tecken.
+Namnet ‘#’ för dbalias har redan använts. Välj ett annat dbalias
+Antal förenade anslutningar
+Systemet är inte tillgängligt just nu. Programmappen är inaktiv.
+Denna produkt innehåller binära komponenter Copyright (c) 1995-2015 The Cryptix Foundation Limited.  Med ensamrätt. Återdistribuering och användning i källor och binära former, med eller utan ändring, är tillåten förutsatt att följande villkor uppfylls: 1. Återdistribuering av källkod måste innehålla copyright-meddelandet, denna lista med villkor och följande friskrivning från ansvar.  2. Återdistribuering i binär form måste reproducera ovannämnda copyright-meddelande, denna lista av villkor och följande friskrivning från ansvar i dokumentationen och/eller andra material som följer med distributionen.
+DENNA PROGRAMVARA TILLHANDAHÅLLS AV CRYPTIX FOUNDATION LIMITED OCH MEDARBETARE "I BEFINTLIGT SKICK" OCH UTAN SÄRSKILD ELLER UNDERFÖRSTÅDD GARANTI, DÄRI INBEGRIPET, MEN INTE BEGRÄNSAT TILL, DEN UNDERFÖRSTÅDDA GARANTIN FÖR SÄLJBARHET OCH LÄMPLIGHET FÖR ETT SÄRSKILT SYFTE. CRYPTIX FOUNDATION LIMITED ELLER MEDARBETARE ÄR INTE I NÅGOT FALL ANSVARIGA FÖR EVENTUELLA DIREKTA, INDIREKTA, FÖLJD-, SPECIAL- ELLER STRAFFSKADESTÅND (DÄRI INBEGRIPET MEN INTE BEGRÄNSAT TILL ANSKAFFNING AV ERSÄTTNINGSVAROR ELLER –TJÄNSTER, FÖRLUST AV ANVÄNDNING, DATA ELLER VINSTER, ELLER AVBROTT I AFFÄRER) HUR DE ÄN ORSAKATS OCH FÖR ALLA ANSVARSTEORIER, VARE SIG I KONTRAKT, STRIKT ANSVAR ELLER ÅTALBAR HANDLING (INKLUSIVE VÅRDSLÖSHET ELLER DYLIKT) SOM UPPKOMMER PÅ NÅGOT SÄTT VID ANVÄNDANDET AV DENNA PROGRAMVARA, ÄVEN OM DET UPPLYSTS OM MÖJLIGHETEN AV SÅDAN SKADA.
+DataDirect
+Cryptix
+Tjänsten innehåller en prompttyp som inte stöds.
+Felaktig information om laddningskatalog. Mappen eller mappen(-arna) över den kan vara inaktiva.
+Copyright och innehåll
+2015
+Incorporated. Med ensamrätt.
+Engelska (amerikansk)
+Engelska (UK)
+Tyska
+Italienska
+Portugisiska
+Spanska
+Franska
+Svenska
+Japanska
+Koreanska
+Kinesiska (förenklad)
+Kinesiska (traditionell)
+System
+Förnamn
+Efternamn
+Mellannamnsinitial
+Suffix
+Rubrik
+Hälsning
+Gatuadress
+Kommun
+(State)
+Postnummer
+Land
+Ange svar i följande fält för användardetaljer
+Definiera användardetaljer

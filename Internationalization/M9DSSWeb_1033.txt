@@ -1,0 +1,2806 @@
+Copyright © 1996-2002 MicroStrategy, Incorporated. All rights reserved. Confidential.
+Home
+Shared Reports
+My Reports
+History List
+Create Report
+Portrait
+Landscape
+Logout
+Orientation:
+Search
+Project
+Paper size:
+All rights reserved. Confidential.
+PREFERENCES LEVEL
+Server:
+Port
+User name
+Password
+Save my password
+LOGIN
+Reset report
+Paper size, orientation and margins should correspond to the browser settings.
+Please type in your old password and new password.
+Data source
+Add to my History List
+Login
+Error executing the document. Please contact your Administrator.
+Log In as Guest
+Letter 8.5" x 11"
+Session error
+This session is invalid because the connection has been lost. Please login again.
+Legal 8.5" x 14"
+Log In as Windows User
+A4 8.27" x 11.69"
+Folio 8.5" x 13"
+Server name
+Projects
+WELCOME
+Description
+About MicroStrategy Web ##
+The following servers are down:
+Go to the Administrator page
+Use temporary files on the Web Server?
+Quick search
+advanced...
+History List Message Creation Time: ##
+Browse a list of prepared reports available to all users.
+View reports you have created and saved for future use.
+Create and publish a new report on this site.
+View an up-to-date summary of the status of my requests.
+You are here:
+Automatically
+Manually
+Folder ID
+There are no hierarchies in this project.
+object(s)
+You cannot search on attributes of this type.
+Page ## of ###
+Load balance factor
+Owner
+Modified
+Always
+Never
+Delete folder
+Delete report
+Delete document
+folder(s)
+report(s)
+document(s)
+This folder is empty.
+Required only for Internet Explorer 4.x users.
+Your project default preferences could not be saved. Your permissions on the Web folder or in its contents may be incorrect.
+Search results:
+Report template(s)
+The "##" folder is not available.
+Job ID
+Report ID:
+Report name:
+View mode
+Message ID:
+Processing request...
+Your request has been submitted. Please wait...
+Allow the user to choose,  user default is No
+Allow the user to choose,  user default is Yes
+Please wait while your report is being exported.
+The processing time will vary depending on the size of the report.
+Last update:
+You must type a report name.
+The owner of one of the objects in the search results was not found. Search failed.
+Step ##
+Current status:
+Report ready
+Checking for prompts
+Prompts ready
+Running...
+Error
+Executing...
+second(s)
+Contact information:
+Maximum number of concurrent searches:
+Administrator contact info:
+Requested
+Check Status Again
+Cancel this Request
+Inside the black box below, you should see the numbers "12345" if your browser supports CSS files. Do you see these numbers?
+RELATED REPORTS
+Yes. My browser supports this formatting implementation.
+No. Use a different formatting implementation.
+Your request has timed out. Please try again later.
+Go
+Executing
+Blue and Grey
+Rows:
+Grid
+Graph
+Messages ## - ### of ####
+## - ### of ####
+Save
+Re-prompt
+Printable version
+Export data
+Columns
+Colorful
+Agent
+Classic
+Accounting
+Finance
+Grey Bands
+Use Dynamic HTML?
+Pastels
+Red and Black
+Romantic
+Small Type
+Apply
+Hide pivot buttons
+Show pivot buttons
+Move to rows
+Move up
+Move down
+Page by this field
+Move to columns
+Move to the left
+Move to the right
+Sort
+Drill
+From:
+To:
+Drill options:
+Drill on selections only
+What is this?
+Keep parent while drilling
+Up
+Down
+Squares
+for
+Show drill mode
+Hide drill mode
+Sunset
+Columns:
+More pages
+More columns
+First page
+Last page
+No data returned for this report.
+Error in call to Sleep
+Hide search
+Show search
+Display:
+Format grid
+Hide toolbar
+Show toolbar
+Publish
+No drill information available.
+Hide filter details
+Show filter details
+Back to simple drill
+The correct syntax for the Not Between operator is value1;value2
+Filter details:
+The filter is empty.
+while drilling
+- none -
+There is insufficient data to display the requested chart subtype for this report. Try using another chart subtype.
+Drill to
+Refresh my History List
+The message for the job was not found or the results could not be retrieved from MicroStrategy Server.
+Clear my History List
+Status
+Start time
+Details
+Remove
+Sort ascending
+Sort descending
+Last report:
+mark as "unread"
+Last document:
+Ready
+Waiting for prompt
+Processing
+Generating SQL
+Executing SQL
+Analytical engine processing
+Looking for cache
+Creating cache
+Waiting in queue
+Waiting on governing setting
+Project is idle
+Executing child reports
+Preparing results
+Your History List is full. To run a report you must delete one or more messages.
+pages
+Do not ask me again.
+Continue
+Due to a Web Server error, the contents of this report could not be exported.  Please try another report.
+Paged by:
+You are about to log out from all projects.
+Please select from the following options below and click the Logout button:
+Would you like to remove the finished jobs from the History List?
+No
+Yes
+Would you like to cancel this session's pending requests?
+Cancel
+Only the read messages
+Do not prompt me again.
+LOGOUT
+User may have logged out or have been idle for a long time. The connection has timed out, please try logging in again.
+Due to a Web Server error, your request could not be processed. Please try again later.
+Document ID:
+Document name:
+You can check the History List or try it later.
+Error checking document status
+Error number
+Document ready
+Prompt ready
+INDEX
+CONTENTS
+FAQs
+Last folder:
+No data returned for this document
+Document
+Grid display
+Current start page:
+Default grid style:
+Maximum rows in grid:
+Maximum columns in grid:
+Locale
+Export
+Excel with formatting (version 2000 or greater)
+Excel without formatting
+Excel with plain text
+CSV file format
+Open new window when exporting
+Print options
+Header text:
+Footer text:
+Login mode
+Page-numbering style:
+(none)
+Page 1 of n
+Default start page:
+Enabled
+Cancel this session's pending requests?
+Merge column headers
+Repeat column headers
+Remove the finished jobs from the History List?
+Apply to ALL projects.
+Project defaults
+(default)
+Graph display
+Graph size:
+Use the settings stored in the report definition
+Height:
+Width:
+Maximum number of columns to export to Excel:
+Standard (user name & password)
+Add reports and documents to my History List:
+DOCUMENT EXTRAS
+Display the "Remember My Password" checkbox on the login page
+Guest
+Unable to open the XSL file needed for the document output.  This file may be missing or may have errors.
+Error writing graph images to the local disk. Please make sure that the local disk has space available.
+Error combining the report XML with the XSL file to generate the HTML output.
+Show document details
+Parent folder
+User preferences
+My reports
+You need to login into this project in order to continue.
+Project Defaults
+User Preferences
+Use Default Values
+Pages per block:
+Maximum number of rows to export to Excel with  formatting or to HTML:
+Maximum number of rows to export to Excel with plain text or CSV:
+Change my password
+Between
+General
+Error logging:
+You can use the wildcard "?" to indicate a single character.
+Windows Authentication
+Use a customized security plug-in?
+Security plug-in class:
+You can use the wildcard "*" to indicate any number of characters.
+Only at login
+Before executing each report
+Asynchronous mode
+Synchronous mode
+Time before opening the wait page:
+Show subscriptions
+and
+Execution mode
+Filter details
+Record errors
+INSTRUCTIONS
+Hide subscriptions
+Print
+Prompt me on logout
+Show options when printing
+Record warnings
+Show properties
+Hide properties
+maximum ##
+Plain text
+Print filter details:
+At the beginning of the printing set
+At the top of every page
+Export filter details
+Prompts
+Number of elements to display per block:
+Whole report
+Portion displayed only
+Back to top
+You cannot login as Windows User.
+You must type a folder name.
+Channel Enabled (channel is visible to end users)
+Error message:
+Back to Parent Folder
+Error executing the report
+Graph type
+Vertical area
+Horizontal area
+Vertical bar
+Horizontal bar
+Vertical line
+Horizontal line
+Pie
+Scatter
+Polar
+Radar
+Bubble
+HiLo... Stock
+Histogram
+3D risers
+3D floating
+3D connect group
+3D connect series
+3D surface
+3D scatter
+Graph sub-type
+Absolute
+Stacked
+Bipolar absolute
+Bipolar stacked
+Dual-axis absolute
+Dual-axis stacked
+Percent
+Side by side
+Dual-axis side by side
+Bipolar side by side
+Ring pie
+Multiple pies
+Multiple ring pies
+Multiple proportional pies
+Multiple proportional ring pies
+Back
+Image format:
+Dual-axis X-Y scatter
+X-Y scatter with labels
+Dual-axis X-Y scatter with labels
+Dual-axis polar
+Polar coordinates chart
+Dual-axis polar coordinates chart
+Coordinates chart
+Radar line
+Radar stacked area
+Dual-axis radar line
+Dual-axis radar stacked area
+Bubble dual-axis
+HiLow dual-axis
+HiLow-open
+HiLow-open dual-axis
+HiLow-open-close
+HiLow-open-close dual-axis
+Vertical histogram
+Horizontal histogram
+Bars
+Pyramids
+Octagons
+Cut-corner bars
+Cubes
+Spheres
+Areas
+Ribbons
+Steps
+3D surface with sides
+3D honeycomb surface
+3D XYZ scatter chart
+3D XYZ scatter chart with labels
+X-Y scatter
+HiLow
+Return to folder:
+Return to report:
+Return to document:
+Your History List is empty.
+Thank you for using MicroStrategy Web.
+You have been logged out.
+To log in to this site again, click below.
+Unable to export
+You cannot export this report because it has exceeded the limits that the Administrator has set for the maximum number of columns and rows to export.
+Please perform some manipulations on the report or contact the Administrator.
+You must be connected to at least one project to begin using MicroStrategy Web.
+There are no MicroStrategy Servers registered in the Web Server machine.
+No active projects available on server ##.
+Either your user name or password is incorrect. Please try again. Remember that the password is case sensitive.
+Your password is incorrect. Please enter it again. Remember that the password is case sensitive.
+No data for folder contents retrieved.
+The report execution failed.
+The report could not be retrieved from server.
+The report could not be rebuilt.
+Your browser settings may be incorrect. Please make sure to enable cookies.
+Error accessing user's History List.
+Your History List messages could not be retrieved from MicroStrategy Server.
+Your History List messages could not be removed from MicroStrategy Server.
+Error setting message status in MicroStrategy Server.
+No folders, reports or documents found at this location.
+Properties
+Due to a syntax error, your pivot request was not completed.
+Due to a syntax error, your page by request was not completed.
+Due to a syntax error, your page by and pivot requests were not completed.
+Due to a syntax error, your sort request was not completed.
+Due to a syntax error, your pivot and sort requests were not completed.
+Due to a syntax error, your page by and sort requests were not completed.
+Due to a syntax error, your page by, pivot and sort requests were not completed.
+Your report could not be displayed.
+Some of your sessions could not be closed. MicroStrategy Server might close your session or MicroStrategy Server is not responding.
+Some prompts cannot be displayed.
+All prompts failed.
+The document execution failed.
+The document could not be retrieved from server.
+The projects could not be displayed.
+Your History List could not be displayed.
+Project is offline or offline pending.
+Error Saving Personal Preferences.
+Your personal preferences could not be saved. Your browser settings may be incorrect.
+Update Confirmation
+Your personal preferences have been saved.
+Cannot display page
+Please contact your Administrator.
+No settings found.
+Your personal preferences were not found. Your browser settings may be incorrect. Please make sure to enable cookies.
+Invalid information
+Please correct the marked fields and try again.
+The incorrect fields have been ignored and saved with default values.
+The MicroStrategy Server you are trying to connect to was not found. Please try again later.
+You do not have access rights to selected project.
+You have selected too many objects for an object prompt.
+You have selected too few objects for an object prompt.
+You have selected too many elements for an element prompt
+You have selected too few elements for an element prompt
+This account has been disabled by the Administrator.
+The password has expired.
+You are not allowed to change your password.
+There is no object to delete.
+The correct syntax for the Between operator is value1;value2
+The MicroStrategy Server version and the client version are incompatible
+The function Sleep could not be called in synchronous execution.
+This prompt is required and must be answered.
+Please enter a value in the text box.
+The connection with MicroStrategy Server has been lost. Please Log in again...
+The following file has not been registered correctly in the Web Server: M8dssxml.dll. Please ask the Administrator for more details.
+Please use the Administrator page to configure some projects.
+One or more of the servers may be down.
+Please select some elements before drill action
+You can not qualify on more than one item at the same time.
+The prompts for this report could not be displayed because they have already been answered.
+Error loading
+If you delete this folder you will also remove all its contents from the server.
+Error Message List
+Time
+Error description
+File
+ASP function
+API function
+Comments
+Level
+Your password has been changed.
+You are now connected to the project
+as user
+Change Password
+Your password has expired. You will need to change it in order to connect.
+Old password:
+New password:
+New password verification:
+Password Expired
+Please type in a password different from the one you had before.
+Please fill in all of the text fields displayed below:
+Update
+SEARCH MODE
+Load Default Values
+Go to my History List
+no more than
+no less than
+selections
+none
+Available
+Selected
+Find
+elements
+Metric
+Attribute
+Between (enter value1 ; value2)
+Exactly
+Greater than
+Greater than or equal to
+Less than
+Less than or equal to
+Like
+Not Like
+Value
+Is
+Highest
+Lowest
+Add
+Your selections
+Match
+All selections
+Any selection
+My selections
+Add to selections
+Search for:
+Execute Report
+Save Report
+Qualify on description of attribute
+Back to select hierarchy
+Pick a hierarchy
+Other hierarchies:
+Operator
+Qualify
+Select
+Elements
+Current Folder
+Subfolders
+Folder contents
+Please enter search criteria.
+List may be long.
+There are no entry points in this hierarchy.
+NEED HELP?
+What are Shared Reports?
+What is a document?
+How do I select a new project?
+You have reached the maximum number of messages per user. Please contact the Administrator.
+What are project defaults?
+Can you tell me more about project defaults?
+Can end users change the project default settings?
+The maximum number of messages per project has been reached. Please contact the Administrator.
+What are user preferences?
+What does "Apply to All projects" mean?
+How do I cancel and return Home?
+What does "Load Default Values" mean?
+What is the History List?
+How do I remove reports and documents from my History List?
+How can I sort my History List?
+What does "Waiting in queue" mean?
+What are My Reports?
+What is a report?
+How do I create a report?
+What does it mean to delete?
+After I delete an object, can I restore it?
+How can I determine that my request is ready?
+What purpose does the "Add to my History List" button serve?
+After you select a hierarchy on the left, you will be able to view the attributes of that hierarchy in this section.
+How do I change the style of this report?
+How do I rearrange the rows and columns in this report?
+How do I reveal the data I cannot reach by scrolling?
+How do I drill to other related data from this report?
+Go to step 2
+How do I perform a search?
+Others
+In
+What different kinds of prompts are supported?
+Note: Netscape 6, Internet Explorer 5 and newer versions of these browsers support DHTML.
+Too many rows were returned from MicroStrategy Server. The Administrator can change the maximum number of rows to be returned through MicroStrategy Desktop.
+The operators "Like" and "Not Like" do not support non-text data type.
+You have selected too many qualifications for an expression prompt.
+How do I obtain more details about my report or document?
+You have selected too few qualifications for an expression prompt.
+You have selected too many qualifications for a hierarchical prompt.
+You have selected too few qualifications for a hierarchical prompt.
+Why do I need a password?
+Why do I need to change my password?
+First time here, or just want to learn about this site?
+Online help
+What does it mean to log out?
+Can you tell me about the security subsystem?
+Why do I need to log in?
+What is a cookie and how are cookies used at this Web site?
+What does it mean to log in as a Guest?
+Why did my password expire?
+What does it mean to save a report?
+Some of the default answers in this prompt were not displayed.
+How can I save a report?
+Why am I unable to export?
+(Only text type allowed)
+Not exactly
+What are user privileges?
+Not between (enter value1 ; value2)
+What is this page for?
+How do I set up a MicroStrategy Server on this Web Server?
+What does it mean to publish a MicroStrategy Server on the Web?
+Go to Previous Report State
+Desktop
+Shared reports
+Create report
+Wait page
+Report results
+Administrator Page
+Password expired
+Job details
+If this window is still open after the export is complete, feel free to close it.
+Save as
+Delete
+Unable to Export
+User privileges
+The following file has not been registered correctly in the Web Server: M9win32.dll. Please ask the Administrator for more details.
+Return to:
+You are about to delete this object:
+However, this report can be exported to plain text by selecting this option either from preferences or when prompted before exporting.
+Save the report with any prompts embedded in the filter.
+Are you sure you want to delete this object?
+Delete confirmation
+The object does not exist in the metadata.
+Your request could not be processed due to a server error.
+Please try again. If the problem persists, contact the server Administrator.
+SQL statement:
+Report description:
+Template:
+Filter:
+[ ... ]
+Folder name:
+Total number of rows:
+Total number of columns:
+Report path:
+Document path:
+Message created:
+Message last updated:
+Document description:
+Finish time:
+Job is still executing.
+Save report as:
+Name of the report:
+Save the report as a static definition.
+Prompt without selections.
+Required
+Optional
+Create Folder
+Save confirmation
+Your report has been saved successfully.
+Click Continue below to go back to the original report.
+More options...
+Run your new report:
+Run the report just created, from its new location, under its new name.
+Saved reports:
+Browse other saved reports from the same folder as this one.
+There is a report with the same name as the new one.
+Overwrite
+Publish report as:
+Save prompt:
+Save report within:
+Contents of this folder:
+Create folder:
+You can overwrite it or save the new report with another name.
+There is a folder with the same name as the new one.
+Please use a different folder name.
+You have entered an invalid name.
+Select a different name and try again.
+Save report with all the embedded prompts.
+Simple
+Contains
+Begins with
+Ends with
+Location:
+In all folders
+Only inside folder
+Drill mode
+Find all objects
+Created
+The version of the MicroStrategy Server you are trying to connect to is not compatible with this version of MicroStrategy Web. It must be ## or higher.
+Between
+During the previous
+Created by any user
+Created only by me
+Description includes:
+and
+Advanced
+Search Page
+Check the name of the object.
+Consult the ## section.
+Date created/modified:
+Day(s)
+Hour(s)
+Year(s)
+Month(s)
+Search Help
+Search tips:
+Use the "Contains" criteria.
+Week(s)
+Your search for ## returned no results.
+Your search returned no results.
+Object type:
+Try ##advanced search### for more search options.
+Advanced preferences
+If you want to answer the prompt in the document again, please run the document from scratch.
+New search
+Search details
+object(s) found
+If manually, how many of the most recently run reports and documents do you want to keep available for manipulation?
+Note: These reports and documents will be available for manipulation even if they are not saved into the History List.
+Access denied
+The following privilege is required to access the resource you requested:
+Please contact the MicroStrategy Server Administrator to verify the required privilege is granted.
+Warning: This document could not be saved into History List.
+HISTORY LIST EXTRAS
+This prompt requires a value between ## and ###.
+This prompt requires a value no less than ##.
+This prompt requires a value no more than ##.
+This prompt requires a value no later than ##.
+This prompt requires a value no earlier than ##.
+Allow drilling with hyperlinks only
+Allow simple drill
+Allow drill anywhere
+You do not have the privileges to save reports in the "Shared Reports" folder.
+You do not have the privileges to save reports in the "My Reports" folder.
+The text you typed is too long. Please type it again.
+The text you typed is too short. Please type it again.
+You do not have sufficient permission to access the resource you requested. If the problem persists, please contact the MicroStrategy Server Administrator.
+Invalid name for security plug-in class
+Invalid user name/password. Please make sure the security plug-in is properly installed and registered.
+Not between
+The MicroStrategy Server is not available. It may be disconnected or down.
+Error details:
+MicroStrategy Web XMLAPI Error ID:
+The Web Server encountered an unknown runtime error.
+Please check the MicroStrategy Web log file for details.
+You cannot export this report because it has exceeded the limits that the Administrator has set for the maximum number of columns and rows to export to Excel, CSV, or HTML.
+Disable all drilling
+Warning: This report could not be saved into History List.
+Connected servers:
+Cluster
+Connect mode
+Loaded
+Busy
+Free
+Maximum pool size
+Action
+Show attribute form names
+Change
+Disconnect
+Connect
+Modify
+Unconnected servers:
+Initial pool size
+User manually connects Web to Intelligence Server
+Automatically connect to Intelligence Server when Web Server or Intelligence Server is restarted
+Show All Available Servers
+Refresh
+Add a server manually
+Server property detail
+Connected
+All available servers
+No MicroStrategy Servers are currently available.
+No MicroStrategy Servers are currently connected.
+No MicroStrategy Server has been disconnected recently.
+This action could not be performed because you do not have write access for this object or its parent folder.
+What is the purpose of a prompt?
+Hide All Available Servers
+ABOUT
+The folder you are trying to open does not exist in this project.
+The report you are trying to run does not exist in this project.
+The document you are trying to run does not exist in this project.
+System hierarchy
+Next project(s)
+Previous projects
+ASP version:
+XML API version:
+Browser version:
+MicroStrategy Web cookies:
+MicroStrategy Server version:
+Show graph reports by default in 'Grid and Graph' view mode
+Hide grid
+Record path of function calls that caused errors
+Up
+Down
+Error loading XML data.
+One of the XML nodes needed is not available. Please ask the Administrator for more details.
+The following file has not been registered correctly in the Web Server: scrrun.dll. Please ask the Administrator for more details.
+The following file has not been registered correctly in the Web Server: MSXML.dll. Please ask the Administrator for more details.
+Network internal error: failed to unpack message. It may be caused by incompatible versions of MicroStrategy Web and MicroStrategy Intelligence Server.
+Error in login
+Error in change password
+Error in shared reports
+Error in my reports
+Error in prompts
+Error in report results
+Error in History List
+Error in job details
+Error in save as
+Error in search
+Error in delete
+Error in create report
+Error in online help
+Error in logout
+The file does not exist.
+Error opening file.
+Error reading file.
+MicroStrategy Server error:
+Error loading projects
+Error reading prompt definition from MicroStrategy Server. Please execute the report or document again.
+Error loading prompt question.
+Show children reports
+Hide children reports
+Your second new password does not match the first. Please try again.
+Show children reports for documents
+Hide children reports for documents
+You are not allowed to change someone else's password
+There has been an error trying to read the help files. Try again and if you get the same problem contact the Web Server Administrator.
+Error finding the folder.
+Browsing
+Documents
+Invalid drill request. The request was cancelled.
+The drilling command could not be executed.
+Drilling
+Error executing the job.
+Error while displaying the prompts.
+Time before page refresh:
+Sort by:
+Warnings
+Errors
+Previous ##
+Next ##
+MicroStrategy Web is a product of
+Exporting
+Graph formatting
+Grid formatting
+GUESTS
+You don't have an account?
+You can enter this site as our guest. Just click below.
+Incremental fetch
+You can try to log in to this site using your Windows credentials. Just click the link below.
+Log in - log out - security
+Page-by
+Welcome
+If you are not ##,
+click here
+Preferences
+Pivoting
+Show report details
+Back to parent folder
+Printing
+Report and document execution
+Saving reports
+View Error log
+Select a day:
+Month
+Day
+Year
+Messages
+Remove from selections
+## minimum
+Always keep
+Always delete
+Prompt user on logout
+Prompt user on print
+Prompt user
+Number of objects to display per block:
+Shared reports and my reports
+Sorting
+Sort list
+Click on the column title that you wish to sort.
+Back to the report
+Please ask the MicroStrategy Server Administrator to link this Windows User account to a MicroStrategy Server User or ask them to set the Web Server properly.
+Please wait...
+Header file:
+Footer file:
+Use the advanced search to specify restrictions on dates, object types, and descriptions.
+The project defaults have been saved.
+Please enter a valid date.
+FOLDER DESCRIPTION
+Print options enable you to customize the appearance of the report prior to printing.
+Once the report is displayed, you can print the report using your browser's printing capabilities.
+In (enter value1; value2; ...; valueN)
+Error when answering the prompt. Please review your answer(s).
+Maximum number of rows per page:
+Maximum number of columns per page:
+Default number of rows per page:
+Default number of columns per page:
+The HTML template was not found in the MicroStrategy Server.
+Hide help
+Show help
+Hide this section
+Show this section
+Grid style
+Use the format stored in the report definition
+Use my selected default grid style
+Unknown report style
+Web Server
+Server busy timeout:
+Use the guidelines provided to size the report for printing.
+This prompt requires between ## and ### selections.
+This prompt requires at least ## selections.
+This prompt cannot accept more than ## selections.
+Grid rows per printed page:
+Grid columns per printed page:
+Error in document results
+Add...
+Request method
+Advanced preferences:
+Execute Document
+Technical support
+The results for this report are no longer available.  Please submit the request again.
+Determine automatically
+Re-execute Report
+Re-execute Document
+Error getting prompt answer XML.
+REPORT EXTRAS
+Show Advanced Information
+GRAPH STYLES
+Hide Advanced Information
+This prompt requires exactly ## selections.
+The contents of this page could not be displayed because the MicroStrategy Server is not running. Please contact the Administrator.
+Error in the Administrator page
+The following file has not been registered correctly in the Web Server: MAWeb.dll. Please ask the Administrator for more details.
+The Web Server encountered an error when refreshing the server clusters.
+The Web Server encountered an error when connecting to server:
+The Web Server encountered an error when disconnecting server:
+The Web Server encountered an error when retrieving the server cluster information.
+The Web Server encountered an error when checking for available MicroStrategy Servers and loading them.
+Name
+List view
+Large icons view
+Incorrect server name.
+German
+English (US)
+Spanish (Spain)
+French
+Italian
+Japanese
+Korean
+Swedish
+English (Great Britain)
+Spanish (Mexico)
+Default
+The attribute is locked
+Element list cannot be displayed
+metrics
+previous ## pages
+next ## pages
+first ## pages
+Copyright
+Refresh data
+This prompt allows only one selection.
+The export options enable you to customize the format and appearance of the data prior to exporting.
+Click Export to proceed with the exporting.
+Export Options
+Please type valid values separated by semicolon(s).
+Request timeout:
+Incorrect number format, please try again.
+Maximum number of elements for search:
+Search timeout:
+Please enter a server name in the text box at the bottom of the page.
+The search found more than ## objects.  Only the first ## objects will be displayed.
+Open folder
+Follow the instructions marked below by a red flag.
+Warning!
+Execute report
+The graph for this report is not available for MicroStrategy Web users.
+The contents of this page could not be displayed because the project is in idle mode. Please contact the MicroStrategy Server Administrator.
+This action could not be performed because you do not have write access for this folder or for this report.
+If the number of rows in your report exceeds the limit set by the Administrator, your report will be exported to plain text.
+This prompt requires at least 1 selection.
+This prompt cannot accept more than 1 selection.
+Creating new job
+Wrong parameters in the URL
+The following parameters are required in the URL:
+Applies to all projects except to those with an alias.
+Maximum title length:
+Applies to all projects.
+Maximum number of tabs per page:
+Project alias:
+Show tab for this project
+Project display
+MM/DD/YYYY
+HH:MM:SS PM
+Open new window when printing
+An expression or a group of elements from one attribute is equivalent to one selection.
+The XSL file for this document may be missing or may contain an improperly formatted XSL.
+Note: These options do not apply to prompts and filter editors containing predefined lists of elements or objects.
+More...
+.
+Please select one item for qualification.
+Error in report
+Error in document
+This action could not be performed because you do not have object creation privilege.
+Export numeric values as:
+Numbers
+Text
+Refresh report:
+Retrieve data from the latest valid MicroStrategy Server cache
+Re-execute against the warehouse
+Hide totals
+Show totals
+This report exceeded the number of cells allowed by the MicroStrategy Server XML governor.
+Summary
+Print the grid and the graph on the same page
+Filter on Selections
+Column headers:
+Expand the following page by fields when printing:
+Maximum number of rows to export to plain text:
+Maximum number of columns to export to HTML or plain text:
+Prompt me on export
+Show options when exporting
+Export grids to:
+Export graphs to:
+When exporting the grid with the graph, export the grid:
+With formatting
+Without formatting
+In plain text
+Portuguese (Brazil)
+Use hyperlinks on report to:
+Drill immediately
+Open pop-up menu
+View prompts:
+All on one page
+Each on a separate page
+Always display required prompts first
+Return to the Administrator Page
+An error occurred in the report
+An error occurred in the document
+Maximum number of series and categories:
+Series:
+Categories:
+Match case
+Location
+Delimiter:
+Comma
+Tab
+Semicolon
+Space
+filter(s)
+template(s)
+Previous
+Next
+Steps ## - ### of ####
+Return to report
+First ## steps
+Last ## steps
+or
+Back to Prompt
+Summary of your selections
+Error in folder contents
+Prompt not answered
+Your selection:
+Prompt ##
+The default selection is:
+Export documents to:
+The results of scheduled reports get added to the History List.
+Outline
+The value of each preference must be equal to or less than the value of the preference directly above it.
+Show Printable Version
+My Subscriptions
+View a list of the reports to which you are subscribed.
+Subscribe
+To subscribe to this report, please select a schedule and personalization below.
+Are you sure you want to delete this channel?
+With the following personalization:
+Add subscription
+You are subscribed to the following schedules for this report:
+Schedule
+Personalized
+Unsubscribe
+Edit
+Subscriptions
+Choose a schedule:
+The new report will overwrite older versions of itself.
+This option is automatically turned on for users without access to the History List.
+You have ## ###subscription(s)#### to this report.
+Allow the user to change this preference
+Merge
+Repeat
+The SQL generation is not complete.
+Click 'Show Printable Version' to show how the report will look when printed.
+Not
+Rank between
+Exclude highest
+Exclude lowest
+Rank not between
+Rank equal to
+Rank not equal to
+Report base level
+Report level
+Default level
+Unknown level
+If you want to see the report results, switch the view mode to Grid. Please contact the Administrator for more details.
+The Grid Preferences for the maximum number of rows will be ignored for this report.
+If you wish to answer these prompts again, please click the Re-prompt link next to the report.
+Child metrics
+If No, then:
+You have ## ###subscription(s)#### to this document.
+Remove this column
+Error in My Subscriptions
+Are you sure you want to overwrite this subscription?
+Overwrite confirmation
+You are about to overwrite this subscription:
+Report limit:
+Java Virtual Machine
+Your information source credentials have been changed.
+You do not have any subscriptions.
+Project list:
+Show all the projects connected to the Web Server before the user logs in
+Log in, then show the projects accessible by the supplied login
+The password supplied is incorrect or the user name and password you provided do not access any of the projects currently available to the system.
+Delete template
+Delete filter
+Information not available
+Template details:
+Your template has been saved successfully.
+Your filter has been saved successfully.
+There is a template with the same name as the new one.
+You can overwrite it or save the new template with another name.
+There is a filter with the same name as the new one.
+You can overwrite it or save the new filter with another name.
+Reports
+Addresses
+Services
+About
+Help
+Your request is being processed.  Please wait...
+MicroStrategy Narrowcast Server is a product of
+Options
+Quick Search
+Service Folders
+Error Code
+Error Description
+Error displaying folders
+Up one level
+Error displaying child folders
+Description:
+Service
+Address
+Personalization
+Metrics
+Save changes
+New Users
+User name:
+Password:
+You can create a new account. Just click below.
+Create a new account
+Choose an address:
+Create new address
+An error has occurred on this page.
+Error retrieving addresses
+You do not have any compatible addresses.
+Error retrieving schedules
+There are no schedules available.
+(No service description available)
+Error displaying subscriptions
+There are no services in this folder.
+There are no subscriptions to this service.
+QUICK LINKS
+ANNOUNCEMENTS
+Back to Home
+Back to Addresses
+Back to Reports
+Back to Services
+Error during login
+Either the User name or Password was incorrect. Please enter them again.
+Either the User name or Password was blank. Please enter them again.
+Error during address operation
+Please try again or contact your system administrator.
+One or more address fields were blank. Please try again.
+Error during subscription operation
+Error while creating a new account
+The Password and Confirm password did not match. Please enter them again.
+Either the User name, Password, or Password hint was blank.
+Error creating new user account
+Create New User
+Confirm password:
+Password hint:
+Cancel Request
+Your request has been cancelled.
+Click on a tab above to continue.
+No addresses created
+Retrieving schedules for subscription
+Retrieving user addresses for subscription
+Retrieving service information
+Retrieving services in folders
+Retrieving user subscriptions
+Retrieving prompt for subscription
+Updating user subscriptions
+Updating user addresses
+Creating new user
+Validating user login
+Retrieving user addresses
+Retrieving folders
+Processing...
+Confirm new password:
+Confirm address deletion
+Confirm subscription deletion
+Are you sure you want to delete the address?
+Are you sure you want to delete the subscription(s) to the following service(s)?
+User options
+Your options have been saved.
+Locale:
+JavaScript:
+Use JavaScript?
+Status:
+Error retrieving reports
+Error displaying report
+Report:
+Created:
+Expires:
+Report folders
+Pending
+This report is not currently available.
+There was an error while retrieving your reports.
+There was an error while displaying this report.
+Attachments
+Retrieving report
+There are no reports in this folder.
+There are no schedules defined on this project.
+Save personalization as:
+Error saving personalization
+There was an error while saving your personalization.
+Forgot your password?
+Enter your User name and click "Display password hint."
+Display password hint
+Your password hint is:
+Error retrieving password hint
+There was an error while retrieving your password hint.
+Back to Login
+Retrieving password hint
+Updating user profile
+Retrieving address information
+Saving subscription information
+Please enter an address name.
+Please enter an address name without the following characters:
+Please enter an address.
+Please enter an address without spaces or the following characters:
+Please enter your address in the form of username@server.type as in the following example: jsmith@abccompany.com
+The following file has not been registered correctly in the Web Server: M9StrUtl.dll. Please ask the Administrator for more details.
+Thank you for using MicroStrategy Narrowcast Server.
+There was not a file submitted to the Web Server.
+This User name is already taken. Please enter a different User name.
+The file contains an invalid extension. The file extensions allowed are: ##
+Error updating user profile
+There was an error while updating your user profile.
+The old password is incorrect.  Please enter it again.
+The new password and confirmation did not match. Please enter them again.
+Error retrieving data
+There was an error while loading XML. Please contact the system administrator.
+MicroStrategy Narrowcast Server 7.1
+Build
+System Administrator Contact Information
+E-mail:
+Phone:
+Enter a Password hint that will remind you of your password.
+The PIN and confirmation did not match. Please enter them again.
+Save template within:
+Save filter within:
+Save template as:
+Save filter as:
+Report
+Template
+Filter
+RUN FILTER + TEMPLATE
+Run this filter:
+with this template:
+Select a template
+Select a filter
+To sign up for an account, please enter the following information below.
+Required information is noted with a red asterisk (*).
+Please enter a user name and password for your new account.  Make sure you enter your password twice.
+Enter a hint as closely associated to your password as possible.
+Please enter an e-mail address.
+(for example: name@company.com)
+You're done! Click the "Create a new account" button below.
+Please enter your login credentials for the following Information Source(s).
+One or more errors were encountered when processing your request for a new account.
+Please follow the red instructions below and try again.
+The password hint was blank. Please enter it again.
+Change my passwords
+You may change one or more of your passwords below.
+Your account login.
+You're done! Click the "Finish" button below.
+Finish
+One or more errors were encountered when processing your change password request.
+Either the old or new password was blank. Please enter them again.
+Import filter:
+Allowed file extensions:
+Note: Separate each extension with commas (i.e: ext1, ext2, ext3).
+Maximum size of the files to upload:
+Prompt details:
+Please enter the required user name(s) and password(s) below.
+Get Contents
+You specified a file that exceeds the maximum size (## Kb) allowed by the Administrator.
+Warning: Not all drill paths appear because of a governing option in MicroStrategy Desktop.
+The contents of the file does not meet the format required to process its data.
+Deliveries
+Until:
+Click a document name to the left to view that document here.
+Send to my Reports page
+Send to:
+Every:
+Sign up for a Service
+Browse a list of prepared services available to all users.
+View your scheduled reports.
+Specify your contact information for your subscription deliveries.
+Customize these screens according to your browser and viewing preferences.
+Subscribe to:
+Personalize your subscription
+Personalize your subscription to this service by answering the question(s) listed below.
+Finished!
+To remove a subscription, you must select a checkbox, and then click Unsubscribe.
+To remove a report or document from History List, you must select a check box, and then click Remove.
+Scheduling
+SUBSCRIBED REPORTS
+Your user session has been lost, and you have been automatically logged out.  Please log in again.
+Deactivate my account
+Your account has been deactivated.
+Are you sure you want to deactivate your account?
+Once you deactivate your account, you will no longer receive services or be able to log in. Your account can only be reactivated by the portal administrator.
+Please choose a language.
+Enabled (subscription will be delivered on the specified schedule)
+Language:
+Change information source credentials
+Change credentials
+One or more errors were encountered when processing your request to change information source credentials.
+A3 11.69" x 16.54"
+SDK version:
+Transactor Server:
+Load File
+Channels
+Active
+Add a new channel
+Active Channel
+Inactive Channel
+Delete the Channel
+Create New Channel
+Edit Channel
+To create a new channel, you'll need to perform the following steps:
+Publish a folder of services for the channel.
+Give the channel a name.
+Do not show this page again.
+Site Name and Description
+Enter a name for this new channel:
+Enter a description for this channel (optional):
+Error source
+Select the elements you want to keep and press the Filter button.
+If you do not select any elements, all the data will remain in the new report.
+Filter
+Hide filter on selections
+Show filter on selections
+Hide report menu
+Show report menu
+This account has been deactivated. Please contact the administrator to reactivate this account.
+The User name was blank. Please enter it again.
+The Password was blank. Please enter it again.
+Spanish
+English
+Maximum number of elements to import:
+Shared Filters
+Shared Templates
+My Objects
+Import filter from a file:
+Enter a new address:
+Device Types
+rename ...
+definition ...
+Device Folders
+edit device folders ...
+Rename
+Large icon URL:
+Small icon URL:
+Address format:
+E-mail
+This is the standard format for Internet e-mail addresses.
+Format: xxxx@xxxxxx.xxx
+Numeric
+Display fields:
+Edit fields:
+Address Name
+Address Value
+Style
+PIN
+Delivery Block
+Device Type Name:
+Confirm Device Type Deletion
+Are you sure you want to delete Device Type '##'?
+New Definition
+Definition
+Available:
+Selected:
+No folders selected.
+Save the filter as a static definition.
+Save any prompts within the filter.
+Save the template as a static definition.
+Save any prompts within the template.
+Your report designer chose to have a shopping cart and text file style represent this prompt.
+Because you have DHTML turned off, you cannot use the import text file feature.
+You may use the shopping cart to answer this prompt.
+This action could not be performed because the project is locked.
+Automatic page-by
+You cannot export this report because it has exceeded the limits that the Administrator has set for the maximum number of columns and rows to export to Excel, or HTML.
+However, this report can be exported to Excel with plain text, CSV or plain text by selecting this option either from preferences or when prompted before exporting.
+Create new device type
+Use this format for a string of numbers only.
+Format: ########
+No device types have been created.
+Confirm PIN
+Inactive
+Please enter a numeric value for the address in the following form: #########
+Help with:
+Either the user name or password was incorrect for one or more information sources. Please try again.
+You do not have any reports.
+Select a schedule for this service to be delivered.
+Select a schedule from the list below.
+Select where you would like this service to be delivered.
+To sign up, complete the following steps:
+Select a service.
+Specify a schedule and an address.
+Personalize your service content (if applicable).
+Personalize your service content.
+On the following pages you can personalize the content of this service by providing answers to the questions. Click Next to proceed.
+If your hint does not assist you in remembering your password, contact your System Administrator so your password may be reset.
+OK
+Success!
+Your subscription has been saved successfully.
+Font type:
+Save Selections As (optional)
+Make new selections
+Choose from this list of previously saved selections:
+Choose one:
+Apply these selections
+The project ## could not be found in the server ###.
+Level:
+(DISABLED)
+Administrator information:
+After modifying the portal repository connection, you need to reconfigure the site information.
+After modifying the Subscription Engine location, you need to reconfigure the portal repository connection and the site information.
+After: ## days.
+Change Name and Description
+Configuration
+Configured?
+Database connection name:
+Database connections
+Database connections:
+Default Device:
+Default language:
+Default new users locale:
+Default use DHTML:
+Disable
+Do you want to continue?
+Document repository:
+Enable creation of new users:
+Enter the name of the server running the subscription engine:
+Enter an unique name and description of this portal.
+Interface settings:
+Information Source
+Information Sources
+Logging level:
+Mandatory
+Portal Repository
+Metadata DB alias:
+Metadata DB connection:
+Metadata tables prefix:
+New users expiration:
+No expiration
+On:
+Or mirror an existing site:
+Telephone number:
+Please select how users will log in to the information sources of this project:
+Portal Configuration
+Portal Device:
+Click the button to configure this site:
+Object Repository
+Project Settings:
+Provide credentials
+Recently used portal subscription engines server locations:
+Select a different portal
+Select portal
+Select an existing site definition or click Add a new site definition.
+Setting
+Portal Devices
+Portal Information
+Site Preferences
+Subscription Book Repository
+Subscription Engine Location
+Subscription Engine properties
+Tables prefix:
+Temp files directory:
+MicroStrategy Narrowcast Server Portal Designer allows administrators to easily create Web subscription portals where users can subscribe to Narrowcast Server services through a Web browser.
+This Portal is not ready to be accessed by end users. In order to make it available, all of the following must be configured:
+Use project credentials
+Welcome to MicroStrategy Narrowcast Server Subscription Portal Designer.
+Overwrite report font
+Select and prioritize the fonts for the interface.
+MicroStrategy Web will apply the first font in the prioritized list that is available on the end user's machine.
+There are no channels defined for this site
+Select the Channels Folder
+The value for the ## is not valid. If this value is not properly set, some actions of the portal designer will fail.
+Please verify that the id on the #1 file point to valid Locale in the Project repository.
+To fix this issue, please continue in the ## page.
+The default values for the ## are not valid. Please verify that the ids on the #1 file point to valid objects in the Project repository.
+Some or all of the default ## had invalid definitions. Please verify that the services folders on the ##  file point to valid folders in the Project repository.
+An unexpected error occurred while setting the defaults. Please refer to the ## for more details.
+A site was created successfully in the MD, however some errors were detected while trying to set the default values:
+The database connection "#1" does not point to a database containing portal repository tables with the prefix "#2".
+Do you wish to create them?
+Metadata Tables Creation
+Default Site Name
+Site with default values
+Use a New Site:
+Select Portal Device
+Select Default Device
+Please provide a name for the Site Definition.
+Please enter a name without the following characters: 
+Please enter a description without the following characters: 
+Please provide the name of the machine running the Subscription Engine.
+Please provide a directory for the temp files.
+Please enter a path for the temp files directory without the following characters: 
+Please enter a valid number for the number of days.
+The name of the machine cannot contain the following characters: 
+Select a Device Style
+To find the style of your device, complete the following steps:
+Select a category.
+Select a style.
+Click on a device category for:
+Click on a device style for:
+There are no device styles in this category.
+Device style information not found.
+No styles available.
+No validation
+Address value can be any text string.
+Format: any numbers and the following characters - ( )
+Please enter a value for the address in the following form: any numbers and the following characters - ( )
+Engine Configuration
+Site Management
+Select the database connection for the Portal Repository.
+Select the database connection for the Object Repository.
+Select the database connection for the Subscription Book Repository.
+Use same database connection for the Subscription Book Repository.
+Add a new database connection
+Add a new site definition
+Site Definition
+Select the site definition to be used by this server: 
+Database
+You must provide a name for the machine running the Subscription Engine
+Create Your Start Page
+Error while creating your page
+You have not created your start page. Please follow the steps below.
+Choose a title for your page:
+Select a style for the layout:
+Select the component you want to see on each panel:
+Save My Start Page
+See My Page
+My Start Page
+First panel:
+Second panel:
+Third panel:
+Error deleting user profile
+The profile can't be deleted because it's shared by more than one subscription
+There are no Information Sources defined for this site.
+View existing subscriptions for this service
+Portal Management
+The following Subscription Portals have been detected on this web server.
+Select a Portal below to edit its configuration.
+Create New Subscription Portal
+Create New Portal
+Portal name
+To create a new subscription portal, specify the name of the virtual directory:
+HISTORY LIST DESCRIPTION
+Please enter a default address.
+Format: any text or numeric characters
+Please enter an address in the following form: any text or numeric characters
+Each site definition is distinguished by its unique name and description.
+By creating a unique name for each definition you will know which portal contains which properties the end user will actually see when they access the  Virtual Directory.
+It is best to provided a thorough description of the site definition, so any designer will know at a glance what properties the site contains.
+The concept of a "site definition" is set of properties that define what the user will actually see through the browser when they access the URL of any given virtual directory.
+A portal can use one of any site definitions.
+The following list contains site definitions that exist in the current portal repository.
+It is possible for two or more portals, on the same or different machines to point to the same site definition.
+You may either select an existing site definition or create a new site definition.
+Select an existing site definition to be used by this server, or click Add a new site definition.
+Integration with the delivery engine enables users to specify service personalization, schedules and the device where they would like to receive the information.
+The Portal Designer allows administrators to set default settings such as language and DHTML usage.
+As the Portal Designer you have the following responsibilities:
+configure and manage the subscription portal to allow end users to subscribe to a variety of services on the Web
+configure data sources and portal layouts
+publish services and device types
+select default devices for the subscription portal
+specify information source properties and default portal preferences
+The Portal Designer provides you with the capability to:
+configure the subscription engine
+select or edit the portal configuration
+create or select the site definition
+configure static and dynamic service offerings
+Click NEXT to begin.
+The Object Repository stores scheduling information, service and device definitions.
+The following table contains existing database connections where data may be stored.
+You may select an existing connection or create a new alias in the current portal repository.
+For more information on database aliases refer to the readme file that accompanied the software.
+If the same connection is going to be used for the Subscription Book Repository, select the check box and you will advance directly to the channels screen.
+The Subscription Book Repository stores subscription data including end users, addresses, personalization and subscription sets.
+A typical installation will install the subscription engine on the same machine (i.e., localhost).
+The Portal Repository stores configuration settings that define the end user's subscription portal interface.
+This information includes:
+site names and descriptions
+channel settings
+published services
+device folders
+default preferences
+The Database Alias is used to define database connectivity for the subscription engine.  This allows the subscription engine to execute the indicated queries originated by the subscription portal.
+You may select an existing Database Alias or create a new one.
+Select an existing Database Alias where the Portal Metadata is located:
+The Site Management Wizard will assist you through the various functions to successfully configure the site definition.
+The site definition contains the list of properties, configurations and settings that are used by a portal to define the layout and content displayed for the end user.
+This wizard consists of the following topics:
+Selecting, editing, and creating a site definition
+Publish services for the site definition
+Selecting, editing  and publishing device types
+Specify information sources module properties
+Specify default preferences for the site definition
+The Portal Management Wizard will assist you if you need to edit an existing portal configuration or create a new subscription portal.
+Portal detection and editing
+Create new subscription portal
+The concept of "portal" refers to the actual set of ASP pages that are installed on the Web server machine and the virtual directory that points to those files.
+The following subscription portals have been detected on this web server.
+Select the portal you would like to work with.
+Click remove to delete the Portal from list of available options.
+Suppose you have created several portals, one for Managers, another for Directors and a third for Associates.  However, you now need to create one for Engineers.
+There is not a subscription portal that is configured exactly to the specifications you need.  You can create one from this location by entering a portal name and the location of the portal.
+The following list contains sites that already exist in the current portal repository.  It is possible for two or more physical sites, on the same or different machines to point to the same site definition.
+You may select one of the existing site definitions or create a new site definition.al repository.
+Defining a new channel consists of selecting a Folder from a series of existing services within the Narrowcast repository, assigning a name and description to the channel and publishing it to the Subscription Portal.
+Select a Folder from the table below and click Next.
+When you publish a new Channels folder you are publishing all the contents within that folder.  You may opt to change the folder name to better reflect the contents of the folder.
+A description, although optional, can be entered to provide a better idea of what this channel would be best suited for.
+A check box is provided to indicate if this channel and its properties will be available to the end users.
+Channel Name and Description
+A device is a specific means of delivering subscription content to the end user.  Each address that a user creates in the portal is designed to use only one device, such as Outlook 98 or Outlook 2000.
+The device type is a group of devices for the user to select how they will receive the content. When a new site definition is created four standard device types will be created and configured automatically.
+The types are:
+Personal Digital Assistants
+Mobile Phones
+Pagers
+Electronic Mail
+These default devices are created when MicroStrategy Narrowcast Portal Designer is installed and the folders associated with these devices are stored in the Narrowcast Repository.
+From this wizard you have the following options available:
+rename a specific device type
+modify a device type definition
+delete a device type to be supported by the portal
+edit the device type folder
+create a new device type
+For each new device type definition, you will need to specify the device type name, the large and small icon URL, the address format and which fields will be used when displaying and editing.
+This screen allows you to add or remove elements from the folder for this specific device type.
+Elements on the left are available, but not active on this device type.  Elements on the right are currently selected for this specific device type.
+In this context, a device is a specific way of delivering content to the end user.  The defaults provided are "generic e-mail client" and "portal device."  You may change the defaults if you have other needs.
+Click on the appropriate device to change the selection.
+For each information source you will need to specify whether users will need to enter their authentication information, such as a user name and password.
+If the project credentials are used, the authentication mechanism will be skipped and the users will be transferred to the information they have requested.
+There are also the options to require user credentials or to make them optional.
+The default value is to not allow users to enter any authentication for any information source.
+You will need to change the requirement if you would like to have authentication measures in place.
+Select the settings for the remainder of the site properties.
+The site preferences control how the default values are set for users of the portal interface.  You may change any of the settings by modifying the information that appears on this page.
+Congratulations! You have successfully configured this site!
+Click the Finish button to launch the browser and login to this portal.
+If you notice any changes that need to be made use the Portal Designer's Portal Management tool to reconfigure the site definition or preferences.
+Origin
+Portal
+Admin
+User IP Address
+Error creating subscription
+Please make sure you have a default profile for the question object.
+Error retrieving question object information from MicroStrategy Narrowcast Server.
+Trace
+Information
+Warning
+Use these selections by default
+Session variables
+Associated site
+Not applicable
+Please provide a name for the portal.
+Are you sure you want to delete this device type?
+Are you sure you want to delete this portal?
+Are you sure you want to delete this site?
+Please provide a name for the JData Connect server
+Please provide a name for the database connection
+Please provide a name for the ODBC data source
+Add database connection
+ODBC data source name:
+Test database connection?
+Overview
+The site definition you selected uses an invalid database connection for the Subscription Book Repository. Please edit the site definition to use a valid database connection or select a different site definition.
+The site definition you selected uses an invalid version of the Subscription Book Repository Tables. Please edit the site definition to use a valid repository or select a different site definition.
+The site definition you selected uses an invalid database connection for the Object Repository. Please edit the site definition to use a valid database connection or select a different site definition.
+The site definition you selected uses an invalid version of the Object Repository tables. Please edit the site definition to use a valid repository or select a different site definition.
+Incorrect database connection definition for portal repository tables.  Please select another one.
+Database tables exist, but are not the correct version.  Please enter another prefix.
+Could not establish a connection to the Portal Metadata.  Please verify the information you entered.
+Error saving database alias connection
+An unexpected error occurred while setting the new database alias connection.
+There are no database connections defined.
+This page allows you to create or edit new channels for this site definition.
+Please provide a name for the Channel.
+Please select the devices supported by this site.
+Please select the default device that will be used when creating new addresses and the default portal device for sending services to the "My Reports" page.
+Please select the values for the remaining site properties.
+Services Configuration
+Static Subscriptions
+Dynamic Subscriptions
+Storage
+Pick Alternate Question
+MicroStrategy Subscription Portal will publish the services in the folder you select.  However, some services require additional configuration.
+Please specify the default configuration for these services below.
+To configure a specific service individually, click the # button below.
+Configure Services
+Static subscription sets
+Dynamic subscription sets
+Hide page-by questions from subscribers
+Answer page-by questions with:
+Hide unconfigured subscription set from subscribers
+MicroStrategy Narrowcast Server Portal Designer enables the configuration of subscription data storage at the individual service level.
+You will be asked to select the service you wish to configure and then you will be shown the static and dynamic subscription sets associated with this service.
+For both static and dynamic subscription sets, you configure the question object for the service selected.
+In addition, you can add additional question objects to prompt subscribers for information.
+For dynamic subscription sets, you will configure the storage of the subscription data.
+You have configured the following service(s). Click 'Edit' to edit the existing configuration or click on the folder name to configure other services in that folder.
+To configure another service, click # below.
+This service has one or more static subscription sets associated with it.  Subscribers in these subscription sets will be stored in the Subscription Book Repository.
+Static subscription sets default settings
+To define a single configuration for all static subscription sets, click below.  This default will be used by all sets for this service.
+Configured:
+configure
+Configure static subscription sets individually
+To configure a static subscription set individually, click on the configure link next to the set.  Subscription sets that have not been configured will use the system defaults.
+ This service does not contain any static subscription sets.
+Page-by questions will not be shown to subscribers.  However, you may select an alternative question that will be shown to subscribers.
+Please select a question object below.
+Please select the location for the answers to this question.
+You can either:
+Use the #
+OR use one of the following storage mappings:
+Tables
+Add a new storage mapping
+Clear
+Please select the database tables where the information will be stored.
+Data Warehouse:
+select database connection
+Filter columns by:
+Available Tables:
+Selected Tables:
+Please select the table columns where you wish the information to be stored.
+Drag and drop components from the left to the table columns on the right.
+Answer Components
+General:
+Subscription Components
+Configuring:
+Default Service Configuration
+You have selected to configure the above service.  You can either  keep the default preferences listed below or specify additional settings for individual subscription sets in the next steps.
+Service Defaults
+Page-by Questions
+Additional Questions
+You can prompt subscribers for additional questions by editing the information below.
+This service contains the following page-by question:
+You have chosen to display this question object:
+in place of this page-by question:
+Warehouse Storage
+Change selections
+Related links
+Sign up for this service again
+Sign up for another service
+View all your subscriptions
+Please pick a profile for this question object.
+JData Connect server name
+You have successfully created your account.
+If you forget your password, this hint will be displayed and upon seeing this hint again you should be reminded of your password.
+Export all values as text
+Select Service
+Select Storage
+Select Tables
+Select Columns
+Configure Subscription Set
+Select Question
+Exit Configure Services
+Please select the service you wish to configure.
+Question
+Publication(s)
+Dynamic subscription sets default settings
+This service has one or more dynamic subscription sets associated with it. Subscribers in theses subscription sets will be stored in the warehouse using storage mappings.
+Save this storage mapping as:
+To define a single configuration for all dynamic subscription sets, click below. This default will be used by all sets for this service.
+Configure dynamic subscription sets individually
+To configure a dynamic subscription set individually, click on the configure link next to the set. Subscription sets that have not been configured will use the system defaults.
+Additional Question
+The question you have selected, cannot be used in the Subscription Portal.
+Please go back and select a different question.
+The answer to the question you have selected, can be stored either on the subscription book repository or on some other location using a storage mapping.
+If you select to store the answer in the subscription book repository, the answer itself will be stored there.
+If you select to use a storage mapping, a Preference ID of the question will be stored in the subscription book repository, and the answers are stored based on the storage mapping definition.
+The answer to the question you have selected, has to be stored using a storage mapping. This is because it prompts the user to select from a list of elements, and the user may pick more than one.
+When you use a storage mapping to store the answers, a Preference ID of the question will be stored in the subscription book repository, and the answers are stored based on the storage mapping definition.
+Please select the storage mapping to use with this question:
+Database connection
+Custom value:
+custom
+Add a question:
+Browse
+Answer to another question:
+Subscription Set Storing Mapping
+New Storing Mapping for #
+This service does not contain any dynamic subscription sets.
+Site Preferences Overview
+Edit Portal Configuration Overview
+If it has been installed on a separate machine enter the name of that machine here.
+site definition
+Enter the database connection information:
+Personalize your service content. On the following pages you can indicate what you want to be the content of this service by answering the questions. Click Next to proceed.
+Site Preferences Overview
+A channel is a visual element within the subscription portal.  It presents the project information in a way so navigation is easier for the end user.
+Each channel is mapped to one folder of services in the Object Repository.
+There was an error while trying to establish a connection to the subscription engine.  Either the server name is incorrect or the subscription engine is not running on this server.  Please locate the subscription engine and enter the location again.
+Defining a new channel requires selecting a folder from the Object Repository.  Select the channel folder to be displayed.
+This Service does not contain any page-by questions to configure.
+Services Configuration Overview
+Configured
+There was an error attempting to validate the database connection.  (#)  Please verify your information and try again.
+The connection to the subscription engine could not be established
+The database connection definition provided by the administrator is incorrect
+Warning!  If you delete this database connection, the objects using it (i.e., Object Repository, storage mappings, etc.) will become invalid.
+Wrong datasource name
+Do you wish to delete '#' ?
+Delete a database connection
+-- select a database connection --
+Preference ID for: #
+Answer for: #
+User does not exist.
+Choose a title for your page:
+Create Your Start Page
+CSV file format
+Error while creating your page
+Export metric values as text (Excel only)
+First panel:
+However, this report can be exported to Excel with plain text, CSV or plain text by selecting this option either from preferences or when prompted before exporting.
+Maximum number of columns to export to Excel:
+Maximum number of rows to export to Excel with plain text or CSV:
+Save My Start Page
+Second panel:
+See My Page
+Select a style for the layout:
+Select the component you want to see on each panel:
+Third panel:
+You have not created your start page. Please follow the steps below.
+My Start Page
+Cache Storage Mechanism
+Home
+Display summary page for personalized services:
+report
+document
+PDF
+Shrink graph to fit
+Export grid and graph on the same page
+Maximum number of columns to export
+Maximum number of rows to export
+Accessibility mode:
+Enable screen reader compatibility
+Skip Navigation
+Ascending
+Descending
+Clear Sorts
+Sort...
+Move
+To Rows
+To Columns
+To Page Axis
+Left
+Right
+New...
+Save As...
+Page Setup
+Browse Parent Folder
+Send To
+View
+Design Mode
+Grid View
+Graph View
+Grid and Graph
+Reset
+Page Axis
+Formula
+Object Browser
+Toolbars
+Data
+Group
+Subtotals
+Attribute Display
+Rename/Edit Objects...
+Add Unit
+Reset Data
+Reprompt
+Format
+Advanced Formatting...
+Merge Column Headers
+Grid Style
+Reset Formatting
+Window
+Report Details
+This table displays the requested report results
+This table displays the requested folder contents
+Header and Footer:
+Use report settings
+Use custom settings
+(edit)
+Header / Footer Editor
+Header:
+Footer:
+Left:
+Center:
+Right:
+Show Subscribed Reports
+Hide Subscribed Reports
+Show Related Reports
+Hide Related Reports
+Show Run Filter + Template
+Hide Run Filter + Template
+Show History List Extras
+Hide History List Extras
+Show Search Tips
+Hide Search Tips
+LDAP Authentication
+Database Authentication
+Export headers as text (Excel only)
+Encrypt user credentials
+Report Objects
+All Objects
+The MicroStrategy Intelligence Server ## has exceeded the configured memory limit.  Please contact your administrator.
+Adjust font to
+of original size
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+S
+M
+T
+W
+T
+F
+S
+reports
+documents
+This prompt requires a value between ## and ### characters.
+This prompt requires a value of no less than ## characters.
+This prompt requires a value of no more than ## characters.
+This prompt requires a value of exactly ## characters.
+Dynamic HTML:
+Add to History List
+Report Filter
+View Filter
+Add Rows/Columns
+Add View Filter Condition...
+Definition:
+Home
+REPORT FILTER
+VIEW FILTER
+REPORT FILTER DETAILS
+FILTER
+Show Pivot Buttons
+Add Condition
+Hide
+Auto-Apply changes
+Report Filter Details
+PDF Options
+Unable to export to PDF
+You cannot export this report to PDF because it has exceeded the limits that the Administrator has set for the maximum number of columns and rows to export to PDF.
+Provide user option
+Show options when exporting to PDF
+Insert page number
+Insert number of pages
+Insert date
+Insert time
+Insert project name
+Insert report name
+Insert template name
+Insert filter name
+Load Report Values
+RESULTS
+DRILL - Advanced
+DRILL
+SORT
+SUBSCRIPTIONS
+FILTER ON SELECTIONS
+PAGE AXIS
+Execute Report
+none
+Add to Grid
+Add to Filter
+- none -
+Objects:
+Folders:
+FORMAT
+FONT
+NUMBER
+BORDER
+ALIGNMENT
+Apply
+All Subtotals
+Header
+Subtotal Names
+Subtotal Values
+Sample:
+ABCabc
+Effects
+Bold:
+Italic:
+Underline:
+Strikeout:
+Type
+Negative numbers
+Category:
+Decimal places
+Currency symbol
+Currency position
+Use 1000 separator
+Fixed
+Currency
+Date
+Percentage
+Fraction
+Scientific
+Custom
+None
+All
+Line
+Color:
+Top:
+Bottom:
+Fill Color
+ABCabc ABC abc
+Text Alignment
+Horizontal
+Center
+Justify
+Vertical
+Wrap Text
+This graph type does not support legends
+GENERAL
+TITLES
+AXES
+B
+I
+U
+S
+Graph Type:
+Show Legend:
+Show Data Values:
+Show Series Axis Title
+Show Y Axis Title
+Show Category Axis Title:
+X Axis Title:
+Show Y1 Axis Title:
+Show Y2 Axis Title:
+Show Series Axis Values
+Show Y Axis Values
+Show Group Axis Values
+Show Category Axis Values
+Show X Axis Values
+Show Y1 Axis Values
+Show Y2 Axis Values
+Show Title:
+Show Subtitle:
+Show Footnote:
+Use Manual Setting for:
+Maximum Value:
+Minimum Value:
+Grid Interval:
+Close
+PAGE BY:
+Select object browser path
+Custom Group
+Consolidation
+## item(s) found
+Subscribe...
+Print...
+Export...
+PDF...
+Add Report Objects...
+Drill...
+Filter on Selections...
+Graph...
+Format
+Report
+Show Totals
+Clear All
+Normal
+Total
+Average
+Count
+Geometric Mean
+Maximum
+Median
+Minimum
+Mode
+Product
+Standard Deviation
+Sum
+Variance
+Custom:
+All Subtotals
+Grand Totals Only
+None
+Show Banding
+Totals
+Save Report
+Cancel
+Drag to add to report
+Right-click for more options
+Apply
+Apply Style
+Document Details
+Drag object to perform pivot
+Edit Report
+Attribute
+Attribute:
+Custom Group:
+Filter
+Filter:
+Metric
+Metric:
+Consolidation:
+Add
+Find:
+1. Sort by:
+2. Then by:
+3. Then by:
+- Select Sort -
+Ascending
+Descending
+Apply
+Cancel
+Right
+Left
+Right
+Left
+Time
+Default
+Font:
+Left:
+Right:
+Values
+Cancel
+Close
+Size
+Select Font
+No
+Yes
+Right with space
+Left with space
+Column Axis
+Row Axis
+Fill Color
+Text Color
+Decrease Decimal
+Increase Decimal
+Comma Style
+Percent Style
+Currency Style
+Center
+Left
+Right
+Expression not supported
+Unable to render expression
+Enter Value...
+Attributes...
+Filter On
+Or
+Is Null
+Is Not Null
+Not In
+Shift right
+Shift left
+Shift up
+Shift down
+Empty List
+Empty
+Name:
+Insert New Metric...
+New metric
+Remove from Grid
+Advanced formatting...
+Remove from Report
+Sort
+Add >
+In List
+Not In List
+Drop down menus:
+Apply
+Cancel
+Remove condition
+Password expired
+Some projects are not shown.
+You need to change your password in order to show some projects.
+Note: You will have to log in again once you change your password.
+Use Unicode Character Set
+Deliveries...
+4/7
+04/07
+4/7/98
+04/07/98
+04/07/1998
+7-Apr
+7-Apr-98
+Apr-98
+Apr '98
+April 1998
+4/7/98 15:41
+4/7/98 3:41 PM
+April 7, 1998
+15:41
+3:41 PM
+15:41:46
+3:41:46 PM
+04/07/98 3:41 PM
+Send Now...
+04/07/98 15:41
+Resubmit report
+The page-by selection made does not exist. This may be because the warehouse has been updated.
+Select here to automatically identify valid page-by criteria.
+This prompt question cannot be displayed in MicroStrategy Web. The default answer will be used for report execution.
+This prompt question cannot be displayed in MicroStrategy Web. As there is no default answer associated with it, this report may not be executed.
+Top
+Bottom
+None
+Dashed
+Dotted
+Hair
+Thin
+Medium
+Thick
+Double
+Black
+Dark Blue
+Blue
+Light Blue
+Grey-Blue
+Green
+Grey-60%
+Grey-50%
+Grey-25%
+Grey-20%
+Grey-10%
+Grey-7%
+Off White
+Dark Red
+Red
+Yellow
+Light Yellow
+Pale Yellow
+Dark Olive
+Olive
+Light Olive
+Brown
+Purple
+Light Purple
+Lavender
+Dark Pink
+Pink
+White
+Require mouse click to open menus
+English (UK)
+Use Default
+RENAME/EDIT OBJECTS
+This report cannot be delivered in its present state. You will need to save this report first.
+Your message has been sent.
+Your ## subscription ## was created successfully. You will shortly receive a preview.
+Your ## subscription ## was created successfully.
+Autostyle:
+OBJECT BROWSER
+Up One Level
+Allow users to change expired password
+Your password has expired. Please contact the administrator to enable this account.
+Path:
+Use Unicode Character Set
+Open
+To receive this report, please select an address and personalization below.
+To subscribe to this report, please select a schedule, a personalization and an address below.
+Only one address is allowed when editing a subscription.
+To subscribe to this report, please select a schedule, a personalization and address(s) below.
+Scheduled Reports
+Scheduled e-mails
+The address name already exists. Please choose a different name.
+There was an error while editing the address.
+There was an error while deleting the address.
+There was an error while updating the default address.
+Confirm address deletion
+Are you sure you want to delete this address?
+Address Name cannot be blank.
+Address Device cannot be blank.
+Address Value cannot be blank.
+Error processing your Address Information. You may have to login again.
+Display Name
+Device
+Add a New Address
+Set New Default
+Subject
+Send Now
+You are subscribed to the following scheduled e-mail for this report:
+You do not have any scheduled e-mail.
+Add scheduled e-mail
+You have ## ### subscription(s) #### to this address. Deleting the address will delete all of the subscriptions to the address.
+The following file has not been registered correctly in the Web Server: MGSubscription.dll. Please ask the Administrator for more details.
+Scheduled e-mail
+Scheduled E-mail...
+Subscription API version:
+You have ## ###subscription(s)#### to this report that will be delivered by e-mail.
+You have ## ###subscription(s)#### to this document that will be delivered by e-mail.
+Select a schedule from the list below.
+Choose an address from your ##address list###
+or
+Enter a new address.
+Send to a new address
+Send to an existing address
+This feature is currently unavailable.
+To subscribe to receive this report, please select a schedule, an address and personalization below.
+Intelligence Servers
+Narrowcast Server
+Narrowcast Integration
+To configure this Web Portal to send content through Narrowcast Server, you must provide the Subscription Engine Location and the Narrowcast System to use.
+## has not been configured by any Narrowcast System to be used by Web for sending content. Please select another Subscription Engine.
+This Web Portal has been configured to send content using the ## System and ### as the Subscription Engine.
+Subscription Engine location:
+Available Narrowcast Systems:
+(Disabled)
+Before you can edit this report, you must answer the following prompt(s).
+Your answer must be a number.
+Your answer must be a date in the correct date format.
+Error when editing filter sub expression. Please review your answer(s).
+The report element browsing cannot be executed.
+Create a new report from any objects in the project
+Create a report
+You will be shown an empty report on which you may place various data objects.
+Alternatively, select the type of report you wish to create from the options below
+Select the type of report you wish to create from the options below
+$
+Show Edit buttons
+Creating a new job
+Generating results
+Generating HTML
+Job running in another server
+Processing Request
+Please wait...
+Please enter a number in the following field
+General
+Special
+Keep the connection alive between the Web Server and Intelligence Server (used when there is a firewall between the Web Server and the Intelligence). Please refer to the product documentation for information on how to configure your system when using this feature.
+MicroStrategy Web does not support the exporting of graphs within documents to Excel
+Please enter an integer greater than ### and less than ## in the following field
+### and ## are not valid dates
+## is not a valid date
+Number of columns per page
+You are about to clear your History List.
+Are you sure you want to clear your History List?
+No data returned for this view. This might be because the applied filter excludes all data.
+Excel with formatting (reports exported to Excel 97 or lower will not include formatting)
+Edit in Design Mode
+Advanced search
+Next
+Select the elements you want to keep and press the OK or Apply button.  Press the Cancel button to close this editor without applying changes.
+Not In (enter value1; value2; ...; valueN)
+Cancel Re-prompt
+Nothing selected
+OK
+Apply
+Cancel
+Save
+Series:
+Categories:
+Legend
+Data Values
+First 5 Pages
+Previous 5 Pages
+Next 5 Pages
+Last 5 Pages
+Help for ### editor
+On
+Off
+Default
+All prompt answers must be numbers.
+All prompt answers must be dates in the correct date format.
+No data returned for this view because this report has no template objects.  ##Please add objects to the template###.
+No data returned for this page by selection.
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Time - Not Used
+J and K Time - Not Used
+An error occurred while rendering View Filter.
+An error occurred while rendering Report Filter.
+Database error connection.
+Drill from XXXX to:
+Scaling:
+Fit to page:
+All rows
+All columns
+Print cover page with filter details
+Margins (inches):
+Top:
+Left:
+Right:
+Bottom:
+Maximum header size (inches):
+Maximum footer size (inches):
+Expand all page-by fields when printing
+Maximum number of cells per block:
+Maximum number of graphs per block:
+Show popup print dialog
+Insert filter details
+Insert user name
+Number and Date Format:
+Hide 'My Reports' link when user does not have web save privileges
+Incremental##fetch:
+Maximum number of attribute elements per block:
+Maximum number of report objects per block:
+Unable to fit to page.  Maximum reduction will be used.
+An error has occurred while rendering the preview display.  Results may not display accurately.
+Next block of pages
+Previous block of pages
+Rename...
+Show advanced options
+Hide advanced options
+No answer is required for this prompt.
+Select Metric...
+And Not
+Or Not
+All Metrics
+All
+There are no selections available in this prompt.
+Return to previous page
+Your request could not be processed because address information was not specified. Please specify the address information and try again.
+The History List for this Intelligence Server is full. To run a report, you must delete one or more messages from the History List on one of the projects running on this Server.
+The report could not be displayed due to a lack of system resources.
+Your job has been assigned to a separate Intelligence Server. Please re-execute your report.
+Your job has been assigned to a separate Intelligence Server. The report will be available from the History List when completed. Click here to open the History List.
+Allow automatic login if session is lost
+Security:
+Verify user privileges for every request
+2
+Wordwrap
+Allow word-wrapping of row headers in the report grid
+Folder:
+Dark Yellow
+Violet
+Teal
+Light Turquiose
+Sky Blue
+Light Green
+Pale Blue
+Turquoise
+Bright Green
+Rose
+Tan
+Aqua
+Lime
+Gold
+Light Orange
+Orange
+Blue-Grey
+Dark Teal
+Sea Green
+Dark Green
+Olive Green
+Plum
+Indigo
+Grey-40%
+Grey-80%
+There was an error while trying to connect to ##, check that the subscription engine name is correct and that the subscription engine is running, then try again.
+Send a preview now
+There was an error retrieving the list of systems. The Subscription Administrator service may be down.
+There was an error retrieving the list of systems.
+REPORT GRID:
+REPORT FILTER:
+Add report objects
+Enable export to PDF
+Toolbar
+You must save the report before you can subscribe to it.
+You must save the report or reset all of your changes before you can subscribe to it.
+You must save the report before you can schedule it.
+You must save the report before you can send it.
+(example: [Metric1] + [Metric2])
+Note: Selecting "use my selected default grid style" will disable all custom grid formatting.
+There was an error while connecting to the Subscription Engine
+Edit Grid
+Edit Report Filter
+Red
+of ## page(s)
+If you choose to display the grid and graph on separate pages, please select from the options below for your grid:
+The history list for this Intelligence Server is full. History lists are common to all projects running on a Intelligence Server.
+Version:
+Intelligence Server Build:
+Web Build:
+Embed filter and template into saved report definition.
+Design Mode:
+Hierarchy
+Hierarchy:
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+Derived Metric
+Derived Metric:
+No data returned for this view.  Please modify filter criteria or template objects.
+This save could affect the original filter and template
+Would you like to retain the shortcuts to the original filter and template?
+This save could affect the original filter
+Would you like to retain the shortcut to the original filter?
+This save could affect the original template
+Would you like to retain the shortcut to the original template?
+Continue
+Cancel
+History List Message Creation Time
+Excel 2000 SR-1 or newer versions
+Data Manipulation
+Design Mode
+Filters
+Totals
+Threshold image
+(Custom)
+Stop
+Your request could not be processed.
+Please try again. If the problem persists, contact the Administrator.
+The drill request cannot be completed without including the parent attribute. This may be due to the parent attribute's inclusion in a view filter qualification.
+Verify that user requests do not contain potentially malicious content.
+Please enter an integer between ### and ## in the following field
+Open Report
+Open Filter
+Open Document
+Open Template
+Version information...
+Lock Grid Headers
+Lock Row Headers
+Lock Column Headers
+Enable lock grid headers feature
+Shared Reports Folder
+Public Objects > Reports
+Current Selection
+Last Folder
+Filter Editor:
+Use embedded filters in report filter editor
+Sorting:
+Enable sorting on hidden attribute forms using the advanced sort editor
+Disable context menu drilling
+Send
+Job Expired
+For security reasons, HTML tags are not allowed as input.  If you need to use HTML tags, please contact your Administrator.
+Verify HTML tags for every request
+2
+This metric condition is applied at the ## level.
+Show evaluation level when using metric conditions in the view filter editor
+Save print settings for each report
+Enable resize columns and rows feature
+Grid Layout
+Auto Fit to Window
+Auto Fit to Contents
+Fixed Column Widths
+Resize Columns and Rows...
+COLUMNS
+ROWS
+All Columns
+Width:
+Auto Fit
+Fixed Height:
+RESIZE COLUMNS AND ROWS
+Column Axis Header
+Data Values
+Width:
+Save modifications to report filter.
+Time Zone
+Default
+(GMT -11:00) Midway Islands
+(GMT -10:00) Hawaii
+(GMT -9:00) Alaska
+(GMT -8:00) Pacific Time (US &amp; Canada)
+(GMT -7:00) Arizona
+(GMT -7:00) Mountain Time (US &amp; Canada)
+(GMT -6:00) Central Time (US &amp; Canada)
+(GMT -5:00) Eastern Time (US &amp; Canada)
+(GMT -4:00) Atlantic Time (Canada)
+(GMT -4:00) Puerto Rico
+(GMT -3:30) Newfoundland
+(GMT -3:00) Argentina
+(GMT -3:00) Brazil
+(GMT -2:00) Mid-Atlantic
+(GMT -1:00) Azores, Cape Verde
+(GMT) Greenwich Mean Time
+(GMT +1:00) Western Europe
+(GMT +2:00) Central Africa
+(GMT +2:00) Egypt
+(GMT +2:00) Eastern Europe
+(GMT +3:00) East Africa
+(GMT +3:30) Middle East
+(GMT +4:00) Near East
+(GMT +5:00) Pakistan/Lahore
+(GMT +6:00) Bangladesh
+(GMT +7:00) Vietnam
+(GMT +8:00) China Time (Taiwan)
+(GMT +9:30) Australia Central
+(GMT +10:00) Australia Eastern
+(GMT +11:00) Solomon Islands
+(GMT +12:00) New Zealand
+Excel 2000 SR-1 or older versions
+Excel XP or newer versions
+Note: This option will allow users to save their unencrypted passwords in cookies on their client machines.
+Default width for row axis columns:
+Default width for data columns:
+(GMT +5:30) India
+Hide options...
+More options...
+Maximum number of cells to export
+Maximum number of cells per block
+You cannot export this report to PDF because it has exceeded the limits that the Administrator has set for the maximum number of cells to export to PDF.
+Width: ##px
+(GMT -6:00) Mexico City
+(GMT +9:00) Seoul
+(GMT +9:00) Osaka, Sapporo, Tokyo
+Arial
+SCHEDULED E-MAIL
+SEND NOW
+Insert Page By Information
+Maximum number of cells to export to plain text:
+Maximum number of cells to export to HTML:
+(Archive)
+Internal diagnostic setup
+Level:
+Log files directory:
+Custom diagnostic setup
+Path to custom diagnostics setup file:
+Display:
+From:
+To:
+Errors
+Warnings
+OFF
+Messages
+Please use / as directory delimiter in the path
+The date information entered is not in a valid format
+The From date should be before or equal to the To date
+No valid file path was available:
+Log files cannot be processed: total file size is over the limit of
+Mb. To view logs, please access them directly or specify a shorter date range to view.
+First file unable to process:
+Error reading the log file(s) contents:
+The required XSL file was not found:
+Error reading the XSL file contents:
+Diagnostics Configuration
+View Logs
+There are no log records that match the requested dates and types.
+Cannot display log file contents:
+Could not read the original properties from the setup file.
+The indicated setup file cannot be found or used for diagnostics.
+The following file has not been registered correctly in the Web Server: Mbwahelp.dll. Please ask the Administrator for more details.
+Open report
+Open filter
+Open template
+Overwrite modified objects error
+Error processing diagnostic log file(s).
+Server Properties
+Default Server Properties
+Servers
+Default properties
+Security
+Configuration
+View logs
+minutes
+Keep thresholds while drilling
+Show Sort Buttons
+Hide Sort buttons
+Diagnostics
+Allow word-wrapping of metric values in the report grid
+Password cannot be changed because the following information is missing:
+Statistics
+Mode:
+Statistics file:
+OFF
+Screen
+File
+Screen and file
+Please enter an absolute path and use / as directory delimiter in the path.
+Load Default Values
+To subscribe to this document, please select a schedule and personalization below.
+Match case sensitivity by default
+Allow users to change and store user preferences for individual projects
+Bold
+Italic
+Underline
+Show 'Apply to ALL projects' in the preferences
+View report in Design Mode
+Font style:
+Font size:
+Page-by Section
+Enable merge row headers in Format menu
+Merge Row Headers
+Read from report
+Show object descriptions as tooltips in grid
+Hide option to save embedded objects when user does not have the "Web modify the list of report objects" privilege
+Preserve white space when importing from a text file
+Pages Wide
+Pages High
+(Windows Operating Systems Only)
+Phone Number 1
+Phone Number 2
+Zip Code
+Extended Zip Code
+SSN
+Edit Custom Settings
+Sort Buttons
+Pivot Buttons
+(s)
+Sort by:
+Then by:
+Narrowcast Server Integration
+WEB SERVER
+Connection properties
+Class
+Method
+Message
+Encryption:
+Traffic between the Web and Iserver machines is encrypted.
+Cache:
+The user privilege cache is refreshed for each new web request.
+Cookies:
+Disable cookies.
+Use cookies for storing temporary information within the session.
+Use cookies for storing permanent information between sessions.
+Use cookies for storing temporary information about IServer sessions.
+URL:
+Session information is included on the URL.
+Login:
+Allow automatic login if session is lost.
+$
+The Subscription Engine's configuration settings could not be accessed. In order for the MicroStrategy Web delivery to function, either the folder or the drive where the Subscription Engine is installed must be shared. The Subscription Portal and MicroStrategy Web delivery will not function if this requirement is not met. Would you like to automatically share the installation drive of Subscription Engine for that machine's local Administrators group?
+If the Subscription Engine machine's drive is shared and unshared multiple times, the following Windows message will appear on the Subscription Engine machine and wait for user input: 'System Error: The network name was deleted.' The Subscription Administrator service will not be functional until you click OK and dismiss this message. Note that this message does not indicate a problem, and you should simply click OK and continue.
+Unable to share drive. Please manually share the subscription engine installation drive on the subscription engine machine  for that machine's local Administrators group.
+Excel Version:
+Delivery Format:
+Compress contents
+Hide
+Message:
+(Maximum  ## characters)
+Click here to add a message
+Fit to:
+page(s) wide by
+tall
+Cookies:
+Use cookies to optimize performance when reading user preferences
+The requested action cannot be completed because another object depends on the manipulated object.
+You are subscribed to the following schedules for this document:
+The formula for the derived metric is blank.
+Does not contain
+Does not begin with
+Does not end with
+Percentage of '##'
+Rank of '##'
+Rank
+Set of ##
+Evaluate the set at ##
+ by ##
+ where (##)
+ApplySimple
+Equals
+Does not equal
+Blank
+Maximum length for the text message (in characters):
+The following delivery formats do not currently support graphs: ##. Deliveries using one of these formats will include only the grid.
+The selected delivery format does not currently support graphs. The delivery will include 
+only the grid.
+The style defined in the prompt could not be used to render the prompt definition '##' (style name: ###).
+Could not find a proper style to render prompt '##' (style name: ###).
+User Input Filtering:
+Allow use of HTML in the print header and footer. This setting will allow users to execute script in the browser.

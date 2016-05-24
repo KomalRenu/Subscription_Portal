@@ -1,0 +1,2804 @@
+Copyright © 1996-2002 MicroStrategy, Incorporated. All rights reserved. Confidential.
+Hem
+Delade Rapporter
+Mina Rapporter
+Historik
+Skapa Rapport
+Stående
+Liggande
+Logga ut
+Sidorientering:
+Sök
+Projekt
+Pappersstorlek:
+Med ensamrätt. Konfidentiellt.
+PREFERENCES LEVEL
+Server:
+Port
+Användarnamn
+Lösenord
+Spara lösenord
+LOGGA IN
+Nollställ rapport
+Pappersstorlek, sidoorientering och marginaler bör överenstämma med webbläsarens inställningar.
+Ange ditt gamla samt nya lösenord.
+Datakälla
+Lägg till i min Historik
+Logga in
+Fel vid exekvering av dokumentet. Kontakta din administratör.
+Logga in som Gäst
+Letter 21.59 x 27.94 cm
+Sessionsfel
+Ogiltig session. Anslutningen bröts. Logga in igen.
+Legal 21.59 x 35.56 cm
+Logga in som Windows-användare
+A4 21 x 29.7 cm
+18.4 x 26.7 cm
+Servernamn
+Projekt
+VÄLKOMMEN
+Beskrivning
+Om MicroStrategy Webb ##
+Följande servrar är inte tillgängliga:
+Gå till Administrationssidan
+Använd temporärfiler på webb servern?
+Snabb sökning
+avancerad...
+Skapandetid för historikmeddelande: ##
+Bläddra genom listan av färdigställda rapporter, tillgänglig för alla användare.
+Visa rapporter som jag har skapat och sparat för framtida bruk.
+Skapa och publicera en ny rapport på den här siten.
+Visa en uppdaterad summering över statusen på mina förfrågningar.
+Du är här:
+Automatiskt
+Manuellt
+Mapp ID
+Det finns inte några hierarkier i detta projekt.
+Objekt
+Du kan inte söka på attribut av denna typ.
+Sida ## av ###
+Faktor för gämn fördelning
+Ägare
+Ändrad
+Alltid
+Aldrig
+Ta bort mapp
+Ta bort rapport
+Ta bort dokument
+mapp(ar)
+rapport(er)
+dokument
+Den här mappen är tom.
+Behövs endast för användare av Explorer 4.x.
+Projektets standard inställningar kan inte sparas. Dina rättigheter för web mappen eller dess objekt är felaktiga.
+Sökresultat:
+Rapport mall(ar)
+Mappen "##" är inte tillgänglig.
+Jobb ID
+Rapport ID:
+Rapportnamn:
+Visningsläge
+Meddelande ID:
+Bearbetar förfrågan...
+Din förfrågan har sänts. Vänta...
+Tillåt användaren att välja, standard är nej
+Tillåt användaren att välja, standard är ja
+Vänta medan rapporten exporteras.
+Tiden att skapa rapporten varierar efter storleken på rapporten.
+Senaste uppdatering:
+Du måste ange ett namn på rapporten.
+Ägaren av ett av objekten i sökningen hittades inte. Sökningen misslyckades.
+Steg ##
+Aktuell status:
+Rapport klar
+Söker efter promptar
+Promptar klara
+Kör...
+Fel
+Exekverar...
+sekund(er)
+Kontaktinformation:
+Maximalt antal av samtidiga sökningar:
+Administratörens kontaktuppgifter
+Begärd
+Kontrollera Status Igen
+Avbryt denna Förfrågan
+Nedan skall du se siffrorna "12345" i en svart ruta ifall din webbläsare stödjer CSS filer?
+RELATERADE RAPPORTER
+Ja, min webbläsare stödjer denna formatering.
+Nej, använd en annan form av formatering.
+En time out har uppstått på din fråga. Försök senare.
+Kör
+Exekverar
+Blå och Grå
+Rader:
+Tabell
+Diagram
+Meddelande ## - ### av ####
+## - ### av ####
+Spara
+Fråga igen
+Version som kan skrivas ut
+Exportera data
+Kolumner
+Färggrann
+Agent
+Klassisk
+Redovisa
+Finans
+Grå Uppspaltning
+Använd dynamisk Html?
+Pasteller
+Röd och Svart
+Romantisk
+Liten Typ
+Verkställ
+Dölj pivotknappar
+Visa pivotknappar
+Flytta till rader
+Flytta upp
+Flytta ned
+Gruppera på detta fält
+Flytta till kolumner
+Flytta åt vänster
+Flytta åt höger
+Sortera
+Borra
+Från:
+Till:
+Borralternativ:
+Borra endast på valen
+Vad är det här?
+Behåll förälder vid borrning
+Upp
+Ner
+Rutor
+för
+Visa borrläge
+Dölj borrläge
+Solnedgång
+Kolumner:
+Fler sidor
+Fler kolumner
+Första sidan
+Sista sidan
+Inget data returnerades i denna rapport.
+Fel vid anrop till Sleep
+Dölj Sök
+Visa Sök
+Visa:
+Formatera tabell
+Dölj verktygsfältet
+Visa verktygsfält
+Publicera
+Ingen borrinformation tillgänglig.
+Dölj filtreringsinformation
+Visa filtreringsinformation
+Tillbaks till borrning
+Fel: Operatorn "Inte mellan" förväntar sig två värden separerade med semikolon
+Filterinformation:
+Filtret är tomt.
+under borrning
+- ingen -
+Otillräcklig med data för att visa efterfrågad diagramundertyp för denna rapport. Försök att använda en annan diagramundertyp.
+Borra till
+Uppdatera min Historik
+Meddelandet för jobbet kan inte hittas eller resultatet kan inte hämtas från MicroStrategy Server.
+Radera min Historik
+Status
+Starttid
+Information
+Ta bort
+Sortera efter stigande ordning
+Sortera efter fallande ordning
+Senaste rapporten:
+markera som "oläst"
+Senaste dokumentet:
+Klar
+Väntar på urval
+Berarbetar
+Genererar SQL
+Exekverar SQL
+Analytsik
+Söker efter cache
+Skapar cache
+Väntar i kön
+Väntar på styrinformation
+Projektet är inaktivt
+Exekverar underliggande rapporter
+Bearbetar resultat
+Din Historik är full. För att köra en rapport måste du ta bort ett eller flera meddelanden.
+sidor
+Fråga inte igen.
+Fortsätta
+På grund av ett webbserverfel kan inte innehållet i den här rapporten exporteras.  Försök med en annan rapport.
+Sorterat på:
+Du håller på att logga ut från alla projekt.
+Välj från nedanstående alternativ och klicka på Logga ut-knappen:
+Vill du ta bort alla slutförda jobb ur Historiken?
+Nej
+Ja
+Vill du avbryta denna sessions pågående jobb?
+Avbryt
+Endast lästa meddelanden
+Fråga inte igen.
+LOGGA UT
+Användaren kan ha loggat ut eller varit passiv under lång  tid. Time-out på anslutningen, försök logga in igen.
+På grund av ett webbserverfel kan din förfrågan inte bearbetas. Försök igen senare.
+Dokument ID:
+Dokumentnamn:
+Du kan kontrollera Historik eller försöka senare.
+Fel vid kontroll av dokumentstatus
+Felnummer
+Dokument  klart
+Prompt klar
+INDEX
+CONTENTS
+FAQ's
+Senaste mappen:
+Inget data returnerades i detta dokument.
+Dokument
+Tabellvisning
+Angiven startsida:
+Tabellutförande standard:
+Maximalt antal rader i tabell:
+Maximalt antal kolumner i tabell:
+Språk
+Exportera
+Excel med formatering (version 2000 eller senare)
+Excel utan formatering
+Excel som text
+CSV-filformat
+Öppna nytt fönster vid export
+Utskriftsalternativ
+Sidhuvud:
+Text i sidfot:
+Inloggningsläge
+Sidnumreringsstil:
+(ingen)
+Sidan 1 av n
+Standard startsida:
+Aktiverad
+Avbryta denna sessions pågående jobb?
+Sammanfoga kolumnrubriker
+Repetera kolumnrubriker
+Ta bort alla slutförda jobb ur Historiken?
+Lägg till ALLA projekt.
+Standardegenskaper för projekt
+(standard)
+Diagramvisning
+Diagramstorlek:
+Använd de inställningar som har sparats i rapportdefinitionen
+Höjd:
+Bredd:
+Maximalt antal kolumner att exportera till Excel:
+Standard (användarid & lösenord)
+Lägg rapporter och dokument i min Historik:
+DOCUMENT EXTRAS
+Visa markeringsrutan  "Kom ihåg Mitt Lösenord" på inloggningssidan
+Gäst
+Kan inte öppna XSL filen som behövs för att presentera dokumentet. Antingen saknas filen eller så innhåller den fel.
+Fel när diagramet försökte kopieras till din lokala disk. Kontrollera att det finns ledigt utrymme.
+Ett fel uppstod när rapportens XML fil skulle kombineras med XSL filen för att generera Html sidan.
+Visa detaljer för dokument
+Tillhörande mapp:
+Användarinställningar
+Mina rapporter
+Du måste ansluta till detta projekt för att kunna fortsätta.
+Standardegenskaper för projekt
+Användarinställningar
+Använd Standardvärden
+Sidor per block:
+Maximalt antal rader att exportera till Excel med formattering, eller till HTML:
+Maximalt antal rader att exportera till Excel eller CSV i ren text:
+Ändra lösenord
+Mellan
+Allmänt
+Fel vid loggning:
+Du kan använda "?" för att ange ett tecken.
+Windows verifiering
+Använda en anpassad säkerhetsplugin?
+Säkerhetsplugin  klass:
+Du kan använda "*" för att ange ett antal tecken.
+Endast vid inloggning
+Före exekvering av varje rapport
+Asynkront läge
+Synkront läge
+Tid innan väntsidan öppnas:
+Visa prenumerationer
+och
+Exekveringsläge
+Filtreringsinformation
+Anteckna fel
+INSTRUCTIONS
+Göm prenumerationer
+Skriv ut
+Fråga mig vid utloggning
+Visa alternativ vid utskrift
+Anteckna varningar
+Visa egenskaper
+Göm egenskaper
+maximal ##
+Klartext
+Information om utskriftsfilter:
+I början av utskriften.
+Överst på varje sida
+Exportera filtreringsinformation
+Parameterval
+Antal element per block att visa:
+Färdig rapport
+Endast del visas
+Tillbaka till toppen
+Du kan inte logga in som Windows-användare.
+Du måste ange ett namn på mappen.
+Kanal aktiverad (Kanalen är synlig för slutanvändarna)
+Felmeddelande:
+Tillbaks till Föregående Mapp
+Fel vid exekvering av rapport
+Diagramtyp
+Vertikal yta
+Horisontal yta
+Vertikal stapel
+Horisontal stapel
+Vertikal linje
+Horisontal linje
+Sektor
+Sprida
+Polär
+Radar
+Bubbla
+HiLo... Lager
+Histogram
+3D stigare
+3D flytande
+3D anslutningsgrupp
+3D anslutningsserie
+3D yta
+3D spridning
+Diagramdeltyp
+Absolut
+Stackad
+Bipolär absolut
+Bipolär stackad
+Två-axlad absolut
+Två-axlad stackad
+Procent
+Sida vid sida
+Två-axlad sida vid sida
+Bipolär sida vid sida
+Cirkeldiagram
+Multipla sektorer
+Multipla cirkelsektorer
+Multipla proportionella sektorer
+Multipla proportionella cirkelsektorer
+Tillbaka
+Bildformat:
+Två-axlad X-Y spridning
+X-Y sprida med etiketter
+Två-axlad X-Y spridning med etiketter
+Två-axlad  polär
+Polärt koordinatdiagram
+Dubbel-axlat polärt koordinatdiagram
+Koordinatdiagram
+Radar linje
+Radar stackad yta
+Två-axlad radar linje
+Två-axlad radar stackad yta
+Två-axlad Bubbla
+HiLowtvå-axlad
+HiLow-öppen
+HiLow-öppen två-axlad
+HiLow-öppen-stängd
+HiLow-öppen-stängd två-axlad
+Vertikal histogramme
+Horisontal histogramme
+Staplar
+Pyramider
+Oktogoner
+Cut-corner bars
+Kuber
+Sfärer
+Ytor
+Band
+Steg
+3D-yta med sidor
+3D vaxkakeyta
+3D spridningsdiagram med XYZ-axlar
+3D spridningsdiagram med XYZ-axlar och etiketter
+X-Y Sprida
+HiLow
+Återvänd till mappen:
+Återvänd till rapporten:
+Återvänd till dokumentet:
+Din Historik är tom.
+Tack för att du använder MicroStrategy Web.
+Du har blivit utloggad.
+För att logga in på den här siten igen, klicka här nedan.
+Kan inte exportera
+Du kan inte exportera denna rapport, på grund av att den överskrider gränserna som administratören satt för maximalt antal kolumner och rader för export.
+Utför några manipuleringar på rapporten och kontakta administratören.
+Du måste vara ansluten till minst ett projekt för att kunna börja använda MicroStrategy Web.
+Det finns inga MicroStrategy servrar registrerade.
+Inga aktiva projekt är tillgängliga på server ##.
+Du har angivet fel användarnamn eller lösenord. Tänk på att inloggningen skiljer på versaler och gemener.
+Du har angivet fel användarnamn eller lösenord. Tänk på att inloggningen skiljer på versaler och gemener.
+Inga data för mappinnehåll hämtade.
+Exekveringen av rapporten misslyckades.
+Rapporten kunde inte hämtas från servern.
+Rapporten kunde inte återskapas.
+Inställningarna på din läsare kan vara felaktiga. Se till att aktivera cookies.
+Fel vid åtkomst till användares Historik.
+Dina meddelanden från Historik kunde inte hämtas från MicroStrategy-server.
+Dina meddelanden från Historik kunde inte tas bort från MicroStrategy-server.
+Fel vid inställning av meddelandestatus på MicroStrategy-server.
+Inga mappar,  rapporter eller dokument funna vid denna position.
+Egenskaper
+På grund av syntaxfel slutfördes inte din pivoteringsförfrågan.
+På grund av syntaxfel slutfördes inte din sidosorteringsförfrågan.
+På grund av syntaxfel slutfördes inte dina sidosorterings- och pivoteringsförfrågningar.
+På grund av syntaxfel slutfördes inte din sorteringsförfrågan.
+På grund av syntaxfel slutfördes inte dina pivoterings- och sorteringsförfrågningar.
+På grund av syntaxfel slutfördes inte dina sidosorterings- och sorteringsförfrågningar.
+På grund av syntaxfel slutfördes  inte dina sidosorterings- och pivoterings- och sorteringsförfrågningar genomförd.
+Din rapport kunde inte visas.
+Några av dina sessioner kunde inte stängas. MicroStrategy-servern kanske stänger din session eller MicroStrategy-servern svarar inte.
+Vissa parameterval kan inte visas.
+Samtliga parameterval misslyckades.
+Exekveringen av dokumentet misslyckades.
+Dokumentet kunde inte hämtas från servern.
+Projekten kunde inte visas.
+Din Historik kunde inte visas.
+Projektet är off-line eller överhängande off-line.
+Fel vid sparande av  Personliga Inställningar.
+Dina personliga  inställningar kunde inte sparas.  Inställningarna på din läsare kan vara felaktiga.
+Uppdatera Bekräftelse
+Dina personliga inställningar har sparats.
+Kan inte visa sida
+Kontakta din administratör.
+Inga inställningar funna.
+Dina personliga  inställningar kunde inte hittas. Inställningarna på din läsare kan vara felaktiga. Se till att aktivera cookies.
+Ogiltlig information
+Rätta till de markerade fälten och försök igen.
+Felaktiga  fält har ignorerats och sparats med standardvärden.
+MicroStrategy Servern  du försöker ansluta till hittades inte. Försök igen senare.
+Du har inte åtkomsträtt till valt objekt.
+Du har valt för många objekt för ett objekt parameterval.
+Du har valt för få objekt för ett objekt parameterval.
+Du har valt för många element för ett element parameterval
+Du har valt för få element för ett element parameterval
+Detta konto har inaktiverats av administratören.
+Lösenordet har gått ut.
+Du får inte  ändra ditt lösenord.
+Det finns inget objekt att ta bort.
+Fel: Operatorn "Mellan" förväntar sig två värden separerade med semikolon
+MicroStrategy Server versionen och klientversionen är inkompatibla
+Kunde inte anropa funktionen Sleep i synkron exekvering.
+Det här parametervalet krävs och måste fyllas i.
+Fyll i ett värde i textrutan.
+Anslutningen med  MicroStrategy Servern har brutits. Logga in igen...
+Följande fil har inte registrerats korrekt i webbservern: M8dssxml.dll. Kontakta administratören för mer information.
+Använd Administrationssidan för att konfigurera vissa projekt.
+En eller fler av dina servrar kan vara nere.
+Välj några element före borrning
+Du kan inte kvalificeras på mer än ett objekt åt gången.
+Rapportens parameterval kunde inte visas eftersom de blivit besvarade.
+Fel vid laddning
+Om du tar bort denna mapp kommer dess innehåll försvinna från servern.
+Felmeddelandelista
+Tid
+Felbeskrivning
+Fil
+ASP-funktion
+API-funktion
+Kommentarer
+Nivå
+Ditt lösenord har ändrats.
+Du är nu ansluten till projektet
+som användare
+Ändra Lösenord
+Ditt lösenord har gått ut. Du måste ändra det för att kunna ansluta.
+Gammalt lösenord:
+Nytt lösenord:
+Verifiering av nytt lösenord:
+Lösenordet har gått ut
+Ange ett nytt lösenord som skiljer sig från det tidigare.
+Fyll i alla textfält som visas nedan:
+Uppdatera
+SEARCH MODE
+Ladda standardvärden
+Gå till i min Historik
+inte mer än
+inte mindre än
+val
+inga
+Tillgänglig
+Vald
+Hitta
+element
+Måttenhet
+Attribut
+Mellan (ange värdena1 ; värdena2)
+Exakt
+Större än
+Större än eller lika med
+Mindre än
+Mindre än eller lika med
+Som
+Inte Som
+Värde
+Är
+Högsta
+Lägsta
+Lägg till
+Dina val
+Matcha
+Alla val
+Något val
+Mina val
+Lägg till i val
+Sök efter:
+Kör rapport
+Spara Rapport
+Kvalificera vid beskrivning av attribut
+Tillbaks till val av hierarki
+Välj en hierarki
+Andra hierarkier:
+Operator
+kvalificera
+Välj
+Element
+Aktuell mapp
+Undermappar
+Mappinnehåll
+Fyll i sökkriterier.
+Listan kan vara lång.
+Det finns inga ingångspunkter i den här hierarkin.
+BEHÖVER DU HJÄLP?
+Vad innebär delade rapporter?
+Vad är ett dokument?
+Hur väljer jag ett nytt projekt?
+Du har uppnått maximalt antal meddelanden per användare. Kontakta din administratör.
+Vad innebär standardegenskaper för projekt?
+Berätta mer om Standardegenskaper för projekt?
+Kan slutanvändare ändra på inställningarna i Standardegenskaper för projekt?
+Maximalt antal meddelanden per projekt har uppnåtts. Kontakta administratören.
+Vad är användarinställningar?
+Vad innebär "Lägg till ALLA projekt"?
+Hur avbryter jag och går tillbaka till Hem?
+Vad innebär "Ladda standardvärden"?
+Vad innebär Historik?
+Hur tar jag bort rapporter och dokument från min Historik?
+Hur organiserar jag min Historik?
+Vad innebär "Väntar i kön"?
+Vad är Mina Rapporter?
+Vad är en rapport?
+Hur skapar jag en rapport?
+Vad innebär att ta bort?
+Kan jag ta tillbaka ett objekt som jag redan tagit bort?
+Hur vet jag om min förfrågan är klar?
+Vilken funktion har knappen "Lägg till i min Historik"?
+Efter att du valt hierarki till vänster, kommer du att se attributen i denna del.
+Hur ändrar jag formatet på rapporten?
+Hur omorganiserar jag rader och kolumner i den här rapporten?
+Hur kommer jag åt data som jag inte når när jag använder rullningslisten?
+Hur borrar jag till annan data relaterad till den här rapporten?
+Gå till steg 2
+Hur gör jag en sökning?
+Andra
+I
+Vilka olika typer av parameterval stöds?
+Notera: Netscape 6 och Internet Explorer 5 eller senare stödjer DHTML.
+För många rader returnerades från MicroStrategy Server. Administratören kan ändra maximalt antal rader som får returneras genom MicroStrategy Desktop.
+Operatorer som "Like" och "Not Like" stödjer inte icke-text datatyper.
+Du har valt för många vilkor för prompten.
+Hur kan jag få tag i mer information om min rapport eller dokument?
+Du har valt för få vilkor för prompten.
+Du har valt för många vilkor för en hierakisk prompt.
+Du har valt för få vilkor för en hierarkisk prompt.
+Varför behöver jag ett lösenord?
+Varför måste jag byta lösenord?
+Här för första gången, eller vill du bara lära dig mer om denna site?
+Online hjälp
+Vad innebär att logga ut?
+Kan du berätta om säkerhetssystemet?
+Varför måste jag logga in?
+Vad är en cookie och hur används cookies på den här Webbplatsen?
+Vad innebär att logga in som gäst?
+Varför upphörde mitt lösenord att gälla?
+Vad innebär det att spara en rapport?
+as.Något av standard värdena för denna prompt kunde inte vi.
+Hur sparar jag en rapport?
+Varför går det inte att exportera?
+(Endast text är tillåtet)
+Inte exakt
+Vad är Användarrättigheter?
+Inte mellan (ange value1 ; value2)
+Vad är den här sidan till för?
+Hur sätter jag upp en MicroStrategy Server på den här webbservern?
+Vad innebär att publicera en MicroStrategy Server på webben?
+Gå till föregående rapportläge
+Desktop
+Delade rapporter
+Skapa rapport
+Väntsida
+Rapportera resultat
+Administrationssida
+Lösenordet har gått ut
+Jobbdetaljer
+Detta fönster kommer att vara öppet efter exporten utförts, och går bra att stänga.
+Spara som
+Ta bort
+Kan Inte Exportera
+Användarrättigheter
+Följande fil har inte registrerats rätt på Webbservern: M9win32.dll. Fråga administratören för mer information.
+Återvänd till:
+Du är på väg att ta bort det här objektet:
+Denna rapport kan exporteras i ren text genom att välja detta i inställnigarna eller innan exporten utförs.
+Spara rapporten med all promptar inbäddade i filtret.
+Är du säker på att du vill ta bort detta objekt?
+Ta bort bekräftelse
+Objektet existerar inte i metadatan.
+Din förfrågan kunde inte behandlas på grund av ett serverfel.
+Försök igen. Om problemet kvarstår, kontakta serveradministratören.
+SQL framställning:
+Rapportbeskrivning:
+Mall:
+Filter:
+[ ... ]
+Mappnamn:
+Totalt antal rader:
+Totalt antal kolumner:
+Rapportens sökväg:
+Sökväg till  dokument:
+Meddelande skapat:
+Meddelandet senast uppdaterat:
+Dokumentbeskrivning:
+Klar:
+Jobbet exekveras fortfarande.
+Spara rapport som:
+Namn på rapporten:
+Spara rapporten som statisk definition.
+Fråga utan val.
+Krävs
+Valfri
+Skapa Mapp
+Spara bekräftelse
+Din rapport har sparats.
+Klicka på fortsätt nedanför för att återgå till orginal rapporten.
+Fler val...
+Kör din nya rapport:
+Kör nyligen skapad rapport, från dess nya lokalisering, under sitt nya namn.
+Sparade rapporter:
+Bläddra bland andra sparade rapporter från samma mapp som denna.
+Den finns redan en rapport med samma namn.
+Skriva över
+Publicera rapport som:
+Spara prompt:
+Spara rapport inuti:
+Mappinnehåll:
+Skapa katalog:
+Du kan skriva över den eller spara i ett nytt namn.
+Det finns en mapp med samma namn som den nya.
+Använd ett annat namn på mappen.
+Du har skrivit in ett ogiltigt namn.
+Välj ett annat namn och försök igen.
+Spara rapporten med alla inbäddade promptar.
+Enkel
+Innehåller
+Börjar på
+Slutar med
+Plats:
+I alla mappar
+Endast i mapp
+Borrläge
+Hitta alla objekt
+Skapad
+Versionen på MicroStrategy Server  som du försöker ansluta till, är inte kompatibel men denna version av MicroStrategy Web. Det måste vara version ## eller nyare.
+Mellan
+Under föregående
+Skapad av vilken användare som helst
+Skapad endast av mig
+Beskrivning inkluderar:
+och
+Avancerad
+Sök Sida
+Kontrollera namnet på objektet.
+Se efter i ## sektionen.
+Datum skapad/modifierad:
+Dagar
+Timmar
+År
+Månader
+Sök hjälp
+Sök tips:
+Använd kännetecken för "Innehåller".
+Veckor
+Din sökning efter ## gav inget resultat.
+Din sökning gav inget resultat.
+Objekttyp:
+Använd ##avancerad sökning### för fler val.
+Avancerade inställningar
+Om du vill ange nya val i prompten, kör dokumentet från början igen.
+Ny sökning
+Sökdetaljer
+objekt funna
+Om manuellt, hur många av de senast körda rapporterna och dokumenten vill du hålla tillgängliga för användning?
+Obs! Notera: Dessa rapporter och dokument kommer att finnas tillgängliga för användning, även om de inte sparas i listan över tidigare dokument.
+Åtkomst nekad
+Följande behörigheter behövs för att få tillgång till resursen du förfrågade:
+Kontakta administratören av MicroStrategy Server för att verifiera begärda behörigheter är tilldelade.
+Varning: Detta dokument kan inte sparas i Historik.
+HISTORIK EXTRAS
+Denna prompt kräver ett värde mellan ## och ###.
+Denna prompt kräver ett värde inte lägre än ##.
+Denna prompt kräver ett värde inte högre än ##.
+Denna prompt kräver ett värde inte senare än ##.
+Denna prompt kräver ett värde inte tidigare än ##.
+Tillåt att endast borra via hyperlänkar.
+Tillåt enkel borrning
+Tillåt att borra överallt
+Du har inte rättigheter att spara rapporter i mappen "Gemensamma Rapporter".
+Du har inte rättigheter att spara rapporter i mappen "Mina Rapporter".
+Texten du angav är för lång. Ange en ny text.
+Texten du angav är för kort. Ange en ny text.
+Du har inte tillräckliga åtkomsträttigheter till resursen du angav. Om problemet kvarstår, kontakta administratören av MicroStrategy-servern.
+ Ogiltigt klassnamn för säkerhetsplugin
+Ogiltigt användarnamn/lösenord. Se till att säkerhetsplugin är rätt installerad och registrerad.
+Inte mellan
+MicroStrategy Server är inte tillgänglig. Den kan vara urkopplad eller nere.
+Felbeskrivning:
+MicroStrategy Web XMLAPI fel ID:
+Webbservern drabbades av ett okänt fel.
+Kontrollera MicroStrategy Web loggfil för detaljer.
+Du kan inte exportera denna rapport, på grund av att den överskrider gränserna som administratören satt för maximalt antal kolumner och rader för export till Excel, CSV eller Html.
+Avaktivera all borrning
+Varning: Detta rapport kan inte sparas i Historik.
+Anslutna servrar:
+Kluster
+Anslutningsläge
+Laddad
+Upptagen
+Ledig
+Maximal poolstorlek
+Aktion
+Visa namn för attributformer
+Ändra
+Koppla från
+Anslut
+Ändra
+Ej anslutna servrar:
+Initialstorlek på pool
+Användare ansluter Web manuellt till Intelligence Server
+Anslut automatiskt till Intelligence Server när webbservern eller Intelligence Server startas om
+Visa Alla Tillgängliga Servrar
+Uppdatera
+Lägg till server manuellt
+Egenskaper för Server
+Ansluten
+Alla tillgängliga servrar
+Ingen MicroStrategy Server är för närvarande tillgänglig.
+Ingen MicroStrategy Server är för närvarande ansluten.
+Ingen MicroStrategy Server har kopplats ifrån.
+Du kan inte slutföra detta på grund av att du inte har skrivrättigheter för detta objekt eller mapp.
+Vad är syftet med parameterval?
+Dölj Alla Tillgängliga Servrar
+OM
+Mappen du försöker öppna finns inte i detta projekt.
+Rapporten du försöker köra finns inte i detta projekt.
+Dokumentet du försöker köra finns inte i detta projekt.
+Systemhierarki
+Föregående Projekt
+Nästa Projekt
+ASP version:
+XML API version:
+Webbläsar version:
+MicroStrategy webbcookies:
+MicroStrategy Server version:
+Visa diagramrapporter som standard i visningsläge 'Tabell och diagram'
+Visa tabell
+Anteckna sökväg för hämtning av funktioner som orsakade fel
+Upp
+Ner
+Fel vid laddning av XML-data.
+En av de nödvändiga XML-noderna är inte tillgänglig. Kontakta administratören för mer information.
+Följande fil har inte registrerats korrekt i webbservern: scrrun.dll. Kontakta administratören för mer information.
+Följande fil har inte registrerats korrekt i webbservern: MSXML.dll. Kontakta administratören för mer information.
+Internt nätverksfel: Misslyckades att packa upp meddelande. Detta kan bero på kompabilitetsproblem mellan MicroStrategy Web och MicroStrategy Intelligence Server.
+Fel i inloggning
+Fel i ändra lösenord
+Fel i delade rapporter
+Fel i mina rapporter
+Fel i prompt
+Fel i rapportresultat
+Fel i Historik
+Fel i jobbinformation
+Fel i Spara som
+Fel i sökning
+Fel i borttagning
+Fel i skapa rapport
+Fel i hjälpsidorna
+Fel i utloggning
+Filen finns inte.
+Fel vid öppnande av fil.
+Fel vid läsning av fil.
+MicroStrategy Server fel:
+Fel vid laddning av projekt
+Fel uppstod i prompt definitionen från MicroStrategy Server. Kör om rapporten eller dokumentet.
+Fel vid laddning av parametervalsfråga.
+Visa barnrapporter
+Dölj barnrapporter
+Ditt andra nya lösenord matchar inte det första. Skriv in dem igen.
+Visa rapporter som ingår i dokumenten
+Dölj rapporter som ingår i dokumenten
+Du har inte tillåtelse att ändra någon annans lösenord
+Det uppstod ett fel vid försök att läsa hjälpfilerna. Försök på nytt och om du får samma fel igen skall du kontakta webbserverns administratör.
+Kan inte hitta mappen.
+Bläddra
+Dokument
+Ogiltig borrförfrågan. Förfrågan avbröts.
+Borrkommandot kunde inte exekveras.
+Borra
+Fel vid exekvering av jobbet.
+Fel vid visning av prompt.
+Uppdateringsintervall:
+Sortera efter:
+Varningar
+Fel
+Föregående ##
+Nästa ##
+MicroStrategy Web är en produkt från
+Export
+Diagramformatering
+Tabellformatering
+GÄSTER
+Har du inte ett konto?
+Du kan komma in på denna site som vår gäst. Klicka bara nedan.
+Växlande mottagning
+Du kan försöka logga in på denna webbplats med hjälp av dina Windows-referenser. Klicka bara på länken nedan.
+Inloggning - utloggning - säkerhet
+Sortera på
+Välkommen
+Om du inte är ##,
+klicka här
+Inställningar
+Pivotering
+Visa rapportdetaljer
+Tillbaks till föregående mapp
+Utskrift
+Rapport- och dokumentexekvering
+Spara rapporter
+Visa fellogg
+Välj dag:
+Månad
+Dag
+År
+Meddelanden
+Ta bort från urval
+## minimum
+Behåll alltid
+Ta alltid bort
+Fråga användare vid urlogging
+Fråga användare vid utskrift
+Fråga användare
+Antal objekt som visas per stycke:
+Delade rapporter och mina rapporter
+Sortera
+Sortera lista
+Klicka på kolumnens titel som du vill sortera.
+Tillbaks till rapport
+Be MicroStrategy Server adminstratören att länka detta Windows-användarkonto med en MicroStrategy Server-användare, eller be dem att ställa in webbservern rätt.
+Vänta...
+Fil för sidhuvud:
+Fil för sidfot:
+Använd den avancerade sökfunktionen för att specificera på datum, objekttyp och beskrivningar.
+Standardegenskaper för projektet har sparats.
+Ange ett giltigt datum.
+MAPPBESKRIVNING
+Utskriftsinställningarna gör att du kan anpassa rapporten innan utskrift.
+När rapporten visas, kan du skriva ut den med webbläsarens utskriftsfunktioner.
+I (ange värdena1; värdena2; ...; värdenaN)
+Fel i något urval i prompten. Kontrollera dina urval.
+Maximalt antal rader per sida:
+Maximalt antal kolumner per sida:
+Standardvärde för antal rader per sida:
+Standardvärde för antal kolumner per sida:
+HTML mallen hittades inte på MicroStrategy Server.
+Dölj hjälp
+Visa hjälp
+Dölj denna sektion
+Visa denna sektion
+Tabelltyper
+Använd formatet som är sparat i rapportdefinitionen
+Använd mitt valda standardformat för tabeller
+Okändt rapportformat
+Webbserver
+Server timeout:
+Använd riktlinjerna för att justera storleken på rapporten vid utskrift.
+Fyll i denna prompt med värden mellan ## och ###.
+Denna prompt kräver minst ## val.
+Denna prompt har en gräns på högst ## val.
+Tabellrader per utskriven sida:
+Tabellkolumner per utskriven sida:
+Fel i dokumentet
+Lägg till...
+Frågemetod
+Avancerade inställningar:
+Kör Dokument
+Teknisk support
+Den här rapportens resultat finns inte längre tillgängliga. Skicka förfrågan igen.
+Avgör automatiskt
+Kör om rapport
+Kör om dokument
+Fel vid laddning av XML.
+RAPPORT TILLBEHÖR
+Visa Avancerat Informationen
+DIAGRAMTYPER
+Dölj avancerat
+Du måste ange ## val i denna prompt.
+Innehållet i denna sida kan inte visas på grund av att MicroStrategy Server inte är startad. Kontakta administratören.
+Fel på administrationssidan
+Följande fil har inte registrerats rätt på Webbservern: MAWeb.dll. Fråga administratören för mer information.
+Ett fel uppstod vid uppdatering av serverklustren.
+Ett fel uppstod vid anslutning till server:
+Ett fel har uppståt när servern skulle frånkopplas:
+Ett fel har uppståt när information om server kluster skulle hämtas.
+Ett fel har uppståt när webbservern vid laddning och kontroll av MicroStrategy Servrar.
+Namn
+Lista
+Stora ikoner
+Felaktigt servernamn.
+Tyska
+Engelska (amerikansk)
+Spanska (Spanien)
+Franska
+Italienska
+Japanska
+Koreanska
+Svenska
+Engelska (brittisk)
+Spanska (Mexico)
+Standard
+Attributet är låst
+Elementen i listan kan inte visas
+måttenheter
+föregående ## sidorna
+nästa ## sidorna
+första ## sidorna
+Copyright
+Uppdatera data
+Detta prompt tillåter bara ett val.
+Exportinställningarna gör att du kan anpassa formatet på informationen som skall exporteras.
+Klicka på Exportera när du vill fortsätta att exportera.
+Exportinställningar
+Ange giltiga värden separerade med semikolon.
+Timeout på begäran:
+Felaktigt format, försök igen.
+Maximalt antal element i en sökning:
+Sök timeout:
+Ange ett servernamn i textrutan längst ner på sidan.
+Sökningen gav fler än ## svar. Endast de ## kommer att visas.
+Öppna mapp
+Följ instruktionerna nedan märkta med en röd flagga.
+Varning!
+Kör rapport
+Diagramet för denna rapport är inte tillgänglig för MicroStrategy Web användare.
+Innehållet i denna sida kan inte visas på grund av att projektet har satts ur drift. Kontakta MicroStrategy Server administratören.
+Åtgärden kunde ej utföras då du ej har skrivbehörighet för denna katalog eller rapport.
+Om antal rader överskrider administratörens gräns, kommer rapporten exporteras till en textfil.
+Denna prompt  kräver minst ett val.
+Endast ett val är godkänt i denna prompt.
+Skapar nytt jobb
+Fel parametrar i URL.
+Följande parametrar krävs i URL:
+Läggs till alla projekt utom de med ett alias.
+Maximal längd på titeln:
+Läggs till alla projekt.
+Maximalt antal flikar per sida:
+Projekt alias:
+Visa flik för detta projekt
+Tillgängliga projekt
+YYYY-MM-DD
+HH:MM:SS
+Öppna nytt fönster vid utskrift
+Ett uttryck eller grupp av element från ett attribut betraktas som ett urval.
+XSL filen för detta dokument saknas eller innehåller felformaterad XSL.
+Obs! Dessa alternativ gäller inte promptar eller filtereditorer med fördefinierade listor av element eller objekt.
+Fler...
+,
+Välj en för kvalificering.
+Fel i rapport
+Fel i dokument
+Denna aktionen kunde inte genomföras eftersom du inte har behörighet att skapa objekt.
+Exportera numeriska värden som:
+Nummer
+Text
+Uppdatera rapport:
+Hämta data från det senast giltiga MicroStrategy server-cacheminnet
+Kör mot varuhuset igen
+Göm summor
+Visa summor
+Denna rapporten överskred antalet celler tillåtna av MicroStrategy Server XML styrning.
+Sammandrag
+Skriva ut stödlinjerna och kurvan på samma sida
+Filter vid markeringar
+Kolumnrubriker:
+Öka följande sidor med fält vid utskrift:
+Maximalt antal rader att exportera till ren text:
+Maximalt antal kolumner att exportera till HTML eller ren text:
+Fråga mig vid export
+Visa alternativ vid export
+Exportera stödlinjer till:
+Exportera kurvor till:
+Vid export av stödlinjerna med kurvan skall följande stödlinjer exporteras:
+Med formatering
+Utan formatering
+I ren text
+Portugisiska (Brasilien)
+Använd hyperlänkar vid rapportering till:
+Borra omedelbart
+Öppna popup-meny
+Visa förfrågningar:
+Allt på en sida
+Separata sidor
+Visa alltid nödvändiga förfrågningar först
+Gå tillbaka till administratörssidan
+Det uppstod ett fel i rapporten
+Det uppstod ett fel i dokumentet
+Maximalt antal serier och kategorier:
+Serier:
+Kategorier:
+Matcha gemen/versal
+Placering
+Avgränsare:
+Komma
+Tabb
+Semikolon
+Mellanslag
+filter
+mall(ar)
+Föregående
+Nästa
+Steg ## - ### av ####
+Gå tillbaka till rapport
+Första ## steg
+Sista ## steg
+eller
+Tillbaka till förfrågning
+Sammandrag av dina val
+Fel i mappens innehåll
+Förfrågningen har inte besvarats
+Ditt val:
+Förfrågan ##
+Standardvalet är:
+Exportera dokument till:
+Resultatet av de schemalagda rapporterna läggs till i historielistan.
+Skiss
+Värdet av varje preferens måste vara lika med eller lägre än värdet av närmast föregående preferens.
+Visa utskrivningsbar version
+Mina Prenumerationer
+Visa en lista med de rapporter jag prenumererar på.
+Prenumerera
+Om du vill prenumerera på denna rapport skall du välja ett schema och en personalisering här under.
+Är du säker på att du vill ta bort denna kanal?
+Med följande personalisering:
+Lägg till prenumeration
+Du prenumererar på följande prenumerationer för denna rapport:
+Schema
+Personaliserad
+Avbryt prenumerationen
+Redigera
+Prenumerationer
+Skicka mig denna rapport varje:
+Den nya rapporten kommer  skriva över äldre versioner av samma rapport.
+Denna funktion är automatiskt avstängd för användare som inte har tillträde till historielistan.
+Du har ## ###prenumeration(er)#### på denna rapport.
+Låt användaren ändra denna preferens
+Sammanfoga
+Repetera
+SQL-genereringen är inte komplett.
+Klicka på "Visa utskrivningsbar version" om du vill visa hur rapporter kommer att se ut när den skrivs ut.
+Inte
+Gradera mellan
+Tag bort högsta
+Tag bort lägsta
+Gradera inte mellan
+Gradera lika med
+Gradera inte lika med
+Rapportera grundnivå
+Rapportera nivå
+Standardnivå
+Okänd nivå
+Byt till tabell eller kontakta admininstratören för mer information.
+Tabellinställningarna för maximalt antal rader  kommer att ignoreras för denna rapporten.
+Om du vill svara på dessa parameterval igen, klicka på länken Omförfrågan intill  rapporten.
+Måttenheter för barn-enheter
+Om Nej:
+Du har ## ###prenumeration(er)#### på detta dokument.
+Ta bort denna kolumn
+Fel i Mina prenumerationer
+Är du säker på att du vill skriva över denna prenumeration?
+Bekräfta överskrivning
+Du håller på att skriva över denna prenumeration:
+Rapportbegränsning:
+Java Virtual Machine
+Dina rättigheter till informationskällan har ändrats.
+Du har inga prenumerationer.
+Projektlista:
+Visa alla projekt som är anslutna till webbservern innan användaren loggar in
+Logga in, och visa sedan de projekt som är tillgängliga genom inloggningen
+Det lösenord som du angivit är felaktigt eller också ger inte det användarnamn och lösenord du angav åtkomst till något av de projekt som finns på systemet för närvarande.
+Ta bort mall
+Ta bort filter
+Informationen är inte tillgänglig
+Mallinformation:
+Din mall har sparats.
+Ditt filter har sparats.
+Det finns en mall med samma namn som den nya.
+Du kan skriva över den eller spara den nya mallen under ett nytt namn.
+Det finns ett filter med samma namn som det nya.
+Du kan skriva över det eller spara det nya filtret under ett nytt namn.
+Rapportvisning
+Adresser
+Tjänster
+Om
+Hjälp
+Din förfrågan bearbetas. Vänta...
+MicroStrategy Narrowcast Server är en produkt från
+Alternativ
+Snabb sökning
+Tjänstmappar
+Felkod
+Felbeskrivning
+Fel vid mappvisning
+Upp en nivå
+Fel vid visning av barn-mappar
+Beskrivning:
+Tjänst
+Adress
+Personlig anpassning
+Måttenheter
+Spara ändringar
+Nya användare
+Användarnamn:
+Lösenord:
+Du kan skapa ett nytt konto. Klicka bara nedan.
+Skapa ett nytt konto
+Välj en adress:
+Skapa ny adress
+Ett fel har uppstått på den här sidan.
+Fel när adresserna hämtades
+Du har inga kompatibla adresser.
+Fel vid hämtning av scheman
+Det finns inga tillgängliga scheman.
+(Ingen tjänstbeskrivning tillgänglig)
+Fel vid visning av prenumerationer
+Det finns inte några tjänster i den här mappen.
+Det finns inga prenumerationer för den här tjänsten.
+SNABBLÄNKAR
+MEDDELANDEN
+Tillbaka hem
+Tillbaka till Adresser
+Tillbaka till Rapporter
+Tillbaka till Tjänster
+Fel vid inloggning
+Användarnamnet eller lösenordet var felaktigt. Skriv in dem igen.
+Användarnamnet eller lösenordet saknades. Skriv in dem igen.
+Fel under adresskommando
+Försök igen eller kontakta systemadministratören.
+Ett eller flera adressfält var tomma. Försök igen.
+Fel vid prenumerationskommando
+Fel när ett nytt konto skulle skapas
+Lösenord och bekräftelsen av lösenordet stämde inte. Skriv in dem igen.
+Användarnamnet, lösenordet eller ledtråd till lösenordet saknades.
+Fel när nytt användarkonto skulle skapas
+Skapa ny användare
+Bekräfta lösenord:
+Ledtråd för lösenord:
+Avbryt begäran
+Din begäran har avbrutits.
+Klicka på en flik ovan för att fortsätta.
+Inga adresser skapades
+Hämtar scheman för prenumerationer
+Hämtar användaradresser för prenumeration
+Hämtar tjänsteinformation
+Hämtar tjänster i mappar
+Hämtar användarprenumerationer
+Hämtar fråga/prompt för prenumerationer
+Uppdaterar användarprenumerationer
+Uppdaterar användaradresser
+Skapar ny användare
+Bekräftar användarinloggning
+Hämtar användaradresser
+Hämtar mappar
+Bearbetar...
+Bekräfta nytt lösenord:
+Bekräfta borttagning av adress
+Bekräfta borttagning av prenumeration
+Är du säker på att du vill ta bort adressen?
+Är du säker på att du vill ta bort prenumerationen (prenumerationerna) på följande tjänst(er)?
+Användarinställningar
+Dina inställningar har sparats.
+Språk:
+JavaScript:
+Använd JavaScript?
+Status:
+Fel vid hämtning av rapporter
+Fel vid visning av rapport
+Rapport:
+Skapad:
+Utgår:
+Rapportmappar
+Pågående
+Denna rapport är inte tillgänglig för närvarande.
+Det uppstod ett fel under hämtningen av dina rapporter.
+Det uppstod ett fel när denna rapport visades.
+Bilagor
+Hämtar rapport
+Det finns inte några rapporter i den här mappen.
+Det finns inga scheman definierade för detta projekt.
+Spara personlig anpassning som:
+Fel när personlig anpassning skulle sparas
+Det uppstod ett fel när din personliga anpassning skulle sparas.
+Glömt ditt lösenord?
+Ange ditt användarnamn och klicka på "Visa ledtråd för lösenord."
+Visa ledtråd för lösenord
+Din ledtråd är:
+Fel när ledtråd för lösenord skulle hämtas
+Det uppstod ett fel när ledtråden till lösenordet skulle hämtas.
+Tillbaka till inloggningen
+Hämtar ledtråd för lösenord
+Uppdaterar användarprofil
+Hämtar adressinformation
+Sparar prenumerationsinformation
+Var god ange ett adressnamn.
+Ange ett adressnamn utan följande tecken:
+Var god ange en adress.
+Ange en adress utan mellanslag och utan följande tecken:
+Ange din adress i formatet username@server.type som i följande exempel: jsmith@abccompany.com
+Följande fil har inte registrerats korrekt i webbservern: M9StrUtl.dll. Kontakta administratören för mer information.
+Tack för att du använder MicroStrategy Narrowcast Server.
+Ingen fil skickades till webbservern.
+Detta användarnamn har redan tagits. Ange ett annat användarnamn.
+Filen har ett ogiltigt filtillägg. Tillåtna filtillägg är: ##
+Fel vid uppdatering av användarprofil
+Ett fel uppstod när din användarprofil skulle uppdateras.
+Det gamla lösenordet är felaktigt. Skriv in den igen.
+Det nya lösenordet och bekräftelsen av lösenordet stämde inte överens. Skriv in dem igen.
+Fel vid hämtning av data
+Det uppstod ett fel vid inladdning av XML. Kontakta systemadministratören.
+MicroStrategy Narrowcast Server 7.1
+Version
+Kontaktinformation – Systemadministratör
+E-post:
+Telefon:
+Ange en ledtråd för lösenordet, något som påminner dig om lösenordet.
+PIN-koden och bekräftelsen stämde inte överens. Skriv in dem igen.
+Spara mallen inuti:
+Spara filtret inuti:
+Spara mallen som:
+Spara filter som:
+Rapport
+Mall
+Filter
+KÖR FILTER + MALL
+Kör detta filter:
+med denna mall:
+Välj en mall
+Välj ett filter
+För att anmäla dig till ett konto, ange följande information nedan.
+Obligatorisk information anges med en röd asterisk (*).
+Ange ett användarnamn och ett lösenord för ditt nya konto.  Skriv in lösenordet två gånger.
+Ange en ledtråd som påminner om lösenordet så mycket som möjligt.
+Var god ange en e-postadress.
+(till exempel: namn@company.com)
+Du är klar! Klicka på knappen "Skapa ett nytt konto" nedan.
+Ange din inloggningsinformation för följande informationskälla (källor).
+Ett eller flera fel uppstod vid din begäran om ett nytt konto.
+Läs instruktionerna i rött nedan och försök igen.
+Lösenordsledtråden är tom. Skriv in den igen.
+Ändra mina lösenord
+Du kan ändra ett eller flera av dina lösenord nedan.
+Inloggning till ditt konto.
+Du är klar! Klicka på "Slutför" nedan.
+Slutför
+Ett eller flera fel uppstod vid din begäran om ändrat lösenord.
+Det gamla eller det nya lösenordet saknades. Skriv in dem igen.
+Importera filter:
+Tillåtna filtillägg:
+Notera: Separera varje filtillägg med kommatecken (dvs.: ext1, ext2, ext3).
+Maximal storlek för de filer som ska hämtas:
+Information om frågor/prompter:
+Ange obligatoriska användarnamn och lösenord nedan.
+Hämta innehåll
+Du har angivit en fil som är större än maximal filstorlek (## Kb), som ställts in av administratören.
+Varning: Det är inte alla borrsökvägar som visas, på grund av ett begränsningsalternativ i MicroStrategy Desktop.
+Filinnehållet har inte det format som krävs för att kunna bearbeta dess data.
+Leveranser
+Tills:
+Klicka på ett dokumentnamn till vänster för att visa dokumentet här.
+Skicka till Mina Rapporter
+Skicka till:
+Varje:
+Anmäl dig till en tjänst
+Bläddra genom listan av färdigställda tjänster, tillgängliga för alla användare.
+Visa dina schemalagda rapporter.
+Ange kontaktinformation för dina prenumerationer/leveranser.
+Anpassa dessa skärmar efter din webbläsare och dina visningsinställningar.
+Prenumerera på:
+Personanpassa din prenumeration
+Personanpassa din prenumeration på den här tjänsten genom att svara på frågorna nedan.
+Klar!
+För att ta bort en prenumeration måste du markera en kryssruta och sedan klicka på Avbryt prenumerationen.
+För att ta bort en rapport eller ett dokument från historiken måste du markera en kryssruta och sedan klicka på Ta bort.
+Schemaläggning
+PRENUMERATIONER - RAPPORTER
+Din användarsession har avbrutits och du har loggats ut automatiskt.  Logga in igen.
+Inaktivera mitt konto
+Ditt konto har inaktiverats.
+Är du säker på att du vill inaktivera ditt konto?
+När du avaktiverar ditt konto, kommer du inte att kunna ta emot tjänster eller logga in igen. Ditt konto kan endast aktiveras på nytt av portalens administratör.
+Var god välj språk.
+Aktiverad (prenumerationen kommer att levereras enligt angivet schema)
+Språk:
+Ändra informationskällans rättigheter
+Ändra rättigheter
+Ett eller flera fel uppstod vid behandling av din begäran om ändrade rättigheter för informationskällan.
+A3 11,69" x 16,54"
+SDK version:
+Transaktionsserver:
+Ladda fil
+Kanaler
+Aktiv
+Lägg till en ny kanal
+Aktiv kanal
+Inaktiv kanal
+Ta bort kanalen
+Skapa ny kanal
+Redigera kanal
+För att skapa en ny kanal måste du utföra följande steg:
+Publicera en mapp med tjänster för kanalen
+Ge kanalen ett namn
+Visa inte den här sidan igen
+Namn på och beskrivning av platsen
+Ange ett namn för den här kanalen:
+Ange en beskrivning för den här kanalen (valfri):
+Felkälla
+Välj de attributelement du vill behålla och tryck på knappen Filter.
+Om du inte väljer några element för kolumnerna kommer alla kolumnerna att finnas kvar i den nya rapporten. Samma sak gäller för rader.
+Filter
+Dölj filter vid markeringar
+Visa filter vid markeringar
+Dölj rapportmeny
+Visa rapportmeny
+Detta konto har inaktiverats. Kontakta administratören för aktivering av detta konto på nytt.
+Användarnamnet är tomt. Skriv in det igen.
+Lösenordet var tomt. Skriv in det igen.
+Spanska
+Engelska
+Maximalt antal element att importera:
+Delade filter
+Delade mallar
+Mina objekt
+Importera filter från en fil:
+Ange en ny adress:
+Enhetstyper
+byt namn...
+definition ...
+Enhetens mappar
+redigera enhetens mappar ...
+Byt namn
+Stor URL-ikon:
+Liten URL-ikon:
+Adressformat:
+E-post
+Detta är standardformatet för e-postadresser på Internet.
+Format: xxxx@xxxxxx.xxx
+Numerisk
+Visa fält:
+Redigera fält:
+Adressnamn
+Adressvärde
+Format
+PIN
+Leveransblock
+Enhetstypens namn:
+Bekräfta borttagning av enhetstyp
+Är du säker på att du vill ta bort enhetstyp '##'?
+Ny definition
+Definition:
+Tillgänglig:
+Vald:
+Inga mappar har valts.
+Spara filtret som statisk definition.
+Spara alla promptar inne i filtret.
+Spara mallen som statisk definition.
+Spara alla promptar inne i mallen.
+Din rapportdesigner valde att låta en varukorg och ett textfilsformat representera denna prompt.
+Eftersom du har stängt av DHTML kan du inte använda funktionen importera textfil.
+Om du vill svara på denna fråga kan du använda varukorgen.
+Du kan inte slutföra denna åtgärd eftersom projektet är låst.
+Automatisk sortering
+Du kan inte exportera denna rapport, på grund av att den överskrider gränserna som administratören satt för maximalt antal kolumner och rader för export till Excel eller Html.
+Denna rapport kan emellertid exporteras till Excel som text, CSV eller text genom att välja detta alternativ antingen från inställningar eller innan exporten utförs.
+Skapa ny enhetstyp
+Använd detta format enbart för en talsträng.
+Format: ########
+Inga enhetstyper har skapats.
+Bekräfta PIN
+Inaktiv
+Ange ett numeriskt värde för adressen i följande format: #########
+Hjälp med:
+Antingen användarnamnet eller lösenordet var felaktigt för en eller flera informationskällor Försök igen.
+Du har inga rapporter.
+Välj ett schema för när den här tjänsten ska levereras.
+Välj en tidsplan från listan nedan.
+Välj var du vill att den här tjänsten ska levereras.
+Slutför följande steg för att anmäla dig:
+Välj en tjänst
+Ange en tidsplan och en adress.
+Personanpassa innehållet i tjänsten (i förekommande fall).
+Personanpassa ditt serviceinnehåll.
+Du kan ge följande information om du vill personanpassa innehållet för den här prenumerationen:
+Om ledtråden inte hjälper dig att komma ihåg lösenordet, kontaktar du systemadministratören så att du kan få ett nytt lösenord.
+OK
+Framgång!
+Ditt prenumeration har med framgång sparats.
+Teckensnittstyp:
+Spara markeringarna som (tillval)
+Gör nya markeringar
+Välj från denna lista med tidigare sparade markeringar:
+Välj en:
+Verkställ dessa markeringar
+Projektet ## finns inte på server ###.
+Nivå:
+(INAKTIVERAD)
+Administratörinformation:
+Efter att ha modifierat portalrepositoryns anslutning måste du konfigurera om webbplatsinformationen.
+Efter att ha modifierat prenumerationsmotorns placering måste du konfigurera om portalens repositoryanslutning och webbplatsinformationen.
+Efter: ## dagar.
+Ändra namn och beskrivning
+Konfiguration
+Konfigurerad?
+Namn på databasanslutning:
+Databasanslutningar
+Databasanslutningar:
+Standardenhet:
+Standardspråk:
+Standardspråk för nya användare:
+Standard använd DHTML:
+Inaktivera
+Vill du fortsätta?
+Dokumentets repository:
+Gör det möjligt att skapa nya användare:
+Ange namnet på servern som kör prenumerationsmotorn:
+Ange ett unikt namn och en beskrivning för den här portalen.
+GUI-inställningar:
+Informationskälla
+Informationskällor
+Loggningsnivå:
+Obligatorisk
+Portalens repository
+Metadata DB-alias:
+Anslutning av Metadata DB:
+Tabellprefix för Metadata:
+Förfallodatum för nya användare:
+Inget förfallodatum
+På:
+Eller spegla en befintlig plats:
+Telefonnummer:
+Välj hur användaren ska logga in till informationskällorna för detta projektr:
+Konfiguration av portal
+Portal-enhet:
+Klicka på knappen om du vill konfigurera den här webbplatsen:
+Objektets repository
+Projektinställningar:
+Ange meriter
+Nyligen använda serverplaceringar för portalens prenumerationsmotorer:
+Välj en annan portal
+Välj portal
+Välj en befintlig webbplatsdefinition eller klicka på Lägg till en ny webbplatsdefinition.
+Inställning
+Portal-enheter:
+Portal-information
+Platsinställningar
+Prenumerationsbok-repository
+Prenumerationsmotorns placering
+Prenumerationsmotorns egenskaper
+Tabellprefix:
+Mapp för temporära filer:
+Portaldesignern i MicroStrategy Narrowcast-servern gör det lätt för administratören att skapa webbprenumerationsportaler, där användaren kan prenumerera på tjänster från Narrowcast-servern via en webbläsare.
+Den här portalen är inte klar för åtkomst av slutanvändare. För att den ska bli tillgänglig, måste följande konfigureras:
+Använd projektmeriter
+Välkommen till prenumerationsportaldesignern på MicroStrategy's Narrowcast-server!
+Skriv över rapportteckensnittet
+Välj och prioritera teckensnitt till gränssnittet.
+MicroStrategy Web använder det första teckensnittet från den prioriterade listan som är tillgänglig på användarens dator.
+Inga kanaler är angivna för denna plats.
+Välj Kanalmappen
+Värdet för ## är ogiltigt. Om detta värde inte har ställts in rätt, kommer vissa åtgärder från portaldesignern att misslyckas.
+Verifiera att ID:n i filen #1 pekar på ett giltigt språk i projektrepositoryn.
+Om du vill göra något åt detta problem, fortsätter du på ##-sidan.
+Standardvärdena för ## är ogiltiga. Verifiera att ID:arna i filen #1 pekar på giltiga objekt i projektrepositoryn.
+Några eller alla standard-## hade ogiltiga definitioner. Verifiera att tjänst-mapparna i filen #1 pekar på giltiga mappar i projektrepositoryn.
+Ett oväntat fel uppstod vid inställning av standardvärdena. För ytterligare detaljer hänvisas till ##.
+En webbplats har nu skapats i MD. Några fel upptäcktes emellertid när du försökte ange standardvärdena:
+Databasanslutningen "#1" pekar inte på en databas som innehåller portalrepositorytabeller med prefixet "#2".
+Vill du skapa dem?
+Skapa metadatatabeller:
+Standard Hydra-plats
+Webbplats med standardvärden
+Använd en ny webbplats:
+Välj portal-enhet
+Välj standardenhet
+Ange ett namn för webbplatsdefinitionen.
+Ange ett namn utan följande tecken:
+Ange en beskrivning utan följande tecken:
+Ange namnet på den server som kör prenumerationsmotorn:
+Ange en mapp för de temporära filerna.
+Ange en sökväg för mappen med temp-filerna utan följande tecken:
+Ange en giltig siffra för antalet dagar.
+Maskinens namn får inte innehålla något av följande tecken: " [ ]
+Välj enhetsstil
+Slutför följande steg om du vill hitta enhetens stil:
+Välj en kategori.
+Välj stil.
+Klicka på en enhetskategori för:
+Klicka på en enhetsstil för:
+Det finns inga enhetsstilar i den här kategorin.
+Kan ej hitta information om enhetsstilar.
+Inga stilar tillgängliga.
+Ingen verifiering
+Adressvärdet kan vara valfri textsträng.
+Format: valfria siffror och följande tecken - ( )
+Ange ett värde för adressen i följande format: valfria siffror och följande tecken - ( )
+Motorkonfiguration
+Webbplatshantering
+Välj databasanslutning för portalrepositoryn.
+Välj databasanslutning för objektrepositoryn.
+Välj databasanslutning för prenumerationsboksrepositoryn.
+Använd samma databasanslutning för prenumerationsboksrepositoryn.
+Lägg till en ny databasanslutning
+Lägg till en ny webbplatsdefinition
+Webbplatsdefinition
+Välj den webbplatsdefinition som ska användas av den här servern:
+Databas
+Du måste ange namnet på den server som kör prenumerationsmotorn:
+Skapa din startsida
+Fel när du skapade din sida
+Du har inte skapat din startsida. Följ stegen nedan.
+Välj rubrik till din sida:
+Välj stil för layouten.
+Välj den komponent som du vill se på varje panel:
+Spara min startsida
+Se min sida
+Min startsida
+Första panelen:
+Andra panelen:
+Tredje panelen:
+Fel vid radering av användarprofil
+Profilen kan ej raderas eftersom den är gemensam för flera prenumerationer
+Det finns inga informationskällor angivna för denna webbplats.
+Visa befintliga prenumerationer för den här tjänsten
+Portalhantering
+Följande prenumerationsportaler har upptäckts på den här webbservern.
+Välj en portal nedan för redigering av dess konfiguration.
+Skapa ny prenumerationsportal
+Skapa ny portal
+Portalnamn
+Ange namnet på den virtuella mappen om du vill skapa en ny prenumerationsportal:
+BESKRIVNING AV HISTORIKLISTA
+Ange en standardadress.
+Format: valfri text eller numeriska tecken
+Ange en adress i följande format: valfri text eller numeriska tecken
+Varje webbplatsdefinition känns igen på sitt unika namn och sin beskrivning.
+Genom att skapa ett unikt namn för varje definition kommer du att veta vilken portal som innehåller vilka egenskaper, som slutanvändaren kommer att se, när han/hon öppnar den virtuella mappen.
+Det är bäst att ge en detaljerad beskrivning av webbplatsdefinitionen, så att designern genast vet, vilka egenskaper platsen innehåller.
+Begreppet "webbplatsdefinition" består av ett antal egenskaper, som anger vad användaren verkligen kommer att se via webbläsaren, när han/hon öppnar URL:en för valfri virtuell mapp.
+En portal kan använda en valfri webbplatsdefinition.
+Följande lista innehåller platsdefinitioner som finns i befintlig portalrepository.
+Två eller fler portaler, på samma eller olika servrar, kan peka på samma webbplatsdefinition.
+Du kan antingen välja en befintlig webbplatsdefinition eller skapa en ny.
+Välj en befintlig webbplatsdefinition för användning på den här servern, eller klicka på Lägg till en ny webbplatsdefinition.
+Integration med leveransmotorn gör att användaren kan ange personlig anpassning av tjänst, scheman och den enhet, på vilken användaren önskar ta emot informationen.
+Med portaldesignern kan administratören ange standardinställningar, t.ex. språk och DHTML-användning.
+Som portaldesigner har du följande förpliktelser:
+att konfigurera och hantera prenumerationsportalen så att slutanvändaren kan prenumerera på olika tjänster på nätet
+konfigurera datakällor och layout av portaler
+publicera tjänster och enhetstyper
+välja standardenheter för prenumerationsportalen
+ange informationskällans egenskaper och standardinställningar för portalen
+Med portaldesignern kan du:
+konfigurera prenumerationsmotorn
+välja eller redigera portalkonfigurationen
+skapa eller välja webbplatsdefinitionen
+konfigurera statiska och dynamiska tjänsteofferter
+Klicka på NÄSTA för att starta.
+Objektrepositoryn lagrar schemaläggningsinformation, tjänst- och enhetsdefinitioner.
+Följande tabell innehåller befintliga databasanslutningar där data kan lagras.
+Du kan välja en befintlig anslutning eller skapa ett nytt alias i befintlig portalrepository.
+För ytterligare information om databasalias hänvisas till den informationsfil som medföljde programvaran.
+Markera kryssrutan, om samma anslutning ska användas för prenumerationsbokrepositoryn, så kommer du direkt till kanalskärmen.
+Prenumerationsbokrepositoryn lagrar prenumerationsdata som inkluderar slutanvändare, adresser, personlig anpassning och prenumerationsutgåvor.
+Vid en typisk installation installeras prenumerationsmotorn på samma maskin (dvs. lokal värd).
+Portalrepositoryn lagrar konfigurationsinställningar som anger gränsnittet för slutanvändarens prenumerationsportal.
+Denna information inkluderar:
+namn på och beskrivning av webbplatserna
+kanalinställningar
+publicerade tjänster
+enhetens mappar
+standardinställningar
+Databasalias används för att ange prenumerationsmotorns anslutbarhet till databasen.  Med detta kan prenumerationsmotorn exekvera de angivna frågorna som utgår från prenumerationsportalen.
+Du kan antingen välja ett befintligt databasalias eller skapa ett nytt.
+Välj ett befintligt databasalias där portalens metadata är placerade:
+Guiden för webbplatshantering hjälper dig genom de olika funktionerna, när du ska konfigurera webbplatsdefinitionen.
+Platsdefinitionen innehåller en förteckning över egenskaper, konfigureringar och inställningar som en portal använder för att ange layout och innehåll, som visas för slutanvändaren.
+Den här guiden innehåller följande ämnen:
+Välja, redigera och skapa en webbplatsdefinition
+Publicera tjänster för webbplatsdefinitionen
+Välja, redigera och publicera enhetstyper
+Ange modulegenskaper för informationskällor
+Ange standardinställningar för webbplatsdefinitionen
+Guiden för portalhantering hjälper dig, om du behöver redigera konfigurationen för en befintlig portal eller skapa en ny prenumerationsportal.
+Upptäcka och redigera portal
+Skapa ny prenumerationsportal
+Med begreppet "portal" avses den verkliga uppsättningen ASP-sidor som installerats på webbservern och den virtuella mappen, som pekar på dessa filer.
+Följande prenumerationsportaler har upptäckts på den här webbservern.
+Välj den portal som du vill arbeta med.
+Klicka på Ta bort för att radera portalen från listan av tillgängliga alternativ.
+Anta att du skapat flera portaler, en för Hanterare, en annan för Direktörer och en tredje för Delägare.  Nu behöver du emellertid skapa en för Ingenjörer.
+Det saknas en prenumerationsportal som är konfigurerad exakt enligt de specifikationer du behöver.  Du kan skapa en från den här platsen genom att ange ett portalnamn och portalens placering.
+Följande lista innehåller webbplatser som redan finns i aktuell portalrepository.  Två eller flera fysiska platser, på samma eller olika maskiner, kan peka på samma webbplatsdefinition.
+Du kan antingen välja en av de befintliga webbplatsdefinitionerna eller skapa en ny ///repository///.
+Att definiera en ny kanal betyder att du väljer en mapp från ett antal befintliga tjänster inom Narrowcast-repositoryn, tilldelar kanalen ett namn och en beskrivning och publicerar kanalen till prenumerationsportalen.
+Välj en mapp från tabellen nedan och klicka på Nästa.
+När du publicerar en ny kanalmapp, publiceras allt innehåll som finns i denna mapp.  Alternativt kan du ändra mappen namn så att detta bättre avspeglar mappens innehåll.
+En beskrivning kan anges, även om den är valfri, för att ge en bättre idé om vad den här kanalen lämpar sig bäst för.
+Det finns en kryssruta för att ange om den här kanalen och dess egenskaper kommer att vara tillgänglig för slutanvändarna.
+Namn och beskrivning på kanalen
+En enhet är ett specifikt hjälpmedel för leverans av prenumerationsinnehåll till slutanvändaren.  Varje adress som användaren skapar i portalen  är avsedd att använda endast en enhet, t.ex. Outlook 98 eller Outlook 2000.
+Enhetstypen är en grupp av enheter för vilka användaren väljer hur de kommer att ta emot innehållet. När en ny webbplatsdefinition skapas, skapas och konfigureras fyra standardenhetstyper automatiskt.
+Typerna är:
+Digitala sekreterare
+Mobiltelefoner
+Personsökare
+E-post
+Dessa standardenheter skapas när portaldesignern i MicroStrategy Narrowcast installeras och mapparna, som är kopplade till dessa enheter, lagras i Narrowcast-repositoryn.
+Från den här guiden har du följande alternativ:
+ändra namn på en specifik enhetstyp
+modifiera definitionen för en enhetstyp
+radera en enhetstyp ///för att stödjas av portalen///
+redigera enhetstypens mapp
+skapa en ny enhetstyp
+För varje ny definition av enhetstyp måste du ange enhetstypens namn, den stora och lilla ikonens URL, adressformatet och vilka fält som kommer att användas vid visning och redigering.
+Använd den här skärmen när du ska lägga till eller ta bort element från mappen för denna specifika enhetstyp.
+För den här enhetstypen är elementen till vänster tillgängliga, men inte aktiva.  Elementen till höger är för närvarande valda för den här specifika enhetstypen.
+I detta sammanhang är en enhet ett specifikt sätt att leverera innehåll till slutanvändaren.  Standardalternativen ///som erbjuds/// är "generisk e-postklient" och "portalenhet."  Du kan ändra standardalternativen efter behov.
+Klicka på lämplig enhet om du vill ändra urvalet.
+För varje informationskälla måste du ange om användaren måste ange sin autentifieringsinformation, t.ex. användarnamn och/eller lösenord.
+Om projekträttigheterna används, hoppas autentifieringsmekanismen över och användaren kommer att föras över till den information han/hon har begärt.
+Det finns även alternativ där användarrättigheter krävs eller där dessa är valfria.
+Som standard tillåts inte användaren att ange någon autentifiering för någon informationskälla.
+Du måste ändra kravet om du önskar att autentifiering ska gälla.
+Välj inställningar för återstoden av webbplatsens egenskaper.
+Webbplatsinställningarna styr hur standardvärdena anges för användare av portalgränssnittet.  Du kan ändra alla inställningarna genom att modifiera informationen som visas på den här sidan.
+Gratulerar! Din konfiguration av den här sidan är nu klar!
+Klicka på knappen Slutför om du vill starta webbläsaren och logga in på den här portalen.
+Om du lägger märke till att något måste ändras, använder du Portal Designerns Portal Management-verktyg för att konfigurera om webbplatsens definition eller inställningar.
+Ursprung
+Portal
+Admin
+Användar-I.P.
+Fel när prenumerationen skapades
+Kontrollera att du har en standardprofil för frågeobjektet.
+Fel när frågeobjektinformation hämtades från MicroStrategy Narrowcast-servern.
+Trace
+Information
+Varning
+Använd dessa alternativ som standard
+Sessionens variabler
+Tillhörande plats
+Inte tillämplig
+Ange ett namn för portalen.
+Är du säker på att du vill ta bort den här enheten?
+Är du säker på att du vill ta bort den här portalen?
+Är du säker på att du vill ta bort den här webbplatsen?
+Ange ett namn för Jdata Connect-servern.
+Ange ett namn för databasanslutningen.
+Ange ett namn för ODBC-datakällan.
+Lägg till databasanslutning
+ODBC-datakällans namn:
+Testa databasanslutning?
+Översikt
+Felaktig definition av databasalias för repository-tabeller i prenumerationsboken.  Välj en annan webbplatsdefinition.
+Repository-tabeller finns i prenumerationsboken, men i felaktig version.  Var god ange ett annat prefix.
+Felaktig definition av databasalias för tabeller i objektrepository.  Välj en annan webbplatsdefinition.
+Objektrepository-tabeller finns, men i felaktig version.  Var god ange ett annat prefix.
+Felaktig definition av databasanslutning för tabeller i portalrepositoryn.  Välj en annan.
+Databas-tabeller finns, men i felaktig version.  Var god ange ett annat prefix.
+Kunde inte upprätta anslutning till portalens metadata.  Bekräfta den information som du skrev in.
+Fel när du sparade anslutning för databasalias
+Ett oväntat fel uppstod vid inställning av den nya databasalias-anslutningen.
+Inga databasanslutningar har definierats.
+Den här sidan använder du när du ska skapa eller redigera nya kanaler för den här webbplatsdefinitionen.
+Ange ett namn för kanalen.
+Välj de enheter som stöds av den här webbplatsen.
+Välj den standardenhet som används när du skapar nya adresser, och den standard portalenhet som används när tjänster skickas till sidan "Mina rapporter".
+Välj värden för webbplatsens återstående egenskaper.
+Konfiguration av tjänster
+Statiska prenumerationer
+Dynamiska prenumerationer
+Lagring
+Välj en alternativ fråga
+Prenumerationsportalen i MicroStrategy publicerar tjänsterna i den mapp du väljer.  Vissa tjänster kräver emellertid ytterligare konfiguration.
+Ange standardkonfigurationen för dessa tjänster nedan.
+Om du vill konfigurera en viss tjänst individuellt, klickar du på knappen # nedan.
+Konfigurera tjänster
+Statiska prenumerationsgrupper
+Dynamiska prenumerationsgrupper
+Dölj sorterade frågor från prenumeranter
+Besvara sorterade frågor med:
+Dölj ej konfigurerad prenumerationsgrupp från prenumeranter
+Använd portaldesignern i MicroStrategy Narrowcast-servern vid konfigurationen av prenumerationsdatalagring på individuell tjänstnivå.
+I ett meddelande ombeds du att välja den tjänst du önskar konfigurera. Därefter visas de statiska och dynamiska prenumerationsgrupper som är kopplade till denna tjänst.
+Vad gäller både de statiska och de dynamiska prenumerationsgrupperna konfigurerar du frågeobjektet för den valda tjänsten.
+Dessutom kan du lägga till ytterligare frågeobjekt för att inhämta information från prenumeranter.
+Vad gäller dynamiska prenumerationsgrupper kommer du att konfigurera lagringen av prenumerationsdata.
+Du har konfigurerat följande tjänst(er). Klicka på 'Redigera' om du vill redigera befintlig konfiguration, eller klicka på mappens namn om du vill konfigurera andra tjänster i samma mapp.
+Klicka på # nedan om du vill konfigurera en annan tjänst.
+Den här tjänsten har en eller flera statiska prenumerationsgrupper som den är kopplad till.  Prenumeranter i dessa prenumerationsgrupper lagras i prenumerationsbokens repository.
+Standardinställningar för statiska prenumerationsgrupper
+Klicka nedan om du vill ange en enda konfiguration för alla statiska prenumerationsgrupper.  Detta standardvärde kommer att användas av alla grupperna i den här tjänsten.
+Konfigurerad:
+konfigurera
+Konfigurera statiska prenumerationsgrupper individuellt
+Klicka på konfigurationslänken bredvid gruppen om du vill konfigurera en statisk prenumerationsgrupp individuellt.  Prenumerationsgrupper som inte har konfigurerats kommer att använda systemets standardvärden.
+Den här tjänsten innehåller inga statiska prenumerationsgrupper.
+Sorteringsfrågor kommer inte att visas för prenumeranter.  Du kan emellertid välja en alternativ fråga som kommer att visas för prenumeranterna.
+Please select a question object below.
+Välj plats för svaren på den här frågan.
+Du kan antingen:
+Använda #
+ELLER använda en av följande lagringsmappar:
+Tabeller
+Lägg till en ny lagringsmapp
+Radera
+Välj de databastabeller i vilka informationen kommer att lagras.
+Datalager:
+välj databasanslutning
+Filtrera kolumnerna efter:
+Tillgängliga tabeller:
+Valda tabeller:
+Välj de databaskolumner i vilka du önskar att informationen ska lagras.
+Dra-och-släpp komponenter från vänster till de högra tabellkolumnerna.
+Svarskomponenter
+Allmänt:
+Prenumerationskomponenter
+Konfigurering:
+Standard tjänstkonfigurering
+Du hat valt att konfigurera tjänsten ovan.  Du kan antingen behålla standardinställningarna som förtecknas nedan eller ange ytterligare inställningar för individuella prenumerationsgrupper i följande steg.
+Standarder för tjänst
+Sorterade frågor
+Ytterligare frågor
+Du kan be prenumeranterna om ytterligare frågor genom att redigera informationen nedan.
+Denna tjänst innehåller följande sorteringsfråga:
+Du har valt att visa det här frågeobjektet:
+i stället för den här sorteringsfrågan:
+Förvaring i lager
+Ändra urvalet
+Relaterade länkar
+Anmäl dig till den här tjänsten igen
+Anmäl dig till en annan tjänst
+Visa alla dina prenumerationer
+Välj en profil för det här frågeobjektet.
+Servernamn för JData Connect
+Du har nu skapat ditt konto.
+Om du glömmer bort lösenordet, visas denna ledtråd och när du ser den här ledtråden igen, påminns du om ditt lösenord.
+Exportera alla värden som text:
+Välj Tjänst
+Välj Lagring
+Välj Tabeller
+Välj Kolumner
+Konfigurera prenumerationsgrupp
+Välj Fråga
+Avsluta Konfigurera tjänster
+Välj den tjänst som du vill konfigurera.
+Fråga
+Publikation(er)
+Standardinställningar för dynamiska prenumerationsgrupper
+Den här tjänsten har en eller flera dynamiska prenumerationsgrupper som den är kopplad till. Prenumeranter i dessa prenumerationsgrupper sparas i lagret med hjälp av lagringmappar.
+Spara den här lagringsmappen som:
+Klicka nedan om du vill ange en enda konfiguration för alla dynamiska prenumerationsgrupper. Detta standardvärde kommer att användas av alla grupperna i den här tjänsten.
+Konfigurera dynamiska prenumerationsgrupper individuellt
+Klicka på konfigurationslänken bredvid gruppen om du vill konfigurera en dynamisk prenumerationsgrupp individuellt. Prenumerationsgrupper som inte har konfigurerats kommer att använda systemets standardvärden.
+Extrafråga
+Frågan du har valt kan inte användas i prenumerationsportalen.
+Gå tillbaka och välj en annan fråga.
+Svaret på den fråga du har valt kan sparas antingen i prenumerationsbokens repository eller på någon annan plats med hjälp av en lagringsmapp.
+Om du vill spara svaret i prenumerationsbokens repository , kommer svaret ensamt att sparas här.
+Om du föredrar att använda en lagringsmapp, kommer ett Inställnings-ID för frågan att sparas i prenumerationsbokens repository, och svaren sparas beroende på lagringsmappens definition.
+Svaret på frågan som du har valt måste sparas i en lagringsmapp. Detta beror på att användaren uppmanas välja från en lista över element, och användaren kan välja fler än ett.
+Om du sparar svaren i en lagringsmapp, kommer ett Inställnings-ID för frågan att sparas i prenumerationsbokens repository, och svaren sparas beroende på lagringsmappens definition.
+Välj lagringsmapp för den här frågan.
+Databasanslutning
+Anpassat värde:
+anpassat
+Lägg till en fråga:
+Bläddra
+Svar på en annan fråga:
+Lagringsmapp för prenumerationsgrupp
+Ny lagringsmapp för #
+Den här tjänsten innehåller inga dynamiska prenumerationsgrupper.
+Platsinställningar - Översikt
+Redigera portalkonfiguration - Översikt
+Om den har installerats på en separat maskin anger du namnet på maskinen ifråga här.
+platsdefinition
+Ange information om databasanslutning:
+Personanpassa ditt serviceinnehåll. På följande sidor kan du ange vad du vill att denna tjänst ska innehålla genom att besvara frågorna. Klicka på Nästa om du vill fortsätta.
+Platsinställningar - Översikt
+En kanal är ett visuellt element inom prenumerationsportalen.  Den visar projektinformationen på ett sätt som underlättar navigeringen för slutanvändaren.
+Varje kanal placeras i en mapp för tjänster i objektrepository.
+Det uppstod ett fel när du försökte upprätta en anslutning till prenumerationsmotorn.  Antingen är serverns namn felaktigt eller prenumerationsmotorn inte igång på den här servern.  Lokalisera prenumerationsmotorn och ange placeringen på nytt.
+Om du vill definiera en ny kanal måste du välja en ny mapp från objektrepositoryn.  Välj den kanalmapp som ska visas.
+Den här tjänsten innehåller inga sorteringsfrågor som ska konfigureras.
+Serverkonfigurering - Översikt
+Konfigurerad
+Det uppstod ett fel när du försökte bekräfta databasanslutningen.  (#)  Bekräfta din information och försök igen.
+Anslutning till prenumerationsmotorn kan inte upprättas
+Administratörens definition för databasanslutningen är felaktig
+Varning!  Om du raderar den här databasanslutningen, blir objekten som använder den (dvs. objektrepository, lagringsmappar, osv.) ogiltig.
+Fel namn på datakälla
+Vill du radera '#' ?
+Radera databasens anslutning
+-- välj en databasanslutning --
+Inställnings-ID för: #
+Svar på: #
+Användaren finns inte.
+Välj en titel för din sida:
+Skapa din startsida
+CSV-filformat
+Det uppstod ett fel när din sida skapades
+Exportera måttenhetsvärden som text (endast Excel)
+Första panelen:
+Men denna rapport kan exporteras till Excel som textformat, CSV eller textformat genom att välja detta alternativ antingen i  "egenskaper" eller när prompten dyker upp före själva exporten.
+Max antal kolumner att exportera till Excel:
+Max antal rader att exportera till Excel i textformat eller med CSV:
+Spara min startsida
+Andra panelen:
+Se min sida
+Välj en stil för layouten:
+Välj vilken komponent du vill se på varje panel:
+Tredje panelen:
+Du har inte skapat din startsida än. Följ stegen nedan.
+Min startsida
+Cache-lagringsmekanism
+Hem
+Visar sammanfattningssida för personligt anpassade tjänster:
+Rapport
+Dokument
+PDF
+Krymp diagrammet så att det får plats
+Exportera tabell och diagram på samma sida
+Maximalt antal kolumner som ska exporteras
+Maximalt antal rader som ska exporteras
+Åtkomlighetsläge:
+Aktivera skärmläsarens kompatibilitet
+Hoppa över Navigering
+Stigande
+Fallande
+Radera sortering
+Sortera...
+Flytta
+Till rader
+Till kolumner
+Till sorteringsaxeln
+Vänster
+Höger
+Ny...
+Spara som...
+Utskriftsformat
+Bläddra i huvudmappen
+Skicka till
+Visa
+Design-läge
+Tabellvy
+Diagramvy
+Tabell och diagram
+Återställ
+Sorteringsaxel
+Formel
+Objektläsare
+Verktygsfält
+Data
+Grupp
+Deltotaler
+Attributvisning
+Byt namn på/redigera objekt...
+Lägg till enhet
+Nollställ data
+Fråga igen
+Format
+Avancerad Formatering...
+Sammanfoga kolumnrubriker
+Tabellstil
+Nollställ formatering
+Fönster
+Rapportdetaljer
+Den här tabellen visar de begärda rapportresultaten
+Den här tabellen visar det begärda mappinnehållet
+Sidhuvud och sidfot:
+Använd rapportinställningar
+Använd anpassade inställningar
+(redigera)
+Editor för sidhuvud / sidfot
+Huvud:
+Sidfot:
+Vänster:
+center:
+Höger:
+Visa prenumerationsrapporter
+Dölj prenumerationsrapporter
+Visa besläktade rapporter
+Dölj besläktade rapporter
+Visa Kör filter + Mall
+Dölj Kör filter + Mall
+Visa tillbehör till historiklista
+Dölj tillbehör till historiklista
+Visa söktips
+Dölj söktips
+LDAP-verifiering
+Databasverifiering
+Exportera rubriker som text (endast Excel)
+Kryptera användarns inloggningsuppgifter
+Rapportobjekt
+Alla objekt
+MicroStrategy Intelligence Server ## har överskridit den konfigurerade minnesgränsen. Kontakta din administratör.
+Justera font till
+av ursprunglig storlek
+Januari
+Februari
+Mars
+April
+Maj
+Juni
+Juli
+Augusti
+September
+Oktober
+November
+December
+S
+M
+T
+W
+T
+F
+S
+Rapporter
+Dokument
+Denna parameter kräver ett värde mellan ## och ### tecken.
+Denna parameter kräver ett värde som har minst ## tecken.
+Denna parameter kräver ett värde som har högst ## tecken.
+Denna parameter kräver ett värde på exakt ## tecken.
+Dynamisk HTML:
+Lägg till i historiklistan
+Rapportfilter
+Vyfilter
+Lägg till rader/kolumner
+Lägg till vyfiltervillkor...
+Definition:
+Hem
+RAPPORTFILTER
+VYFILTER
+RAPPORTFILTERDETALJER
+filter
+Visa Pivotknappar
+Lägg till villkor
+Dölj
+Tillämpa ändringar automatiskt
+Rapportera filterdetaljer
+PDF-alternativ
+Kan inte exportera till PDF
+Du kan inte exportera denna rapport till PDF, på grund av att den överskrider gränserna som administratören har satt för maximalt antal kolumner och rader för export till PDF.
+Ange användaralternativ
+Visa alternativ vid export till PDF
+Infoga sidnummer
+Infoga antal sidor
+Infoga datum
+Infoga tid
+Infoga projektnamn
+Infoga rapportnamn
+Infoga mallnamn
+Infoga filternamn
+Ladda rapportvärden
+Resultat
+BORRA - Avancerad
+Borra
+Sortera
+PRENUMERATIONER
+FILTER VID MARKERINGAR
+SORTERINGSAXEL
+Kör rapport
+Inga
+Lägg till i tabell
+Lägg till i filter
+- Inga -
+objekt:
+Mappar:
+Format
+Teckensnitt
+Antal
+Ram
+Justering
+Verkställ
+Alla deltotaler
+Huvud
+Deltotalnamn
+Deltotalvärden
+Prov:
+ABCabc
+Effekter
+Fet:
+Kursiv:
+Understrykning:
+Genomstruken:
+Typ
+Negativa tal
+Kategori:
+Decimal ställen
+Valutasymbol
+Valutaposition
+Använd tusentalsavgränsare
+Fast
+Valuta
+Datum
+Procentandel
+Bråktal
+Avancerat
+Anpassad
+Inga
+Allt
+Linje
+Färg:
+Överst:
+Nedre:
+Fyllningsfärg
+ABCabc ABC abc
+Textjustering
+Horisontell
+center
+Justera
+Vertikal
+Dölj text
+Detta diagram stöder inte teckenförklaringar
+Allmänt
+Rubriker
+Axlar
+B
+I
+U
+S
+Diagramtyp:
+Visa Legend:
+Visa datavärden:
+Visa serieaxelns rubrik
+Visa Y-axelns rubrik
+Visa kategoriaxelns rubrik
+X-axelns rubrik:
+Visa Y1-axelns rubrik
+Visa Y2-axelns rubrik
+Visa serieaxelns värden
+Visa Y-axelns värden
+Visa gruppaxelns värden
+Visa kategoriaxelns värden
+Visa X-axelns värden
+Visa Y1-axelns värden
+Visa Y2-axelns värden
+Visa rubrik:
+Visa underrubrik:
+Visa fotnot:
+Använd manuell inställning för:
+Maximalt värde:
+Lägsta värde:
+Tabellintervall:
+Stäng
+SORTERA EFTER:
+Välj sökväg för objektbläddrare
+Virtuell gruppering
+Konsolidering
+## post(er) hittades
+Prenumerera...
+Skriv ut...
+Exportera...
+PDF...
+Lägg till rapportobjekt...
+Borra...
+Filter vid markeringar...
+Diagram...
+Format
+Rapport
+Visa totalsummor
+Radera allt
+Normal
+Totalt
+Genomsnitt
+Antal
+Geometriskt Medelvärde
+Maximum
+Median
+Minimum
+Läge
+Produkt
+Standardavvikelse
+Summa
+Varians
+Anpassad:
+Alla deltotaler
+Endast slutsumma
+Inga
+Visa uppspaltning
+Totaler
+Spara Rapport
+Avbryt
+Dra för att lägga till i rapporten
+Högerklicka för ytterligare alternativ
+Verkställ
+Tillämpa stil
+Dokumentdetaljer
+Dra objektet för att genomföra pivot
+Redigera rapport
+Attribut
+Attribut:
+Virtuell gruppering:
+filter
+filter:
+Måttenhet
+Måttenhet:
+Konsolidering:
+Lägg till
+Sök:
+1. Sortera efter:
+2. sedan efter:
+3. sedan efter:
+- Välj sortering -
+Stigande
+Fallande
+Verkställ
+Avbryt
+Höger
+Vänster
+Höger
+Vänster
+Tid
+Standard
+Teckensnitt:
+Vänster:
+Höger:
+Värden
+Avbryt
+Stäng
+Storlek
+Välj teckensnitt
+Nej
+Ja
+Höger med mellanrum
+Vänster med mellanrum
+Kolumnaxel
+Radaxel
+Fyllningsfärg
+Textfärg
+Minska decimal
+Öka decimal
+Komma-stil
+Procent-stil
+Valuta-stil
+center
+Vänster
+Höger
+Uttryck stöds ej
+Kan ej återge uttryck
+Ange värde...
+Attribut...
+Filter Ett
+eller
+Är noll
+Är inte noll
+Inte inne
+Skifta höger
+Skifta vänster
+Skifta upp
+Skifta ned
+Tom lista
+Tom
+Namn:
+Infoga ny måttsenhet...
+Ny måttenhet
+Ta bort från Rutnät
+Avancerad formatering...
+Ta bort från Rapportobjekt
+Sortera
+Lägg till >
+I lista
+Inte i lista
+Rullgardinsmenyer:
+Verkställ
+Avbryt
+Ta bort villkor
+Lösenordet utgånget
+Vissa av projekten är inte synliga
+Du måste byta lösenord för att se vissa projekt
+OBS. Du måste logga in på nytt när du väl ändrat ditt lösenord
+Använd Unicode teckenuppsättning
+Leveranser...
+7/4
+07/04
+7/4/98
+07/04/98
+07/04/1998
+7-apr
+7-apr-98
+Apr-98
+Apr 98
+April 1998
+7/4/98 15:41
+7/4/98 15:41
+April 7, 1998
+15:41
+15:41
+15:41:46
+15:41:46 
+07/04/98 15:41
+Skicka nu...
+07/04/98 15:41
+Skicka rapport igen
+Det gjorda sorteringsvalet finns inte. Det kan bero på att datalagret har uppdaterats.
+Välj här för att automatiskt identifiera giltiga sorteringskriterier.
+Denna parametervalsfråga kan inte visas i MicroStrategy Web. Standardsvaret kommer att användas för rapportexekvering.
+Denna parametervalsfråga kan inte visas i MicroStrategy Web. Eftersom inget standardsvar associeras med den, kan denna rapport inte exekveras.
+Överst
+Nedre
+Inga
+Streckad
+Prickad
+Hår
+Smal
+Medel
+Tjock
+Dubbel
+Svart
+Mörkblå
+Blå
+Ljusblå
+Gråblå
+Grön
+Grå-60%
+Grå-50%
+Grå-25%
+Grå-20%
+Grå-10%
+Grå-7%
+Benvit 
+Mörkröd
+Röd
+Gul
+Ljusgul
+Svagt gul
+Mörkt olivgrön 
+Olivgrön
+Ljust olivgrön
+Brun
+Purpur
+Ljust purpur 
+Lavendel
+Mörkskär 
+Skär
+Vit
+Kräver musklick för att öppna menyerna 
+Engelska (UK)
+Använd Standard
+BYT NAMN PÅ/REDIGERA OBJEKT
+Denna rapport kan inte levereras i sitt nuvarande tillstånd. Du måste först spara denna rapport.
+Ditt meddelande har skickats.
+Din ## prenumeration ## har skapats. Du kommer att få en förhandsgranskning inom kort.
+Din ## prenumeration ## har skapats.
+Autostil:
+Objektläsare
+Upp en nivå
+Tillåt användare att ändra lösenord som upphört att gälla
+Lösenordet har upphört att gälla. Kontakta administratören för att aktivera detta konto.
+Sökväg:
+Använd Unicode teckenuppsättning
+Öppna
+Välj adress och personlig anpassning nedan, för att erhålla denna rapport.
+Välj schema, personlig anpassning och adress nedan, för att prenumerera på denna rapport.
+Endast en adress tillåten vid redigering av prenumeration.
+Välj schema, personlig anpassning och adress(er) nedan, för att prenumerera på denna rapport.
+Schemalagda rapporter
+Schemalagd e-post
+Adressnamnet finns redan. Välj annat namn.
+Fel uppstod vid redigeringen av adressen.
+Fel uppstod vid borttagningen av adressen.
+Fel uppstod vid uppdatering av standardadressen.
+Bekräfta borttagning av adress
+Är du säker på att du vill ta bort den här adressen?
+Adressnamnet kan inte vara tomt.
+Adressenheten kan inte vara tom.
+Adressvärdet kan inte vara tomt.
+Fel uppstod vid behandling av din adressinformation. Du kan behöva logga in igen.
+Visa namn
+Enhet
+Lägg till ny adress 
+Ange ny standard 
+Ämne
+Skicka nu 
+Du har prenumererat på följande schemalagda e-post för denna rapport:
+Du har ingen schemalagd e-post.
+Lägg till schemalagd e-post 
+Du har ## ### prenumeration(er) #### till denna adress. Tar du bort adressen, så tar du också bort alla prenumerationer till adressen.
+Följande fil har inte registrerats korrekt i webbservern: MGSubscription.dll. Be administratören att ge dig fler detaljer.
+Schemalagd e-post
+Schemalagd E-post
+Prenumerationens API-version:
+Du har ## ###prenumeration(er)#### på denna rapport som kommer att levereras med e-post.
+Du har ## ###prenumeration(er)#### på detta dokument som kommer att levereras med e-post.
+Välj en tidsplan från listan nedan.
+Välj en adress från din ##adresslista###
+eller
+Ange en ny adress.
+Skicka till en ny adress 
+Skicka till en befintlig adress
+Denna funktion finns inte för närvarande.
+Välj schema, adress och personlig anpassning nedan, för att prenumerera på och få denna rapport.
+Intelligence Server
+Narrowcast Server
+Narrowcast integration
+För att konfigurera denna webbportal för att skicka innehåll genom Narrowcast Server, måste du ange prenumerationsmotorns placering och vilket Narrowcast System som ska användas.
+## har inte konfigurerats av något  Narrowcast System att användas av webben för att skicka innehåll. Välj en annan prenumerationsmotor.
+Denna webbportal har konfigurerats att skicka innehåll med hjälp av ## System och ### som prenumerationsmotor.
+Prenumerationsmotorns placering:
+Tillgängliga Narrowcast-system:
+(Inaktiverad)
+Innan du kan redigera denna rapport, måste du besvara följande prompt(ar).
+Ditt svar måste vara ett nummer.
+Ditt svar måste vara ett datum i korrekt datumformat.
+Ett fel uppstod vid redigering av fliterdeluttryck. Granska ditt/dina svar.
+Rapportelementläsningen kan inte exekveras.
+Skapa ny rapport från något av objekten i rapporten
+Skapa rapport
+Du kommer att visas en tom rapport på vilken du kan placera diverse dataobjekt.
+Alternativt kan du välja den typ av rapport du vill skapa från alternativen nedan
+Välj den typ av rapport du vill skapa från alternativen nedan
+€
+Visa redigeringsknappar
+Skapar nytt jobb
+Genererar resultat
+Genererar HTML
+Jobb pågår i annan server
+Bearbetar begäran
+Vänta...
+Ange ett nummer i följande fält
+Allmänt
+Special
+*Keep the connection alive between the Web Server and Intelligence Server (used when there is a firewall between the Web Server and the Intelligence). Please refer to the product documentation for information on how to configure your system when using this feature.*
+MicroStrategy Web stöder inte export av diagram i dokument till Excel
+Ange ett heltal större än  ### och mindre än ## i följande fält
+### och ## är inte giltiga datum
+## är inte ett giltigt datum
+Antal kolumner per sida
+Du är på väg att radera din Historik.
+Är du säker på att du vill radera din Historik?
+Inga data returnerades för denna ruta. Detta kan bero på att det filter som används exkluderar alla data.
+Excel med formattering (rapporter exporterade till Excel 97 eller tidigare kommer ej formatteras)
+Redigera i design-läge
+Avancerad sökning
+Nästa
+Välj de element du vill behålla och tryck sedan på OK eller knappen Verkställ. Tryck på knappen Avbryt för att stänga denna redigerare utan att använda ändringarna.
+inte i (ange värde1; värde2; ...; värdeN)
+Avbryt fråga igen
+Inget valt
+OK
+Verkställ
+Avbryt
+Spara
+Serier:
+Kategorier:
+Legend
+Datavärden
+Första 5 sidorna
+Föregående  5 sidor
+Nästa 5 sidor
+Sista  5 sidorna
+Hjälp för ### redigeraren
+På
+Av
+Standard
+Alla promptsvar måste vara nummer.
+Alla promptsvar måste vara datum i korrekt datumformat.
+Inga data returnerade för denna ruta eftersom denna rapport inte har några mallobjekt. ##Lägg till objekt i mallen###.
+Inga data returnerades för denna sida genom val.
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Time - Not Used
+J and K Time - Not Used
+Ett fel uppstod vid återgivning av Vyfilter.
+Ett fel uppstod vid återgivning av Rapportfilter.
+Fel uppstod vid anslutning till databas.
+Borra från XXXX till:
+Skalning:
+Anpassa efter sida:
+Alla rader 
+Alla kolumner 
+Skriv ut försättsblad med filterdetaljer
+Marginaler (tum):
+Överst:
+Vänster:
+Höger:
+Nedre:
+Maximal sidhuvudstorlek (tum):
+Maximal sidfotstorlek (tum):
+Expandera alla sorterade fält vid utskrivning
+Maximalt antal celler per block:
+Maximalt antal diagram per block:
+Visa utskriftfönstrets dialog
+Infoga filterinformation
+Infoga användarnamn
+Nummer- och datumformat:
+Dölj länken till 'Mina rapporter', när användaren inte har rättigheter för Webb spara
+Inkrementell##hämtning:
+Maximalt antal attributelement per block:
+Maximalt antal rapportobjekt per block:
+Kan inte anpassa efter sida. Maximal reducering kommer att användas.
+Ett fel inträffade vid återgivning av förhandsgranskningen. Resultaten kan inte visas korrekt.
+Nästa block med sidor
+Föregående block med sidor
+Byt namn...
+Visa avancerade alternativ
+Dölj avancerade alternativ
+Inget svar krävs för denna prompt.
+Välj måttsenhet...
+OCH INTE
+ELLER INTE
+Alla måttenheter
+Allt
+Det finns inga val tillgängliga i denna prompt.
+Återgå till föregående sida
+Din förfrågan kunde inte behandlas eftersom adressinformationen inte specificerades. Specificera adressinformationen och försök igen.
+Historiken för denna Intelligence Server är full. För att köra en rapport måste du ta bort ett eller flera meddelanden från historiken på ett av projekten som körs på denna server.
+Rapporten kan inte visas på grund av brist på systemresurser.
+Ditt jobb har skickats till en separat Intelligence Server. Var vänlig och kör rapporten igen.
+Ditt jobb har skickats till en separat Intelligence Server. Rapporten kommer att vara tillgänglig under Historik när den har exekverats. Klicka här för att öppna Historiken.
+Tillåt automatisk login om sessionen bryts
+Säkerhet:
+Bekräfta användarrrättigheter för varje förfrågan.
+2
+Radbyte
+Tillåt radbyte i sidhuvudena i rapporttabellen
+Mapp:
+Mörkgul
+Violett
+Kricka
+Ljusturkos
+Himmelsblå
+Ljusgrön
+Svagt blå
+Turkos
+Ljusgrön
+Rosa
+Gulbrun
+Akva
+Lemon
+Guld
+Ljusorange
+Orange
+Blågrå
+Mörkt grönblå
+Sjögrön
+Mörkgrön
+Olivgrön
+Plommon
+Indigo-blå
+Grå-40%
+Grå-80%
+Fel uppstod vid försök att ansluta till ##. Kontrollera att namnet på prenumerationsmotorn är korrekt och att den är igång, och försök sedan igen.
+Skicka förhandsgranskning nu
+Fel uppstod vid försök att hämta listan på systemen. Prenumerationsadministratörstjänsten kan vara nere.
+Fel uppstod vid försök att hämta listan på systemen.
+RAPPORTTABELL:
+RAPPORTFILTER:
+Lägg till rapportobjekt
+Kan inte exportera till PDF
+Verktygsfält
+Du måste spara rapporten, innan du kan prenumerera på den.
+Du måste spara rapporten eller återställa alla ändringar, innan du kan prenumerera på den.
+Du måste spara rapporten, innan du kan schemalägga den.
+Du måste spara rapporten, innan du kan skicka den.
+(exempel: [Måttsenhet1] + [Måttsenhet2])
+Obs! Väljer du "använd mitt valda standardformat för tabeller" så kommer all anpassad tabellformatering att inaktiveras.
+Fel uppstod vid anslutning till Prenumerationsmotorn.
+Redigera tabell
+Redigera rapportfilter
+Röd
+av ## sida(-or)
+Om du väljer att visa tabell och diagram på skilda sidor, välj då från alternativen nedan för din tabell:
+Historiken för denna Intelligence Server är full. Historiker är gemensamma för alla projekt som körs på en Intelligence Server. 
+Version:
+Intelligence Server Build:
+Web Build:
+Inslut filter och template i den sparade rapportdefinitionen.
+Design-läge:
+Hierarki
+Hierarki:
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+Härledd måttenhet
+Härledd måttenhet:
+Ingen data erhölls. Modifiera filterkriterier eller mallobjekt.
+Vid detta sparande riskerar ursprungliga filtret och mallen påverkas.
+Vill du behålla länkarna till ursprungliga filtret och mallen?
+Vid detta sparande riskerar ursprungliga  filtret påverkas.
+Vill du behålla länken till ursprungliga filtret?
+Vid detta sparande riskerar ursprungliga  mallen påverkas.
+Vill du behålla länken till ursprungliga mallen?
+Fortsätt
+Avbryt
+Skapandetid för historikmeddelande
+Excel 2000 SR-1 eller nyare versioner
+Datamanipulation
+Design-läge
+Filter
+Totaler
+Brytpunkts-bild
+(Anpassad)
+Stoppa
+Din förfrågan kunde inte utföras.
+Försök igen. Om problemet kvarstår, kontakta administratören.
+Borrningsförfrågan kan inte slutföras utan att föräldra-attributet är inkluderat. Det kan bero på att  detta attribut finns med i en "visa filterkvalifikation".
+Säkerställ att användarförfrågningar inte har potentiellt skadligt innehåll.
+Ange ett heltal större än ### men mindre än ## i följande fält
+Öppna rapport
+Öppna filter
+Öppna dokument
+Öppna mall
+Versionsinformation...
+Lås tabellrubriker
+Lås radöverskrifter
+Lås kolumnöverskrifter
+Aktivera egenskaper för låsta tabellrubriker
+Delad rapportkatalog
+Allmänna objekt > Rapporter
+Aktuellt urval
+Senaste mappen
+Filtereditor:
+Använd inbäddade filter i rapportfiltereditorn
+Sortering:
+Aktivera sortering i dolda attributformer med hjälp av den avancerade sorteringseditorn
+Inaktivera borrning via innehållsmenyn
+Sänd
+Jobbet upphörde
+Av säkerhetskäl är inte HTML-taggar tillåtna. Kontakta administratören om du behöver använda HTML-taggar.
+Verifiera HTML-taggar för varje begäran
+2
+Detta måttsenhetsvillkor gäller på ##-nivån.
+Visa utvärderingsnivån vid användning av måttenhetsvillkor i vyfiltereditorn
+Spara utskriftsinställningarna för varje rapport
+Möjliggör storleksändring av kolumner och rader
+Tabellayout
+Automatisk anpassning till fönster
+Automatisk anpassning till innehåll
+Fasta kolumnbredder
+Storleksändra kolumner och rader...
+KOLUMNER
+RADER
+Alla kolumner
+Bredd:
+Autoanpassning
+Fast höjd:
+STORLEKSÄNDRA COLUMNER OCH RADER
+Kolumnaxel-överskrift
+Datavärden
+Bredd:
+Spara ändringarna av rapportfilter.
+Tidszon
+Standard(värde)
+(GMT-11:00) Midway Island
+(GMT-10:00) Hawaii
+(GMT-09:00) Alaska
+(GMT-08:00) Stillahavstid (USA &amp; Canada)
+(GMT-07:00) Arizona
+(GMT-07:00) Mountain-tid (US &amp; Canada)
+(GMT-06:00) Centraltid (US &amp; Canada)
+(GMT-05:00) Östtid (US &amp; Canada)
+(GMT-04:00) Atlanttid (Canada)
+(GMT-04:00) Puerto Rico
+(GMT-03:30) Newfoundland
+(GMT-03:00) Argentina
+(GMT-03:00) Brasilien
+(GMT-02:00) Mittatlanten
+(GMT-01:00) Azorerna, Kap Verde
+Greenwich-tid (GMT)
+(GMT +1:00) Västeuropa
+(GMT +2:00) Centralafrika
+(GMT +2:00) Egypten
+(GMT +2:00) Östeuropa
+(GMT +3:00) Östafrika
+(GMT +3:30) Mellanöstern
+(GMT +4:00) Främre Orienten
+(GMT +5:00) Pakistan/Lahore
+(GMT +6:00) Bangladesh
+(GMT +7:00) Vietnam
+(GMT +8:00) Kina (Taiwan)
+(GMT +9:30) Centrala Australien
+(GMT +10:00) Östaustralien
+(GMT +11:00) Solomonön
+(GMT +12:00) Nya Zealand
+Excel 2000 SR-1 eller äldre versioner
+Excel XP eller nyare versioner
+Obs! Med det här alternativet kan användaren spara sina okrypterade lösenord i cookies i klientdatorerna.
+Standardbredd för radaxel-kolumner:
+Standardbredd för datakolumner:
+(GMT +5:30) Indien
+Göm alternativ...
+Fler alternativ...
+Max antal celler att exportera
+Max antal celler per block
+Du kan ej exportera denna rapport till PDF då den överstiger gränsen administratorn har fastställt för max antal celler att exportera till PDF.
+Bredd: ##px
+(GMT-06:00) Mexico City
+(GMT +09:00) Söul
+(GMT +09:00) Osaka, Sapporo, Tokyo
+Arial
+SCHEMALAGDA E-MAIL
+SKICKA NU
+Bifoga Page By information
+Max antal celler att exportera till textformat:
+Max antal celler att exportera till HTML:
+(Arkivera)
+Intern diagnosinställning
+Nivå:
+Katalog för loggfil:
+Anpassad diagnosinställning
+Sökväg till anpassad diagnosinställningsfil:
+Visa:
+Från:
+Till:
+Fel
+Varningar
+Av
+Meddelanden
+Använd / som katalogavgränsare i sökvägen
+Datuminformationen skrevs inte in i giltigt format
+Från-datum bör komma före eller vara lika med Till-datum
+Ingen giltig sökväg fanns tillgänglig:
+Loggfiler kan inte bearbetas: total filstorlek är över gränsen på
+MB. För att visa loggar, använd dem direkt eller specificera ett kortare datumintervall för att visa dem.
+Första fil som inte gick att utföra:
+Fel uppstod vid läsning av innehåll i loggfil(er):
+Den erforderliga XSL-filen hittades inte:
+Fel uppstod vid läsning av innehållet i XSL-filen:
+Diagnostikkonfiguration
+Visa loggar
+Det finns inga loggposter som matchar erforderliga datum och typer.
+Kan inte visa innehållet i loggfilen:
+Kunde inte läsa de ursprungliga egenskaperna från inställningsfilen.
+Den angivna inställningsfilen kan inte hittas eller användas för diagnos.
+Följande fil har ej registrerats korrekt för Web Servern: Mbwahelp.dll. Be din Administrator om fler detaljer.
+Öppna rapport
+Öppna filter
+Öppna mall
+Fel vid försök att skriva över modifierade objekt.
+Fel uppstod vid bearbetning av diagnosloggfil(er).
+Server-egenskaper
+Standardserveregenskaper
+Servrar
+Standardegenskaper
+Säkerhet
+Konfiguration
+Visa loggar
+Minuter
+Behåll trösklar vid borrning
+Visa Sortera-knappar
+Dölj Sortera-knappar
+Diagnostik
+Tillåt automatiskt radbyte av metriska värden i rapporttabellen
+Lösenordet kan inte ändras därför att följande information saknas:
+Statistik
+Läge:
+Statistikfil:
+Av
+Skärm
+Fil
+Skärm och fil
+Skriv in en absolut sökväg och använd / som katalogavgränsare i sökvägen.
+Ladda standardvärden
+*To subscribe to this document, please select a schedule and personalization below.
+Matcha skiftlägeskänslighet enligt standard
+Tillåt användare att ändra och lagra användarinställningar för individuella projekt
+Fet
+Kursiv
+Understrykning
+Visa 'Använd till ALLA projekt' i inställningarna
+Visa rapport i Design-läge
+Teckenstil:
+Typsnittsstorlek:
+Sortera-efter sektion
+Aktivera sammanfoga radrubriker i Format-menyn
+Sammanfoga radrubriker
+Läs från rapport
+Visa objektbeskrivningar som knappbeskrivningar i tabell
+Dölj alternativet att spara inbäddade objekt när användaren inte har behörigheten "Webbmodifiera listan på rapportobjekt"
+Bevara tomt utrymme vid import från en textfil
+Sidor i bredd
+Sidor i höjd
+(Endast Windows operativsystem)
+Telefonnummer 1
+Telefonnummer 2
+Zip-kod
+Utökat postnummersystem
+Personnummer
+Redigera anpassade inställningar
+Sorteringsknappar
+Pivoteringsknappar
+(s)
+Sortera efter:
+sedan efter:
+Narrowcast Server-integration
+WEBBSERVER
+Anslutningsegenskaper
+Klass
+metod
+Meddelande
+Kryptering:
+Trafik mellan Webben och Iserver-maskinerna har krypterats.
+Cache:
+Cacheminnet för användarrättighet uppdateras för varje ny begäran.
+Cookies:
+Inaktivera cookies.
+Använd cookies för att lagra tillfällig information inom sessionen.
+Använd cookies för att lagra permanent information mellan sessioner.
+Använd cookies för att lagra tillfällig information om IServer-sessionerna.
+URL:
+Sessionsinformation inkluderas på URL:en.
+Login:
+Tillåt automatisk inloggning om sessionen avbryts.
+€
+Det gick inte att få åtkomst till konfigurationsinställningarna för prenumerationsmotorn. För att MicroStrategys webbleverans ska fungera, måste mappen eller enheten där prenumerationsmotorn har installerats vara gemensam. Prenumerationsportalen och MicroStrategys webbleverans kommer inte att fungera om inte detta krav uppfylls. Vill du automatiskt dela prenumerationsmotorns installationsenhet för den maskinens lokala administratörsgrupp?
+Om prenumerationsmotorns maskins enhet är gemensam och odelad flera gånger, kommer följande Windows-meddelande att visas på prenumerationsmotorn och vänta på indata från användaren: 'Systemfel: Nätverksnamnet togs bort.' Prenumerationsadministratörstjänsten kommer inte att fungera förrän du klickar på OK och stänger detta meddelande. Observera att detta meddelande inte indikerar ett problem, och att du helt enkelt skall klicka på OK och fortsätta.
+Kan inte dela enheten. Dela prenumerationsmotorns installationsenhet på prenumerationsmotorns maskin för den maskinens lokala administratörsgrupp manuellt.
+Excelversion:
+Leveransformat:
+Komprimera innehåll
+Dölj
+Meddelande:
+(Max. ##-tecken)
+Klicka här för att lägga till ett meddelande
+Anpassa till:
+sida(-or) bred
+sida(-or) hög
+Cookies:
+Använd cookies för att optimera prestandan vid läsandet av användarinställningar
+Den begärda  förfrågan kunde ej slutföras då ett annat objekt är beroende av det manipulerade objektet.
+Du prenumererar på följande scheman för detta dokument:
+Formeln för den härledda måttenheten är tom.
+Innehåller inte
+Börjar inte med
+Avslutas inte med
+Procent av '##'
+Rangordning av '##'
+Rangordning
+Grupp av ##
+Evaluera gruppen vid ##
+vid ##
+där (##)
+Är lika med
+Är inte lika med
+Tom
+Max längd för textmeddelandet (antal tecken):
+Följande leveransformat stödjer inte grafer för tilfället: ##. Leveranser som använder något av dessa format kommer bara inkludera tabellen.
+Det valda leveransformatet stödjer inte grafer för tilfället. Leveranser som använder något av dessa format kommer bara inkludera tabellen.
+Stilen som  definerats I prompten kunde inte användas för att återge promptdefinitionen  '##' (Stilens namn: ###).
+Kunde ej finna en lämplig stil för att återge prompt '##' (Stilens namn: ###).
+Filtrering med användarinput:
+Tillåt HTML I utskriftshuvud och -fot. Denna inställning tillåter användare köra skript i webbläsaren.

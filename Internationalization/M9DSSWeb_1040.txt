@@ -1,0 +1,2805 @@
+Copyright © 1996-2002 MicroStrategy, Incorporated. All rights reserved. Confidential.
+Home
+Report condivisi
+Report personali
+Cronologia
+Creazione di report
+Verticale
+Orizzontale
+Logout
+Orientamento:
+Cerca
+Progetto
+Dimensioni foglio:
+Tutti i diritti riservati. Confidenziale.
+LIVELLO PREFERENZE
+Server:
+Porta
+Nome utente
+Password
+Salva password
+LOGIN
+Reimposta Report
+Le dimensioni, l'orientamento e i margini del foglio devono corrispondere alle impostazioni del browser.
+Digita la tua vecchia password e quella nuova.
+Origine dati
+Aggiungi alla Cronologia
+Login
+Errore durante l'esecuzione del documento. Contatta l'amministratore.
+Login come Ospite
+Letter 21.59 x 27.94 cm
+Errore di sessione
+Sessione non valida: connessione interrotta. Ripetere il login.
+Legal 21.59 x 35.56 cm
+Login come utente Windows
+A4 21 x 29.7 cm
+Folio 21.59 x 33.02 cm
+Nome server
+Progetti
+BENVENUTI
+Descrizione
+Informazioni su MicroStrategy Web ##
+I seguenti server non sono attivi:
+Vai alla pagina Amministratore
+Usare file temporanei sul Server Web?
+Ricerca rapida
+avanzata...
+Ora creazione messaggio cronologia: ##
+Sfoglia un elenco di Report disponibili a tutti gli utenti.
+Visualizza i report creati e salvati per un uso futuro.
+Crea e pubblica un nuovo Report su questo sito.
+Visualizza un riepilogo aggiornato dello stato delle richieste.
+Navigazione:
+Automaticamente
+Manualmente
+ID cartella
+In questo progetto non è presente alcuna gerarchia.
+Oggetti
+Non è possibile eseguire la ricerca su attributi di questo tipo.
+Pagina ## di ###
+Fattore di Load balance
+Proprietario
+Modificato
+Sempre
+Mai
+Elimina cartella
+Elimina report
+Elimina documento
+cartelle
+report
+documenti
+Questa cartella è vuota.
+Richiesto solo per utenti Internet Explorer 4.x.
+Impossibile salvare le preferenze predefinite per il progetto. Privilegi sulla cartella Web o sul suo contenuto non impostati corrette.
+Risultati della ricerca:
+Modello Report
+La cartella "##" non è disponibile.
+ID job
+ID report:
+Nome report:
+Modalità visualizzazione
+ID messaggio:
+Elaborazione della richiesta...
+La richiesta è stata inviata. Attendere prego...
+Consenti la selezione all'utente. Valore predefinito 'No'
+Consenti la selezione all'utente. Valore predefinito 'Sì'
+Attendi l'esportazione del Report.
+Il tempo di elaborazione varierà in base alla dimensione del report.
+Ultimo aggiornamento:
+Digitare un nome di report.
+Non è stato trovato il proprietario di uno degli oggetti dei risultati della ricerca. La ricerca non è riuscita.
+Punto ##
+Stato attuale:
+Report pronto
+Verifica prompt
+Prompt pronti
+In esecuzione...
+Errore
+In esecuzione...
+secondi
+Informazioni di contatto:
+Numero massimo di ricerche contemporanee:
+Contatto Amministratore
+Richiesto
+Verifica nuovamente stato
+Annulla questa richiesta
+All'interno della casella nera qui sotto, dovrebbero apparire i numeri "12345" se il tuo browser supporta i file CSS. Vedi questi numeri?
+REPORT CORRELATI
+Si. Il mio browser supporta questa formattazione.
+No. Utilizza una diversa formattazione.
+La tua richiesta è scaduta. Prova ancora più tardi.
+Vai
+In esecuzione
+Blu e Grigio
+Righe:
+Tabella
+Grafico
+Messaggi ## - ### di ####
+## - ### di ####
+Salva
+Ripeti prompt
+Versione di stampa
+Esporta dati
+Colonne
+A colori
+Agente
+Classico
+Contabilità
+Finance
+Strisce grigie
+Usare Dynamic HTML?
+Pastello
+Rosso e Nero
+Romantico
+Tipo piccolo
+Applica
+Nascondi pulsanti di scambio
+Mostra pulsanti di scambio
+Sposta nelle righe
+Sposta in alto
+Sposta in basso
+Raggruppa pagine per questo campo
+Sposta nelle colonne
+Sposta a sinistra
+Sposta a destra
+Ordina
+Drill
+Da:
+A:
+Opzioni di Drill:
+Drill solo su selezioni
+Guida rapida
+Mantieni il padre durante il drilling
+Su
+Giù
+Riquadri
+per
+Mostra modalità di Drill
+Nascondi modalità di Drill
+Tramonto
+Colonne:
+Ulteriori pagine
+Ulteriori colonne
+Prima pagina
+Ultima pagina
+Non è stato restituito alcun dato per questo Report.
+Errore di chiamata a Sleep
+Nascondi ricerca
+Mostra ricerca
+Visualizza:
+Formato Tabella
+Nascondi barra degli strumenti
+Mostra barra degli strumenti
+Pubblica
+Non è disponibile alcuna informazione di Drill.
+Nascondi dettagli filtro
+Mostra dettagli filtro
+Ritorna a drill semplice
+L’operatore 'Non tra' richiede due valori separati da un punto e virgola.
+Dettagli filtro:
+Il filtro e' vuoto.
+durante l'operazione di Drill
+- nessuno -
+Dati insufficienti per visualizzare il sottotipo di grafico richiesto per questo report. Provare a usare un altro sottotipo.
+Drill a
+Aggiorna Cronologia
+Non è stato trovato il messaggio del job, oppure non è stato possibile recuperare i risultati dal Microstrategy Server.
+Cancella Cronologia
+Stato
+Ora di inizio
+Dettagli
+Rimuovi
+Ordinamento crescente
+Ordinamento decrescente
+Ultimo report:
+segna come "da leggere"
+Ultimo documento:
+Pronto
+Attesa prompt
+Elaborazione
+Generazione SQL
+Esecuzione SQL
+Elaborazione del motore analitico
+Ricerca della cache
+Creazione della cache
+Attesa in coda
+Attesa per l'impostazione delle opzioni di controllo
+Il progetto è inattivo
+Esecuzione report figli
+Preparazione dei risultati
+L'elenco della Cronologia è pieno. Per eseguire un report, occorre eliminare uno o più messaggi.
+pagine
+Non ripetere questa domanda in futuro.
+Continua
+A causa di un errore del server Web, non è stato possibile esportare il contenuto di questa pagina.  Provare con un altro Report.
+Raggruppato a pagine per:
+Stai per essere disconnesso da tutti i progetti.
+Seleziona una delle opzioni seguenti e fai clic sul pulsante Logout:
+Desideri eliminare i job completati dalla Cronologia?
+No
+Sì
+Desideri annullare le richieste in attesa per questa sessione?
+Annulla
+Solo i messaggi letti
+Non ripetere questa domanda in futuro.
+LOGOUT
+L'utente potrebbe essere stato disconnesso o potrebbe essere stato inattivo per molto tempo. Connessione in timeout. Prova ad eseguire nuovamente il login.
+A causa di un errore del server Web, la richiesta non può essere elaborata.  Riprova più tardi.
+ID documento:
+Nome documento:
+Controlla la Cronologia o riprova più tardi.
+Errore di verifica dello stato del documento
+Numero errore
+Documento pronto
+Prompt pronto
+INDICE
+CONTENUTI
+FAQ
+Ultima cartella:
+Non è stato restituito alcun dato per questo documento.
+Documento
+Vista tabella
+Pagina di inizio attuale:
+Stile tabella predefinito:
+Numero massimo di righe nella Tabella:
+Numero massimo di colonne nella Tabella:
+Impostazioni internazionali
+Esporta
+Excel con formattazione (versione 2000 o successive)
+Excel senza formattazione
+Excel con testo normale
+Formato file CSV
+Aprire una nuova finestra durante l'esportazione
+Opzioni di stampa
+Testo intestazione:
+Testo pié di pagina:
+Modalità di login
+Stile numerazione pagina:
+(nessuno)
+Pagina 1 di n
+Pagina iniziale predefinita:
+Abilitato
+Annullare le richieste in attesa per questa sessione?
+Unisci intestazioni colonne
+Ripeti intestazioni colonne
+Eliminare i job completati dalla Cronologia?
+Applica a TUTTI i progetti.
+Valori predefiniti progetto
+(predefinito)
+Vista grafico
+Dimensione grafico:
+Utilizzare le impostazioni memorizzate nella definizione del report.
+Altezza:
+Larghezza:
+Numero massimo di colonne da esportare in Excel:
+Standard (nome utente e password)
+Aggiungi i report e i documenti alla mia Cronologia:
+EXTRA DOCUMENTO
+Visualizzare la casella di controllo "Memorizza password" nella pagina di login
+Ospite
+Impossibile aprire il file XSL necessario per produrre gli output del documento. Questo file potrebbe mancare oppure contenere degli errori.
+Errore di scrittura delle immagini grafiche sul disco locale. Assicurarsi che il disco locale disponga di sufficiente spazio.
+Errore nell'unione del report XML con il file XSL per la generazione dell'output HTML.
+Mostra i dettagli del documento
+Cartella superiore:
+Preferenze utente
+Report personali
+E' necessario il login a questo progetto per poter continuare.
+Valori predefiniti progetto
+Preferenze Utente
+Usa valori predefiniti
+Pagine per blocco:
+Numero massimo di righe da esportare in Excel con formattazione o in HTML:
+Numero massimo di righe da esportare in Excel con testo semplice o in CSV:
+Modifica password
+Dal
+Generale
+Registrazione errori:
+Puoi utilizzare il carattere jolly "?" per indicare un singolo carattere.
+Autenticazione Windows
+Utilizzare un plug-in di sicurezza personalizzato?
+Classe plug-in di sicurezza:
+Puoi utilizzare il carattere jolly "*" per indicare un qualsiasi numero di caratteri.
+Solo al login
+Prima di eseguire ogni report
+Modalità asincrona
+Modalità sincrona
+Tempo di apertura della pagina:
+Mostra sottoscrizioni
+al
+Modalità di esecuzione
+Dettagli filtro
+Registra errori
+ISTRUZIONI:
+Nascondi sottoscrizioni
+Stampa
+Chiedi conferma logout
+Mostrate le opzioni durante la stampa
+Avvisi errori
+Mostra proprietà
+Nascondi proprietà
+## massimo
+Testo normale
+Stampa dettagli filtro:
+All'inizio del gruppo di stampa
+In cima ad ogni pagina
+Esportare dettagli filtro
+Prompt
+Numero di elementi da visualizzare per blocco:
+Report completo
+Porzione visualizzata
+Torna all'inizio
+Impossibile collegarsi come utente Windows.
+Digitare un nome di cartella.
+Canale abilitato (visibile agli utenti finali)
+Messaggio di errore:
+Torna alla Cartella Superiore
+Errore di esecuzione del report
+Tipo di grafico
+Area verticale
+Area orizzontale
+Barra verticale
+Barra orizzontale
+Linea verticale
+Linea orizzontale
+Torta
+Dispersione
+Polare
+Radar
+Bolle
+Azionario min-max
+Istogramma
+Proiezioni 3D
+3D Sospeso
+Gruppo connessione 3D
+Serie connessione 3D
+Superficie 3D
+Dispersione 3D
+Sottotipo grafico
+Assoluto
+In pila
+Bipolarità assoluta
+Bipolarità in pila
+Assoluto a doppio asse
+Impilato a doppio asse
+Percentuale
+Affiancato
+Affiancato a doppio asse
+Affiancato Bipolare
+Anello
+Torte multiple
+Anelli multipli
+Torte multiple proporzionali
+Anelli multipli proporzionali
+Indietro
+Formato immagine:
+Dispersione XY a doppio asse
+Dispersione XY con etichette
+Dispersione XY a doppio asse con etichette
+Coordinate polari a doppio asse
+Grafico a coordinate polari
+Grafico a coordinate polari a doppio asse
+Grafico di coordinate
+Linea Radar
+Area Radar in pila
+Linea Radar a doppio asse
+Area Radar in pila a doppio asse
+Bolle a doppio asse
+Min-max a doppio asse
+Apertura min-max
+Apertura min-max a doppio asse
+Apertura-chiusura min-max
+Apertura-chiusura min-max a doppio asse
+Istogramma verticale
+Istogramma orizzontale
+Barre
+Piramidi
+Ottagoni
+Barre smussate
+Cubi
+Sfere
+Aree
+Nastri
+Gradini
+Superficie 3D con lati
+Superficie 3D a nido d'ape
+Grafico 3D a dispersione XYZ
+Grafico 3D a dispersione XYZ con etichette
+Dispersione XY
+Min-max
+Ritorna alla cartella:
+Ritorna al report:
+Ritorna al documento:
+La Cronologia è vuota.
+Grazie per aver scelto MicroStrategy Web.
+Sei stato disconnesso.
+Per eseguire nuovamente il login a questo sito, fai clic qui sotto.
+Impossibile eseguire l'esportazione
+Non puoi esportare questo report perché eccede i limiti massimi definiti dall'Amministratore per il numero di colonne e di righe da esportare.
+Occorre apportare alcune modifiche al Report o contattare l'amministratore.
+Occorre essere collegati ad almeno un progetto per iniziare ad usare MicroStrategy Web.
+Non è stato registrato alcun MicroStrategy Server sul server Web.
+Non ci sono progetti attivi disponibili sul server ##.
+Il nome Utente o la password non sono corretti, riprova. Nota: il nome Utente e la password cambiano se si usano lettere maiuscole o minuscole.
+La password non è corretta, riprova. Nota: la password cambia se si usano lettere maiuscole o minuscole.
+Non è stato recuperato alcun dato per questa cartella.
+L’esecuzione del Report non è riuscita.
+Impossibile recuperare il Report dal server.
+Impossibile ricostruire il Report.
+Le impostazioni del Browser potrebbero non essere corrette. Controllare che i cookie siano stati abilitati.
+Errore di accesso all'elenco Cronologia dell’utente.
+Impossibile recuperare da MicroStrategy Server i messaggi dell'elenco Cronologia.
+Impossibile eliminare da MicroStrategy Server i messaggi dell'elenco Cronologia.
+Errore di impostazione dello stato del messaggio in MicroStrategy Server.
+Non sono state rilevate tabelle, Report o documenti.
+Proprietà
+A causa di un errore di sintassi, la richiesta di scambio non è stata completata.
+La richiesta di raggruppamento a pagine non è stata completata a causa di un errore di sintassi.
+Le richieste di raggruppamento a pagine e di scambio non sono state completata a causa di un errore di sintassi.
+La richiesta di ordinamento non è stata completata a causa di un errore di sintassi.
+Le richieste di ordinamento e di scambio non sono state completate a causa di un errore di sintassi.
+Le richieste di ordinamento e di raggruppamento a pagine non sono state completate a causa di un errore di sintassi.
+Le richieste di ordinamento, scambio e raggruppamento a pagine non sono state completate a causa di un errore di sintassi.
+Impossibile visualizzare il Report.
+Impossibile chiudere alcune sessioni. Possibili cause: sessione in chiusura o comunicazione con MicroStrategy Server non disponibile.
+Impossibile visualizzare alcuni prompt.
+Non è stato possibile eseguire alcun prompt.
+Impossibile eseguire il documento.
+Impossibile recuperare il documento dal server.
+Impossibile visualizzare i progetti.
+Impossibile visualizzare la Cronologia.
+Il progetto è offline oppure offline in sospeso.
+Errore di salvataggio delle preferenze personali.
+Non è stato possibile salvare le preferenze personali. Le impostazioni del browser potrebbero non essere corrette.
+Conferma aggiornamento.
+Le preferenze personali sono state salvate.
+Impossibile visualizzare la pagina
+Contatta l'amministratore.
+Impostazioni non rilevate.
+Impossibile rilevare le preferenze personali. Le impostazioni del Browser potrebbero non essere corrette. Verifica che i cookie siano stati abilitati.
+Informazioni non valide
+Correggi i campi contrassegnati e riprova.
+I campi non corretti sono stati ignorati e salvati con i valori predefiniti.
+Non è stato possibile individuare il MicroStrategy Server indicato per la connessione. Riprova più tardi.
+L'utente non dispone dei diritti di accesso al progetto selezionato.
+Hai selezionato troppi oggetti per questo Prompt.
+Ha selezionato un numero insufficiente di oggetti per questo Prompt.
+Hai selezionato troppi elementi per questo Prompt.
+Ha selezionato un numero insufficiente di elementi per questo Prompt.
+Questo account è stato disabilitato dall'amministratore.
+La password non è più valida.
+Non è consentito modificare la password.
+Non esistono oggetti da eliminare.
+L’operatore 'Tra' richiede due valori separati da un punto e virgola.
+La versione di MicroStrategy Server e la versione del client non sono compatibili
+Impossibile invocare la funzione Sleep in esecuzione sincrona.
+Questo prompt è obbligatorio ed è necessario fornire una risposta.
+Inserisci un valore nella casella di testo.
+La connessione con MicroStrategy Server è stata interrotta. Esegui nuovamente il login.
+Impossibile registrare correttamente il file M8dssxml.dll nel Web Server. Contatta l'amministratore per ulteriori informazioni.
+Vai alla pagina Amministratore per configurare i progetti.
+Uno o più server potrebbero essere spenti.
+Seleziona alcuni elementi prima di eseguire un'operazione di Drill
+Non è possibile fornire una qualificazione su più di un elemento contemporaneamente.
+Impossibile visualizzare i prompt per questo Report perché già risolti.
+Errore di caricamento
+Eliminando questa cartella verranno rimossi anche tutti i suoi contenuti dal server.
+Elenco messaggi di errore
+Ora
+Descrizione errore
+File
+Funzione ASP
+Funzione API
+Commenti
+Livello
+La password è stata modificata.
+Sei collegato al progetto
+come utente
+Modifica password
+La password non è più valida. È necessario modificarla per poter eseguire la connessione.
+Vecchia password:
+Nuova password:
+Verifica nuova password:
+Password non più valida
+Inserisci una password diversa da quella precedente.
+Completa tutti i campi testo visualizzati di seguito:
+Aggiorna
+MODALITA' RICERCA
+Carica valori di default
+Vai alla Cronologia
+non più di
+non meno di
+selezioni
+nessuno
+Disponibile
+Selezionato
+Cerca
+elementi
+Metrica
+Attributo
+Tra (inserisci valore1 ; valore2)
+Esattamente
+Maggiore di
+Maggiore o uguale a
+Minore di
+Minore o uguale a
+Like
+Not Like
+Valore
+È
+Massimo
+Minimo
+Aggiungi
+Selezioni
+Confronta
+Tutte le selezioni
+Qualsiasi selezione
+Selezioni personali
+Aggiungi a selezioni
+Cerca:
+Esegui report
+Salva Report
+Qualifica su descrizione di attributo
+Torna a seleziona gerarchia
+Seleziona una gerarchia
+Altre gerarchie:
+Operatore
+Qualifica
+Seleziona
+Elementi
+Cartella corrente
+Sottocartelle
+Contenuto cartella
+Immetti i criteri di ricerca.
+L'elenco potrebbe essere lungo.
+Non vi sono punti di ingresso in questa gerarchia.
+GUIDA
+Cosa sono i Report condivisi?
+Cos'è un documento?
+Come selezionare un nuovo progetto?
+E' stato raggiunto il numero massimo di messaggi per utente. Contatta l'Amministratore.
+Cosa sono i valori predefiniti progetto?
+Ulteriori informazioni sui valori predefiniti del progetto
+L'utente finale può modificare le impostazioni predefinite del progetto?
+E' stato raggiunto il numero massimo di messaggi per progetto. Contatta l'Amministratore.
+Cosa sono le preferenze utente?
+Che cosa significa "Applica a TUTTI i progetti"?
+Come annullare e tornare alla pagina iniziale?
+Che cosa significa "Carica valori di default"?
+Cos'è la Cronologia?
+Come rimuovere i report e i documenti dal proprio elenco Cronologia?
+Come ordinare l'elenco Cronologia?
+Cosa significa "Attesa in coda"?
+Cosa sono i Report personali?
+Cos'è un report?
+Come creare un report?
+Cosa significa eliminare?
+È possibile ripristinare un oggetto dopo averlo eliminato?
+Come determinare se la richiesta è pronta?
+Qual è la funzione del pulsante "Aggiungi all'elenco Cronologia"?
+Dopo avere selezionato la gerarchia a sinistra, potrai vedere gli attributi di quella gerarchia in questa sezione.
+Come modificare lo stile di questo report?
+Come riordinare le righe/colonne nel report?
+Come mostrare i dati che non è possibile visualizzare scorrendo la pagina?
+Come navigare ad altri dati correlati da questo Report?
+Vai al punto 2
+Come eseguire una ricerca?
+Altri
+In
+Quali diversi tipi di prompt sono supportati?
+Nota: Netscape 6, Internet Explorer 5 e le versioni più recenti di questi browser supportano DHTML.
+Microstrategy Server ha ritornato troppe righe. Dal Microstrategy Desktop, l'Amministratore può modificare il numero massimo di righe che possono essere ritornate.
+Gli operatori "Like" e "Not like" non supportano i tipi di dati non di testo.
+Hai selezionato troppe qualifiche per un prompt di espressione.
+Come ottenere ulteriori informazioni su un report o un documento?
+Hai selezionato poche qualifiche per un prompt di espressione.
+Hai selezionato troppe qualifiche per un prompt di gerarchia.
+Hai selezionato poche qualifiche per un prompt di gerarchia.
+Perché è necessaria una password?
+Perché è necessario modificare la password?
+È la prima volta che ci si collega oppure si desiderano ulteriori informazioni su questo sito?
+Guida in linea
+Cosa significa logout?
+Informazioni sul sottosistema di sicurezza
+Perché è necessario il login?
+Cos'è un cookie e come viene utilizzato su questo sito Web?
+Cosa significa eseguire il login come ospite?
+Perché la password non è più valida?
+Cosa significa salvare un report?
+Alcune delle risposte di default di questo prompt non sono state visualizzate.
+Come salvare un report?
+Perché non è possibile esportare?
+(E' consentito solo il tipo testo)
+Non esattamente
+Cosa sono i privilegi utente?
+Non tra (inserisci valore1 ; valore2)
+Qual è lo scopo di questa pagina?
+Come impostare un server MicroStrategy su questo server Web?
+Cosa significa pubblicare un server MicroStrategy sul Web?
+Vai al Report Precedente
+Desktop
+Report condivisi
+Creazione di report
+Pagina di attesa
+Risultati Report
+Pagina Amministratore
+Password non più valida
+Dettagli job
+Se questa finestra è ancora aperta dopo che il report è stato completato, puoi chiuderla.
+Salva con nome
+Elimina
+Impossibile Esportare
+Privilegi utente
+Non è stato possibile registrare correttamente sul Web Server il file M9win32.dll. Contatta l'amministratore per ulteriori dettagli.
+Ritorna a:
+Questo oggetto sta per essere eliminato:
+Questo report può comunque essere esportato come semplice testo selezionando questa opzione dalle preferenze, oppure rispondendo al prompt che appare prima che abbia inizio l'esportazione.
+Salva il report con i prompt incorporati nel filtro.
+Sei sicuro di voler eliminare l'oggetto?
+Conferma eliminazione
+L'oggetto non esiste nei metadati.
+La richiesta non può essere elaborata a causa di un errore del server.
+Riprova. Se il problema persiste, contatta l'amministratore del server.
+Istruzione SQL:
+Descrizione report:
+Modello:
+Filtro:
+[ ... ]
+Nome cartella:
+Numero totale di righe:
+Numero totale di colonne:
+Percorso report:
+Percorso documento:
+Messaggio creato:
+Ultimo aggiornamento messaggio:
+Descrizione documento:
+Ora conclusione:
+Job ancora in esecuzione.
+Salva il report come:
+Nome del report:
+Salva il report come una definizione statica.
+Richiedi senza selezioni.
+Obbligatorio
+Facoltativo
+Crea cartella
+Conferma il salvataggio
+Il tuo Report e' stato salvato correttamente.
+Fai clic su continua per tornare al Report originale.
+Ulteriori opzioni...
+Esegui il nuovo Report:
+Esegui dalla nuova posizione il Report appena creato, utilizzando il suo nuovo nome.
+Report salvati:
+Sfoglia da questa cartella altri Report salvati.
+Il nuovo nome è uguale a quello di un Report già esistente.
+Sovrascrivi
+Pubblica il Report come:
+Salva il prompt:
+Salva il report in:
+Contenuto di questa cartella:
+Crea cartella:
+Puoi sovrascriverlo o salvare il nuovo Report con un altro nome.
+Il nuovo nome è uguale a quello di una cartella già esistente.
+Utilizza un nome diverso per la cartella.
+È stato inserito un nome non valido.
+Seleziona un altro nome e riprova.
+Salva il report con tutti i prompt incorporati.
+Semplice
+Contiene
+Inizia con
+Termina con
+Postazione:
+In tutte le cartelle
+Solo all'interno della cartella
+Modalità drill
+Trova tutti gli oggetti
+Creato
+La versione del MicroStrategy Server non è compatibile con questa versione di MicroStrategy Web. Richiesta versione ## o superiore.
+Tra
+Durante il precedente
+Creato da qualsiasi utente
+Creato solo dall'utente connesso
+La descrizione comprende:
+e
+Avanzato
+Pagina di ricerca
+Verifica nome oggetto.
+Consulta la sezione ##.
+Data di creazione/modifica:
+Giorno/i
+Ora/e
+Anno/i
+Mese/i
+Guida su "Ricerca"
+Consigli di ricerca:
+Usare i criteri di tipo "Contiene".
+Settimana/e
+La ricerca di ## non ha restituito alcun risultato.
+La ricerca non ha restituito alcun risultato.
+Tipo oggetto:
+Prova ##ricerca avanzata### per maggiori opzioni di ricerca.
+Preferenze avanzate
+Se vuoi rispondere nuovamente al prompt del documento, esegui il documento dall'inizio.
+Nuova ricerca
+Dettagli ricerca
+oggetti trovati
+Se effettuati manualmente, quanti dei report e dei documenti eseguiti più di recente si desidera mantenere attivi?
+Nota: questi report e questi documenti rimarranno attivi anche se non sono stati salvati nella Cronologia.
+Accesso negato
+Per accedere alla risorsa richiesta è necessario avere il privilegio seguente:
+Contatta l'amministratore di MicroStrategy Server per verificare che il privilegio richiesto sia stato assegnato.
+Attenzione: E' stato impossibile salvare questo documento nella Cronologia.
+EXTRA CRONOLOGIA
+Questo prompt necessita di un valore tra ## e ###.
+Questo prompt necessita di un valore non inferiore a ##.
+Questo prompt necessita di un valore non superiore a ##.
+Questo prompt necessita di un valore non più tardi di ##.
+Questo prompt necessita di un valore non prima di ##.
+Consenti il drilling soltanto con i collegamenti ipertestuali
+Consenti drill semplice
+Consenti il drilling ovunque
+Non hai i privilegi necessari per salvare i report nella cartella "Shared Condivisi".
+Non hai i privilegi necessari per salvare i report nella cartella "Report Personali".
+Il testo digitato è troppo lungo. Modificarlo.
+Il testo digitato è troppo breve. Modificarlo.
+Diritti di accesso insufficienti per accedere alla risorsa richiesta. Se il problema persiste contatta l'amministratore di MicroStrategy Server.
+Nome non valido per la classe plug-in di sicurezza
+Nome utente/password non valida. Accertarsi che il plug-in di sicurezza sia installato correttamente e registrato.
+Non tra
+Il server MicroStrategy non è disponibile. Potrebbe essere disconnesso o non attivo.
+Dettagli errore:
+ID errore MicroStrategy Web XMLAPI:
+Si è verificato un errore runtime sconosciuto sul Web Server.
+Controlla il file di registro di MicroStrategy Web per ulteriori dettagli.
+Non puoi esportare questo report perché eccede i limiti massimi definiti dall'Amministratore per il numero di colonne e di righe che è possibile esportare in Excel, CSV o HTML.
+Disabilita tutti i drilling
+Attenzione: E' stato impossibile salvare questo report nella Cronologia.
+Server connessi:
+Cluster
+Modalità di connessione
+Caricato
+Occupato
+Libero
+Dimensione massima pool
+Azione
+Mostrare i nomi del modello dell'attributo
+Cambia
+Disconnetti
+Connetti
+Modifica
+Server non connessi:
+Dimensione pool iniziale
+L'utente collega manualmente il Web all'Intelligence Server
+Esegue la connessione automatica a Intelligence Server quando il server Web o Intelligence Server viene riavviato
+Mostra tutti i server disponibili
+Aggiorna
+Aggiungi server manualmente
+Dettagli proprietà server
+Connesso
+Tutti i server disponibili
+Nessun server MicroStrategy è attualmente disponibile.
+Nessun server MicroStrategy è attualmente connesso.
+Nessun server MicroStrategy è stato disconnesso di recente.
+Non è stato possibile eseguire l'operazione richiesta. Accesso in scrittura per questo oggetto o per la cartella superiore mancante.
+Qual è lo scopo di un prompt?
+Nascondi tutti i server disponibili
+INFORMAZIONI SU
+La cartella che desideri aprire non esiste in questo progetto.
+Il report che desideri eseguire non esiste in questo progetto.
+Il documento che desideri eseguire non esiste in questo progetto.
+Gerarchia di sistema
+Progetti precedenti
+Progetti successive
+Versione ASP:
+Versione API XML:
+Versione browser:
+Cookie di MicroStrategy Web:
+Versione Server MicroStrategy:
+Mostra report grafici nella modalità di visualizzazione 'Tabella e grafico' per impostazione predefinita
+Nascondi griglia
+Registra percorso di chiamate di funzione che hanno provocato errori
+Su
+Giù
+Errore di caricamento dati XML.
+Uno dei nodi XML necessari non è disponibile. Per ulteriori informazioni, rivolgersi all'amministratore.
+Impossibile registrare correttamente nel Web Server il file: scrrunl.dll. Per ulteriori informazioni, rivolgersi all'amministratore.
+Impossibile registrare correttamente nel Web Server il file: MSXML.dll. Per ulteriori informazioni, rivolgersi all'amministratore.
+Errore interno di rete: errore di decodifica messaggio. Questo errore potrebbe essere causato da un'incompatibilità tra MicroStrategy Web e MicroStrategy Intelligence Server.
+Errore di login
+Errore di modifica password
+Errore in report condivisi
+Errore in Report Personali
+Errore nel prompt
+Errore nei risultati Report
+Errore in Cronologia
+Errore in dettagli job
+Errore di salvataggio con nome
+Errore di ricerca
+Errore di eliminazione
+Errore di creazione report
+Errore nella guida in linea
+Errore di logout
+Il file non esiste.
+Errore di apertura file.
+Errore di lettura file.
+Errore Microstrategy Server:
+Errore di caricamento progetti
+Errore di lettura della definizione del prompt dal Microstrategy Server. Eseguire nuovamente il report o il documento.
+Errore di caricamento domanda prompt.
+Mostra report figli
+Nascondi report figli
+La seconda password inserita non corrisponde alla prima. Inseriscile nuovamente.
+Mostra i report figli per i documenti
+Nascondi i report figli per i documenti
+Non sei autorizzato a modificare la password di altri utenti
+Errore nel tentativo di leggere i file della Guida. Riprova. Se il problema persiste, contatta l'amministratore di Web Server.
+Errore di individuazione cartella.
+Navigazione
+Documenti
+Richiesta di Drill non valida. Richiesta annullata.
+Impossibile eseguire comando di Drill.
+Navigazione (drilling)
+Errore di esecuzione job.
+Errore di visualizzazione prompt.
+Tempo di aggiornamento della pagina:
+Ordina per:
+Avvisi
+Errori
+Precedente ##
+Successivo ##
+MicroStrategy Web è un prodotto di
+Esportazione
+Formattazione dei grafici
+Formattazione delle tabelle
+GUEST
+Non si dispone di account?
+È possibile accedere a questo sito come ospite. Fai clic qui sotto.
+Lettura incrementale
+È possibile provare ad accedere a questo sito usando le credenziali Windows. Fare clic sul collegamento sottostante.
+Login - Logout - Sicurezza
+Raggruppamento a pagine
+Benvenuto
+Se non si è ##,
+fare clic qui
+Preferenze
+Scambio
+Mostra dettagli Report
+Torna alla cartella superiore
+Stampa
+Esecuzione di report e documenti
+Salvataggio di report
+Visualizza file di registro Errore
+Seleziona un giorno:
+Mese
+Giorno
+Anno
+Messaggi
+Rimuovi dalle selezioni
+## minimo
+Mantieni sempre
+Elimina sempre
+Conferma di logout
+Conferma di stampa
+Conferma Utente
+Numero di oggetti da visualizzare per ogni blocco:
+Report condivisi e personali
+Ordinamento
+Ordina lista
+Fai clic sul titolo della colonna che vuoi ordinare.
+Torna al Report
+Chiedere all'amministratore di MicroStrategy Server di collegare questo account utente Windows a un utente di MicroStrategy Server, oppure di impostare correttamente il Web Server.
+Attendere prego...
+File intestazione:
+File pié di pagina:
+Usa Ricerca Avanzata per specificare restrizioni su date, tipi di oggetti e descrizioni.
+I valori predefiniti progetto sono stati salvati.
+Inserisci una data valida.
+DESCRIZIONE CARTELLA
+Le opzioni di stampa permettono di personalizzare l'aspetto del Report prima di stampare.
+Dopo aver visualizzato il Report sarà possibile stamparlo utilizzando le funzionalità di stampa del Browser.
+In (inserisci valore1; valore2; ...; valoreN)
+Errore di risposta al prompt. Controllare la risposta/e.
+Numero massimo di righe per pagina:
+Numero massimo di colonne per pagina:
+Numero predefinito di righe per pagina:
+Numero predefinito di colonne per pagina:
+Non è stato possibile individuare il modello HTML su MicroStrategy Server.
+Nascondi Guida
+Mostra Guida
+Nascondi questa selezione
+Mostra questa selezione
+Stile Tabella
+Usa il formato salvato nella definizione del Report
+Usa lo stile Tabella predefinito da me selezionato
+Stile report sconosciuto.
+Web Server
+Timeout Server:
+Utilizza i valori consigliati per le dimensioni del Report durante la stampa.
+Per questo Prompt sono richieste da ## a ### selezioni.
+Questo prompt necessita almeno di ## selezioni.
+Questo prompt non può accettare più di ## selezioni.
+Righe Tabella per pagina stampata:
+Colonne Tabella per pagina stampata:
+Errore nei risultati del documento
+Aggiungi...
+Richiedi metodo
+Impostazioni avanzate:
+Esegui Documento
+Assistenza tecnica
+I risultati di questo report non sono più disponibili. Inviare nuovamente la richiesta.
+Determina automaticamente
+Riesegui il Report
+Riesegui il Documento
+Errore durante il recupero dell'XML di risposta al prompt.
+Opzioni aggiuntive Report
+Mostra informazioni avanzate
+STILI GRAFICO
+Nascondi informazioni avanzate
+Per questo Prompt sono richieste esattamente ## selezioni.
+Non è stato possibile visualizzare i contenuti di questa pagina perché il Microstrategy Server non è in esecuzione. Contatta l'Amministratore.
+Errore nella pagina Amministratore
+Non è stato possibile registrare correttamente sul Web Server il file MAWeb.dll. Contatta l'amministratore per ulteriori dettagli.
+Si è verificato un errore sul Web Server durante l'aggiornamento dei cluster Server.
+Si è verificato un errore sul Web Server durante il collegamento al Server:
+Si è verificato un errore sul Web Server durante la disconnessione dal Server:
+Si è verificato un errore sul Web Server durante il recupero delle informazioni sui cluster Server.
+Si è verificato un errore sul Web Server durante la ricerca ed il caricamento dei MicroStrategy Server disponibili.
+Nome
+Elenco
+Icone Grandi
+Nome server errato.
+Tedesco
+Inglese (USA)
+Spagnolo (Spagna)
+Francese
+Italiano
+Giapponese
+Coreano
+Svedese
+Inglese (Regno Unito)
+Spagnolo (Messico)
+Predefinito
+L'Attributo è bloccato
+La lista degli elementi non può essere visualizzata
+metriche
+## pagine precedenti
+## pagine successive
+prime ## pagine
+Copyright
+Aggiorna i dati
+Con questo prompt è consentita una sola selezione.
+Le opzioni di esportazione permettono di personalizzare il formato e l'aspetto dei dati prima di esportare.
+Scegliere Esporta per passare all'esportazione.
+Opzioni di esportazione
+Inserisci valori corretti separati da punto e virgola.
+Timeout richiesta:
+Formato numero non corretto, riprova.
+Numero massimo di elementi per la ricerca:
+Timeout ricerca:
+Inserire il nome del server nella casella di testo nella parte inferiore della pagina.
+La ricerca ha trovato più di ## elementi. Verranno visualizzati soltanto i primi ## elementi.
+Apri cartella
+Segui le istruzioni contrassegnate in rosso.
+Attenzione!
+Esegui il report
+Il grafico di questo report non è disponibile per gli utenti Microstrategy Web.
+E' stato impossibile visualizzare i contenuti di questa pagina perché il progetto si trova in modalità di pausa. Contatta il Microstrategy Server Administrator.
+Questo comando non verra' eseguito perche' non si ha autorizzazione di scrittura in questa cartella o report.
+Se il numero di righe del report eccede il limite definito dall'Amministratore, il report verrà esportato come semplice testo.
+Questo prompt necessita almeno di 1 selezione.
+Questo prompt non può accettare più di 1 selezione.
+Creazione nuovo job
+L'URL contiene dei parametri non corretti
+Nell'URL sono obbligatori i seguenti parametri:
+Vale per tutti i progetti ad eccezione di quelli con un alias.
+Lunghezza massima del titolo:
+Vale per tutti i progetti.
+Numero massimo di etichette per pagina:
+Alias progetto:
+Mostra l'etichetta di questo progetto
+Visualizzazione progetto
+DD/MM/YYYY
+HH:MM:SS
+Aprire una nuova finestra durante la stampa
+Un'espressione o un gruppo di elementi di un attributo è equivalente ad una selezione.
+File XSL per questo Documento mancante o con sintassi non corretta.
+Nota: queste opzioni non sono applicabili ai prompt e agli editor dei filtri che contengono liste predefinite di elementi od oggetti.
+Ulteriori...
+,
+Note this might have two translations.
+Errore in Report
+Errore in documento
+Questa azione non è stata eseguita perché mancano i privilegi di creazione degli oggetti.
+Esporta valori numerici come:
+Numeri
+Testo
+Aggiorna report:
+Recupera dati dall'ultima cache valida di MicroStrategy Server
+Riesegui a fronte del warehouse
+Nascondi totali
+Mostra totali
+È stato superato il numero massimo di celle consentito da MicroStrategy Server XML governor.
+Riepilogo
+Stampare griglia e grafico sulla stessa pagina
+Filtro su selezioni
+Intestazioni colonne:
+Espandi le seguenti pagine tramite campi in stampa:
+Numero massimo di righe da esportare in testo semplice:
+Numero massimo di colonne da esportare in HTML o testo semplice:
+Prompt all'esportazione
+Mostra opzioni durante l'esportazione
+Esporta griglie in:
+Esporta grafici in:
+Nell'esportazione della griglia con il grafico, esporta la griglia:
+Con la formattazione
+Senza formattazione
+Come testo semplice
+Portoghese (Brasile)
+Usa collegamenti ipertestuali su report a:
+Drill immediatamente
+Apri menu a comparsa
+Visualizza prompt:
+Tutti su una pagina
+Ognuno su una pagina separata
+Visualizza sempre per primi i prompt obbligatori
+Torna alla pagina Amministratore*
+Si è verificato un errore nel report
+Si è verificato un errore nel documento
+Numero massimo di serie e categorie:
+Serie:
+Categorie:
+Maiuscole/minuscole
+Posizione
+Delimitatore:
+Virgola
+Tabulazione
+Punto e virgola
+Spazio
+filtro/i
+modello/i
+Precedente
+Successivo
+Passaggi ## - ### di ####*
+Ritorna al report
+Primi ## passaggi
+Ultimi ## passaggi
+o
+Torna al prompt
+Riepilogo delle selezioni
+Errore nel contenuto della cartella
+Prompt senza risposta
+Selezione:
+Prompt ##
+La selezione predefinita è:
+Esporta documenti in:
+I risultati dei report pianificati sono stati aggiunti all'elenco della cronologia.
+Struttura
+Il valore di ogni preferenza deve essere uguale a o minore del valore della preferenza direttamente superiore.
+Mostra versione stampabile
+Sottoscrizioni Personali
+Visualizza l'elenco dei report che ho sottoscritto.
+Sottoscrivi
+Per sottoscriversi a questo report, selezionare una pianificazione e una personalizzazione di seguito.
+Eliminare questo canale?
+Con la seguente personalizzazione:
+Aggiungi sottoscrizione
+Per questo report sono state eseguite le seguenti sottoscrizioni:
+Pianificazione
+Personalizzata
+Annulla sottoscrizione
+Modifica
+Sottoscrizioni
+Inviami questo report ogni:
+Il nuovo Report sovrascriverà eventuali versioni precedenti
+Questa opzione è attivata automaticamente per gli utenti che non dispongono dell'accesso all'elenco della cronologia.
+Sono state eseguite ## ### sottoscrizioni ####  a questo report.
+Consenti all'utente di modificare questa preferenza
+Unisci
+Ripeti
+La generazione SQL non è completa.
+Fare clic su "Mostra versione stampabile" per visualizzare il report in anteprima.
+Not
+Classifica compresi tra
+Escludi massimo
+Escludi minimo
+Classifica non compresi tra
+Classifica uguali a 
+Classifica diversi da
+Livello base report
+Livello report
+Livello predefinito
+Livello sconosciuto
+Per vedere i risultati del report, è necessario passare alla modalità di visualizzazione Griglia. Contatta l'Amministratore per maggiori informazioni.
+Il numero massimo di righe consentite impostato in Opzioni Tabella verrà ignorato per questo Report.
+Per rispondere nuovamente a questi prompt, fai clic sul collegamento Ripeti Prompt vicino al Report.
+Metriche figli
+Se No, allora:
+Esistono ## ###sottoscrizioni #### a questo documento.
+Rimuovi questa colonna
+Errore in Sottoscrizioni personali
+Sovrascrivere questa sottoscrizione?
+Conferma sovrascrittura
+Sta per essere sovrascritta la sottoscrizione:
+Limite report:
+Java Virtual Machine
+Le credenziali di fonte informativa sono state modificate.
+Non è stata impostata alcuna sottoscrizione.
+Elenco progetti:
+Mostra tutti i progetti connessi al server Web prima che l'utente si colleghi
+Eseguire il login, quindi mostrare i progetti accessibili 
+La password non è corretta oppure il nome utente e la password forniti non consentono di accedere ai progetti attualmente disponibili nel sistema.
+Elimina modello
+Elimina filtro
+Informazione non disponibile
+Dettagli modello:
+Il modello è stato salvato correttamente.
+Il filtro è stato salvato correttamente.
+Esiste già un modello denominato come il nuovo modello.
+È possibile sovrascriverlo o salvare il nuovo modello con un altro nome.
+Esiste già un filtro denominato come il nuovo filtro.
+È possibile sovrascriverlo o salvare il nuovo filtro con un altro nome.
+Report
+Indirizzi
+Servizi
+Informazioni su
+Guida
+La richiesta è stata inviata. Attendere prego...
+MicroStrategy Narrowcast Server è un prodotto di
+Opzioni
+Ricerca rapida
+Cartelle servizi
+Codice errore
+Descrizione errore
+Errore di visualizzazione cartelle
+Sali di un livello
+Errore di visualizzazione cartelle sottostanti
+Descrizione:
+Servizio
+Indirizzo
+Personalizzazione
+Metriche
+Salva modifiche
+Nuovi Utenti
+Nome Utente:
+Password:
+Puoi creare un nuovo account. Fai clic qui sotto.
+Crea nuovo account.
+Seleziona un indirizzo:
+Crea nuovo indirizzo
+Si è verificato un errore su questa pagina.
+Errore di recupero indirizzi
+Non hai alcun indirizzo compatibile.
+Errore di recupero Schedule
+Non ci sono Schedule disponibili.
+(Descrizione servizio non disponibile)
+Errore di visualizzazione sottoscrizioni
+Non ci sono servizi in questa cartella.
+Non ci sono sottoscrizioni per questo servizio.
+COLLEGAMENTI
+ANNUNCI
+Ritorna  a Home
+Ritorna a Indirizzi
+Ritorna a Report
+Ritorna a Servizi
+Errore di accesso
+Il nome Utente o la Password non sono corretti. Riprova.
+Il nome Utente o la Password sono vuoti. Riprova.
+Errore durante le operazioni sull'indirizzo.
+Riprova o contatta l'Amministratore di sistema.
+Alcuni campi indirizzo sono vuoti. Riprova.
+Errore durante le operazioni di sottoscrizione
+Errore durante la creazione di un nuovo account
+La password e la conferma sono diverse. Riprova.
+Il nome Utente, la password o il suggerimento password sono vuoti.
+Errore di creazione nuovo account Utente
+Crea nuovo Utente
+Conferma password:
+Suggerimento password:
+Annulla richiesta
+La richiesta è stata annullata.
+Fai clic su una scheda qui sopra per continuare.
+Non è stato creato alcun indirizzo
+Recupero Schedule per la sottoscrizione
+Recupero indirizzi utente per la sottoscrizione
+Recupero informazioni servizio
+Recupero servizi nella cartella
+Recupero sottoscrizioni utente
+Recupero prompt per la sottoscrizione
+Aggiornamento sottoscrizioni utente
+Aggiornamento indirizzi utente
+Creazione nuovo Utente
+Convalida login Utente
+Recupero indirizzi Utente
+Recupero cartelle
+Elaborazione in corso...
+Conferma nuova password:
+Conferma eliminazione indirizzo
+Conferma eliminazione sottoscrizione
+Sei sicuro di voler eliminare l'indirizzo?
+Eliminare la/e sottoscrizione/i per il/i seguente/i servizio/i?
+Opzioni Utente
+Le opzioni sono state salvate.
+Inpostazioni internazionali:
+JavaScript:
+Usare JavaScript?
+Stato:
+Errore di recupero Report
+Errore di visualizzazione Report
+Report:
+Creato:
+Validità:
+Cartelle Report
+In sospeso
+Questo Report non è attualmente disponibile.
+Si è verificato un errore durante il recupero dei Report.
+Si è verificato un errore durante la visualizzazione di questo Report.
+Allegati
+Recupero Report
+Non ci sono Report in questa cartella.
+Nessuno schedule definito per questo progetto.
+Salva personalizzazione come:
+Errore di salvataggio personalizzazione
+Si è verificato un errore durante il salvataggio della personalizzazione.
+Hai dimenticato la password?
+Inserisci il nome Utente e fai clic su "Visualizza suggerimento password".
+Visualizza suggerimento password
+Suggerimento password:
+Errore di recupero suggerimento password
+Si è verificato un errore durante il recupero del suggerimento password.
+Ritorna a Login
+Recupero suggerimento password
+Aggiornamento profilo utente
+Recupero informazioni indirizzo
+Salvataggio informazioni sottoscrizione
+Inserisci un nome per l'indirizzo.
+Inserisci un nome per l'indirizzo che non contenga i caratteri seguenti:
+Inserisci un indirizzo.
+Inserisci un indirizzo che non contenga spazi o i caratteri seguenti:
+Inserire l'indirizzo nel formato nomeutente@tipo.server come nell'esempio che segue: prossi@societàabc.com
+Impossibile registrare correttamente il file M9StrUtl.dll nel Web Server. Contatta l'amministratore per ulteriori informazioni.
+Grazie per aver usato MicroStrategy Narrowcast Server.
+Nessun file inviato al server Web.
+Questo nome Utente è già in uso. Inserisci un nome diverso.
+Il file contiene un'estensione non valida. Le estensioni di file consentite sono: ##
+Errore di aggiornamento profilo utente
+Si è verificato un errore durante l'aggiornamento del profilo utente.
+La vecchia password è errata. Riprova.
+La nuova password e la conferma sono diverse. Riprova.
+Errore di recupero dati
+Si è verificato un errore durante il caricamento del file XML. Contatta l'Amministratore di sistema.
+MicroStrategy Narrowcast Server 7.1
+Versione
+Informazioni Amministratore di sistema
+email:
+Telefono:
+Inserisci un suggerimento per recuperare la password.
+Il PIN e la conferma sono diversi. Riprova.
+Salva modello in:
+Salva filtro in:
+Salva modello come:
+Salva filtro come:
+Report
+Modello
+Filtro
+ESEGUI FILTRO + MODELLO
+Esegui filtro:
+con il modello:
+Seleziona un modello
+Seleziona un filtro
+Per richiedere un account, inserire le seguenti informazioni.
+Le informazioni obbligatorie sono indicate dall'asterisco (*) rosso.
+Inserire l'indirizzo nel formato nomeutente@tipo.server come nell'esempio che segue: prossi@societàabc.com
+Inserire l'indirizzo nel formato nomeutente@tipo.server come nell'esempio che segue: prossi@societàabc.com
+Inserire un indirizzo di posta elettronica.
+(ad esempio: nome@società.com)
+Inserire l'indirizzo nel formato nomeutente@tipo.server come nell'esempio che segue: prossi@societàabc.com
+Inserire le credenziali di login per le seguenti fonti informative.
+Durante l'elaborazione della richiesta di un nuovo account sono stati rilevati uno o più errori.
+Seguire le istruzioni in rosso e riprovare.
+Suggerimento per la password non inserito. Ripetere l'immissione.
+Modifica password
+È possibile modificare una o più delle password che seguono.
+Login di account.
+Operazione completata. Fare clic sul pulsante "Fine".
+Fine
+Durante l'elaborazione della richiesta di modifica della password sono stati rilevati uno o più errori.
+Non è stata inserita la vecchia password o la nuova password. Ripetere l'immissione.
+Importare il filtro:
+Estensioni di file consentite:
+Nota: Separare le estensioni con la virgola (es.: est1, est2, est3).
+Dimensione massima dei file da caricare:
+Dettagli prompt:
+Inserire il nome o i nomi utente e la/le password di seguito.
+Richiama Sommario
+Il file specificato supera la dimensione massima (## Kb) consentita dall'Amministratore.
+Attenzione: Non vengono visualizzati tutti i percorsi di drill a causa di una opzione regole di MicroStrategy Desktop.
+Il contenuto del file non corrisponde al formato richiesto per elaborarne i dati.
+Consegne
+Fino a:
+Fare clic sul nome di un documento di sinistra per visualizzare qui il documento.
+Inviare alla pagina Report personali
+Invia a:
+Ogni:
+Iscriversi ad un servizio
+Sfogliare un elenco di servizi pronti, disponibili a tutti gli utenti.
+Visualizzare i report pianificati.
+Specificare le informazioni di contatto per le consegne delle sottoscrizioni.
+Personalizzare le schermate in base alle preferenze del browser e di visualizzazione.
+Sottoscrivi:
+Personalizzare le sottoscrizioni
+Personalizzare la sottoscrizione al servizio rispondendo alle seguenti domande.
+Operazione completata.
+Per rimuovere una sottoscrizione, selezionare una casella di controllo e fare clic su Annulla sottoscrizione.
+Per eliminare un report o un documento non valido da Cronologia selezionare la casella di controllo corrispondente, quindi fare clic su Rimuovi.
+Pianificazione
+REPORT SOTTOSCRITTI
+La sessione utente si è interrotta e si è stati automaticamente disconnessi. Ripetere il login.
+Disattiva account
+L'account è stato disattivato.
+Disattivare l'account?
+Una volta disattivato l'account, non sarà più possibile ricevere i servizi o accedere a questo sito. L'account può essere riattivato solo dall'amministratore del portale.
+Selezionare una lingua.
+Abilitato (la sottoscrizione verrà eseguita con lo schedule specificato)
+Lingua:
+Modifica credenziali fonte informativa
+Modifica credenziali
+Durante l'elaborazione della richiesta di modifica delle credenziali di fonte informativa sono stati rilevati uno o più errori.
+A3 11,69 x 16,54 pollici
+Versione SDK:
+Transactor Server:
+Carica file
+Canali
+Attivo
+Aggiungi nuovo canale
+Canale attivo
+Canale inattivo
+Elimina canale
+Crea nuovo canale
+Modifica canale
+Per creare un nuovo canale, occorre effettuare le seguenti operazioni:
+Pubblicare la cartella dei servizi per il canale
+Assegnare un nome al canale.
+Non visualizzare più questa pagina.
+Nome e descrizione sito
+Inserire il nome del nuovo canale:
+Inserire la descrizione del canale (facoltativo):
+Origine errore
+Selezionare gli elementi attributi da mantenere e premere il pulsante Filtro.
+Se non si selezionano elementi per le colonne, il nuovo report conterrà tutte le colonne. Lo stesso vale per le righe.
+Filtro
+Nascondi filtro su selezioni
+Mostra filtro su selezioni
+Nascondi menu del report
+Mostra menu del report
+Questo account è stato disattivato. Per riattivare l'account, rivolgersi all'Amministratore.
+Nome utente non inserito. Ripetere l'immissione.
+Password non inserita. Ripetere l'immissione.
+Spagnolo
+Inglese
+Numero massimo di elementi da importare:
+Filtri condivisi
+Modelli condivisi
+Oggetti personali
+Importa filtro da un file:
+Inserire un nuovo indirizzo:
+Tipi di dispositivi
+rinomina ...
+definizione ...
+Cartelle del dispositivo
+modifica cartelle del dispositivo ...
+Rinomina
+URL icone grandi:
+URL icone piccole:
+Formato indirizzo:
+E-mail
+Formato standard degli indirizzi e-mail.
+Formato: xxxx@xxxxxx.xxx
+Numerico
+Campi di visualizzazione:
+Campi di modifica:
+Indirizzo  Nome
+Indirizzo  Valore
+Stile
+PIN
+Blocco consegna
+Nome tipo dispositivo:
+Conferma eliminazione tipo di dispositivo
+Eliminare il tipo di dispositivo '##'?
+Nuova definizione
+Definizione:
+Disponibile:
+Selezionato:
+Nessuna cartella selezionata.
+Salva il filtro come una definizione statica.
+Salva i prompt all'interno del filtro.
+Salva il modello come una definizione statica.
+Salva i prompt all'interno del modello.
+Il progettista di report ha definito la rappresentazione di questo prompt con lo stile file di testo e carrello.
+DHTML disattivato: impossibile usare la funzione di importazione file di testo.
+È possibile usare il carrello per rispondere a questo prompt.
+Impossibile eseguire questa azione: il progetto è bloccato.
+Raggruppamento a pagine automatico
+Non puoi esportare questo report perché eccede i limiti massimi definiti dall'Amministratore per il numero di colonne e di righe che è possibile esportare in Excel o HTML.
+Tuttavia, è possibile esportare questo report in Excel come testo semplice o in CSV selezionando questa opzione dalle preferenze o quando viene richiesto prima dell'esportazione.
+Crea nuovo tipo di dispositivo
+Utilizzare questo formato per una stringa contenente solo numeri.
+Formato: ########
+Non è stato creato alcun tipo di dispositivo.
+Conferma PIN
+Inattivo
+Inserire il valore numerico dell'indirizzo nel seguente formato: #########
+Guida per:
+Nome utente o Password errati per una o più fonti informative. Riprovare.
+Non si dispone di alcun report.
+Selezionare lo schedule da utilizzare per questo servizio.
+Selezionare uno schedule dall'elenco.
+Selezionare la destinazione di questo servizio.
+Per l'iscrizione, effettuare la seguente procedura:
+Selezionare un servizio.
+Specificare uno schedule e un indirizzo.
+Personalizzare il contenuto del servizio (se applicabile).
+Personalizzare il contenuto del servizio.
+È possibile fornire le seguenti informazioni per personalizzare il contenuto di questa sottoscrizione:
+Se il suggerimento non è sufficiente per riuscire a ricordare la password, rivolgersi all'Amministratore di sistema per farla reimpostare.
+OK
+L'operazione è riuscita.
+La sottoscrizione è stata salvata correttamente.
+Tipo di carattere:
+Salvare le selezioni con nome (facoltativo)
+Effettuare nuove selezioni
+Scegliere dall'elenco di selezioni salvate in precedenza:
+Scegliere un elemento:
+Applicare queste selezioni
+Impossibile trovare il progetto ## nel server ###.
+Livello:
+(DISABILITATO)
+Informazioni sull'amministratore:
+Dopo aver modificato la connessione al deposito del portale, occorre riconfigurare le informazioni sul sito.
+Dopo aver modificato la posizione del motore sottoscrizioni, occorre riconfigurare la connessione al deposito del portale e le informazioni sul sito.
+Dopo: ## giorni.
+Cambia nome e descrizione
+Configurazione
+Configurazione completata?
+Nome di connessione al database:
+Connessioni al database
+Connessioni al database:
+Dispositivo predefinito:
+Lingua predefinita:
+Impostazioni internazionali predefinite nuovi utenti:
+DHTML di uso predefinito:
+Disattiva
+Continuare?
+Deposito documenti:
+Consenti creazione di nuovi utenti:
+Inserire la posizione del server che esegue il motore sottoscrizioni:
+Inserire un nome univoco e una descrizione per il portale.
+Impostazioni GUI:
+Fonte informativa
+Fonti informative
+Livello di registrazione:
+Obbligatorio
+Deposito portale
+Alias DB metadati:
+Connessione DB metadati:
+Prefisso tabelle metadati:
+Scadenza nuovi utenti:
+Senza scadenza
+Il:
+O copia speculare di sito esistente:
+Numero telefonico:
+Selezionare la modalità di login degli utenti alle fonti informative di questo progetto:
+Configurazione portale
+Dispositivo portale:
+Fare clic sul pulsante per configurare il sito:
+Deposito oggetti
+Impostazioni progetto:
+Fornire credenziali
+Ultime posizioni usate del server dei motori sottoscrizioni portale:
+Selezionare un altro portale
+Seleziona portale
+Selezionare una definizione di sito esistente o fare clic su Aggiungi una nuova definizione di sito.
+Impostazione
+Dispositivi portale
+Informazioni portale
+Preferenze sito
+Deposito registro sottoscrizioni
+Posizione motore sottoscrizioni
+Proprietà motore sottoscrizioni
+Prefisso tabelle:
+Directory Temp dei file:
+MicroStrategy Narrowcast Server Portal Designer consente agli amministratori di creare con facilità portali di sottoscrizioni sul Web, in cui gli utenti possono sottoscrivere i servizi Narrowcast Server tramite un browser Web.
+Questo portale non è pronto per l'accesso da parte degli utenti finali. Perché sia disponibile, occorre configurare tutti gli elementi che seguono:
+Usa credenziali progetto
+Benvenuti in MicroStrategy Narrowcast Server Subscription Portal Designer.
+Rimpostare il carattere del report
+Seleziona e specifica la priorità per i tipi di carattere dell'interfaccia.
+Verrà utilizzato il primo tipo di carattere disponibile sulla macchina dell'utente finale tra quelli specificati nella lista delle priorità.
+Nessun canale definito per questo sito
+Selezionare la cartella dei canali
+Il valore di ## non è valido. Se questo valore non viene impostato correttamente, alcune azioni del progettista di portali non riusciranno.
+Verificare che l'ID del file #1 punti ad impostazioni internazionali valide nel deposito progetti.
+Per risolvere questo problema, continuare a pagina ##.
+I valori predefiniti di ## non sono validi. Verificare che gli ID del file #1 puntino ad oggetti validi nel deposito progetti.
+Some or all of the default ## had invalid definitions. Please verify that the services folders on the ##  file point to valid folders in the Project repository.
+Errore durante l'impostazione dei valori predefiniti. Per ulteriori informazioni, vedere ##.
+La creazione di un sito è riuscita nell'MD; tuttavia, sono stati rilevati alcuni errori nel tentativo di impostare i valori predefiniti:
+La connessione al database "#1" non punta a un database contenente le tabelle di deposito portale con il prefisso "#2".
+Creare le tabelle?
+Creazione tabelle metadati
+Nome sito predefinito
+Sito con valori predefiniti
+Utilizza un nuovo sito:
+Seleziona dispositivo portale
+Seleziona dispositivo predefinito
+Specificare un nome per la definizione del sito.
+Inserire un nome che non contenga i seguenti caratteri:
+Inserire una descrizione che non contenga i seguenti caratteri:
+Indicare il nome della macchina che esegue il motore sottoscrizioni.
+Specificare una directory per i file temporanei.
+Inserire un percorso per la directory dei file temporanei che non contenga i seguenti caratteri:
+Inserire un numero valido per il numero di giorni.
+Il nome della macchina non può contenere i seguenti caratteri:
+Selezionare uno stile dispositivo
+Per trovare lo stile del dispositivo, effettuare la seguente procedura:
+Selezionare una categoria.
+Selezionare uno stile.
+Fare clic su una categoria di dispositivo per:
+Fare clic su uno stile di dispositivo per:
+Non vi sono stili di dispositivo in questa categoria.
+Impossibile trovare le informazioni sullo stile di dispositivo.
+Nessuno stile disponibile
+Senza convalida
+Il valore dell'indirizzo può essere qualsiasi stringa di testo.
+Formato: qualunque numero e i seguenti caratteri - ( )
+Inserire il valore dell'indirizzo nel seguente formato: qualunque numero e i seguenti caratteri - ( )
+Configurazione motore
+Gestione sito
+Selezionare la connessione al database per il deposito portale.
+Selezionare la connessione al database per il deposito oggetti.
+Selezionare la connessione al database per il deposito registro sottoscrizioni.
+Utilizzare la stessa connessione al database per il deposito registro sottoscrizioni.
+Aggiungi una nuova connessione al database
+Aggiungi una nuova definizione di sito
+Definizione sito
+Selezionare la definizione di sito che il server deve utilizzare:
+Database
+È necessario indicare il nome della macchina che esegue il motore sottoscrizioni.
+Crea pagina iniziale personale
+Errore durante la creazione della pagina personale
+La pagina iniziale personale non è stata creata. Effettuare la seguente procedura.
+Scegliere il titolo della pagina.
+Selezionare uno stile di layout.
+Selezionare il componente da visualizzare su ogni riquadro.
+Salva pagina iniziale personale
+Visualizza pagina personale
+Pagina iniziale personale
+Primo riquadro:
+Secondo riquadro:
+Terzo riquadro:
+Errore di eliminazione profilo utente
+Impossibile eliminare il profilo perché è condiviso da più sottoscrizioni
+Nessuna fonte informativa definita per questo sito.
+Visualizza le sottoscrizioni esistenti per questo servizio
+Gestione portale
+Su questo server Web sono stati rilevati i seguenti portali di sottoscrizioni.
+Selezionare un portale di seguito per modificarne la configurazione.
+Crea nuovo portale di sottoscrizioni
+Crea nuovo portale
+Nome portale
+Per creare un nuovo portale di sottoscrizioni, indicare il nome della directory virtuale:
+DESCRIZIONE CRONOLOGIA
+Inserire un indirizzo predefinito.
+Formato: qualunque carattere alfabetico o numerico
+Inserire un indirizzo con il seguente formato: qualunque carattere alfabetico o numerico
+Ogni definizione di sito si distingue per il nome univoco e la descrizione.
+Creando un nome univoco per ogni definizione si saprà quale portale contenga le proprietà che l'utente finale visualizzerà all'accesso alla directory virtuale.
+Si consiglia di inserire una descrizione accurata della definizione del sito, in modo che i progettisti a prima vista sappiano quali siano le proprietà contenute nel sito.
+La "definizione di sito" è un insieme di proprietà che definisce ciò che l'utente effettivamente vede tramite il browser quando accede all'URL di una directory virtuale.
+Un portale può usare una delle definizioni di sito.
+L'elenco seguente contiene le definizioni di sito esistenti nel deposito portale corrente.
+Due o più portali, sulla stessa macchina o su macchine diverse, possono puntare alla stessa definizione di sito.
+È possibile selezionare la definizione di un sito esistente o creare una nuova definizione di sito.
+Selezionare una definizione di sito esistente che il server deve usare o fare clic su Aggiungi una nuova definizione di sito.
+L'integrazione con il motore di consegna consente agli utenti di specificare la personalizzazione dei servizi, gli schedule e il dispositivo su cui ricevere le informazioni.
+Portal Designer consente agli amministratori di definire le impostazioni predefinite come la lingua e l'uso del DHTML.
+Il progettista di portali ha le seguenti responsabilità:
+configurare e gestire il portale di sottoscrizioni per permettere agli utenti finali di sottoscrivere i vari servizi sul Web
+configurare le origini di dati e i layout di portale
+pubblicare i servizi e i tipo di dispositivi
+selezionare i servizi predefiniti per il portale di sottoscrizioni
+specificare le proprietà delle fonti informative e le preferenze predefinite del portale
+Portal Designer rende possibile:
+configurare il motore sottoscrizioni
+selezionare o modificare la configurazione del portale
+creare o selezionare la definizione del sito
+configurare le offerte di servizi statiche e dinamiche
+Scegliere AVANTI per iniziare.
+Il deposito oggetti archivia le informazioni di pianificazione, il servizio e le definizioni di dispositivi.
+La seguente tabella contiene le connessioni ai database esistenti in cui è possibile archiviare i dati.
+È possibile selezionare una connessione esistente o creare un nuovo alias nel deposito portale corrente.
+Per ulteriori informazioni sugli alias di database, vedere il file readme allegato al software.
+Se la stessa connessione verrà usata per il deposito registro sottoscrizioni, selezionare la casella di controllo per passare direttamente alla pagina dei canali.
+Il deposito registro sottoscrizioni archivia i dati delle sottoscrizioni compresi gli utenti finali, gli indirizzi, la personalizzazione e i set di sottoscrizioni.
+L'installazione tipica esegue l'installazione del motore sottoscrizioni sulla stessa macchina (ad es., hostlocale).
+Il deposito portale archivia le impostazioni di configurazione che definiscono l'interfaccia del portale di sottoscrizioni degli utenti finali.
+Queste informazioni includono:
+nomi e descrizioni dei siti
+impostazioni dei canali
+servizi pubblicati
+cartelle dei dispositivi
+preferenze predefinite
+L'alias di database si usa per definire la connettività al database del motore sottoscrizioni. Questo consente al motore sottoscrizioni di eseguire le query indicate, originate dal portale sottoscrizioni.
+È possibile selezionare un alias di database esistente o crearne uno nuovo.
+Selezionare un alias di database esistente nella posizione dei metadati di portale:
+La Gestione guidata del sito assiste il suo utilizzatore nelle varie funzioni, per riuscire a configurare la definizione di sito.
+La definizione di sito contiene l'elenco delle proprietà, le configurazioni e le impostazioni usate da un portale per definire il layout e il contenuto visualizzato per l'utente finale.
+Questa procedura guidata include i seguenti argomenti:
+Selezione, modifica e creazione di una definizione di sito
+Pubblica i servizi per la definizione di sito
+Selezione, modifica e pubblicazione dei tipi di dispositivi
+Specifica le proprietà di modulo delle fonti informative
+Specifica le preferenze predefinite per la definizione di sito
+La Gestione guidata del portale è utile se occorre modificare una configurazione di portale esistente o creare un nuovo portale di sottoscrizioni.
+Rilevamento e modifica portale
+Crea nuovo portale di sottoscrizioni
+Il concetto di "portale" fa riferimento al set effettivo di pagine ASP installato sul computer del server Web e alla directory virtuale che punta a tali file.
+Su questo server Web sono stati rilevati i seguenti portali di sottoscrizioni.
+Selezionare il portale con cui si desidera lavorare.
+Fare clic su Rimuovi per eliminare il portale dall'elenco delle opzioni disponibili.
+Suppose you have created several portals, one for Managers, another for Directors and a third for Associates.  However, you now need to create one for Engineers.
+Nessun portale di sottoscrizioni configurato esattamente in base alle specifiche necessarie. È possibile crearne uno da questa posizione inserendo il nome di un portale e la posizione dello stesso.
+L'elenco seguente contiene i siti già esistenti nel deposito portale corrente. Due o più siti fisici, sulla stessa macchina o su macchine diverse, possono puntare alla stessa definizione di sito.
+You may select one of the existing site definitions or create a new site definition.al repository.
+Per definire un nuovo canale occorre selezionare una cartella da una serie di servizi esistenti nel deposito Narrowcast, assegnare un nome e una descrizione al canale e pubblicare lo stesso nel portale sottoscrizioni.
+Selezionare una cartella nella tabella che segue e fare clic su Avanti.
+Quando si pubblica una nuova cartella Canali si pubblica tutto il contenuto di tale cartella. È possibile scegliere di cambiare il nome della cartella in modo che ne rifletta meglio il contenuto.
+È possibile inserire una descrizione facoltativa, utile per indicare meglio l'uso ottimale di questo canale.
+La casella di controllo indica se il canale e le relative proprietà saranno disponibili agli utenti finali.
+Nome e descrizione canale
+Un dispositivo è un mezzo specifico per consegnare il contenuto della sottoscrizione all'utente finale. Ogni indirizzo creato dall'utente nel portale è progettato per usare un solo dispositivo, come Outlook 98 o Outlook 2000.
+Il tipo di dispositivo è un gruppo di dispositivi che permette all'utente di selezionare come ricevere il contenuto. Quando si crea una nuova definizione di sito, vengono creati e configurati automaticamente quattro tipi di dispositivi standard.
+Questi tipi di dispositivi sono:
+Assistenti digitali personali
+Telefoni cellulari
+Cercapersone
+Posta elettronica
+Questi dispositivi predefiniti vengono creati quando viene installato MicroStrategy Narrowcast Portal Designer e le cartelle associate a questi dispositivi sono archiviate nel deposito Narrowcast.
+Da questa procedura guidata si dispone delle seguenti opzioni:
+rinominare un tipo di dispositivo specifico
+modificare una definizione di tipo di dispositivo
+eliminare un tipo di dispositivo che il portale deve supportare
+modificare la cartella dei tipi di dispositivi
+creare un nuovo tipo di dispositivo
+Per ogni nuova definizione di tipi di dispositivo, occorre specificare il nome del tipo di dispositivo, l'URL delle icone grande e piccola, il formato dell'indirizzo e i campi da utilizzare nella visualizzazione e nella modifica.
+Questa pagina permette di aggiungere o rimuovere elementi dalla cartella di questo specifico tipo di dispositivo.
+Gli elementi a sinistra sono disponibili, ma non attivi su questo tipo di dispositivo. Gli elementi a destra sono attualmente selezionati per questo tipo di dispositivo specifico.
+In questo contesto, un dispositivo è un mezzo specifico per consegnare contenuto all'utente finale. Le impostazioni predefinite sono "client di e-mail generico" e "dispositivo portale". È possibile modificare le impostazioni predefinite.
+Fare clic sul dispositivo appropriato per cambiare la selezione.
+Per ogni fonte informativa, occorre specificare se gli utenti dovranno immettere le informazioni di autenticazione, come nome utente e password.
+Se vengono usate le credenziali di progetto, il meccanismo di autenticazione si salta e gli utenti passano direttamente alle informazioni richieste.
+È anche possibile richiedere le credenziali degli utenti o renderle facoltative.
+L'impostazione predefinita non permette agli utenti di inserire l'autenticazione per alcuna fonte informativa.
+Occorrerà cambiare il requisito se si desidera utilizzare le misure di autenticazione.
+Selezionare le impostazioni per le altre proprietà del sito.
+Le preferenze del sito controllano il modo in cui vengono impostati i valori predefiniti per gli utenti dell'interfaccia del portale. È possibile modificare qualunque impostazione modificando le informazioni che appaiono su questa pagina.
+Congratulazioni. Il sito è stato configurato.
+Scegliere Fine per avviare il browser e accedere a questo portale.
+Se si notano modifiche da apportare, usare lo strumento Gestione portale di Portal Designer per riconfigurare le preferenze o la definizione del sito.
+Origine
+Portale
+Admin
+Indirizzo IP utente
+Errore di creazione sottoscrizione
+Assicurarsi di avere un profilo predefinito per l'oggetto domanda.
+Errore nel recupero delle informazioni sull'oggetto domanda da MicroStrategy Narrowcast Server.
+Traccia
+Informazioni
+Avviso
+Utilizzare queste selezioni come impostazione predefinita
+Variabili di sessione
+Sito associato
+Non applicabile
+Inserire un nome per il portale.
+Eliminare questo dispositivo?
+Eliminare questo portale?
+Eliminare questo sito?
+Inserire un nome per il server JData Connect.
+Inserire un nome per la connessione al database.
+Inserire un nome per l'origine dati ODBC.
+Aggiungi connessione al database
+Nome origine dati ODBC:
+Test della connessione al database?
+Riepilogo
+Definizione dell'alias del database errata per le tabelle del deposito registro sottoscrizioni. Selezionare un'altra definizione di sito.
+Tabelle del deposito registro sottoscrizione esistenti, ma non della versione corretta. Inserire un altro prefisso.
+Definizione dell'alias del database errata per le tabelle del deposito oggetti. Selezionare un'altra definizione di sito.
+Tabelle del deposito oggetti esistenti, ma non della versione corretta. Inserire un altro prefisso.
+Definizione della connessione al database errata per le tabelle del deposito portale. Selezionare un'altra definizione.
+Tabelle del database esistenti, ma non della versione corretta. Inserire un altro prefisso.
+Impossibile stabilire la connessione con i metadati di portale. Verificare le informazioni inserite.
+Errore durante il salvataggio della connessione all'alias di database
+Errore inatteso durante l'impostazione della nuova connessione all'alias di database.
+Nessuna connessione al database definita.
+Questa pagina permette di creare o modificare i nuovi canali per questa definizione di sito.
+Inserire un nome per il canale.
+Selezionare i dispositivi supportati da questo sito.
+Selezionare il dispositivi predefinito che verrà usato nella creazione di nuovi indirizzi e il dispositivo di portale predefinito per inviare i servizi alla pagina "Report personali".
+Selezionare i valori delle altre proprietà del sito.
+Configurazione servizi
+Sottoscrizioni statiche
+Sottoscrizioni dinamiche
+Archiviazione
+Scegli domanda alternativa
+MicroStrategy Subscription Portal pubblicherà i servizi nella cartella selezionata. Tuttavia, alcuni servizi richiedono una configurazione aggiuntiva.
+Specificare di seguito la configurazione predefinita per questi servizi.
+Per configurare singolarmente uno specifico servizio, fare clic sul pulsante # sottostante.
+Configura servizi
+Set di sottoscrizioni statiche
+Set di sottoscrizioni dinamiche
+Nascondi ai sottoscrittori le domande con raggruppamento a pagine
+Rispondi alle domande con raggruppamento a pagine con:
+Nascondi ai sottoscrittori il set di sottoscrizioni non configurato
+MicroStrategy Narrowcast Server Portal Designer permette di configurare l'archiviazione dei dati di sottoscrizione al livello di servizio individuale.
+Verrà richiesto di selezionare il servizio da configurare, quindi verranno mostrati i set di sottoscrizioni statiche e dinamiche associate a questo servizio.
+Per entrambi i set di sottoscrizioni statiche e dinamiche, si configura l'oggetto domanda per il servizio selezionato.
+Inoltre, è possibile aggiungere altri oggetti domanda per richiedere informazioni ai sottoscrittori.
+Per i set di sottoscrizioni dinamiche, si configura l'archiviazione dei dati di sottoscrizione.
+È stata eseguita la configurazione del seguente o dei seguenti servizi. Scegliere "Modifica" per modificare la configurazione esistente o fare clic sul nome della cartella per configurare gli altri servizi di tale cartella.
+Per configurare un altro servizio, fare clic su # di seguito.
+A questo servizio sono associati uno o più set di sottoscrizioni statiche. I sottoscrittori di questi set verranno archiviati nel deposito registro sottoscrizioni.
+Impostazioni predefinite dei set di sottoscrizioni statiche
+Per definire un'unica configurazione per tutti i set di sottoscrizioni statiche, fare clic di seguito. Questa impostazione predefinita verrà utilizzata da tutti i set di questo servizio.
+Configurato/i:
+configurare
+Configura i set di sottoscrizioni statiche individualmente
+Per configurare un set di sottoscrizioni statiche individualmente, fare clic sul collegamento di configurazione accanto al set. I set di sottoscrizioni che non sono stati configurati utilizzeranno le impostazioni predefinite di sistema.
+Questo servizio non contiene set di sottoscrizioni statiche.
+Le domande con raggruppamento a pagine non verranno mostrate ai sottoscrittori. Tuttavia, è possibile selezionare una domanda alternativa che verrà mostrata ai sottoscrittori.
+Please select a question object below.
+Selezionare la posizione delle risposte a questa domanda.
+È possibile:
+Utilizzare il #
+OPPURE utilizzare una delle seguenti mappature di archiviazione:
+Tabelle
+Aggiungi una nuova mappatura di archiviazione
+Cancella
+Selezionare le tabelle di database in cui verranno archiviate le informazioni.
+Warehouse di dati:
+seleziona connessione al database
+Filtra colonne per:
+Tabelle disponibili:
+Tabelle selezionate:
+Selezionare le colonne delle tabelle in cui verranno archiviate le informazioni.
+Trascinare e rilasciare i componenti da sinistra nelle tabelle della colonna a destra.
+Componenti risposta
+Generale:
+Componenti sottoscrizione
+Configurazione in corso di:
+Configurazione predefinita del servizio
+È stato scelto di configurare il servizio sopra indicato. È possibile mantenere le preferenze predefinite elencate di seguito o specificare altre impostazioni per i singoli set di sottoscrizioni nelle operazioni successive.
+Impostazioni predefinite servizio
+Domande con raggruppamento a pagine
+Domande aggiuntive
+È possibile rivolgere ai sottoscrittori domande aggiuntive modificando le informazioni riportate di seguito.
+Questo servizio contiene la seguente domanda con raggruppamento a pagine:
+Si è scelto di visualizzare questo oggetto domanda:
+invece di questa domanda con raggruppamento a pagine:
+Archiviazione warehouse
+Cambia selezioni
+Collegamenti correlati
+Iscriversi di nuovo a questo servizio
+Iscriversi a un altro servizio
+Visualizza tutte le sottoscrizioni
+Scegliere un profilo per l'oggetto domanda.
+Nome server JData Connect
+L'account è stato creato.
+Se si dimentica la password, verrà visualizzato questo suggerimento che aiuterà a ricordarla.
+Esporta tutti i valori come testo
+Seleziona servizio
+Seleziona archiviazione
+Seleziona tabelle
+Seleziona colonne
+Configura set di sottoscrizioni
+Seleziona domanda
+Esci da Configura servizi
+Selezionare il servizio da configurare.
+Domanda
+Pubblicazione/i
+Impostazioni predefinite dei set di sottoscrizioni dinamiche
+A questo servizio sono associati uno o più set di sottoscrizioni dinamiche. I sottoscrittori di questi set verranno archiviati nel warehouse utilizzando le mappature di archiviazione.
+Salva questa mappatura di archiviazione con nome:
+Per definire un'unica configurazione per tutti i set di sottoscrizioni dinamiche, fare clic di seguito. Questa impostazione predefinita verrà utilizzata da tutti i set di questo servizio.
+Configura i set di sottoscrizioni dinamiche individualmente
+Per configurare un set di sottoscrizioni dinamiche individualmente, fare clic sul collegamento di configurazione accanto al set. I set di sottoscrizioni che non sono stati configurati utilizzeranno le impostazioni predefinite di sistema.
+Domanda aggiuntiva
+La domanda selezionata non può essere utilizzata nel portale di sottoscrizioni.
+Tornare indietro e selezionare un'altra domanda.
+La risposta alla domanda selezionata può essere archiviata nel deposito registro sottoscrizioni o in un'altra posizione usando una mappatura di archiviazione.
+Se si sceglie di archiviare la risposta nel deposito registro sottoscrizioni, tale risposta verrà archiviata in quella posizione.
+Se si sceglie di usare una mappatura di archiviazione, nel deposito registro sottoscrizioni verrà archiviato un ID Preferenza della domanda e le risposte verranno archiviate in base alla definizione della mappatura di archiviazione.
+La risposta alla domanda selezionata deve essere archiviata usando una mappatura di archiviazione. Questo perché si richiede all'utente di scegliere in un elenco e l'utente può scegliere più voci dell'elenco.
+Quando usa una mappatura di archiviazione per archiviare le risposte, nel deposito registro sottoscrizioni viene memorizzato un ID Preferenze della domanda e le risposte vengono archiviate in base alla definizione della mappatura di archiviazione.
+Selezionare la mappatura di archiviazione da usare con questa domanda:
+Connessione al database
+Valore personalizzato:
+personalizzato
+Aggiungi una domanda:
+Sfoglia
+Risposta a un'altra domanda:
+Mappatura di archiviazione set di sottoscrizioni
+Nuova mappatura di archiviazione per #
+Questo servizio non contiene set di sottoscrizioni dinamiche.
+Riepilogo preferenze sito
+Modifica Riepilogo configurazione portale
+Se è stato installato su un'altra macchina, inserire qui il nome di tale macchina.
+definizione sito
+Inserire le informazioni sulla connessione al database:
+Personalizzare il contenuto del servizio. Nelle pagine che seguono, è possibile indicare il contenuto desiderato di questo servizio rispondendo alle domande. Scegliere Avanti per continuare.
+Riepilogo preferenze sito
+Un canale è un elemento visivo all'interno del portale di sottoscrizioni. Presenta le informazioni sul progetto in modo da semplificare la navigazione per l'utente finale.
+Ogni canale è associato a una cartella di servizi nel deposito oggetti.
+Si è verificato un errore nel tentativo di stabilire una connessione al motore sottoscrizioni. Il nome server è errato o il motore sottoscrizioni non è in esecuzione su questo server. Individuare il motore sottoscrizioni e reinserire la posizione.
+La definizione di un nuovo canale richiede la selezione di una cartella dal deposito oggetto. Selezionare la cartella del canale da visualizzare.
+Questo servizio non contiene domande con raggruppamento a pagine da configurare.
+Riepilogo configurazione servizi
+Configurato/i
+Si è verificato un errore nel tentativo di convalidare la connessione al database. (#) Verificare le informazioni e riprovare.
+Impossibile stabilire la connessione al motore sottoscrizioni.
+La definizione di connessione al database fornita dall'amministratore è errata
+Attenzione! Se si elimina questa connessione al database, gli oggetti che la utilizzano (ad es. deposito oggetti, mappature di archiviazione ecc.) non saranno più validi.
+Nome origine dati errato
+Eliminare "#" ?
+Eliminazione di una connessione al database
+-- seleziona una connessione al database --
+ID Preferenze per: #
+Risposta per: #
+L'utente non esiste.
+Scegliere il titolo della pagina:
+Crea pagina iniziale personale
+Formato file CSV
+Errore durante la creazione della pagina personale
+Esporta valori metriche come testo (solo Excel)
+Primo riquadro:
+Tuttavia, è possibile esportare questo report in Excel come testo semplice o CSV selezionando questa opzione dalle preferenze o quando viene richiesto prima dell'esportazione.
+Numero massimo di colonne da esportare in Excel:
+Numero massimo di righe da esportare in Excel come testo semplice o CSV:
+Salva pagina iniziale personale
+Secondo riquadro:
+Visualizza pagina personale
+Selezionare uno stile di layout:
+Selezionare il componente da visualizzare su ogni riquadro.
+Terzo riquadro:
+La pagina iniziale personale non è stata creata. Effettuare la seguente procedura.
+Pagina iniziale personale
+Meccanismo di archiviazione della cache
+Home
+Visualizza la pagina di riepilogo per i servizi personalizzati
+Report
+Documento
+PDF
+Riduci e adatta grafico
+Esportazione di tabella e grafico nella stessa pagina
+Numero massimo di colonne da esportare
+Numero massimo di righe da esportare
+Modalità di accessibilità:
+Abilità compatibilità lettore schermo
+Ignora navigazione
+Crescente
+Decrescente
+Cancella ordinamento
+Ordina...
+Sposta
+A righe
+A colonne
+Ad asse pagina
+Sinistra
+Destra
+Nuovo...
+Salva con nome...
+Imposta pagina
+Ricerca in cartella superiore
+Invia a
+Visualizza
+Modalità Progetto
+Visualizza tabella
+Vista grafico
+Tabella e Grafico
+Reimposta
+Asse pagina
+Formula
+Browser oggetti
+Barre degli strumenti
+Dati
+Gruppo
+Totali parziali
+Visualizzazione attributo in corso
+Rinomina/Modifica oggetti...
+Aggiungi unità
+Reimposta dati
+Ripeti prompt
+Formato
+Formattazione Avanzata...
+Unisci intestazioni colonne
+Stile griglia
+Reimposta formattazione
+Finestra
+Dettagli report
+Questa tabella visualizza i risultati del report richiesti
+Questa tabella visualizza il contenuto delle cartelle richiesto
+Intestazione e piè di pagina:
+Usa impostazioni report
+Usa impostazioni personalizzate
+(modifica)
+Editor Intestazioni/piè di pagina
+Intestazione:
+Piè di pagina:
+Sinistra:
+Centro:
+Destra:
+Mostra report sottoscritti
+Nascondi report sottoscritti
+Mostra report correlati
+Nascondi report correlati
+Mostra Esegui filtro + Modello
+Mostra Esegui filtro + Modello
+Mostra Opzioni aggiuntive Elenco cronologia
+Nascondi Opzioni aggiuntive Elenco cronologia
+Mostra consigli di ricerca
+Nascondi consigli di ricerca
+Autenticazione LDAP
+Autenticazione database
+Esporta intestazioni come testo (solo Excel)
+Codificare le credenziali dell'utente
+Oggetti report
+Tutti gli oggetti
+MicroStrategy Intelligence Server ## ha ecceduto il limite di memeria configurato.  Contattare l'amministratore.
+Adatta carattere al
+delle dimensioni originali
+Gennaio
+Febbraio
+Marzo
+Aprile
+Maggio
+Giugno
+Luglio
+Agosto
+Settembre
+Ottobre
+Novembre
+Dicembre
+D
+L
+M
+M
+G
+V
+S
+Report
+Documenti
+Questo prompt necessita di un valore tra ## e ###.
+Questo prompt necessita di un valore non inferiore a ## caratteri.
+Questo prompt necessita di un valore non superiore a ## caratteri.
+Questo prompt necessita di un valore di esattamente ## caratteri.
+HTML dinamico:
+Aggiungi ad elenco cronologia
+Filtro report
+Filtro di visualizzazione
+Aggiungi righe/colonne
+Aggiungi condizione filtro di visualizzazione...
+Definizione:
+Home
+FILTRO REPORT
+FILTRO DI VISUALIZZAZIONE
+DETTAGLI FILTRO REPORT
+Filtro
+Mostra Pulsanti di Scambio
+Aggiungi condizione
+Nascondi
+Applica automaticamente modifiche
+Dettagli filtro report
+Opzioni PDF
+Impossibile esportare in PDF
+Impossibile esportare questo report in PDF: supera i limiti massimi definiti dall'Amministratore per il numero di colonne e di righe da esportare in PDF.
+Fornisce le opzioni dell'utente
+Mostra le opzioni durante l'esportazione in PDF
+Inserisci numero di pagina
+Inserisci numero di pagine
+Inserisci data
+Inserisci orario
+Inserisci nome progetto
+Inserisci nome report
+Inserisci nome modello
+Inserisci nome filtro
+Carica valori report
+Risultati
+DRILL - avanzato
+Drill
+Ordina
+SOTTOSCRIZIONI
+FILTRO SU SELEZIONI
+ASSE PAGINA
+Esegui report
+nessuno
+Aggiungi a tabella
+Aggiungi a filtro
+- nessuno -
+Oggetti:
+Cartelle:
+Formato
+Carattere
+Numero
+Bordo
+Allineamento
+Applica
+Tutti i totali parziali
+Intestazione
+Nomi totali parziali
+Valori totali parziali
+Esempio:
+ABCabc
+Effetti
+Grassetto:
+Corsivo:
+Sottolineato:
+Barrato:
+Tipo
+Numeri negativi
+Categoria:
+Posizioni decimali
+Simbolo valuta
+Posizione valuta
+Usa separatore delle migliaia
+Fissato
+Valuta
+Data
+Percentuale
+Frazione
+Scientifico
+Personalizzato
+nessuno
+Tutto
+Linea
+Colore:
+Alto:
+Basso:
+Colore riempimento
+ABCabc ABC abc
+Allineamento testo
+Orizzontale
+Centro
+Giustifica
+Verticale
+Testo a capo
+Questo tipo di grafico non supporta le legende
+Generale
+Titoli
+Assi
+G
+C
+S
+T
+Tipo di grafico:
+Mostra legenda:
+Mostra valori dati:
+Mostra Titolo asse serie
+Mostra Titolo asse Y
+Mostra Titolo asse categoria:
+Titolo asse X:
+Mostra Titolo asse Y1:
+Mostra Titolo asse Y2:
+Mostra Valori asse serie
+Mostra Valori asse Y
+Mostra Valori asse gruppo
+Mostra Valori asse categoria
+Mostra Valori asse X
+Mostra valori asse Y1
+Mostra Valori asse Y2
+Mostra titolo:
+Mostra sottotitolo:
+Mostra nota a piè di pagina:
+Usa impostazione manuale per:
+Valore massimo:
+Valore minimo:
+Intervallo tabella:
+Chiudi
+RAGGRUPPAMENTO A PAGINE:
+Seleziona percorso browser oggetti
+Gruppo personalizzato
+Consolidamento
+## elementi trovati
+Sottoscrivi...
+Stampa...
+Esporta...
+PDF...
+Aggiungi oggetti report...
+Drill...
+Filtro su selezioni...
+Grafico...
+Formato
+Report
+Mostra totali
+Cancella tutto
+Normale
+Totale
+Media
+Conteggio
+Media Geometrica
+Massima
+Mediana
+Minima
+Modalità
+Prodotto
+Deviazione standard
+Somma
+Varianza
+Personalizzato:
+Tutti i totali parziali
+Solo totali generali
+nessuno
+Mostra raggruppamento
+Totali
+Salva report
+Annulla
+Trascinare per aggiungere un report
+Fare clic con il tasto destro del mouse per ulteriori opzioni
+Applica
+Applica stile
+Dettagli documento
+Trascina l'oggetto per eseguire lo scambio
+Modifica report
+Attributo
+Attributo:
+Gruppo personalizzato:
+Filtro
+Filtro:
+Metrica
+Metrica:
+Consolidamento:
+Aggiungi
+Trova:
+1. Ordina per:
+2. quindi per:
+3. quindi per:
+- Selezione ordinamento -
+Crescente
+Decrescente
+Applica
+Annulla
+Destra
+Sinistra
+Destra
+Sinistra
+Ora
+Predefinito
+Carattere:
+Sinistra:
+Destra:
+Valori
+Annulla
+Chiudi
+Dimensione
+Seleziona carattere
+No
+Sì
+Destra con spazio
+Sinistra con spazio
+Asse colonne
+Asse righe
+Colore riempimento
+Colore testo
+Riduci decimale
+Aumenta decimale
+Stile virgola
+Stile percentuale
+Stile valuta
+Centro
+Sinistra
+Destra
+Espressione non supportata
+Impossibile eseguire l'espressione
+Inserisci valore...
+Attributi...
+Filtro su
+O
+Is Null
+Is Not Null
+Non in
+Sposta a destra
+Sposta a sinistra
+Sposta in alto
+Sposta in basso
+Elenco vuoto
+Vuoto
+Nome:
+Inserisci nuova metrica...
+Nuova metrica
+Rimuovi da tabella
+Formattazione avanzata...
+Rimuovi da report
+Ordina
+Aggiungi >
+Nell'elenco
+Non in elenco
+Menu a discesa:
+Applica
+Annulla
+Rimuovi condizione
+Password scaduta
+Alcuni progetti non sono visualizzati.
+È necessario modificare la password per visualizzare alcuni progetti.
+Nota: è necessario collegarsi nuovamente dopo aver modificato la password.
+Utilizza set di caratteri Unicode
+Consegne...
+7/4
+07/04
+7/4/98
+07/04/98
+07/04/1998
+7-apr
+7-apr-98
+apr-98
+apr '98
+Aprile 1998
+7/4/98 15:41
+7/4/98 15:41
+Aprile 7, 1998
+15:41
+15:41
+15:41:46
+15:41:46
+07/04/98 3:41 PM
+Invia adesso...
+07/04/98 15:41
+Riesegui report
+La selezione di raggruppamento a pagine effettuata non esiste. Ciò può dipendere dal fatto che il warehouse è stato aggiornato.
+Selezionare qui per identificare automaticamente i criteri validi di raggruppamento a pagine.
+Impossibile visualizzare questa domanda prompt in MicroStrategy Web. La risposta predefinita verrà utilizzata per eseguire il report.
+Impossibile visualizzare questa domanda prompt in MicroStrategy Web. Impossibile eseguire il report poiché non è associato ad alcuna risposta predefinita.
+Alto
+Basso
+nessuno
+Tratteggiato
+Punteggiato
+Sottilissimo
+Sottile
+Medio
+Spesso
+Doppio
+Nero
+Blu scuro
+Blu
+Blu chiaro
+Grigio-Blu
+Verde
+Grigio-60%
+Grigio-50%
+Grigio-25%
+Grigio-20%
+Grigio-10%
+Grigio-7%
+Bianco sporco
+Rosso scuro
+Rosso
+Giallo
+Giallo lucente
+Giallo chiaro
+Verde oliva scuro
+Verde oliva
+Verde oliva chiaro
+Marrone
+Viola
+Viola chiaro
+Lavanda
+Rosa scuro
+Rosa
+Bianco
+Per aprire i menu, è necessario fare clic con il mouse
+Inglese (Gran Bretagna)
+Usa predefinito
+RINOMINA/MODIFICA OGGETTI
+Impossibile inviare il report in questo stato. È necessario prima salvarlo.
+Messaggio inviato.
+## sottoscrizione ## creata correttamente. Verrà visualizzata a breve un'anteprima di stampa.
+## sottoscrizione ## creata correttamente.
+Stile automatico:
+Browser oggetti
+Cartella superiore
+Consenti modifica password scaduta
+La password è scaduta. Per abilitare l'account, contattare l'amministratore.
+Percorso:
+Utilizza set di caratteri Unicode
+Apri
+Per ricevere questo report, selezionare di seguito un indirizzo e una personalizzazione.
+Per sottoscrivere a questo report, selezionare una pianificazione e una personalizzazione di seguito.
+ Quando si modifica una sottoscrizione, è consentito utilizzare un solo indirizzo.
+Per sottoscrivere a questo report, selezionare una pianificazione, una personalizzazione e uno o più indirizzi di seguito.
+Report pianificati
+E-mail pianificate
+Il nome del progetto esiste già. Scegliere un altro nome.
+ Si è verificato un errore durante la modifica dell'indirizzo.
+ Si è verificato un errore durante l'eliminazione dell'indirizzo.
+Si è verificato un errore durante l'aggiornamento dell'indirizzo predefinito.
+Conferma eliminazione indirizzo
+Eliminare questo indirizzo?
+Il nome dell'indirizzo non può essere lasciato vuoto.
+Il dispositivo dell'indirizzo non può essere lasciato vuoto.
+Il valore dell'indirizzo non può essere lasciato vuoto.
+Errore durante l'elaborazione delle informazioni relative all'indirizzo. Potrebbe essere necessario accedere di nuovo per correggere l'errore.
+Visualizza nome
+Dispositivo
+Aggiungi nuovo indirizzo
+Imposta nuovo valore predefinito
+Oggetto
+Invia ora
+Per questo report si sono sottoscritte le seguenti e-mail pianificate:
+Non è disponibile alcuna e-mail pianificata.
+Aggiungi e-mail pianificata
+Esistono ## ###sottoscrizioni #### a questo indirizzo. Se si elimina l'indirizzo, verranno eliminate anche tutte le sottoscrizioni correlate.
+Il file seguente non è stato registrato correttamente nel server Web: MGSubscription.dll. Per ulteriori informazioni, contattare l'amministratore.
+E-mail pianificata
+E-mail Pianificata...
+Versione API sottoscrizioni:
+Al report sono state eseguite ## ###sottoscrizioni#### che verranno spedite per e-mail.
+Per questo documento sono state eseguite ## ###sottoscrizioni#### che verranno spedite per e-mail.
+Selezionare uno schedule dall'elenco.
+Scegliere un indirizzo dall'##elenco di indirizzi### personale
+o
+Inserire un nuovo indirizzo.
+Invia al nuovo indirizzo
+Invia all'indirizzo esistente
+Funzione non disponibile.
+Per sottoscrivere a questo report, selezionare uno schedule, un indirizzo e una personalizzazione qui di seguito.
+Intelligence Server
+Narrowcast Server
+Integrazione Narrowcast
+Per configurare il portale Web affinché invii del contenuto tramite Narrowcast Server, è necessario specificare la Posizione motore sottoscrizioni e il sistema Narrowcast da utilizzare.
+## non è stato configurato con alcun sistema Narrowcast per essere utilizzato per l'invio di contenuto nel Web. Selezionare un altro motore di sottoscrizione.
+Il portale Web è stato configurato per inviare il contenuto utilizzando il sistema ## e ### come motore di sottoscrizione.
+Posizione motore sottoscrizioni:
+Sistemi Narrowcast disponibili:
+(Disabilitato)
+Per modificare il report, è necessario rispondere ai seguenti prompt.
+La risposta deve essere un numero.
+La risposta deve essere una data nel formato corretto.
+Errore durante la modifica dell'espressione secondaria del filtro. Controllare le risposte.
+Impossibile individuare l'elemento del report.
+Crea un nuovo report da qualsiasi oggetto del progetto
+Crea un report
+Verrà visualizzato un report vuoto su cui è possibile collocare vari oggetti dati.
+In alternativa, selezionare il tipo di report da creare dalle seguenti opzioni
+Selezionare il tipo di report da creare dalle seguenti opzioni
+€
+Mostra pulsanti di modifica
+Creazione di un nuovo processo in corso...
+Generazione dei risultati in corso...
+Generazione di HTML in corso...
+Compito in esecuzione su un altro server
+Elaborazione richiesta
+Attendere...
+Inserire un numero nel campo seguente
+Generale
+Speciale
+*Keep the connection alive between the Web Server and Intelligence Server (used when there is a firewall between the Web Server and the Intelligence). Please refer to the product documentation for information on how to configure your system when using this feature.*
+MicroStrategy Web non supporta l'esportazione in Excel dei grafici all'interno dei documenti
+Inserire un valore intero maggiore di ### e minore di ## nel campo seguente
+### e ## non sono date valide
+## non è una data valida
+Numero di colonne per pagina
+La Cronologia sta per essere cancellata.
+Cancellare la Cronologia?
+Non è stato restituito alcun dato per questa vista, probabilmente perché il filtro applicato esclude tutti i dati.
+Excel con formattazione (per Report esportati in Excel 97 or versioni precedenti non sarà applicata la formattazione)
+Modifica in modalità Progetto
+Ricerca avanzata
+Avanti
+Selezionare gli elementi da mantenere e fare clic su OK o Applica. Premere Annulla per chiudere l'editor senza applicare le modifiche.
+Non in (inserisci valore1; valore2; ...; valoreN)
+Annulla Ripeti prompt
+Nessun elemento selezionato
+OK
+Applica
+Annulla
+Salva
+Serie:
+Categorie:
+Legenda
+Valori dati
+Prime 5 pagine
+5 pagine precedenti
+5 pagine successive
+Ultime 5 pagine
+Guida per l'editor ###
+Attivo
+Disattivo
+Predefinito
+Tutte le risposte al prompt devono essere composte da numeri.
+Tutte le risposte al prompt devono essere composte da date nel formato corretto.
+Non è stato restituito alcun dato per la visualizzazione in quanto nel report non sono presenti oggetti modello. ##Aggiungere oggetti al modello###.
+Non è stato restituito alcun dato per la selezione di raggruppamento a pagine.
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Time - Not Used
+J and K Time - Not Used
+Si è verificato un errore durante il rendering del filtro di visualizzazione.
+Si è verificato un errore durante il rendering di Filtro report.
+Errore di connessione al database.
+Drill da XXXX in:
+Adattamento:
+Adatta alla pagina:
+Tutte le righe
+Tutte le colonne
+Stampa la copertina con i dettagli relativi al filtro
+Margini (pollici):
+Alto:
+Sinistra:
+Destra:
+Basso:
+Dimensione massima intestazione (pollici):
+Dimensione massima piè di pagina (pollici):
+Espande tutti i campi di raggruppamento a pagine durante la stampa
+Numero massimo di celle per blocco:
+Numero massimo di grafici per blocco:
+Mostra finestra di dialogo Stampa
+Inserisci dettagli filtro
+Inserire il nome dell'utente
+Formato numerico e data:
+Nascondi collegamento 'Report personali' quanto l'utente non dispone di privilegi per il salvataggio nel Web
+Lettura##incrementale:
+Numero massimo di elementi attributo per blocco:
+Numero massimo di oggetti report per blocco:
+Impossibile adattare alla pagina. Verrà utilizzato il grado di riduzione massima.
+Si è verificato un errore durante il rendering dell'anteprima. I risultati potrebbero non essere visualizzati correttamente.
+Blocco di pagine successivo
+Blocco di pagine precedente
+Rinomina...
+Mostra opzioni avanzate
+Nascondi opzioni avanzate
+Non è richiesta alcuna risposta per il prompt.
+Seleziona metrica...
+E NON
+O NON
+Tutte le metriche
+Tutto
+Non è disponibile alcuna selezione nel prompt.
+Ritorna alla pagina precedente
+La richiesta non è stata elaborata in quanto non sono state specificate le informazioni relative all'indirizzo. Specificare l'indirizzo e riprovare.
+La cronologia di questo Intelligence Server è piena. Per eseguire un report, è necessario cancellare uno o più messaggi dalla Cronologia di uno dei progetti su questo server.
+Impossibile visualizzare il report a causa di risorse di sistema insufficienti.
+Il suo compito e' stato assegnato a un Intelligence Server diverso. Per favore eseguire di nuovo il compito.
+Il suo compito e' stato assegnato a un Intelligence Server diverso. Non appena completo, il report sara' disponibile nella Cronologia. Cliccare qui per aprire la Cronologia.
+Modifica in Modifica Report
+Sicurezza:
+Verificare i privilegi utente per ogni richiesta.
+2
+Ritorno a capo
+Consenti Login automatico se la sessione viene persa
+Cartella:
+Giallo scuro
+Violetto chiaro
+Verde acqua scuro
+Turchese chiaro
+Celeste
+Verde lucente
+Celeste chiaro
+Turchese vivo
+Verde brillante
+Rosa
+Marrone chiaro
+Color acqua
+Verde limone
+Giallo oro
+Arancione chiaro
+Arancio chiaro
+Blu-grigio
+Verde acqua scuro
+Verde mare
+Verde militare
+Verde oliva
+Prugna chiaro
+Indaco
+Grigio-40%
+Grigio-80%
+Si è verificato un errore nel tentativo di connessione a ##. Verificare che il nome del motore sottoscrizioni sia corretto e che il motore sottoscrizioni sia in esecuzione, quindi riprovare.
+Invia un'anteprima
+Si è verificato un errore durante il recupero dell'elenco di sistemi. Il servizio Subscription Administrator potrebbe non essere attivo.
+Si è verificato un errore durante il recupero dell'elenco di sistemi.
+TABELLA REPORT:
+FILTRO REPORT:
+Aggiungi oggetti report
+Consenti esportazione in PDF
+Barra degli strumenti
+È necessario salvare il report prima di poter eseguire la sottoscrizione.
+È necessario salvare il report o ripristinare tutte le modifiche prima di potere eseguire la sottoscrizione.
+È necessario salvare il report prima di poter eseguire lo schedule.
+È necessario salvare il report prima di poterlo inviare.
+(esempio: [Metrica1] + [Metrica2])
+Nota: se si seleziona "Usa lo stile Tabella predefinito da me selezionato", tutta la formattazione personalizzata della tabella verrà disattivata.
+Si è verificato un errore durante la connessione al motore sottoscrizioni
+Modifica tabella
+Modifica filtro report
+Rosso
+di ## pagina/e
+Se si decide di visualizzare la tabella e il grafico su pagine separate, selezionare una delle seguenti opzioni per la tabella:
+La cronologia di questo Intelligence Server è piena. Le cronologie sono comuni per tutti i progetti eseguiti sull'Intelligence Server.
+Versione:
+Intelligence Server Build:
+Web Build:
+Incorpora Filtro e Modello nella definizione del Report salvato
+Modifica Report:
+Gerarchia
+Gerarchia:
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+Metrica Derivata
+Metrica Derivata:
+Nessun dato per questo Report. Modifica i criteri di Filtro o gli oggetti del Modello
+Quest'operazione di Salvataggio potrebbe modificare il Filtro ed il Modello originali
+Desideri mantenere i collegamentio a Filtro e Modello originali?
+Quest'operazione di Salvataggio potrebbe modificare il Filtro originale
+Desideri mantenere i collegamentio al Filtro originale?
+Quest'operazione di Salvataggio potrebbe modificare il Modello originale
+Desideri mantenere i collegamentio al Modello originale?
+Continua
+Annulla
+Ora creazione messaggio cronologia
+Excel 2000 SR-1 o versioni successive
+Manipolazione dei dati
+Modifica Report
+Filtri
+Totali
+Immagine per Soglia
+(Personalizzato)
+Ferma
+Non è stato possibile eseguire la richiesta.
+Ritenta. Se il problema persiste contatta l'Amministratore.
+Non è stato possibile completare la richiesta di Drill senza includere l'attributo Padre. Questo potrebbe verificarsi a causa della presenza dell'attributo Padre nel Filtro di Visualizzazione.
+Verifica che le richieste Utente non abbiano contenuto potenzialmente dannoso.
+Inserire un valore intero compreso tra ### e ## nel campo seguente
+Apri report
+Apri filtro
+Apri documento
+Apri modello
+Informazioni sulla versione...
+Blocca intestazioni tabella
+Bloccare le intestazioni delle righe
+Bloccare le intestazioni delle colonne
+Abilita la funzione di blocco delle intestazioni delle tabelle
+Cartella report condivisi
+Oggetti pubblici>Report
+Selezione corrente
+Ultima cartella
+Editor filtri:
+Utilizza filtri integrati nell'editor dei filtri di report
+Ordinamento:
+Abilita l'ordinamento su moduli di attributi nascosti utilizzando l'editor per l'ordinamento avanzato
+Disabilita il drilling del menu
+Invia
+Compito scaduto
+Per motivi di sicurezza, non e' consentito utilizzare le tag HTML come input. Se dovesse essere necessario utilizzarle, contattare l'amministratore.
+Verificare le tag HTML per ogni richiesta
+0
+Questa condizione metrica è applicata al ## livello.
+Visualizzare il livello di valutazione quando si utilizzano le condizioni metriche nell'editor filtro visualizzazione
+Salva impostazioni di stampa per ciascun report
+Abilitare ridimensionamento caratteristiche di colonna e riga
+Layout tabella
+Adatta automaticamente alla finestra
+Adatta automaticamente al Sommario
+Larghezza colonne fissa
+Dimensionare colonne e righe
+COLONNE
+RIGHE
+Tutte le colonne
+Larghezza:
+Dimensionamento automatico
+Altezza fissa:
+Modificare dimensione delle colonne e delle righe
+Personalizzare l'intestazione dell'asse
+Valori dati
+Larghezza:
+Salvare le modifiche del filtro del report.
+Fuso orario
+Predefinito
+(GMT - 11.00 h) Is. Midway
+(GMT - 10.00 h) Hawaii
+(GMT - 9.00 h) Alaska
+(GMT - 8.00 h) Pacifico (USA e Canada)
+(GMT - 7.00 h) Arizona
+(GMT - 7.00 h) Fuso occ. (USA e Canada)
+(GMT - 6.00 h) Fuso cen. (USA e Canada)
+(GMT - 5.00 h) Fuso or. (USA e Canada)
+(GMT - 4.00 h) Atlantico (Canada)
+(GMT - 4:00 h) Puerto Rico
+(GMT - 3.30 h) Terranova
+(GMT - 3.00 h) Argentina
+(GMT - 3.00 h) Brasile
+(GMT - 2.00 h) Medioatlanti
+(GMT - 1.00 h) Azzorre, Is. di Capo Verde
+(GMT) Ora di Greenwich
+(GMT + 1.00 h) Europa occ.
+(GMT + 2.00 h) Afroca centrale
+(GMT + 2.00 h) Egitto
+(GMT + 2.00 h) Europa or.
+(GMT + 5.00 h) Africa or.
+(GMT + 4:00) Medio Oriente
+(GMT + 4:00) Vicino Oriente
+(GMT + 5.00 h) Pakistan/Lahore
+(GMT + 6.00 h) Bangladesh
+(GMT + 7.00 h) Vietnam
+(GMT + 8.00 h) Cina (Taiwan)
+(GMT + 9.30 h) Australia centr.
+(GMT + 10.00 h) Australia orient.
+(GMT + 11.00 h) Is. Salomone
+(GMT + 12.00 h)Nuova Zelanda
+Excel 2000 SR-1 o versioni precedenti
+Excel XP o versioni successive
+Nota: Questa opzione consente di salvare nei cookie le password non criptate.
+Larghezza predefinita per le colonne degli assi di riga:
+Larghezza predefinita per le colonne di valori:
+(GMT + 5:30 h) India
+Nascondere opzioni...
+Ulteriori opzioni...
+Numero massimo di celle da esportare
+Numero massimo di celle per blocco
+Non e' possibile esportare questo report in formato PDF perche' il numero di celle da esportare e' superiore al limite massimo stabilito dall'Amministratore.
+Larghezza: ##px
+(GMT - 6.00 h) Città del Messico
+(GMT + 9.00 h) Seoul
+(GMT + 9.00 h) Osaka, Sapporo, Tokyo
+Arial
+E-mail schedulata
+Inviare ora
+Inserire informazioni di Page By
+Numero massimo di celle esportabile in formato testo:
+Numero massimo di celle esportabile in HTML:
+(Archivio)
+Configurazione diagnostica interna
+Livello:
+Directory dei file di registro:
+Configurazione diagnostica personalizzata
+Percorso del file di configurazione della diagnostica personalizzata:
+Visualizza:
+Da:
+A:
+Errori
+Avvisi
+Disattivo
+Messaggi
+Utilizzare / come delimitatore di directory nel percorso
+Le informazioni sulle date inserite non sono nel formato corretto 
+La data indicata nella casella Da deve precedere o corrispondere alla data della casella A
+Nessun percorso file valido disponibile:
+Impossibile eseguire i file di registro: la dimensione totale del file supera il limite di
+Mb. Per visualizzare i registri, accedere direttamente ad essi oppure specificare un intervallo di date più breve.
+Impossibile elaborare il primo file:
+Errore durante la lettura del contenuto dei file di registro:
+Impossibile trovare il file XSL richiesto:
+Errore durante la lettura del contenuto del file XSL:
+Configurazione diagnostica
+Visualizza file di registro
+Non è disponibile alcun record del registro corrispondente alle date e ai tipi richiesti. 
+Impossibile visualizzare il contenuto del file di registro:
+Impossibile leggere le proprietà originali dal file di configurazione.
+Il file di configurazione indicato non può essere trovato o utilizzato per la diagnostica.
+Il seguente file non e' stato registrato correttament nel Web Server: Mbwahelp.dll. Rivolgersi all'Amministratore per ulteriori informazioni.
+Apri report
+Apri filtro
+Apri modello
+Sovascrivi errore degli oggetti modificati
+Errore durante l'elaborazione dei file di registro per la diagnostica.
+Proprietà server
+Proprietà server predefinite
+Server
+Proprietà predefinite 
+Sicurezza
+Configurazione
+Visualizza file di registro
+Minuti
+Mantieni soglie durante il drilling
+Mostra pulsanti di ordinamento
+Nascondi pulsanti di ordinamento
+Diagnostica
+Consente il ritorno a capo dei valori metrici nella tabella del report
+Impossibile modificare la password. Le informazioni riportate di seguito risultano mancanti:
+Statistiche
+Modalità:
+File delle statistiche:
+Disattivo
+Schermata
+File
+Schermata e file
+Inserire un percorso assoluto e utilizzare / come delimitatore di directory nel percorso.
+Carica valori di default
+*To subscribe to this document, please select a schedule and personalization below.
+Differenzia tra maiuscole e minuscole per impostazione predefinita 
+Consenti di modificare e memorizzare le preferenze utente per singoli progetti
+Grassetto
+Corsivo
+Sottolineato
+Mostra 'Applica a TUTTI i progetti' nelle preferenze
+Visualizza report nella modalità Progetto
+Stile carattere:
+Dimensione carattere:
+Sezione raggruppamento a pagine
+Consenti l'unione delle intestazioni di riga nel menu Formato
+Unisci intestazioni di riga
+Leggi da report
+Mostra descrizioni oggetti come suggerimenti nella tabella
+Nascondi opzione per salvare gli oggetti incorporati quando l'utente non dispone del privilegio "Modifica elenco oggetti di report nel Web"
+Mantieni lo spazio vuoto durante l'importazione da un file di testo
+Pagine in Larghezza
+Pagine in Altezza
+(Solo sistemi operativi Windows)
+Numero telefonico 1
+Numero telefonico 2
+CAP
+CAP esteso
+SSN
+Modifica impostazioni personalizzate
+Pulsanti di ordinamento
+Pulsanti di scambio
+(i)
+Ordina per:
+quindi per:
+Integrazione Narrowcast Server
+SERVER WEB
+Proprietà di collegamento
+Classe
+metodo
+Messaggio
+Cifratura:
+Il traffico tra le macchine Web e Iserver è cifrato.
+Cache:
+La cache del privilegio utente viene aggiornata per ogni nuova richiesta Web.
+Cookie:
+Disabilita cookie.
+Utilizza cookie per memorizzare le informazioni temporanee all'interno della sessione.
+Utilizza cookie per memorizzare le informazioni permanenti tra le sessioni.
+Utilizza cookie per memorizzare le informazioni temporanee sulle sessioni IServer.
+URL:
+Le informazioni sulle sessioni sono incluse sull'URL.
+Login:
+Consenti l'accesso automatico in caso di interruzione della sessione.
+€
+Impossibile accedere alle impostazioni di configurazione del motore sottoscrizioni. Per il funzionamento di MicroStrategy Web, è necessario che siano condivisi sia la cartella che l'unità in cui è installato il motore sottoscrizioni. Se non si rispettano questi requisiti, Subscription Portal e MicroStrategy Web non funzioneranno. Si desidera condividere automaticamente l'unità di installazione del motore sottoscrizioni per il gruppo di amministratori locali della macchina?
+Se l'unità del motore sottoscrizioni viene condivisa e non condivisa più volte, verrà visualizzato il seguente messaggio Windows fino al successivo intervento dell'utente:  'Errore di sistema: Nome di rete eliminato'. Il servizio Subscription Administrator non funzionerà finché non si fa clic su OK per chiudere il messaggio. Questo messaggio non denota alcun problema e l'utente può fare clic su OK per continuare.
+Impossibile condividere l'unità. Condividere manualmente l'unità di installazione del motore sottoscrizioni per il gruppo di amministratori locali della macchina.
+Versione Excel:
+Formato consegna:
+Contenuto compresso
+Nascondi
+Messaggio:
+(N. massimo di caratteri)
+Fare clic qui per inserire un nuovo messaggio
+Adatta a:
+pagina/e in larghezza
+pagina/e in altezza
+Cookies:
+Utilizzare I cookies per ottimizzare la lettura delle preferenze utente
+L'azione non pou' essere eseguita perche' esiste un altro oggetto che dipende dall'oggeto che si vuole manipolare.
+Sottoscrizioni a schedule per questo documento:
+La formula della metrica derivata e' vuota.
+Non contiene
+Non inizia per
+Non finisce per
+Percentuale di '##'
+Rank di '##'
+Rank
+Set di '##'
+Valutare il set a ##
+con ##
+dove (##)
+ApplySimple
+E' uguale a
+Non e' uguale a
+Vuoto
+Lungezza massima del messaggio di testo (in caratteri):
+Il seguente formato di spedizione non supporta grafici: ##. Formati di spedizione di questo tipo includeranno solo tabelle.
+Il formato di spedizione selezionato non supporta grafici. La spedizione includera'
+Lo stile definito nel prompt non puo' essere usato per fornirne la definizione '##' (nome dello stile: '###').
+Non si e' trovato uno stile adatto al prompt '##' (nome dello stile: '###')
+Filtro scelto dall'utente:
+Permettere l'uso di HTML per la stampa dell'intestazione di pagina. E' consentito eseguire programmi nel browser.

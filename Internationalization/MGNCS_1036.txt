@@ -1,0 +1,972 @@
+Copyright © 1996-2015 MicroStrategy, Incorporated. All rights reserved. Confidential.
+Page d'accueil
+Mes rapports
+Créer un rapport
+Déconnexion
+Orientation :
+Rechercher
+Tous droits réservés. Confidentiel.
+Serveur :
+Port
+Nom de l'utilisateur
+Mot de passe
+Enregistrer mon mot de passe
+Le format du papier et l'orientation doivent correspondre aux paramètres du navigateur.
+Veuillez saisir votre ancien mot de passe et votre nouveau mot de passe.
+Identifiant
+Erreur lors de l'exécution du document. Veuillez contacter votre administrateur.
+Lettre US 8 1/2 x 11 po
+210 x 297 mm
+184 x 967 mm
+Projets
+BIENVENUE
+Description
+élaboré...
+Parcourir une liste de rapports déjà préparés et disponibles à tous les utilisateurs.
+Afficher un résumé à jour de l'état de mes requêtes.
+Vous êtes ici :
+Manuellement
+Il n'y a pas de hiérarchies dans ce projet.
+objet(s)
+Il est impossible de rechercher sur des attributs de ce type.
+Page ## sur ###
+Facteur d'équilibrage de la charge
+Propriétaire
+Modifié
+Toujours
+Jamais
+Mode d'affichage
+Dernière mise à jour :
+Erreur
+Information sur le contact :
+Nombre maximum de recherches simultanées :
+Veuillez saisir les coordonnées de l'administrateur du système pour qu'un utilisateur puisse le contact en cas de besoin :
+Requis
+Vérifier à nouveau l'état
+Annuler cette requête
+Vous devriez voir les chiffres "12345" dans le cadre ci-dessous si votre navigateur supporte les fichiers CSS. Voyez-vous ces chiffres ?
+RAPPORTS CONNEXES
+Oui. Mon navigateur supporte cette implémentation de formatage.
+Non. Utiliser une implémentation de formatage différente.
+Le temps d'exécution de votre requête est dépassée. Veuillez réessayer ultérieurement.
+Aller à
+Exécution
+Gris et bleu.
+Lignes :
+Grille
+Graphique
+Messages ## - ### de ####
+## - ### of ####
+Enregistrer
+Nouvelle invite
+Version imprimable
+Exporter les données
+Colonnes
+Colorié
+Agent
+Classique
+Comptabilité
+Finance
+Bandes grises
+Utiliser Dynamic HTML ?
+Noir et Rouge
+Romantique
+Type Petit
+Appliquer
+Masquer les boutons pivot
+Afficher les boutons pivot
+Déplacer vers les lignes
+Déplacer vers le haut
+Déplacer vers le bas
+Saut de page sur ce champ
+Déplacer vers les colonnes
+Déplacer à gauche
+Déplacer à droite
+Trier
+Analyser
+De :
+A :
+Options d'analyse :
+Analyser seulement sur les sélections
+En haut
+En bas
+Couché de soleil
+Colonnes :
+Plus de pages
+Afficher :
+Masquer la barre d'outils
+Afficher la barre d'outils
+Publier
+Aucune information d'analyse disponible.
+La syntaxe correct pour l'opérateur Pas entre est valeur1;valeur2
+Détails sur le filtre :
+Le filtre est vide.
+- aucun -
+Analyser vers
+Détails
+Supprimer
+Trier par ordre croissant
+Trier par ordre décroissant
+Dernier rapport :
+marqué comme "non lu"
+Moteur d'analyse en cours de traitement
+Exécute les rapports fils
+Votre Historique est saturé. Pour exécuter un rapport, vous devez supprimer au moins un message.
+Continuer
+En raison d'une erreur du serveur Web, le contenu de ce rapport n'a pas pu être exporté. Veuillez essayer un autre rapport.
+Saut de page :
+Vous êtes sur le point de vous déconnecter de tous les projets.
+Non
+Oui
+Annuler
+Vous pouvez vérifier votre Historique ou essayer ultérieurement.
+Erreur lors de la vérification de l'état du document.
+Numéro de l'erreur
+Document prêt
+Invite prête
+FAQ's
+Dernier dossier :
+Aucune donnée renvoyée pour ce document.
+Excel avec formatage (version '97 ou plus)
+Format CSV
+Ouvrir une nouvelle fenêtre lors de l'exportation
+Options d'impression
+Texte d'en-tête :
+Mode de connexion
+Style de la numérotation des pages :
+(aucun)
+Page 1 de n
+Page de début par défaut :
+Annuler les requêtes en attente de cette session ?
+Fusionner les en-têtes de colonnes
+(par défaut)
+Dossier parent :
+Modifier mon mot de passe
+et
+Revenir en haut de la page
+Canal activé (canal visible par l'utilisateur final)
+Retour au Dossier Parent
+Erreur d'exécution du rapport
+Retour
+Ligne de radar à deux axes
+Diagramme de diffusion XYZ 3D
+Vous avez été déconnecté.
+Erreur lors de l'accès à l'Historique des utilisateurs.
+Votre Historique de messages n'a pas pu être récupéré à partir du Microstrategy Server.
+Votre Historique de messages na pas pu être supprimé du  MicroStategy Server.
+Propriétés
+En raison d'une erreur de syntaxe, votre requête pivot n'a pas abouti.
+En raison d'une erreur de syntaxe, votre requête saut de page n'a pas abouti.
+Veuillez contacter votre administrateur.
+Le MicroStrategy Server auquel vous essayez de vous connecter n'a pas été trouvé. Veuillez réessayer plus tard.
+Vous avez sélectionné trop d'objets pour une invite d'objets.
+Vous n'avez pas sélectionné assez d'objets pour une invite d'objets.
+Vous avez sélectionné trop d'éléments pour une invite d'éléments
+Vous n'avez pas sélectionné assez d'éléments pour une invite d'éléments
+La syntaxe correct pour l'opérateur Entre est valeur1;valeur2
+Cette invite est requise et vous devez y répondre.
+Veuillez entrer une valeur dans la zone de texte.
+Le fichier suivant n'a pas été enregistré correctement sur le serveur  Web  : M8dssxml.dll. Veuillez vous adresser à l'administrateur pour plus de détails.
+Veuillez sélectionner des éléments avant l'analyse
+Vous ne pouvez pas qualifier sur plus d'un article à la fois.
+Les invites pour ce rapport ne peuvent pas être affichées car elles ont déjà été renseignées.
+Erreur de chargement
+Liste des messages d'erreurs
+Heure
+Description des erreurs
+Fichier
+Fonction ASP
+Fonction API
+Commentaires
+Niveau
+Votre mot de passe a été changé.
+Modifier le mot de passe
+Ancien mot de passe :
+Nouveau mot de passe :
+pas plus de
+pas moins de
+sélections
+aucun
+Disponible
+Sélectionné
+Chercher
+éléments
+Mesure
+Attribut
+Entre (saisir valeur1 ; valeur2)
+Exactement
+Supérieur à
+Supérieur ou égal à
+Inférieur à
+Inférieur ou égal à
+Comme
+Différent
+Valeur
+Est
+Au plus haut
+Au plus bas
+Ajouter
+Vos sélections
+Correspondre
+Toutes les sélections.
+Quelque soit la sélection.
+Mes sélections
+Ajouter aux sélections
+A la recherche de :
+Exécuter le Rapport
+Enregistrer un rapport
+Qualifier sur la description de l'attribut
+Retour à la hiérarchie de sélection
+Choisir une hiérarchie
+Autres hiérarchies :
+Opérateur
+Qualifier
+Sélectionner
+Eléments
+Dossier actuel
+Sous-dossiers
+Contenu du dossier
+Veuillez entrer les critères de recherche.
+La liste peut être longue.
+Aucun point d’entrée dans cette hiérarchie.
+BESOIN D'AIDE ?
+Après avoir sélectionné une hiérarchie à gauche, vous pourrez voir les attributs de cette hiérarchie dans cette section.
+Aller à l'étape 2
+Autres
+Dans
+Note: Netscape 4, Internet Explorer 4 et les versions ultérieures supportent le DHTML.
+Les opérateurs "Comme" et "Différent" ne supportent pas les données de type non texte.
+Vous avez sélectionné trop de qualification pour l'invite de l'expression.
+Vous n'avez pas sélectionné assez de qualification pour l'invite de l'expression.
+Vous avez sélectionné trop de qualification pour l'invite hiérarchique.
+Vous n'avez pas sélectionné assez de qualification pour l'invite hiérarchique.
+Aide enligne
+Quelques unes des réponses par défaut de cette invite n'ont pas été affichées.
+(Seul le type texte est permis)
+Pas exactement
+Pas entre (saisir valeur1; valeur2)
+Retour à l'état antérieur
+Page d'Administration
+Supprimer
+Retour à :
+Etes-vous sûr de vouloir supprimer cet objet ?
+Confirmer la suppression
+Votre requête n'a pas pu être traitée due à une erreur du serveur.
+Veuillez réessayer. Si le problème persiste, contacter l'administrateur système.
+Nom de dossier :
+Requis
+Facultatif
+Entre
+et
+Cette invite requiert une valeur comprise entre ## et ###.
+Cette invite requiert une valeur supérieure à ##.
+Cette invite requiert une valeur inférieure à ##.
+Cette invite requiert une valeur antérieure à ##.
+Cette invite requiert une valeur ultérieure à ##.
+Le texte que vous avez saisi est trop long, veuillez essayer de nouveau.
+Le texte que vous avez saisi est trop court, veuillez essayer de nouveau.
+Pas entre
+Modifier
+Rafraîchir
+Version ASP :
+Erreur lors du chargement de données XML.
+L'un des noeuds XML requis est indisponible. Veuillez vous renseigner auprès de l'administrateur.
+Erreur dans le résultat du rapport
+Erreur MicroStrategy Intelligence Server :
+Erreur lors de la lecture de la définition de l'invite par le serveur MicroStrategy. Veuillez exécuter de nouveau le rapport ou l'invite.
+Votre deuxième nouveau mot de passe ne correspond pas au premier. Veuillez les entrer à nouveau.
+Avertissements
+Erreurs
+Précédent ##
+Suivant ##
+Pas de compte ?
+Saut de page
+Bienvenue
+Si vous n'êtes pas ##.
+cliquer ici
+Préférences
+Retour au dossier parent
+Sélectionner un jour :
+Mois
+Jour
+Année
+Messages
+Supprimer des sélections
+Veuillez saisir une date valide.
+Dans (saisir valeur1; valeur2; ...; valeurN)
+Erreur lors du renseignement de l'invite. Veuillez vérifier vos réponses.
+Masquer l'aide
+Afficher l'aide
+Cette invite requiert entre ## et ## sélections.
+Cette invite requiert au moins ## sélections.
+Cette invite ne peut accepter plus de ## sélections.
+Erreur dans les résultats du document
+Execution du Document
+Déterminer automatiquement
+Cette invite requiert exactement ## sélections.
+Nom
+Mode Liste
+Mode Grandes Icônes
+Allemand
+Français
+Italien
+Japonais
+Coréen
+Suédois
+Par défaut
+L'attribut est verrouillé
+La liste des éléments ne peut être affiché
+mesures
+Cette invite requiert une seule sélection.
+Veuillez saisir des valeurs de types valides séparées par des points-virgules.
+Veuillez suivre les instructions marquées par un drapeau rouge.
+ATTENTION
+Cette invite requiert au moins une sélection.
+Cette invite ne peut accepter plus d'une sélection.
+Mauvais paramètres dans l'URL
+Les paramètres suivants sont nécessaires dans l'URL :
+DD/MM/YYYY
+HH:MM:SS
+Une expression ou un groupe d'éléments pour un attribut est équivalent à une sélection.
+Veuillez sélectionner un élément pour la qualification.
+Résumé
+Portugais (Brésil)
+Respecter la casse
+Précédent
+Suivant
+Etapes ## - ### de ####*
+Premières ## étapes
+Dernières ## étapes
+ou
+Retour à l'invite
+Résumé de vos sélections
+Invite sans réponse
+Votre sélection :
+Invite ##
+La sélection par défaut est :
+Afficher une liste des rapports auxquels je suis abonné.
+Pour vous abonner à ce rapport, vous devez sélectionner un planning et une personnalisation ci-dessous.
+Avec la personnalisation suivante :
+Ajouter l'abonnement
+Vous êtes abonné aux plannings suivants pour ce rapport :
+Planning
+Personnalisé
+Modifier
+Abonnements
+Si vous souhaitez répondre à nouveau à ces invites, cliquez sur le lien Réinvite à côté du rapport.
+Limite de rapport :
+Vos références de source d'informations ont été modifiées.
+Vous n'avez aucun abonnement.
+Informations non disponibles
+Rapports
+Adresses
+Services
+À propos de
+MicroStrategy Narrowcast Server est un produit de
+Options
+Service
+Adresse
+Nouveaux utilisateurs
+Nom d'utilisateur :
+Mot de passe :
+Vous pouvez créer un nouveau compte. Cliquez ci-dessous.
+Créer un nouveau compte
+Choisir une adresse :
+Créer une nouvelle adresse
+Une erreur est apparue sur cette page.
+Erreur lors de la récupération des adresses
+Vous n'avez aucune adresse compatible.
+Erreur lors de la récupération des plannings
+Aucun planning disponible.
+Retour à la page d'accueil
+Retour à la page Adresses
+Retour à la page Rapports
+Retour à la page Services
+Erreur lors de la connexion
+Votre nom d'utilisateur ou votre mot de passe est incorrect. Veuillez les entrer à nouveau.
+Il manque votre nom d'utilisateur ou votre mot de passe. Veuillez les entrer à nouveau.
+Erreur lors de l'opération sur l'adresse
+Veuillez réessayer ou contacter votre administrateur système.
+Un ou plusieurs champs d'adresse sont vides. Veuillez réessayer.
+Erreur lors de l'opération d'abonnement
+Erreur lors de la création d'un nouveau compte
+Mot de passe différent du mot de passe confirmé. Veuillez les entrer à nouveau.
+Erreur lors de la création du nouveau compte utilisateur
+Confirmer le mot de passe :
+Indication de mot de passe :
+Aucune adresse créée
+Confirmer le nouveau mot de passe :
+Confirmer la suppression d'adresse
+Confirmer la suppression d'abonnement
+Êtes-vous sûr de vouloir supprimer l'adresse ?
+Êtes-vous sûr de vouloir supprimer la ou les souscriptions au(x) service(s) suivant(s) ?
+Options utilisateur
+Vos options ont été enregistrées.
+Localisation :
+Erreur lors de la récupération des rapports
+Expire le :
+En attente
+Il n'y a pas de rapports dans ce dossier.
+Vous avez oublié votre mot de passe ?
+Entrez votre nom d'utilisateur et cliquez sur "Afficher indication de mot de passe".
+Afficher indication de mot de passe
+Votre indication de mot de passe est :
+Erreur lors de la récupération de l'indication de mot de passe
+Une erreur est survenue lors de la récupération de votre indication de mot de passe.
+Retour à la page Connexion
+Veuillez entrer un nom d'adresse.
+Veuillez entrer un nom d'adresse sans les caractères suivants :
+Veuillez entrer une adresse.
+Veuillez entrer une adresse selon le modèle nomutilisateur@serveur.extension. Exemple : jpmartin@societeabc.fr
+Le fichier suivant n'a pas été enregistré correctement sur le serveur  Web  : M9StrUtl.dll. Veuillez vous adresser à l'administrateur pour plus de détails.
+Merci d'utiliser MicroStrategy Narrowcast Server.
+Aucun fichier n'a été soumis au serveur Web.
+Ce nom d'utilisateur est déjà utilisé. Veuillez entrer un autre nom d'utilisateur.
+Le fichier contient une extension incorrecte. Les extensions de fichier suivantes sont autorisées : ##
+Erreur lors de la mise à jour du profil utilisateur
+Une erreur est survenue lors de la mise à jour de votre profil utilisateur.
+Erreur lors de la récupération des donnéees
+Une erreur est survenue lors du chargement de XML. Veuillez contacter l'administrateur système.
+MicroStrategy Narrowcast Server 7.5.1
+Coordonnées de l'administrateur système
+E-mail :
+Téléphone :
+Pour souscrire un compte, veuillez fournir les informations ci-dessous.
+Les informations obligatoires sont marquées d'un astérisque (*) rouge.
+Veuillez entrer un nom d'utilisateur et un mot de passe pour votre nouveau compte.  Assurez-vous d'entrer votre mot de passe deux fois.
+Entrez une indication associée à votre mot de passe.
+Vous avez terminé ! Cliquez sur le bouton "Créer un nouveau compte" ci-dessous.
+Veuillez entrer vos références de connexion pour la/les source(s) d'informations suivante(s).
+Une ou plusieurs erreurs sont survenues lors du traitement de votre requête pour un nouveau compte.
+Veuillez suivre les instructions en rouge ci-dessous et essayer à nouveau.
+Il manque l'indication de mot de passe. Veuillez le saisir à nouveau.
+Terminer
+Une ou plusieurs erreurs sont survenues lors du traitement de votre requête de changement de mot de passe.
+Il manque l'ancien ou le nouveau mot de passe. Veuillez les entrer à nouveau.
+Veuillez entrer le(s) nom(s) d'utilisateur et le(s) mot(s) de passe ci-dessous.
+Vous avez spécifié un fichier dépassant la taille maximum autorisée ('## kO) par l'administrateur.
+Livraisons
+Jusqu'à :
+Cliquez à gauche sur un nom de document pour afficher le document ici.
+Envoyer à la page Mes rapports
+Envoyer à :
+Souscription à un service
+Parcourir une liste de services préparés et disponibles à tous les utilisateurs.
+Afficher vos rapports planifiés.
+Veuillez spécifier vos coordonnées pour la livraison de l'abonnement.
+Personnaliser ces écrans en fonction de vos préférences de navigation et d'affichage.
+Abonner :
+Personnaliser votre abonnement
+Votre session a été perdue et vous avez été déconnecté du système.  Veuillez vous reconnecter.
+Désactiver mon compte
+Votre compte est désactivé.
+Êtes-vous sûr de vouloir désactiver votre compte ?
+Une fois votre compte désactivé, vous ne pourrez plus bénéficier des services ou vous connecter à ce site. Votre compte ne pourra être réactivé que par l'administrateur du site portail.
+Veuillez choisir une langue.
+Activé (la souscription prendra effet au moment spécifié)
+Modifier les références de source d'informations
+Changer les références
+Une ou plusieurs erreurs sont survenues lors du traitement de votre demande de modification des références de source d'informations.
+Version SDK :
+Charger fichier
+Canaux
+Actif
+Ajouter un nouveau canal
+Canal activé
+Canal désactivé
+Créer un nouveau canal
+Éditer le canal
+Pour créer un nouveau canal, procédez comme suit :
+Publier un dossier de services pour le canal.
+Donner un nom au canal.
+Ne plus afficher cette page.
+Nom et description du site
+Entrez un nom pour ce canal :
+Entrer une description pour ce canal (facultatif) :
+Source de l'erreur
+Ce compte a été désactivé. Veuillez contacter l'administrateur pour le réactiver.
+Le champ Nom d'utilisateur est vide. Veuillez le saisir à nouveau.
+Le champ Mot de passe est vide. Veuillez le saisir à nouveau.
+Espagnol
+Anglais
+Importer les spécifications du filtre à partir d'un fichier :
+Saisir une nouvelle adresse :
+Types de périphériques
+renommer ...
+définition ...
+Dossiers de périphériques
+éditer les dossiers de périphériques ...
+Renommer
+URL grande icône :
+URL petite icône :
+Format d'adresse :
+E-mail
+Format standard des adresses e-mail.
+Format : xxxx@xxxxxx.xxx
+numérique
+Zones d'affichage :
+Zones d'édition :
+Intitulé de l'adresse
+Valeur de l'adresse
+Style
+Code personnel
+Fenêtre de livraison
+Nom de type périphérique :
+Confirmer la suppression du type de périphérique
+Nouvelle définition
+Définition :
+Disponible :
+Sélectionné :
+Aucun dossier n'est sélectionné.
+Votre concepteur de rapport a voulu que cette invite soit représentée par un shopping cart et un style de fichier texte.
+Étant donné que DHTML est désactivé, vous ne pouvez pas utiliser la fonction d'importation de fichier texte.
+Vous pouvez utiliser le shopping cart pour répondre à cette invite.
+Créer un nouveau type de périphérique
+N'utilisez ce format que pour une chaîne de chiffres.
+Format : ########
+Aucun type de périphérique n'a été créé.
+Confirmer le code personnel
+Inactif
+Veuillez entrer une valeur numérique pour l'adresse, ayant la forme suivante : #########
+Aide :
+Le nom d'utilisateur ou le mot de passe est incorrect pour une ou plusieurs sources d'informations. Veuillez réessayer.
+Vous n'avez aucun rapport.
+Sélectionnez un planning pour la livraison de ce service.
+Veuillez sélectionner un planning dans la liste ci-dessous.
+Sélectionnez un endroit pour la livraison de ce service.
+Pour souscrire, veuillez suivre les étapes suivantes :
+Sélectionnez un service.
+Veuillez spécifier un planning et une adresse.
+Veuillez personnaliser le contenu de votre service (le cas échéant).
+Veuillez personnaliser le contenu de votre service.
+Vous pouvez fournir les informations suivantes pour personnaliser le contenu de cette souscription :
+Si l'indication que vous avez fournie pour retrouver votre mot de passe ne vous est d'aucune aide, veuillez contacter votre administrateur système afin de modifier votre mot de passe.
+OK
+Félicitations !
+Votre souscription a été enregistrée avec succès.
+Enregistrer les sélections sous (facultatif)
+Faites de nouvelles sélections
+Faites votre choix dans la liste des sélections enregistrées :
+Sélectionnez-en une :
+Appliquer ces sélections
+Impossible de trouver le projet ## sur le serveur ###.
+(DÉSACTIVÉ)
+Informations administrateur :
+Après avoir modifié la connexion à la base de données du site portail, vous devrez reconfigurer les informations sur le site.
+Après avoir modifié l'emplacement du moteur de souscription, vous devrez reconfigurer la connexion à la base de données du site portail et les informations sur le site.
+Après : ## jours.
+Nom de la connexion à la base de données :
+Connexions à la base de données
+Périphérique par défaut :
+Paramètres régionaux par défaut des nouveaux utilisateurs :
+DHTML d'utilisation par défaut :
+Désactiver
+Souhaitez-vous continuer?
+Activez la création de nouveaux comptes :
+Saisir le nom du serveur sur lequel tourne le moteur de souscription :
+Saisir un nom et une description uniques pour ce portail :
+Configuration de l'interface utilisateur graphique :
+Sources des informations
+Base de données du site portail
+Expiration des nouveaux comptes :
+Pas de délai d'expiration
+Le :
+Numéro de téléphone :
+Périphérique du portail :
+Base d'objets
+Configuration du projet :
+Emplacements de serveurs de moteurs de souscription récemment utilisés :
+Sélectionnez une définition de site existante ou cliquez sur Ajouter nouvelle définition de site.
+Paramètres des périphériques
+Préférences du site
+Base de registre de souscription
+Emplacement du moteur de souscription
+Préfixe des tables :
+Répertoire des fichiers temporaires :
+L'Assistant administrateur de portails du serveur MicroStrategy Narrowcast permet aux administrateurs de créer sans difficulté des portails Web de souscription, sur lesquels les utilisateurs peuvent s'abonner aux services du serveur Narrowcast par le biais d'un navigateur Internet.
+Utiliser les références projet
+Bienvenue dans l'Assistant administrateur de portails du serveur MicroStrategy Narrowcast
+Aucun canal n'est défini pour ce site
+Sélectionnez le dossier des canaux
+La connexion de base de données "#1" ne pointe pas vers une base de données contenant des tables de la base de site portail ayant le préfixe "#2".
+Souhaitez-vous les créer ?
+Nom de site par défaut
+Site avec les valeurs par défaut
+Sélectionnez le périphérique du portail
+Sélectionnez le périphérique par défaut
+Veuillez fournir un nom pour la définition du site.
+Veuillez entrer un nom sans les caractères suivants :
+Veuillez fournir le nom de l'ordinateur sur lequel tourne le moteur de souscription.
+Veuillez fournir un répertoire pour les fichiers temporaires.
+Veuillez saisir un chemin pour le répertoire destiné aux fichiers temporaires sans les caractères suivants :
+Veuillez saisir un nombre valide comme nombre de jours.
+Sélectionnez un style de périphérique
+Pour trouver le style du périphérique, veuillez procéder comme suit :
+Sélectionnez une catégorie.
+Sélectionnez un style.
+Cliquez sur une catégorie de périphérique pour :
+Cliquez sur un style de périphérique pour :
+Il n'y a pas de style de périphérique dans cette catégorie.
+Aucune information trouvée sur le style de périphérique.
+Aucun style disponible.
+Aucune validation
+La valeur de l'adresse peut être n'importe quelle chaîne de caractères.
+Format : n'importe quel nombre et les caractères suivants - ( )
+Veuillez entrer une valeur ayant la forme suivante pour l'adresse : n'importe quel nombre et les caractères suivants - ( )
+Configuration du système
+Gestion du site
+Sélectionnez la connexion pour la base de données du site portail.
+Sélectionnez la connexion de base de données pour la base d'objets.
+Sélectionnez la connexion de base de données pour la base de registre de souscription.
+Utilisez la même connexion de base de données pour la base de registre de souscription.
+Ajoutez une nouvelle connexion de base de données
+Ajoutez une nouvelle définition de site
+Définition du site
+Base de données
+Erreur lors de la suppression du profil utilisateur
+Ce profil ne peut être supprimé, car il est partagé par plusieurs souscriptions
+Affichez les souscriptions existantes pour ce service
+Sélectionnez ou créez un portail
+Créer nouveau portail de souscription
+Créer nouveau portail
+Nom du site portail
+Pour créer un nouveau portail de souscription, veuillez spécifier le nom du répertoire virtuel :
+Veuillez entrer une adresse par défaut.
+Format : n'importe quel caractère texte ou numérique
+Veuillez entrer une adresse selon le modèle suivant : n'importe quel caractère texte ou numérique
+Chaque définition de site se distingue par son nom et sa description uniques.
+Il est judicieux de décrire de manière précise la définition du site pour que les concepteurs puissent voir tout de suite quelles sont les propriétés contenues dans un site.
+Un site se distingue par un ensemble de services accessibles aux utilisateurs grâce à un portail.
+Les utilisateurs peuvent afficher un site au moyen d'un portail.
+La liste suivante contient des définitions de sites existant actuellement dans la base de données du portail.
+Vous avez le choix entre réutiliser une définition de site déjà existante ou en créer une nouvelle.
+En tant qu'Administrateur de portails, vous avez les responsabilités suivantes :
+configurer et gérer le portail de souscription afin de permettre aux utilisateurs d'accéder et de souscrire à différents services sur le Web
+définir et configurer les sites de souscription
+publier des services et des types de périphériques
+sélectionner les périphériques par défaut pour le portail de souscription
+spécifier les propriétés des sources d'informations et les préférences par défaut du portail
+Grâce à l'Assistant administrateur de portails, vous pouvez :
+configurer le moteur de souscription
+sélectionner ou modifier la configuration du portail
+créer ou sélectionner une définition de site
+configurer des offres de services statiques ou dynamiques
+Cliquez sur SUIVANT pour commencer.
+La base d'objets désigne la base de données contenant la définition du système Narrowcast que vous souhaitez déployer via ce portail de souscription.
+Une connexion doit être créée pour chaque base de données que vous souhaitez utiliser.
+Lorsque votre base de registre de souscription et votre base d'objets sont stockées dans la même base de données (ce qui est souvent le cas), cochez la case correspondante puis cliquez sur Suivant.
+La base de registre de souscription permet de stocker les données de souscription : utilisateurs, adresses, paramètres de personnalisation et de souscription.
+Dans une configuration typique, le moteur de souscription est installé sur le même ordinateur (plus particulièrement localhost).
+La base de donnée su site portail permet de stocker les paramètres de configuration pour l'interface du portail de souscription de l'utilisateur.
+Ces informations comprennent :
+nom et description du site
+paramètres de canal
+services publiés
+dossiers de périphériques
+préférences par défaut
+Un Portail définit l'emplacement Web (URL) qui permet aux utilisateurs d'accéder aux services et aux souscriptions du portail. Un portail est défini par un répertoire virtuel de serveur web et fournit un accès vers un seul site.
+Les portails de souscription suivants ont été définis sur ce serveur Web.
+Sélectionnez le portail avec lequel vous souhaitez travailler.
+Nom et description du canal
+Un type de périphérique est un groupement de périphériques connexes.  Lorsqu'une nouvelle définition de site est créée, quatre types de périphériques standard sont créés et configurés par défaut.
+Pour chaque définition de type de périphérique, vous devez spécifier le nom du type de périphérique, l'icône de l'URL étendue et réduite, la structure d'adresse ainsi que les champs d'adresse qui seront utilisés lors de l'affichage et de l'édition des adresses de périphériques appartenant à ce type de périphérique.
+Cet écran vous permet d'ajouter ou de supprimer des dossiers de périphériques pour le type de périphérique en question.
+Les dossiers à gauche sont disponibles, mais ils ne sont pas utilisés pour ce type de périphérique. Les dossiers à droite sont en cours de sélection pour ce type de périphérique.
+Pour chaque site de souscription, il est possible de définir le périphérique utilisé pour fournir du contenu à la page "Mes rapports" et celui utilisé par défaut lors de la création de nouvelles adresses.
+Cliquez sur le périphérique approprié pour modifier la sélection.
+Pour chaque source d'informations, vous pouvez spécifier si les nouveaux utilisateurs devront entrer leurs informations d'authentification, telles que le nom d'utilisateur et le mot de passe, ou si les accréditations par défaut pour cette source d'informations seront utilisées à la place. Ces paramètres affectent les comptes des nouveaux utilisateurs créés par le biais du portail de souscription.
+Aucune source d'informations n'est définie dans ce système.
+-
+-
+-
+Sélectionnez les paramètres pour les propriétés de site suivantes :
+Les propriétés du site permettent de contrôler la définition des valeurs par défaut pour les utilisateurs de l'interface portail.  Vous pouvez modifier chaque paramètre en modifiant les informations qui apparaissent sur cette page.
+Félicitations ! Vous venez de configurer ce site avec succès !
+Cliquez sur le bouton Terminer pour lancer le navigateur et vous connecter à ce portail.
+Origine
+Portail
+Administration
+Adresse I.P. utilisateur
+Une erreur est survenue lors de la création de souscription
+Veuillez vous assurer que vous disposez d'un profil par défaut pour cette question.
+Une erreur est survenue lors de l'obtention d'informations de l'objet question à partir du serveur MicroStrategy Narrowcast.
+Analyse
+Informations
+Avertissement
+Utiliser ces sélections par défaut
+Variables de session
+Site associé
+Non applicable
+Veuillez fournir un nom pour le portail.
+Êtes-vous sûr de vouloir supprimer ce périphérique ?
+Êtes-vous sûr de vouloir supprimer ce portail ?
+Êtes-vous sûr de vouloir supprimer ce site ?
+Veuillez fournir un nom pour le serveur SequeLink
+Veuillez fournir un nom pour la connexion de base de données.
+Veuillez fournir un nom pour la source de données ODBC.
+Ajouter une connexion de base de données
+Nom source de données ODBC :
+Tester la connexion de base de données ?
+Présentation
+Définition d'alias de base de données incorrecte pour les tables de la base de registre de souscription.  Veuillez sélectionner une autre définition de site.
+Les tables de la base de registre de souscription existent mais n'ont pas la bonne version.  Veuillez entrer un autre préfixe.
+Définition d'alias de base de données incorrecte pour les tables de la base d'objets.  Veuillez sélectionner une autre définition de site.
+Les tables de la base d'objets existent mais n'ont pas la bonne version.  Veuillez entrer un autre préfixe.
+Définition de connexion de base de données incorrecte pour les tables de la base de données du site portail.  Veuillez en sélectionner une autre.
+Les tables de la base de données existent mais n'ont pas la bonne version.  Veuillez entrer un autre préfixe.
+Une erreur est survenue lors de la sauvegarde de connexion d'alias de base de données
+Une erreur inattendue est survenue lors de la définition de la nouvelle connexion d'alias de base de données.
+Aucune connexion de base données n'a été définie.
+Cette page vous permet de créer ou d'éditer des canaux pour cette définition de site.
+Veuillez fournir un nom pour le canal.
+Configuration des services
+Souscriptions statiques
+Souscriptions dynamiques
+Stockage
+Choisir une autre question
+Le portail de souscription MicroStrategy publiera les services dans le dossier que vous sélectionnez.  Néanmoins, certains services nécessitent une configuration supplémentaire.
+Veuillez définir la configuration par défaut des services ci-dessous.
+Cliquez sur le bouton # ci-dessous pour configurer un service défini de façon individuelle.
+Configurer des services
+Jeux de souscription statique
+Jeux de souscription dynamique
+Masquer aux abonnés les questions de saut de page
+Répondre aux questions de saut de page par :
+Masquer aux abonnés le jeu de souscription non configuré
+L'Assistant administrateur de portails du serveur MicroStrategy Narrowcast permet de configurer le stockage des données de souscription à un échelon de service individuel.
+Vous devrez sélectionner le service que vous souhaitez configurer, ensuite vous verrez les jeux de souscription statique et dynamique associés à ces services.
+Tant pour les jeux de souscription statique et dynamique, vous configurez l'objet de la question pour le service sélectionné.
+En outre, vous pouvez ajouter des objets de question supplémentaires pour inviter les abonnés à délivrer des informations.
+Vous configurerez le stockage des données de souscription pour les jeux de souscription dynamique.
+Vous avez configuré le(s) service(s) suivant(s). Cliquez sur 'Édition' pour éditer la configuration existante ou cliquez sur le nom du dossier pour configurer les autres services dans ce dossier.
+Pour configurer un autre service, cliquez sur # ci-dessous
+Ce service contient au moins un jeu de souscription dynamique qui y est associé.  Les abonnés de ces jeux de souscription seront stockés dans la base de registre de souscription.
+Paramètres par défaut des jeux de souscription statique
+Pour définir une configuration unique pour tous les jeux de souscription statique, cliquez ci-dessous.  Ce paramètre par défaut sera utilisé par tous les jeux pour ce service
+Configuré(e) :
+configurer
+Les abonnés ne verront pas les questions de saut de page.  Néanmoins, vous pouvez sélectionner une autre question qui pourra être visualisée par les abonnés.
+Please select a question object below.
+Veuillez sélectionner l'emplacement pour les réponses à cette question.
+Utiliser le signe #
+OU une des allocations de stockage suivantes :
+Tables
+Ajoutez une nouvelle allocation de stockage
+Effacer
+Veuillez sélectionner les tables de bases de données où les informations seront stockées.
+Entrepôt de données :
+Trier les colonnes par :
+Tables disponibles :
+Tables sélectionnées :
+Veuillez sélectionner les colonnes de la table où vous souhaitez stocker les informations.
+Utilisez la fonction Glisser-Déplacer pour déplacer de gauche à droite les composants dans les colonnes de la table. Vous pouvez agrandir/réduire la liste des composants en cliquant sur la flèche située à gauche de chaque section. Pour atteindre les composants situés en fin de liste, réduisez les sections qui les précèdent.
+Composantes de réponse
+Généralités :
+Composantes de souscription
+Configuration :
+Configuration de service par défaut
+Vous avez choisi de configurer le service ci-dessous.  Vous pouvez soit conserver les préférences par défaut affichées ci-dessous, soit définir des paramètres supplémentaires pour différents jeux de souscription dans les étapes suivantes.
+Paramètres de service par défaut
+Questions de saut page
+Questions supplémentaires
+Vous pouvez inviter les abonnés à soumettre des questions supplémentaires en éditant les informations ci-dessous.
+Modifier les sélections
+Liens connexes
+S'abonner à ce service à nouveau
+S'abonner à un autre service
+Afficher toutes vos souscriptions
+Veuillez choisir un profil pour cet objet de question.
+Nom de serveur SequeLink
+Vous avez créé votre compte.
+Si vous oubliez votre mot de passe, vous verrez cet indice qui est censé vous rappeler votre mot de passe.
+Sélectionner le service
+Sélectionner le stockage
+Sélectionner les tables
+Sélectionner les colonnes
+Configurer le jeu de souscription
+Sélectionner la question
+Quitter la configuration de services
+Veuillez sélectionner le service que vous souhaitez configurer.
+Question
+Publication(s)
+Paramètres par défaut des jeux de souscription dynamique
+Ce service contient au moins un jeu de souscription dynamique qui y est associé. Les abonnés de ces jeux de souscription seront stockés dans l'entrepôt par des allocations de stockage.
+Enregistrer cette allocation de stockage sous :
+Pour définir une configuration unique pour tous les jeux de souscription dynamique, cliquez ci-dessous. Ce paramètre par défaut sera utilisé par tous les jeux pour ce service
+Configurer des jeux de souscription dynamique individuellement
+Pour configurer un jeu de souscription dynamique individuellement, cliquez sur le lien de configuration à côté du jeu. Les jeux de souscription qui n'ont pas été configurés utiliseront les paramètres par défaut du système.
+Question supplémentaire
+La question que vous avez sélectionnée ne peut pas être utilisée dans le portail de souscription.
+Veuillez revenir en arrière et sélectionner une autre question.
+La réponse à la question que vous avez sélectionnée peut être stockée soit dans la base de registre de souscription, soit à un autre endroit via une allocation de stockage.
+Si vous choisissez de stocker la réponse dans la base de registre de souscription, la réponse elle-même y sera stockée.
+Si vous utilisez une allocation de stockage, un ID préférentiel de la question sera stocké dans la base de registre de souscription et les réponses seront stockées dans la définition d'allocation de stockage.
+La réponse à la question que vous avez sélectionnée doit être stockée via une allocation de stockage. Vous serez invité à faire une sélection parmi une liste d'éléments et vous pouvez en choisir plusieurs.
+Lorsque vous utilisez une allocation de stockage pour stocker les réponses, un ID préférentiel de la question sera stocké dans la base de registre de souscription et les réponses seront stockées dans la définition d'allocation de stockage.
+Veuillez sélectionner l'allocation de stockage à utiliser avec cette question :
+Connexion à la base de données
+Valeur personnalisée :
+personnalisé
+Ajouter une question :
+Parcourir
+Répondre à une autre question :
+Allocation de stockage de jeu de souscription
+Nouvelle allocation de stockage pour le n°
+Ce service ne contient pas de jeux de souscription dynamique.
+Présentation de la gestion du site
+S'il a été installé sur un autre ordinateur, entrez son nom à cet endroit.
+définition du site
+Entrez les informations sur la connexion de la base de données :
+Aperçu des préférences du site
+Un canal désigne un groupement de services dans l'interface du portail de souscription.
+Chaque canal est relié à un dossier de services dans la base d'objets.
+Une erreur est survenue lors de l'établissement de la connexion au moteur de souscription.  Le nom du serveur est incorrect ou le moteur de souscription ne fonctionne pas sur ce serveur.  Veuillez situer le moteur de souscription et ressaisir le chemin.
+Pour définir un canal, vous devez sélectionner un dossier dans la base d'objets.  Sélectionnez le dossier des services à afficher.
+Ce service ne contient pas de questions de saut de page à configurer.
+Configuré(e)
+Une erreur est survenue lors de la validation de la connexion de base de données.  (#) Veuillez vérifier vos informations et réessayer.
+Impossible d'établir la connexion au moteur de souscription.
+L'administrateur a fourni une définition de connexion de base de données incorrecte
+Nom de source de données incorrect
+Suppression d'une connexion de base de données
+-- sélectionner une connexion de base de données --
+ID préférentiel pour : #
+Réponse pour : #
+L'utilisateur n'existe pas.
+Système de mémoire cache
+Uniquement en présence de plusieurs questions
+Il n'y a pas d'objets valides dans ce dossier
+Affichez la page d'aperçu des questions pour les services personnalisés
+Si vous supprimez cette connexion de base de données, les objets qui l'utilisent (comme la base d'objets, les allocations de stockage, etc.) seront incorrects.
+Souhaitez-vous supprimer '#' ?
+Vous configurez actuellement le Portail appelé "#". Pour configurer un portail différent ou créer un nouveau portail,
+Configurez un autre service
+Cette section vous permet de gérer un ou plusieurs site(s) de souscription.  Vous devez effectuer les tâches suivantes :
+sélectionnez un répertoire virtuel de portails de souscription existant ou créez-en un nouveau
+créez ou éditez une définition de site
+Avant de commencer, vous devez disposer des informations suivantes pour compléter votre définition de site :
+Emplacement de la base de données Base d'objets
+Emplacement de la base de données Base de registre de souscription
+préfixes de table pour les deux bases de données
+La configuration du système de portail de souscription est terminée.
+moteur de souscription :
+base de données du site portail :
+La tâche de gestion de site est terminée.  Vous avez sélectionné les éléments suivants :
+répertoire virtuel de portails :
+définition du site :
+À ce stade, votre site peut être visualisé au moyen du portail.
+Cliquez ici pour accéder au portail de souscription.
+Cette section vous permet d'éditer les préférences du site.  Vous devez effectuer les tâches suivantes :
+créez des canaux et associez-les avec des dossiers de services
+sélectionnez les types de périphérique devant être pris en charge par le site
+sélectionnez le périphérique devant être utilisé par défaut lors de la création d'une nouvelle adresse
+sélectionnez le périphérique devant être utilisé pour envoyer des services vers la page "Mes rapports"
+choisissez les modalités d'authentification des utilisateurs pour différentes sources d'informations
+configurez les autres propriétés du site
+La modification des préférences du site est terminée. Vous avez réalisé les tâches suivantes :
+édition ou création de nouveaux canaux pour ce site
+sélection des périphériques gérés par ce site
+sélection du périphérique devant être utilisé par défaut lors de la création de nouvelles adresses
+sélection du périphérique portail devant être utilisé pour envoyer des services vers la page "Mes rapports"
+sélection des modalités d'authentification des utilisateurs pour les sources d'informations de ce site
+configuration des autres propriétés du site
+L'intégration au moteur de livraison permet aux utilisateurs de personnaliser les services qu'ils utilisent, de spécifier les plannings et le périphérique sur lequel ils souhaitent recevoir les informations.
+Ce site n'est pas encore accessible aux utilisateurs. Demandez à l'administrateur de configurer ce site. Si vous êtes l'administrateur, veuillez cliquer sur #.
+Bienvenue sur le portail de souscription du serveur MicroStrategy Narrowcast !
+Le portail du serveur MicroStrategy Narrowcast permet aux utilisateurs de souscrire rapidement aux services du serveur Narrowcast par le biais d'un navigateur Web.
+Dossier introuvable
+Le dossier demandé n'a pas été trouvé dans la base d'objets.
+Cliquez ici pour parcourir le dossier racine du projet.
+(ID dossier : n°)
+Afficher le journal des erreurs
+Les noms de portail ne doivent contenir aucun caractère spécial. Veuillez entrer un nom en utilisant uniquement les caractères a-z, 0-9 ou un sous-tiret.
+Les noms de connexion aux bases de données ne doivent contenir aucun caractère spécial. Veuillez entrer un nom en utilisant uniquement les caractères a-z, 0-9 ou un sous-tiret.
+La question que vous avez sélectionnée étant déjà utilisée pour la définition des services, vous ne pouvez pas l'utiliser en tant que question alternative ou supplémentaire.
+La question que vous avez sélectionnée étant déjà utilisée comme question supplémentaire, vous ne pouvez pas l'utiliser en tant que question alternative.
+La question que vous avez sélectionnée étant déjà utilisée comme question alternative, vous ne pouvez pas l'utiliser en tant que question supplémentaire.
+Afin d'éditer ou de supprimer des souscriptions, assurez-vous que toutes les tables incluent la SUBSCRIPTION_ID ou Preference ID de la question.
+Afin d'éditer ou supprimer des souscriptions, assurez-vous que toutes les tables incluent la SUBSCRIPTION_ID.
+Ce service ne renferme aucune question à mapper
+Mot de passe incorrect – Utilisateur non désactivé
+Mettre à jour la connexion de base de données
+Éditer une connexion de base de données
+1. Narrowcast Server Normal (Nom utilisateur et mot de passe)
+2. MicroStrategy Intelligence Server Standard (Nom d'utilisateur et mot de passe)
+3. MicroStrategy Intelligence Server NT (Nom utilisateur NT)
+Veuillez saisir le nom du serveur MicroStrategy Intelligence si l'option 2 ou 3 est sélectionnée.
+Veuillez entrer le nom du serveur Intelligence que vous souhaitez utiliser pour valider à nouveau les utilisateurs.
+Connexion impossible avec compte utilisateur NT. Veuillez demander à votre administrateur de lier ce compte utilisateur NT à un utilisateur MicroStrategy Intelligence Server ou de définir correctement le serveur Web.
+Nombre d'articles devant être retournés pour les invites d'éléments :
+Nombre d'articles devant être retournés pour les invites d'objets :
+Veuillez saisir un nombre correct d'articles d'invite d'élément.
+Veuillez saisir un nombre correct d'articles d'invite d'objet.
+Configuration de l'invite :
+Vous pouvez essayer de vous connecter à ce site en utilisant vos références NT. Il vous suffit de cliquer sur le lien ci-dessous.
+Mode de connexion :
+Ce service n'inclue aucun jeu de souscription statique. Vous pouvez en configurer un par défaut au cas où vous voudriez en ajouter un plus tard, par exemple pour passer d'une souscription dynamique à une souscription statique. Autrement cliquez Suivant pour continuer.
+MicroStrategy Intelligence Server n'a pas été trouvé
+Vous n'avez pas la permission d'acceder à un ou plus des projets qui contiennent les rapports de ce service.
+Vous n'avez pas la permission d'acceder à un ou plus des rapports de ce service.
+Utiliser les permissions utilisateur
+Les réglages du Subscription Engine n'ont pas pu être lus. Pour que le portail de Subscription fonctionne, le répertoire ou le disque où le Subscription Engine est installé doit être partagé. Le portail de Subscription ne fonctionnera pas si cette condition n'est pas remplie. Voulez vous automatiquement partager le disque #1 de la machine #2 pour le groupe local des administrateurs de cette machine ?
+Impossible de partager le disque. Veuillez partager manuellement le disque #1 de la machine #2 pour le groupe local des administrateurs de cette machine.
+Impossible de vérifier si le dossier du moteur de souscription est partagé.
+4. MicroStrategy Intelligence Server LDAP (Nom d'utilisateur et mot de passe)
+5. MicroStrategy Intelligence Server DB (Nom d'utilisateur et mot de passe)
+Narrowcast Server Normal
+MicroStrategy Intelligence Server Standard
+MicroStrategy Intelligence Server LDAP
+MicroStrategy Intelligence Server DB
+Erreur au cours de la création de l'utilisateur : la création de l'identifiant a échoué. Signalez cette erreur à l'administrateur système.
+Affichage de la pièce jointe :
+Répartir les pièces jointes pour réduire les séquences mémoires.
+Connexion en tant qu'utilisateur NT
+Vous êtes sur le point d'effacer le portail par défaut. Effacer ce portail désactivera irréversiblement les livraisons pour les abonnements créés dans MicroStrategy Web. Etes-vous certain de vouloir continuer ?
+Ce produit est breveté. Un ou plusieurs des brevets suivants peuvent s'appliquer au produit vendu ici : Numéros de brevets américains 5,321,520, 5,416,602, 5,748,560, 6,154,766, 6,173,310, 6,260,050, 6,263,051, 6,269,393, 6,279,033, 6,501,832, 6,567,796, 6,587,547, 6,606,596, 6,658,093, 6,658,432, 6,662,195, 6,671,715, 6,691,100, 6,694,316, 6,697,808, 6,704,723, 6,707,889, 6,741,980, 6,765,997, 6,768,788, 6,772,137, 6,788,768, 6,792,086, 6,798,867, 6,801,910, 6,820,073, 6,829,334, 6,836,537, 6,850,603, 6,859,798, 6,873,693, 6,885,734, 6,888,929, 6,895,084, 6,940,953, 6,964,012, 6,977,992, 6,996,568, 6,996,569, 7,003,512, 7,010,518, 7,016,480, 7,020,251, 7,039,165, 7,082,422, 7,113,474, 7,113,993, 7,127,403, 7,174,349, 7,181,417, 7,194,457, 7,197,461, 7,228,303, 7,260,577, 7,266,181, 7,272,212, 7,302,639, 7,324,942, 7,330,847, 7,340,040, 7,356,758, 7,356,840, 7,415,438, 7,428,302, 7,430,562, 7,440,898, 7,457,397, 7,486,780, 7,509,671, 7,516,181, 7,559,048, 7,574,376, 7,617,201, 7,725,811, 7,801,967, 7,836,178, 7,861,161, 7,861,253, 7,881,443, 7,925,616, 7,945,584, 7,970,782, 8,005,870, 8,035,382, 8,051,168, 8,051,369, 8,094,788, 8,130,918, 8,296,287, 8,321,411, 8,452,755, 8,521,733, 8,522,192, 8,577,902, 8,606,813, 8,607,138, 8,645,313, 8,761,659, 8,775,807, 8,782,083, 8,812,490, 8,832,588, 8,943,044, et 8,943,187. Les autres demandes de brevet sont en attente.
+Il n'y a pas de base de données définie dans '#1' avec le préfixe '#2'. Veuillez entrer un préfixe valide.
+Faire correspondre les majuscules/minuscules par défaut
+DataDirect Technologies Corp. Copyright 1991-2015. DataDirect Technologies Corp. Tous droits réservés.
+Des portions de ce logiciel sont protégées par des copyrights DataDirect Technologies Corp., 1991-2015.
+Des fichiers de propriétés de sauvegarde ont été trouvés. Souhaitez-vous restaurer et utiliser la configuration des fichiers de sauvegarde ? Il n’est pas conseillé de restaurer des fichiers de sauvegarde lors de la mise à niveau depuis la version 7.5 ou inférieure vers la version 8.0 ou supérieure.
+La restauration des sauvegardes des fichiers de propriétés a échoué. Veuillez reconfigurer votre portail en cliquant SUIVANT.
+Les sauvegardes des fichiers de propriétés on été restaurées. Veuillez redémarrer le service MicroStrategy Subscription Server avant de continuer.
+Filtrer les noms de tables
+Conseil : Le préfixe du système vous permet de créer les tables de l'entrepôt pour plusieurs systèmes Narrowcast Server dans le même emplacement de base de données. Par exemple, vous pouvez utiliser le préfixe TEST pour un système de test ou le préfixe PROD pour un système de production. Un préfixe de système valide est constitué de caractères et de nombres, et commence par un caractère. Le préfixe ne peut pas dépasser une longueur de huit caractères.
+Le nom de base de données alias '#' est déjà utilisé. Choisissez un nom de base de données alias différent
+Nombre de connexions regroupées
+Le système est actuellement indisponible. Le dossier de l'application a été défini comme inactif.
+Ce produit contient des composants binaires protégés par le Copyright (c) 1995-2015 The Cryptix Foundation Limited. Tous droits réservés. La redistribution et l'utilisation sous forme source et binaire, avec ou sans modification, sont autorisées dans les conditions suivantes : 1. Les redistributions de code source doivent conserver l'avis de copyright, cette liste de conditions et l'avertissement suivant. 2. Les redistributions sous forme binaire doivent reproduire l'avis de copyright ci-dessus, cette liste de conditions et l'avertissement suivant dans la documentation et/ou d'autres documents fournis avec la distribution.
+CE LOGICIEL EST FOURNI PAR THE CRYPTIX FOUNDATION LIMITED ET DES CONTRIBUTEURS “TEL QUEL”, ET TOUTE GARANTIE EXPRESSE OU IMPLICITE, Y COMPRIS, MAIS SANS S'Y LIMITER, LES GARANTIES IMPLICITES DE QUALITÉ MARCHANDE ET D'ADÉQUATION À UN USAGE PARTICULIER SONT REJETÉES. EN AUCUN CAS THE CRYPTIX FOUNDATION LIMITED OU LES CONTRIBUTEURS SERONT RESPONSABLES POUR TOUS DOMMAGES DIRECTS, INDIRECTS, ACCIDENTELS, SPÉCIAUX, EXEMPLAIRES OU CONSÉQUENTS (Y COMPRIS, MAIS SANS S'Y LIMITER, L'APPROVISIONNEMENT EN BIENS OU SERVICES DE SUBSTITUTION, LA PERTE D'UTILISATION, DE DONNÉES OU DE PROFITS, OU L'INTERRUPTION D'ACTIVITÉ COMMERCIALE) PROVOQUÉS DE QUELQUE FAÇON QUE CE SOIT ET SOUS QUELQUE THÉORIE DE RESPONSABILITÉ, QUE CE SOIT DANS LE CONTRAT, EN RESPONSABILITÉ STRICTE OU DÉLICTUELLE (ENTRE AUTRES LA NÉGLIGENCE) SURVENANT DE QUELQUE FAÇON QUE CE SOIT SUITE À L'UTILISATION DE CE LOGICIEL, MÊME EN CAS D'AVERTISSEMENT DE L'ÉVENTUALITÉ DE TELS DOMMAGES.
+DataDirect
+Cryptix
+Ce service contient un type d'invite non pris en charge.
+Erreur lors du chargement des informations de dossier.  Le dossier ou ses dossiers de niveau supérieur sont peut-être inactifs.
+Tout le contenu est protégé par les droits d'auteur de MicroStrategy. Copyright
+2015
+Incorporated. Tous droits réservés.
+Anglais (US)
+Anglais (GB)
+Allemand
+Italien
+Portugais
+Espagnol
+Français
+Suédois
+Japonais
+Coréen
+Chinois (Simplifié)
+Chinois (Traditionnel)
+Système
+Prénom
+Nom de famille
+Autre prénom
+Suffixe
+Titre
+Salutation
+Addresse
+Ville
+(State)
+Code Postal
+Pays
+Indiquez des réponses dans les champs de détails d'utilisateur suivants
+Définir les détails d'utilisateur

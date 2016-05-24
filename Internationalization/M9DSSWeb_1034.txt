@@ -1,0 +1,2805 @@
+Copyright © 1996-2002 MicroStrategy, Incorporated. All rights reserved. Confidential.
+Inicio
+Informes compartidos
+Mis informes
+Historial
+Crear informe
+Vertical
+Horizontal
+Salir de la sesión
+Orientación:
+Buscar
+Proyecto
+Tamaño del papel:
+Todos los derechos reservados. Confidencial.
+NIVEL DE PREFERENCIAS
+Servidor:
+Puerto
+Nombre de usuario
+Contraseña
+Guardar mi contraseña
+INICIAR SESIÓN
+Deshacer cambios
+El tamaño del papel, la orientación y los márgenes deben corresponder con la configuración del navegador.
+Introduzca su antigua y su nueva contraseña.
+Origen de datos
+Agregar a mi Historial
+Iniciar sesión
+Error ejecutando el documento. Contacte con su Administrador.
+Iniciar sesión como Invitado
+Carta 215.90 x 279.40 mm
+Error de sesión
+Esta sesión es inválida porque se perdió la conexión. Por favor, conéctese de nuevo.
+Oficio 215.90 x 355.60 mm
+Conectar como Usuario de Windows
+A4 210.00 x 297.00 mm
+Folio 215.90 x 330.20 mm
+Nombre del servidor
+Proyectos
+BIENVENIDO
+Descripción
+Acerca de MicroStrategy Web ##
+Los siguientes servidores no están operando:
+Ir a la página del administrador
+¿Utilizar archivos temporales en el Servidor de Web?
+Búsqueda rápida
+avanzado...
+Hora de creación del mensaje del historial: ##
+Explorar una lista de informes preparados disponibles para todos los usuarios.
+Ver informes que he creado y guardado para su uso posterior.
+Crear y publicar un nuevo informe en este sitio.
+Ver un resumen actualizado del estado de mis peticiones.
+Usted está aquí:
+Automáticamente
+Manualmente
+ID de carpeta
+No existen jerarquías en este proyecto.
+objeto(s)
+No puede hacer una búsqueda de atributos de este tipo.
+Página ## de ###
+Factor de balance de carga
+Propietario
+Modificado
+Siempre
+Nunca
+Borrar carpeta
+Borrar informe
+Borrar documento
+carpeta(s)
+informe(s)
+documento(s)
+Esta carpeta está vacía.
+Requerido sólo para usuarios de Internet Explorer 4.x.
+Sus preferencias por defecto del proyecto no pudieron ser guardadas. Puede que sus permisos en el Servidor de Web o en sus contenidos no sean correctos.
+Resultados de la búsqueda:
+Plantilla(s) del informe
+La carpeta "##" no está disponible.
+ID del Trabajo
+ID del informe:
+Nombre del informe:
+Modo de visualización
+ID del Mensaje:
+Procesando petición...
+Su petición ha sido enviada. Por favor, espere...
+Permitir elegir al usuario, el valor por defecto es No
+Permitir elegir al usuario, el valor por defecto es Sí
+Espere mientras se exporta su informe.
+El tiempo de procesamiento dependerá del tamaño del informe.
+Última Actualización:
+Debe introducir un nombre para el informe.
+No pudo encontrarse el propietario de uno de los objetos de los resultados de la búsqueda. Falló la búsqueda.
+Paso ##
+Estado actual:
+Informe preparado
+Revisando las selecciones dinámicas
+Selecciones dinámicas preparadas
+Ejecutando...
+Error
+Ejecutando...
+segundo(s)
+Información de contacto:
+Número máximo de búsquedas concurrentes:
+Información de contacto del Administrador
+Solicitado
+Revisar Estado de nuevo
+Cancelar Petición
+En la cuadrícula negra de abajo verá los números "12345" si su navegador soporta archivos CSS. ¿Ve dichos números?
+INFORMES RELACIONADOS
+Sí. Mi navegador soporta esta configuración.
+No. Utilizar una configuración distinta.
+Su petición ha excedido el tiempo máximo de espera. Vuelva a intentarlo más tarde.
+Ir a
+Ejecutando
+Azul y Gris
+Renglones:
+Tabla
+Gráfico
+Mensajes ## - ### de ####
+## - ### de ####
+Guardar
+Ejecutar la selección dinámica de nuevo
+Versión para imprimir
+Exportar datos
+Columnas
+Colorido
+Agent
+Clásico
+Contabilidad
+Financiero
+Bandas Grises
+¿Utilizar HTML dinámico?
+Pasteles
+Rojo y Negro
+Romántico
+Tipo Pequeño
+Aplicar
+Ocultar botones para cambiar la situación de objetos
+Mostrar botones para cambiar la situación de los objetos
+Mover a filas
+Subir
+Bajar
+Paginar por este campo
+Mover a columnas
+Mover el encabezado a la izquierda
+Mover el encabezado a la derecha
+Ordenar
+Navegar
+Desde:
+Hasta:
+Opciones de navegación:
+Navegar sólo en las selecciones
+¿Qué es esto?
+Mantener padre en la navegación
+Arriba
+Abajo
+Cuadrados
+para
+Mostrar modo de navegación
+Ocultar modo de navegación
+Atardecer
+Columnas:
+Más páginas
+Más columnas
+Primera página
+Última página
+No se devolvieron datos para este informe.
+Error al llamar a Sleep
+Ocultar búsquedas
+Mostrar búsquedas
+Visualizar:
+Formato de cuadrícula
+Ocultar barra de opciones
+Mostrar barra de herramientas
+Publicar
+No hay información disponible para navegar.
+Ocultar detalles del filtro
+Mostrar detalles del filtro
+Volver a navegación simple
+El formato correcto para el operador No entre es valor1;valor2
+Detalles del filtro:
+El filtro está vacío.
+mientras se navega
+- ninguno -
+Los datos en este informe no son suficientes para desplegar el subtipo de gráfico pedido. Intente utilizar otro subtipo de gráfico.
+Navegar a
+Actualizar mi Historial
+No pudo encontrarse el mensaje para el trabajo o no pudieron obtenerse los resultados de MicroStrategy Server.
+Borrar mi Historial
+Estado
+Hora de inicio
+Detalles
+Quitar
+Ordenar ascendentemente
+Ordenar descendentemente
+Último informe:
+marcar como "no leído"
+Último documento:
+Preparado
+Esperando la selección dinámica
+Procesando
+Generando SQL
+Ejecutando SQL
+Motor analítico procesando
+Buscando la caché
+Creando caché
+Esperando en cola
+Esperando la configuración
+Proyecto está inactivo
+Ejecutando los informes hijo
+Preparando resultados
+El Historial del usuario está lleno. Si quiere ejecutar un informe, necesita borrar uno o más mensajes.
+páginas
+No preguntar de nuevo.
+Continuar
+Debido a un error del servidor de Web, los contenidos de este informe no pudieron ser exportados. Por favor, intente con otro informe.
+Paginado por:
+Está a punto de salir de todos los proyectos.
+Seleccione una de las siguientes opciones y Pulse el botón de Salir de sesión:
+¿Desea quitar los trabajos terminados de la lista del Historial?
+No
+Sí
+¿Desea cancelar las peticiones pendientes de esta sesión?
+Cancelar
+Sólo los mensajes leídos
+No preguntar otra vez.
+SALIR DE LA SESIÓN
+El usuario pudo haberse desconectado o no haber utilizado la sesión durante mucho tiempo. La conexión ha expirado, por favor conéctese de nuevo.
+Debido a un error en el servidor de Web, su petición no pudo ser procesada. Por favor, inténtelo de nuevo más tarde.
+ID del documento:
+Nombre del documento:
+Puede revisar el Historial o intentarlo después.
+Error al comprobar el estado del documento
+Número de error
+Documento listo
+Selección dinámica preparada
+ÍNDICE
+CONTENIDO
+FAQ's
+Última carpeta:
+No existen datos para este documento.
+Documento
+Visualización de la cuadrícula
+Página de inicio actual:
+Estilo por defecto en la cuadrícula:
+Número máximo de filas en la cuadrícula:
+Número máximo de columnas en la cuadrícula:
+Configuración regional
+Exportar
+Excel con formato (versión 2000 o mayor)
+Excel sin formato
+Excel en texto sin formato
+Formato de archivo CSV
+Abrir una ventana nueva al exportar
+Opciones para imprimir
+Texto de encabezado:
+Texto de pie de página:
+Modo de inicio de sesión
+Estilo para la numeración de páginas:
+(ninguno)
+Página 1 de n
+Página de inicio por defecto:
+Activado
+¿Cancelar las peticiones pendientes de esta sesión?
+Combinar encabezados de columnas
+Repetir encabezados de columnas
+¿Quitar los trabajos terminados de la lista del Historial?
+Aplicar a TODOS los proyectos.
+Valores por defecto del proyecto
+(por defecto)
+Visualización del gráfico
+Tamaño del gráfico:
+Usar la configuración almacenada en la definición del informe
+Altura:
+Ancho:
+Número máximo de columnas a exportar a Excel:
+Estándar (nombre de usuario y contraseña)
+Agregar informes y documentos a mi Historial:
+OTRAS OPCIONES DE DOCUMENTOS
+Mostrar la opción de "Recordar mi contraseña" en la página de entrada
+Invitado
+No se puede abrir el archivo XSL necesario para el documento. Quizá falte el archivo o contenga errores.
+Error escribiendo las imágenes del gráfico en el disco local. Asegúrese de que tiene espacio en el disco duro.
+Error al combinar el XML del informe con el archivo XSL para generar el resultado HTML.
+Mostrar detalles del documento
+Carpeta superior:
+Preferencias de usuario
+Mis informes
+Debe iniciar la sesión en este proyecto para continuar.
+Valores por Defecto del Proyecto
+Preferencias de Usuario
+Utilizar valores por defecto
+Páginas por bloque:
+Número máximo de filas a exportar a Excel con formato o a HTML:
+Número máximo de filas a exportar a Excel o CSV:
+Cambiar mi contraseña
+Entre
+General
+Registro de errores:
+Puede utilizar el comodín "?" para indicar un solo carácter.
+Verificación de Seguridad de Windows
+¿Utilizar un plug-in de seguridad personalizado?
+Clase del plug-in de seguridad:
+Puede utilizar el comodín "*" para indicar varios caracteres.
+Sólo al iniciar la sesión
+Antes de ejecutar cada informe
+Modo asíncrono
+Modo síncrono
+Intervalo de tiempo antes de abrir la página de espera:
+Mostrar suscripciones
+y
+Modo de ejecución
+Detalles del filtro
+Registrar errores
+INSTRUCCIONES
+Ocultar suscripciones
+Imprimir
+Preguntarme al salir de sesión
+Mostrar opciones al imprimir
+Registrar advertencias
+Mostrar propiedades
+Ocultar propiedades
+## máximo
+Texto sin formato
+Imprimir detalles del filtro:
+Al principio de la impresión
+En la parte superior de cada página
+Exportar detalles del filtro
+Selecciones dinámicas
+Número de elementos a mostrar por bloque:
+Informe completo
+Sólo porción desplegada
+Volver arriba
+No puede entrar como un Usuario de Windows.
+Debe introducir un nombre para la carpeta.
+Canal activado (el canal se encuentra visible para los usuarios finales)
+Mensaje de error:
+Volver al Directorio Superior
+Error al ejecutar el informe
+Tipo de gráfico
+Área vertical
+Área horizontal
+Barra vertical
+Barras horizontales
+Línea vertical
+Líneas horizontales
+Circular
+Dispersión
+Polar
+Radial
+Burbuja
+MaxMin... Cotizaciones
+Histograma
+Columnas Piramidal en 3D
+Flotante en 3D
+Grupo conectado en 3D
+Serie conectada en 3D
+Superficie en 3D
+Dispersión en 3D
+Subtipo de gráfico
+Absoluta
+Apilado
+Bipolar absoluta
+Bipolar apilada
+Doble eje absoluto
+Doble eje apilado
+Porcentaje
+Lado a lado
+Doble eje lado a lado
+Bipolar lado a lado
+Anillo
+Circular múltiple
+Anillos múltiples
+Circular proporcional múltiple
+Anillo proporcional múltiple
+Atrás
+Formato de Imagen:
+Doble eje X-Y dispersión
+Dispersión X-Y con  etiquetas
+Doble eje X-Y dispersión con etiquetas
+Doble eje polar
+Coordenadas polares
+Doble eje coordenadas polar
+Gráfico de coordenadas
+Línea Radial
+Area apilada radial
+Doble eje línea radial
+Doble eje área apilada radial
+Burbuja en doble eje
+Cotizaciones doble eje
+Cotizaciones abierto
+Cotizaciones abierto en doble eje
+Cotizaciones abierto-cerrado
+Cotizaciones abierto-cerrado en doble eje
+Histograma vertical
+Histograma horizontal
+Barras
+Pirámides
+Octágonos
+Barras de ángulos recortados
+Cubos
+Esferas
+Áreas
+Cintas
+Pasos
+Superficie en 3D con lados
+Superficie de panal en 3D
+Dispersión XYZ en 3D
+Dispersión XYZ en 3D con etiquetas
+Dispersión X-Y
+Cotizaciones
+Volver a la carpeta:
+Volver al informe:
+Volver al documento:
+Su Historial está vacío.
+Gracias por utilizar MicroStrategy Web.
+Ha sido desconectado de la sesión.
+Para entrar de nuevo a este sitio, pulse el botón de abajo.
+No se puede exportar
+No se puede exportar este informe porque ha excedido los límites que el Administrador ha impuesto para el máximo número de filas y columnas a exportar.
+Manipule el informe o contacte con el Administrador.
+Para poder utilizar MicroStrategy Web, debe estar conectado al menos a un proyecto.
+No existen Servidores MicroStrategy registrados en el Servidor de Web.
+No existen proyectos activos en el servidor ##.
+El nombre de usuario y/o la contraseña son incorrectos. Por favor, inténtelo de nuevo. Recuerde que en la contraseña se distinguen las mayúsculas de las minúsculas.
+Su contraseña es incorrecta. Por favor, inténtelo de nuevo. Recuerde que en la contraseña se distinguen las mayúsculas de las minúsculas.
+No se obtuvieron datos del contenido de la carpeta.
+La ejecución del informe falló.
+No se pudo obtener el informe del servidor.
+El informe no pudo ser reconstruido.
+La configuración del navegador puede ser incorrecta. Por favor, verifique que las cookies estén habilitadas.
+Error al acceder el Historial del usuario.
+Los Mensajes de la Lista Histórica de caches no pudieron ser obtenidos del Servidor MicroStrategy.
+Los Mensajes de la Lista Histórica de caches no pudieron ser eliminados del Servidor MicroStrategy.
+Error al configurar el estado del mensaje en el Servidor MicroStrategy.
+No se encontraron carpetas, informes ni documentos en este lugar.
+Propiedades
+Debido a un error de sintaxis, la petición de pivotar no fue completada.
+Debido a un error de sintaxis, la petición de paginación no fue completada.
+Debido a un error de sintaxis, las peticiones de paginación y de pivotar no fueron completadas.
+Debido a un error de sintaxis, la petición de ordenar no fue completada.
+Debido a un error de sintaxis, las peticiones de pivotar y de ordenar no fueron completadas.
+Debido a un error de sintaxis, las peticiones de paginación y de ordenar no fueron completadas.
+Debido a un error de sintaxis, las peticiones de paginación, de pivotar y de ordenar no fueron completadas.
+El informe no pudo ser mostrado.
+Algunas de las sesiones no pudieron ser cerradas. El Servidor MicroStrategy pudo haber cerrado la sesión o no está respondiendo.
+Algunas selecciones dinámicas no pudieron ser mostradas.
+Todas las selecciones dinámicas fallaron.
+La ejecución del documento falló.
+El documento no pudo ser obtenido del servidor.
+Los proyectos no pudieron ser visualizados.
+El Historial no pudo ser visualizado.
+El proyecto no está disponible.
+Error al guardar las preferencias del usuario.
+Sus preferencias personales no pudieron ser guardadas. La configuración de su navegador puede ser incorrecta.
+Confirmación de la actualización
+Sus preferencias personales han sido guardadas.
+No se puede visualizar la página.
+Por favor, contacte con su administrador.
+No se encontró la configuración.
+Sus preferencias personales no se encontraron. La configuración de su navegador puede ser incorrecta. Asegúrese de habilitar el uso de cookies.
+Información no válida
+Corrija los campos marcados y pruebe de nuevo.
+Los campos incorrectos han sido ignorados y se han guardado los valores por defecto.
+No se ha encontrado MicroStrategy Server al que se está tratando de conectar. Inténtelo de nuevo.
+Usted no tiene permisos de acceso al proyecto seleccionado.
+Ha seleccionado demasiados objetos para una selección dinámica de objeto.
+Ha seleccionado muy pocos objetos para una selección dinámica de objeto.
+Ha seleccionado demasiados elementos para una selección dinámica de elemento.
+Ha seleccionado muy pocos elementos para una selección dinámica de elemento.
+Esta cuenta ha sido inhabilitada por el administrador.
+La contraseña ha expirado.
+Usted no está autorizado para cambiar su contraseña.
+No hay objeto que borrar.
+El formato correcto para el operador Entre es valor1;valor2
+La versión de MicroStrategy Server y la versión del cliente son incompatibles
+No se pudo llamar a la función Sleep en la ejecución síncrona.
+Esta selección dinámica es requerida y debe ser contestada.
+Introduzca un valor en el campo de texto.
+La conexión con MicroStrategy Server se ha perdido. Por favor, conecte de nuevo...
+El siguiente archivo no se registró correctamente en el Servidor de Web: M8dssxml.dll. Contacte con el Administrador para más conocer más detalles.
+Utilice la página de Administrador para configurar algunos proyectos.
+Uno o más de los servidores puede que estén apagados.
+Seleccione algunos elementos antes de navegar
+No puede calificar más de un componente a la vez.
+Las selecciones dinámicas para este informe no pudieron ser mostradas porque ya han sido contestadas.
+Error al cargar
+Si elimina esta carpeta también se borrará su contenido en el servidor.
+Lista de Mensajes de Error
+Hora
+Descripción del error
+Archivo
+Función ASP
+Función de la API
+Comentarios
+Nivel
+Su contraseña ha sido cambiada.
+Ahora está conectado al proyecto
+como el usuario
+Cambiar Contraseña
+Su contraseña ha expirado. Necesitará cambiarla para poder conectarse.
+Contraseña anterior:
+Contraseña nueva:
+Confirmación de la contraseña nueva:
+Contraseña Expirada
+Introduzca una contraseña diferente a la que usted ya tenía.
+Rellene todos los campos mostrados a continuación:
+Actualizar
+MODO DE BÚSQUEDA
+Cargar Valores por Defecto
+Ir a mi Historial
+No más de
+No menos de
+selecciones
+ninguno
+Disponibles
+Seleccionados
+Buscar
+elementos
+Indicador
+Atributo
+Entre  (introduzca valor1 ; valor2)
+Exactamente
+Mayor que
+Mayor o igual que
+Menor que
+Menor o igual que
+Como
+No como
+Valor
+Es
+El(los) primero(s)
+El(los) último(s)
+Agregar
+Sus selecciones
+Igualar
+Todas las selecciones
+Cualquier selección
+Mis selecciones
+Agregar a las selecciones
+Buscar por:
+Ejecutar Informe
+Guardar informe
+Calificar sobre la descripción del atributo.
+Volver a seleccionar jerarquía
+Elegir jerarquía
+Otras jerarquías:
+Operador
+Calificar
+Seleccionar
+Elementos
+Carpeta actual
+Subcarpetas
+Contenidos de la carpeta
+Introduzca los criterios de búsqueda.
+La lista puede ser larga.
+No hay elementos de entrada en esta jerarquía.
+¿NECESITA AYUDA?
+¿Qué son los informes compartidos?
+¿Qué es un documento?
+¿Cómo selecciono otro proyecto?
+Ha sobrepasado el número máximo de mensajes por usuario. Contacte con el Administrador.
+¿Qué son los valores por defecto del proyecto?
+¿Puedo obtener más información acerca de los valores por defecto del proyecto?
+¿Puede un usuario cambiar los valores por defecto del proyecto?
+Se ha sobrepasado el número máximo de mensajes por proyecto. Contacte con el Administrador.
+¿Qué son preferencias de usuario?
+¿Qué significa "Aplicar a TODOS los proyectos"?
+¿Cómo deshago los cambios y regreso a la página de inicio?
+¿Qué significa "Cargar Valores por Defecto"?
+¿Qué es el Historial?
+¿Cómo borro informes y documentos de mi Historial?
+¿Cómo puedo ordenar my Historial?
+¿Qué significa "Esperar en cola"?
+¿Qué son Mis informes?
+¿Qué es un informe?
+¿Cómo creo un informe?
+¿Qué significa borrar?
+Después de borrar un objeto, ¿puedo recuperarlo?
+¿Cómo puedo saber si mi petición está lista?
+¿Para qué sirve el botón "Agregar a mi Historial"?
+Después de seleccionar una jerarquía a la izquierda, podrá ver los atributos de dicha jerarquía en esta sección.
+¿Cómo cambio el estilo del informe?
+¿Cómo reordeno las columnas y las filas de este informe?
+¿Cómo revelo los datos que no puedo ver al hacer un desplazamiento?
+¿Cómo navego a mayor detalle por otros datos relacionados de este informe?
+Ir al paso 2
+¿Cómo busco algo?
+Otros
+En
+¿Qué tipo de peticiones se admiten?
+Nota: Netscape 6, Internet Explorer 5 y versiones posteriores soportan DHTML.
+MicroStrategy Server devolvió demasiadas filas. El Administrador puede cambiar el número máximo de filas devueltas en MicroStrategy Desktop.
+Los operadores "Like" y "Not Like" no soportan tipos de datos no textuales.
+Ha seleccionado demasiadas calificaciones para una selección dinámica de expresión.
+¿Cómo puedo obtener más detalles sobre mi informe o documento?
+Ha seleccionado muy pocas calificaciones para una selección dinámica de expresión.
+Ha seleccionado demasiadas calificaciones para una selección dinámica jerárquica.
+Ha seleccionado muy pocas calificaciones para una selección dinámica jerárquica.
+¿Por qué necesito una contraseña?
+¿Por qué necesito cambiar mi contraseña?
+¿Es su primera vez aquí, o sólo quiere aprender acerca de este sitio?
+Ayuda en línea
+¿Qué significa salir de la sesión?
+¿Puedo obtener más información acerca del sistema de seguridad?
+¿Por qué necesito iniciar la sesión?
+¿Que son los cookies y cómo se utilizan en este sitio Web?
+¿Qué significa entrar como "invitado"?
+¿Por qué expiró mi contraseña?
+¿Qué significa guardar un informe?
+No se mostraron todas las respuestas por defecto de esta selección dinámica.
+¿Cómo guardo un informe?
+¿Por qué no puedo exportar?
+(Sólo se permite tipo texto)
+No exactamente
+¿Qué son los privilegios del usuario?
+No entre (introduzca valor1 ; valor2)
+¿Para qué es esta página?
+¿Cómo configuro un servidor MicroStrategy en este servidor de Web?
+¿Qué significa publicar un servidor MicroStrategy en la Web?
+Ir al Estado del Informe Previo
+Escritorio
+Informes compartidos
+Crear informe
+Página de espera
+Resultados del informe
+Página del Administrador
+Contraseña expirada
+Detalles del trabajo
+Puede cerrar esta ventana después de que el informe sea exportado.
+Guardar como
+Borrar
+No se puede Exportar
+Privilegios de usuario
+El siguiente archivo no ha sido registrado correctamente en el Servidor de Web: M9win32.dll. Contacte con el Administrador para conocer más detalles.
+Volver a:
+Está apunto de borrar el siguiente objeto:
+Sin embargo, este informe puede ser exportado a texto sin formato seleccionando esta opción en las preferencias o al ser preguntado antes de exportar.
+Guardar el informe con las selecciones dinámicas anidadas en el filtro.
+¿Está seguro de que desea borrar este objeto?
+Confirmación de Borrado
+El objeto no existe en la metadata.
+Su petición no pudo ser procesada debido a un error del servidor.
+Inténtelo de nuevo. Si el problema persiste, contacte con el Administrador del servidor.
+Sentencia de SQL:
+Descripción del informe:
+Plantilla:
+Filtro:
+[ ... ]
+Nombre de la carpeta:
+Número total de filas:
+Número total de columnas:
+Ruta del informe:
+Ruta del documento:
+Mensaje creado:
+Última actualización del mensaje:
+Descripción del documento:
+Tiempo de terminación:
+El trabajo se está ejecutando.
+Guardar informe como:
+Nombre del informe:
+Guardar el informe como definición estática.
+Selección dinámica sin selecciones.
+Requerido
+Opcional
+Crear carpeta
+Confirmación de guardar
+Su informe ha sido guardado con éxito.
+Pulse Continuar para volver al informe original.
+Más opciones...
+Ejecute su nuevo informe:
+Ejecute el informe recién creado, desde su nueva ubicación, bajo su nuevo nombre.
+Informes guardados:
+Explorar otros informes guardados del mismo directorio donde se encuentra éste.
+Existe un informe con el mismo nombre que el nuevo informe.
+Sobrescribir
+Publicar informe como:
+Guardar la selección dinámica:
+Guardar el informe en:
+Contenido de este directorio:
+Crear carpeta:
+Puede sobrescribir éste o guardar el nuevo informe con otro nombre.
+Existe una carpeta con el mismo nombre que la nueva carpeta.
+Utilice un nombre de carpeta diferente.
+Ha introducido un nombre no válido.
+Seleccione un nombre diferente e inténtelo de nuevo.
+Guardar el informe con todas las selecciones dinámicas anidadas.
+Simple
+Contiene
+Que comience con
+Termina en
+Ubicación:
+En todas las carpetas
+Sólo carpeta interior
+Modo de navegación
+Encontrar todos los objetos
+Creado
+La versión de MicroStrategy Server al que intenta conectarse no es compatible con esta versión de MicroStrategy Web. Debe ser ## o superior.
+Entre
+Durante los últimos
+Creado por cualquier usuario
+Creado sólo por mí
+La descripción incluye:
+y
+Avanzado
+Página de Búsqueda
+Revisar el nombre del objeto.
+Consultar la sección ##.
+Fecha de creación/modificación:
+Día(s)
+Hora(s)
+Año(s)
+Mes(es)
+Ayuda para búsquedas
+Consejos para búsquedas:
+Utilizar los criterios de "contenido".
+Semana(s)
+La búsqueda por ## no devolvió resultados.
+Su búsqueda no devolvió resultados.
+Tipo de objeto:
+Intentar ##búsqueda avanzada###para tener más opciones de búsqueda.
+Preferencias avanzadas
+Si desea contestar la selección dinámica de nuevo, ejecute el documento otra vez.
+Nueva búsqueda
+Detalles de la búsqueda
+objeto(s) encontrado(s)
+En caso de ser manual, ¿cuántos de los informes y documentos ejecutados más recientemente desea que estén disponibles para su manipulación?
+Nota: Estos informes y documentos estarán disponibles para su manipulación aunque no estén guardados en el historial.
+Acceso denegado
+Se requiere tener el siguiente privilegio para acceder la funcionalidad que usted pidió:
+Contacte con el Administrador de MicroStrategy Server para verificar que el privilegio requerido se ha concedido.
+Advertencia: No se puede guardar este documento en el Historial.
+OTRAS OPCIONES DE HISTORIAL
+Esta selección dinámica requiere un valor entre ## y ###.
+Esta selección dinámica requiere un valor mayor o igual que ##.
+Esta selección dinámica requiere un valor menor o igual que ##.
+Esta selección dinámica requiere un valor anterior o igual a ##.
+Esta selección dinámica requiere un valor posterior o igual a ##.
+Permitir navegación sólo con hipervínculos
+Permitir navegación a mayor detalle simple
+Permitir navegación en todas direcciones
+No tiene permiso para guardar informes en la carpeta "Informes Compartidos".
+No tiene permiso para guardar informes en la carpeta "Mis Informes".
+El texto introducido es demasiado largo. Inténtelo de nuevo.
+El texto introducido es demasiado corto. Inténtelo de nuevo.
+Usted no tiene los permisos necesarios para acceder al recurso que solicitó. Si este problema persiste, contacte con el administrador de MicroStrategy Server.
+Nombre no válido para la clase del plug-in de seguridad
+El nombre del usuario y/o la contraseña son inválidos. Por favor verifique que el plug-in de seguridad esté instalado y registrado adecuadamente.
+No entre
+MicroStrategy Server no está disponible. Puede estar desconectado o apagado.
+Detalles del error:
+ID del error de MicroStrategy Web XMLAPI:
+El Servidor de Web encontró un error desconocido en tiempo de ejecución.
+Revise  el archivo de registro de MicroStrategy Web para más detalles.
+No se puede exportar este informe porque ha excedido los límites que el Administrador ha impuesto para el máximo número de filas y columnas a exportar a Excel, CSV o HTML.
+Deshabilitar todas las navegaciones
+Advertencia: No se puede guardar este informe en el Historial.
+Servidores conectados:
+Grupo
+Modo de conexión
+Cargado
+Ocupado
+Libres
+Máximo tamaño compartido
+Acción
+Mostrar los nombres de las representaciones de los attributos
+Modificar
+Desconectar
+Conectar
+Modificar
+Servidores no conectados:
+Tamaño compartido inicial
+Usuario conectara manualmente el Web Server al Intelligence Server
+Conectar automáticamente con Intelligence Server cuando se reinicie Web Server o Intelligence Server
+Mostrar Todos los Servidores Disponibles
+Actualizar
+Agregar un servidor manualmente
+Detalles de las propiedades del servidor
+Conectado
+Todos los servidores disponibles
+No hay ningún MicroStrategy Server disponible en este momento.
+No hay ningún MicroStrategy Server conectado en este momento.
+No se ha desconectado ningún MicroStrategy Server recientemente.
+No se pudo realizar la acción porque no dispone de acceso de escritura para este objeto o su carpeta padre.
+¿Qué propósito tiene una petición?
+Ocultar todos los Servidores Disponibles
+ACERCA DE
+La carpeta que usted está tratando de abrir no existe en este proyecto.
+El informe que usted está tratando de ejecutar no existe en este proyecto.
+El documento que usted está tratando de ejecutar no existe en este proyecto.
+Jerarquía del sistema
+Siguiente(s) proyecto(s)
+Proyectos anteriores
+Versión ASP:
+Versión del XML API:
+Versión del navegador:
+Cookies de MicroStrategy Web:
+Versión de MicroStrategy Server:
+Mostrar informes de gráfico por defecto en el modo de visualización 'Cuadrícula y gráfico'
+Ocultar cuadrícula
+Registrar la ruta de las llamadas a función que causaron errores
+Arriba
+Parado
+Error cargando los datos del XML.
+Uno de los nodos del XML no se encuentra disponible. Contacte con el administrador para más detalles.
+El siguiente archivo no ha sido registrado correctamente en el Servidor de Web: scrrun.dll. Contacte con el Administrador para conocer más detalles.
+El siguiente archivo no ha sido registrado correctamente en el Servidor de Web: MSXML.dll. Contacte con el Administrador para conocer más detalles.
+Error interno en la red: no se pudo desempaquetar el mensaje. Esto puede haber sido causado por versiones incompatibles de MicroStrategy Web y MicroStrategy Intelligence Server.
+Error al iniciar sesión
+Error al cambiar la contraseña
+Error en informes compartidos
+Error en mis informes
+Error en la selección dinámica
+Error en los resultados del informe
+Error en el Historial
+Error en los detalles del trabajo
+Error al guardar
+Error al buscar
+Error al borrar
+Error al crear informe
+Error en la ayuda en línea
+Error al salir de la sesión
+El archivo no existe.
+Error al abrir el archivo.
+Error al leer el archivo.
+Error de MicroStrategy Server:
+Error cargando los proyectos
+Error al leer la definición de la selección dinámica en MicroStrategy Server. Ejecute el informe o documento de nuevo.
+Error cargando la selección dinámica.
+Mostrar informes hijos
+Ocultar informes hijos
+La contraseña no coincide con la confirmación. Introdúzcala otra vez.
+Mostrar informes contenidos en los documentos
+Esconder informes contenidos en los documentos
+Usted no está autorizado para cambiar la contraseña de otro usuario
+Error al intentar leer los archivos de ayuda. Vulva a intentarlo y si se repite el problema, contacte con el Administrador del Servidor de Web.
+Error al buscar la carpeta.
+Examinar
+Documentos
+Petición de navegar no válida. Se canceló la petición.
+No se pudo ejecutar el comando de navegación.
+Navegar a mayor detalle
+Error al ejecutar el trabajo.
+Error al mostrar las selecciones dinámicas.
+Tiempo de espera antes de actualizar la página:
+Ordenar por:
+Advertencias
+Errores
+Anteriores ##
+Siguientes ##
+MicroStrategy Web es un producto de
+Exportar
+Formato de gráfico
+Formato de cuadrícula
+INVITADOS
+¿No tiene una cuenta?
+Puede entrar en este sitio como invitado. Pulse abajo.
+Recuperación incremental
+Puede iniciar la sesión en este sitio con sus credenciales de Windows. Sólo tiene que hacer clic en el vínculo siguiente.
+Inicio de sesión - cierre de sesión - seguridad
+Paginación según
+Bienvenido
+Si no es ##,
+pulse aquí
+Preferencias
+Pivotar
+Mostrar los detalles del informe
+Volver al directorio superior
+Imprimir
+Ejecución de informes y documentos
+Guardar informes
+Ver el registro de errores
+Seleccione un día:
+Mes
+Día
+Año
+Mensajes
+Quitar de las selecciones
+mínimo ##
+Mantener siempre
+Borrar siempre
+Preguntar al usuario al salir
+Preguntar al usuario al imprimir
+Preguntar al usuario
+Número de objetos a mostrar por bloque:
+Informes compartidos y mis informes
+Ordenar
+Ordenar la lista
+Pulse en el título de la columna que desea ordenar.
+Volver al informe
+Pida al administrador de MicroStrategy Server que vincule la cuenta de este usuario de Windows a un usuario de MicroStrategy Server o que configure correctamente el servidor de Web.
+Espere, por favor...
+Archivo de encabezado:
+Archivo de pie de página:
+Utilice la búsqueda avanzada para especificar restricciones en la fecha, en el tipo de objeto y en la descripción.
+Los valores por defecto del proyecto han sido guardados.
+Introduzca una fecha válida.
+DESCRIPCIÓN DE LA CARPETA
+Las opciones de impresión le permiten personalizar la apariencia del informe antes de imprimirlo.
+Una vez mostrado el informe, podrá imprimirlo utilizando la funcionalidad de impresión de su navegador.
+En (introduzca valor1; valor2; ...; valorN)
+Error al contestar la selección dinámica. Revise sus respuestas.
+Número máximo de filas por página:
+Número máximo de columnas por página:
+Número de filas por página por defecto:
+Número de columnas por página por defecto:
+No se encontró la plantilla de HTML en MicroStrategy Server.
+Ocultar la ayuda
+Mostrar la ayuda
+Ocultar esta sección
+Mostrar esta sección
+Estilo de la cuadrícula
+Utilizar el formato almacenado en la definición del informe
+Utilizar mi estilo de cuadrícula por defecto
+Estilo de informe desconocido
+Servidor de Web
+Tiempo máximo de espera en la conexión con el Servidor:
+Utilice las líneas de guía provistas para ajustar el tamaño del informe antes de imprimir.
+Esta selección dinámica requiere entre ## y ### selecciones.
+Esta selección dinámica requiere al menos ## selecciones.
+Esta selección dinámica no puede aceptar más de ## selecciones.
+Número de filas en la cuadrícula por página:
+Número de columnas en la cuadrícula por página:
+Error en los resultados del documento
+Añadir...
+Método para enviar los datos
+Opciones avanzadas:
+Ejecutar Documento
+Asistencia técnica
+Los resultados de este informe ya no están disponibles. Envíe de nuevo la petición.
+Determinar automáticamente
+Ejecutar el Informe de nuevo
+Ejecutar el Documento de nuevo
+Error al obtener el XML de la respuesta de la selección dinámica.
+OTRAS OPCIONES PARA EL INFORME
+Mostrar Información Avanzada
+ESTILOS DE GRÁFICOS
+Ocultar Información Avanzada
+Esta selección dinámica requiere exactamente ## selecciones.
+Imposible mostrar los contenidos de esta página porque MicroStrategy Server no está inicializado. Contacte con el Administrador.
+Error en la página del Administrador
+El siguiente archivo no ha sido registrado correctamente en el Servidor de Web: MAWeb.dll. Por favor contacte con el administrador para conocer más detalles.
+El Servidor de Web encontró un error al actualizar los grupos de servidores.
+El Servidor de Web encontró un error al conectarse al servidor:
+El Servidor de Web encontró un error al desconectarse del servidor:
+El Servidor de Web encontró un error al obtener la información del grupo de servidores.
+El Servidor de Web encontró un error al buscar los Servidores de MicroStrategy disponibles y cargarlos.
+Nombre
+Visualización de Lista
+Iconos grandes
+Nombre de servidor incorrecto.
+Alemán
+Inglés (Estados Unidos)
+Español (España)
+Francés
+Italiano
+Japonés
+Coreano
+Sueco
+Inglés (Gran Bretaña)
+Español (México)
+Por defecto
+El atributo está bloqueado
+La lista de elementos no puede mostrarse
+Indicadores
+## páginas anteriores
+## páginas siguientes
+## primeras páginas
+Copyright
+Actualizar datos
+Esta selección dinámica permite una selección únicamente.
+Las opciones para exportar le permiten personalizar el formato y la apariencia de los datos antes de exportarlo.
+Haga clic en Exportar para proceder con la exportación.
+Opciones para Exportar
+Introduzca valores válidos separados por punto y coma.
+Tiempo máximo de espera para la petición:
+Formato de número incorrecto, por favor inténtelo de nuevo.
+Número máximo de elementos para la búsqueda:
+Tiempo máximo de espera para la búsqueda:
+Introduzca un nombre de servidor en el cuadro de texto situado en la parte inferior de la página.
+La búsqueda dio como resultado más de ## componentes. Sólo se mostrarán los ## primeros.
+Abrir carpeta
+Siga las instrucciones señaladas con una marca roja.
+¡Advertencia!
+Ejecutar informe
+El gráfico de este informe no está disponible para los usuarios de MicroStrategy Web.
+Imposible mostrar los contenidos de esta página porque el proyecto está desactivado. Contacte con el Administrador de MicroStrategy Server.
+Esta acción no pude ser efectuada ya que no cuenta con privilegios de escritura sobre esta carpeta o informe
+Si el número de filas excede el límite impuesto por el Administrador, su informe será exportado a texto sin formato.
+Esta selección dinámica requiere al menos una selección.
+Esta selección dinámica no puede aceptar más de una selección.
+Creando nuevo trabajo
+Parámetros incorrectos en la URL
+Se requieren los siguientes parámetros en la URL:
+Se aplica a todos los proyectos excepto los que tienen alias.
+Longitud máxima del título:
+Se aplica a todos los proyectos.
+Número máximo de fichas por página:
+Alias de proyecto:
+Mostrar ficha para este proyecto
+Visualización de proyecto
+DD/MM/YYYY
+HH:MM:SS
+Abrir una ventana nueva al imprimir
+Una expresión o grupo de elementos de un atributo es equivalente a una selección.
+El archivo XSL para este documento no se encuentra o puede que contenga un formato XSL no correcto.
+Nota: Estas opciones no se aplican a las selecciones dinámicas y editores de filtro que contengan listas predefinidas de elementos u objetos.
+Más...
+,
+Seleccione un componente para la calificación.
+Error en el informe
+Error en el documento
+Esta acción no se pudo llevar a cabo porque usted no tiene privilegios para crear objetos.
+Exportar valores numéricos como:
+Números
+Texto
+Actualizar el informe:
+Recuperar los datos del último caché válido del Servidor MicroStrategy
+Ejecutar de nuevo conforme al warehouse
+Ocultar totales
+Mostrar totales
+Este informe ha excedido el numero de celdas permitido por el Controloador de XML de MicroStrategy Server.
+Resumen
+Imprimir la cuadrícula y el gráfico en la misma página
+Aplicar filtro a las selecciones
+Encabezados de las columnas:
+Expandir la página siguiente por campos al imprimir:
+Número máximo de filas a exportar a texto sin formato:
+Número máximo de columnas a exportar a HTML o a texto sin formato:
+Preguntarme al exportar
+Mostrar opciones al exportar
+Exportar las cuadrículas a:
+Exportar los gráficos a:
+Al exportar la cuadrícula junto con el gráfico, exportar la cuadrícula:
+Con formato
+Sin formato
+En texto sin formato
+Portugués (Brasil)
+Usar hipervínculos en el informe para:
+Navegar inmediatamente
+Abrir menú emergente
+Ver selecciones dinámicas:
+Todas en una página
+Una por página
+Mostrar las selecciones dinámicas requeridas siempre al principio
+Regresar a la página del administrador
+Se produjo un error en el informe
+Se produjo un error en el documento
+Número máximo de series y categorías:
+Series:
+Categorías:
+Coincidir mayúsculas y minúsculas
+Ubicación
+Delimitador:
+Coma
+Tabulador
+Punto y coma
+Espacio
+filtros
+plantillas
+Anterior
+Siguiente
+Pasos ## - ### de ####
+Regresar al informe
+Primeros ## pasos
+Últimos ## pasos
+o
+Regresar a la selección dinámica
+Resumen de las selecciones
+Error en el contenido de carpetas
+Selección dinámica sin respuesta
+Su selección:
+Selección dinámica ##
+La selección por defecto es:
+Exportar documentos a:
+Los resultados de los informes planificados se añaden al Historial.
+Modo indentado
+El valor de cada preferencia debe ser igual o menor al valor de la preferencia situada directamente sobre ella.
+Mostrar versión para imprimir
+Mis suscripciones
+Ver una lista de los informes a los que estoy suscrito.
+Suscribir
+Para suscribirse a este informe, seleccione una planificación y su personalización.
+¿Está seguro que desea borrar este canal?
+Con la siguiente personalización:
+Añadir suscripción
+Está suscrito a las siguientes suscripciones para este informe:
+Planificación
+Personalizado
+Dar de baja
+Editar
+Suscripciones
+Enviar este informe cada:
+El nuevo informe no puede sobreescribir versiones anteriores de sí mismo.
+Esta opción se activará automáticamente para los usuarios que no tengan acceso al Historial.
+Usted tiene ## ###suscripciones#### a este informe.
+Permitir que el usuario cambie esta preferencia
+Combinar
+Repetir
+La generación de SQL no está completa.
+Haga clic en 'Mostrar versión para imprimir' para mostrar cómo se verá el informe al imprimirlo.
+No
+Rango entre
+Excluir el más alto
+Excluir el más bajo
+Rango no entre
+Rango igual a
+Rango diferente a
+Nivel base del informe
+Nivel del informe
+Nivel por defecto
+Nivel desconocido
+Si desea ver el informe, cambie el modo de visualización a Cuadrícula. Contacte con el Administrador si desea más detalles.
+Las Preferencias de Cuadrícula referentes al número máximo de filas han sido ignoradas para este informe.
+Si desea contestar estas peticiones de nuevo, utilice la opción de Re-Ejecutar las selecciones dinámicas que se encuentra junto al informe.
+Indicadores hijos
+Si No, entonces:
+Tiene ## ###suscripciones#### a este documento.
+Quitar esta columna
+Error en Mis suscripciones
+¿Está seguro que desea sobrescribir esta suscripción?
+Confirmación de sobrescritura
+Está a punto de sobrescribir la siguiente suscripción:
+Límite del informe:
+Máquina Virtual de Java
+Sus credenciales de fuente de información han cambiado.
+Usted no tiene ninguna suscripción.
+Lista de proyectos:
+Mostrar todos los proyectos conectados al servidor de Web antes de que el usuario inicie la sesión
+Iniciar la sesión, a continuación, mostrar los proyectos a los que se tiene acceso con el id de usuario facilitado
+La contraseña que ha introducido no es correcta o el nombre de usuario y la contraseña no permiten acceder a ninguno de los proyectos disponibles actualmente en el sistema.
+Eliminar plantilla
+Eliminar filtro
+Información no disponible
+Detalles de la plantilla:
+La plantilla se ha guardado correctamente.
+El filtro se ha guardado correctamente.
+Ya existe una plantilla con ese nombre.
+Puede sobrescribirla o guardar la nueva plantilla con otro nombre.
+Ya existe un filtro con ese nombre.
+Puede sobrescribirlo o guardar el nuevo filtro con otro nombre.
+Informes
+Direcciones
+Servicios
+Acerca de
+Ayuda
+Su petición se está procesando. Por favor espere...
+MicroStrategy Narrowcast Server ews un producto de
+Opciones
+Búsqueda Rápida
+Carpetas de servicios
+Código de Error
+Descripción del Error
+Error mostrando carpetas
+Subir un nivel
+Error mostrando subcarpetas 
+Descripción:
+Servicio
+Dirección
+Personalización
+Indicadores
+Guardar cambios
+Usuario Nuevo
+Nombre del usuario:
+Contraseña:
+Para crear una nueva cuenta haga click abajo.
+Crear nueva cuenta
+Elegir una dirección:
+Crear nueva dirección
+Ha ocurrido un error en la página.
+Error recuperando direcciones
+Usted no tiene direcciones compatibles.
+error recuperando direcciones
+No hay planificaciones disponibles.
+(No hay descripción disponible)
+Error mostrando suscripciones
+No hay servicios en esta carpeta.
+No hay suscripciones a este servicio.
+Enlaces rápidos
+Anuncios
+Volver a casa
+Volver a Direcciones
+Volver a Informes
+Volver a Servicios
+Error al entrar
+El nombre del usuario o la contraseña son incorrectos. Por favor introduzcalos de nuevo.
+El nombre del usuario o la contraseña están vacios. Por favor introduzcalos de nuevo.
+Error durante la operación con al dirección
+Por favor vuelva a intentarlos o contacte al Adminsitrador del sistema.
+Uno o más campos de dirección están en blanco. Por favor inténtelo de nuevo.
+Error durante la operación con al suscripción.
+Se ha producido un error al crear una cuenta nueva
+La contraseña y la confirmaciónd e contraseña no coinciden. Por favor inténtelo de nuevo.
+El nombre del usuario, la contraseña o la pista están en blanco.
+Error alc rear la nueva cuenta de usuario
+Crear nuevo usuario
+Confirmar contraseña:
+Pista sobre la contraseña:
+Cancelar petición
+Su petición ha sido cancelada.
+Haga click en la pestaña superior para continuar.
+No se creó ninguna dirección
+Recuperando planificacioens para suscripción
+Recuperando dirección de usuario para suscripción
+Recuperando información sobre el servicio
+Recuperando servicios en carpetas
+Recuperando suscripciones de usuario
+Recuperando selección dinámica para suscrición
+Actualizando suscripciones de usuario
+Actualizando direcciones de usuario
+Creando nuevo usuario
+Validando login de usuario
+Recuperando direcciones de usuario
+Recuperando carpetas
+Procesando ...
+Confirmar nueva contraseña:
+Confirmar borrado de dirección
+Confirmar borrado de suscripción
+Está seguro de que quiere borrar la dirección?
+¿Está seguro de que desea borrar la subscripción a los servicios siguientes?
+Opciones de usuario
+Sus opciones han sido guardadas.
+Local:
+JavaScript:
+Usar JavaScript:
+Estado:
+Error recuperando informes
+Error mostrando informe
+Informe:
+Creado:
+Expira:
+Carpetas de informes
+Pendiente
+Este informe no está disponible en este momento.
+Ha ocurrido un error al recuperar sus informes.
+Ha ocurrido un error al mostrar este informe.
+Datos adjuntos
+Recuperando informe
+No hay ningún informe en esta carpeta.
+No hay planificaciones definidas en este proyecto.
+Guardar personalización como:
+Error al guardar la personalización
+Ha ocurrido un error al guardar la personalización.
+Ha olvidado su contraseña?
+Introduzca su nombre de usuario y haga click en "mostrar pista de contraseña"
+Mostrar pista de contraseña
+Su pista es:
+Error al recuperar pista
+Ha ocurrido un error al recuperar su pista.
+Volver al login
+Recuperando pista
+Actualizando perfil de usaurio
+Recuperando información sobre la dirección
+Guardando información sobre la suscripción
+Por favor introduzca el nombre de la dirección.
+Por favor introduzdca un nombre de dirección sin los siguientes caracteres:
+Por favor introduzca una dirección.
+Por favor introduzca una dirección sin espacios para los caracteres siguientes:
+Introduzca su dirección con el formato usuario@servidor.tipo tal y como se muestra en el ejemplo siguiente: jsmith@abccompany.com
+El siguiente archivo no se registró correctamente en el Servidor de Web: M9StrUtl.dll. Contacte con el Administrador para más conocer más detalles.
+Gracias por utilizar Microstrategy Narrowcast Server.
+No se ha enviado ningún archivo al servidor de Web.
+Este nombre de usuario ya se está utilizando. Por favor introduzca un nombre de usuario diferente.
+La extensión del archivo no es válida: Se admiten las siguientes extensiones: ##
+Error al actualizar su perfil de usuario.
+Ha ocurrido un error al actualizar su perfil de usuario.
+La contraseña antigua es incorrecta. Por favor introduzcala de nuevo.
+La nueva contraseña y su confirmación no coinciden. Por favor introduzcalas de nuevo.
+Error al recuperar datos.
+Ha ocurrid un error al cargar el XML. Por favor contacte con el administrador.
+MicroStrategy Narrowcast Server 7.1
+Construir
+Información de contacto del Administrador.
+E-mail:
+Teléfono:
+Introduzca una pista que le recuerde su contraseña.
+El PIN y su confirmación no coinciden. Por favor introduzcalos de nuevo.
+Guardar plantilla en:
+Guardar filtro en:
+Guardar plantilla como:
+Guardar filtro como:
+Informe
+Plantilla
+Filtro
+EJECUTAR FILTRO + PLANTILLA
+Ejecutar este filtro:
+con esta plantilla:
+Seleccionar una plantilla
+Seleccionar un filtro
+Para registrarse en una cuenta, introduzca la información que aparece a continuación.
+La información obligatoria está marcada con un asterisco rojo (*).
+Introduzca un nombre de usuario y contraseña para la cuenta nueva.  No olvide introducir la contraseña dos veces.
+Introduzca un recordatorio estrechamente asociado a la contraseña.
+Introduzca una dirección de correo electrónico.
+(por ejemplo: nombre@compañía.com)
+El proceso ha finalizado. Haga clic en el botón "Crear nueva cuenta" que aparece a continuación.
+Introduzca las credenciales de conexión para las siguientes fuentes de información.
+Se han detectado uno o más errores al procesar la petición de cuenta.
+Siga las instrucciones que aparecen en rojo a continuación y vuelva a intentarlo.
+El espacio para  el recordatorio de la contraseña está vacío. Vuelva a introducirlo.
+Cambiar mis contraseñas
+Puede cambiar una o varias de las contraseñas que aparecen a continuación.
+El nombre de usuario de la cuenta.
+El proceso ha finalizado. Haga clic en el botón "Terminar" que aparece debajo.
+Terminar
+Se han detectado uno o más errores al procesar la petición de cambio de contraseña.
+El espacio para la contraseña anterior o nueva estaba vacío. Vuelva a introducirlas.
+Importar Filtro:
+Extensiones de archivo permitidas:
+Nota: Separe las extensiones mediante comas ( ext1, ext2, ext3).
+Tamaño máximo de los archivos que se van a cargar:
+Detalles de selecciones dinámicas:
+Introduzca a continuación los nombres de usuario y contraseñas que sean necesarios.
+Obtener contenido:
+Se especificó un archivo que sobrepasa el tamaño máximo (## Kb) permitido por el administrador.
+Advertencia: No aparecen todas las rutas de navegación debido a la opción control en MicroStrategy Desktop.
+El contenido del archivo no presenta el formato necesario para procesar la información.
+Entregas
+Hasta:
+Haga clic en un nombre de documento de la parte izquierda para visualizar dicho documento.
+Enviar a la página Mis informes
+Enviar a:
+Cada:
+Registrarse en un servicio
+Examinar una lista de los servicios disponibles para todos los usuarios.
+Ver los informes planificados.
+Especificar información de contacto para las entregas de suscripciones.
+Personalizar estas pantallas en función del navegador y las preferencias de visualización.
+Suscribirse a:
+Personalizar la suscripción
+Personalice la suscricpión a este servicio, para ello conteste las preguntas que aparecen a continuación.
+Terminado
+Para quitar una suscripción, seleccione una casilla de verificación y haga clic en Dar de baja.
+Para quitar un informe o documento del historial, seleccione una casilla de verificación y haga clic en Quitar.
+Planificar
+INFORMES SUSCRITOS
+La sesión de usuario se ha perdido y ha sido desconectado automáticamente.  Conéctese de nuevo.
+Anular mi cuenta
+La cuenta se ha anulado.
+¿Está seguro de que desea anular la cuenta?
+Una vez que haya anulado la cuenta, dejará de recibir servicios y no podrá conectarse. La cuenta sólo puede anularla el administrador del portal.
+Seleccione un idioma.
+Activado (la suscripción se entregará en la planificación especificada)
+Idioma:
+Cambiar las credenciales de la fuente de información
+Cambiar credenciales
+Se han detectado uno o varios errores al procesar la petición de cambio de credenciales de fuente de información.
+A3 117.00 x 166.00 mm
+Versión SDK:
+Servidor de parte de una transacción:
+Cargar archivo
+Canales
+Activos
+Añadir un canal nuevo
+Canal activo
+Canal inactivo
+Eliminar el canal
+Crear un canal nuevo
+Editar canal
+Para crear un canal nuevo, tendrá que realizar los siguientes pasos:
+Publique una carpeta de servicios para el canal.
+Introduzca un nombre para el canal.
+No volver a mostrar esta página.
+Nombre y descripción del sitio
+Introduzca un nombre para el canal nuevo:
+Introduzca una descripción para el canal (opcional):
+Origen de error
+Seleccione los elementos de atributo que desee guardar y pulse el botón Filtro.
+Si no selecciona ningún elemento para las columnas, el nuevo informe presentará todas las columnas. Sucede lo mismo con las filas.
+Filtro
+Ocultar filtro en las selecciones
+Mostrar filtro en las selecciones
+Ocultar menú de informe
+Mostrar menú de informe
+Esta cuenta se ha anulado. Póngase en contacto con el administrador para activar de nuevo esta cuenta.
+El nombre de usuario está en blanco. Introdúzcalo de nuevo.
+La contraseña está en blanco. Introdúzcalo de nuevo.
+Español
+Inglés
+Número máximo de elementos para importar:
+Filtros compartidos
+Plantillas compartidas
+Mis objetos
+Importar filtro de un archivo:
+Introducir una dirección nueva:
+Tipos de dispositivo
+cambiar nombre ...
+definición ...
+Carpetas de dispositivo
+modificar carpetas de dispositivo ...
+Cambiar nombre
+URL de iconos grandes:
+URL de iconos pequeños:
+Formato de dirección:
+Correo electrónico
+Éste es el formato estándar para las direcciones de correo electrónico de Internet.
+Formato: xxxx@xxxxxx.xxx
+Numérico
+Mostrar campos:
+Modificar campos:
+Nombre de dirección
+Valor de dirección
+Estilo
+PIN
+Bloqueo de entrega
+Tipo de dispositivo:
+Confirmar eliminación del tipo de dispositivo
+¿Está seguro que desea eliminar el tipo de dispositivo '##'?
+Nueva definición
+Definición:
+Disponibles:
+Seleccionadas:
+No se ha seleccionado ninguna carpeta.
+Guardar filtro como definición estática.
+Guardar cualquier selección dinámica en el filtro.
+Guardar plantilla como definición estática.
+Guardar cualquier selección dinámica en la plantilla.
+El diseñador de informes ha decidido representar esta selección dinámica mediante un estilo de archivo de texto y una cesta de la compra.
+Dado que DHTML no está activado, no es posible utilizar la función para importar archivos de texto.
+Puede utilizar la cesta de la compra para responder a esta selección dinámica.
+No se puede realizar esta acción debido a que el proyecto se encuentra bloqueado.
+Paginación automática
+No se puede exportar este informe porque ha excedido los límites que el Administrador ha impuesto para el máximo número de filas y columnas a exportar a Excel o HTML.
+Sin embargo, es posible exportar este informe a Excel o CSV; para ello, seleccione esta opción en preferencias o cuando le sea solicitado antes de realizar la exportación.
+Crear tipo de dispositivo nuevo
+Utilice este formato sólo para cadenas de números.
+Formato: ########
+No se ha creado ningún tipo de dispositivo.
+Confirmar PIN
+Inactivo
+Introduzca un valor numérico para la dirección de acuerdo con el formato siguiente: #########
+Ayuda para:
+El nombre de usuario o la contraseña para el acceso a una o más fuentes de información no es correcto. Inténtelo de nuevo.
+No dispone de ningún informe.
+Seleccione una planificación para entregar el servicio.
+Seleccione una planificación de la lista siguiente.
+Seleccione el lugar de entrega del servicio.
+Para registrarse, realice los pasos siguientes:
+Seleccione un servicio.
+Especifique una planificación y una dirección.
+Personalizar el contenido del servicio (si procede).
+Personalice el contenido del servicio.
+Para personalizar el contenido de la suscripción, puede proporcionar la siguiente información:
+Si la pista no le ayuda a recordar su contraseña, póngase en contacto con el administrador del sistema para restablecerla.
+Aceptar
+Terminado
+La suscripción se ha guardado correctamente.
+Tipo de fuente:
+Guardar selecciones como (opcional)
+Realizar nuevas selecciones
+Elija de la lista de selecciones guardadas con anterioridad:
+Elija una:
+Aplicar estas selecciones
+No se ha encontrado el proyecto ## en el servidor ###.
+Nivel:
+(DESACTIVADO)
+Información del administrador:
+Una vez que haya modificado la conexión con el repositorio del portal, tendrá que volver a configurar la información del sitio.
+Una vez que haya modificado la ubicación del motor de suscripción, tendrá que volver a configurar la conexión con el repositorio del portal y la información del sitio.
+Después de: ## días.
+Cambiar nombre y descripción
+Configuración
+¿Configurado?
+Nombre de la conexión con la base de datos:
+Conexiones con la base de datos
+Conexiones con la base de datos:
+Dispositivo por defecto:
+Idioma por defecto:
+Configuración regional por defecto para nuevos usuarios:
+DHTML por defecto:
+Desactivar
+¿Desea continuar?
+Repositorio de documentos:
+Activar creación de nuevos usuarios:
+Introduzca el nombre del servidor que esté ejecutando el motor de suscripción:
+Introduzca una descripción y un nombre exclusivos del portal.
+Configuración de la interfaz de usuario gráfica:
+Fuente de información
+Fuentes de información
+Nivel de registro:
+Obligatorio
+Repositorio del portal
+Alias de base de datos de metadata:
+Conexión con la base de datos de metadata:
+Prefijo de tablas de metadata:
+Vencimiento de nuevos usuarios:
+Sin vencimiento
+El día:
+O reflejar un sitio existente:
+Número de teléfono:
+Seleccione el modo en que los usuarios van a acceder a las fuentes de información de este proyecto:
+Configuración de portal
+Dispositivo de portal:
+Haga clic en el botón para configurar este sitio:
+Repositorio de objetos
+Configuración de proyecto:
+Introduzca las credenciales
+Ubicaciones del servidor de los motores de suscripción de los portales utilizados recientemente:
+Seleccionar un portal diferente
+Seleccionar portal
+Seleccione una definición de sitio existente o haga clic en Añadir una nueva definición de sitio.
+Configuración
+Dispositivos de portal
+Información del portal
+Preferencias del sitio
+Repositorio de libro de suscripción
+Ubicación del motor de suscripción
+Propiedades del motor de suscripción
+Prefijo de tablas:
+Directorio de archivos temporales:
+MicroStrategy Narrowcast Server Portal Designer permite a los administradores crear fácilmente portales de suscripción de Web donde los usuarios pueden suscribirse a los servicios de Narrowcast Server a través de un navegador de Web.
+Este portal no está preparado para el acceso de usuarios finales. Para prepararlo, configure los elementos siguientes:
+Utilizar credenciales de proyecto
+Bienvenido a MicroStrategy Narrowcast Server Subscription Portal Designer.
+Sobrescribir fuente del informe
+Seleccione y ordene las fuentes para la interfaz.
+MicroStrategy Web utilizará la primera fuente de la lista ordenada quese se encuentre disponible en el equipo del usuario final.
+No hay canales definidos para este sitio
+Seleccione la carpeta de canales
+El valor para ## no es válido. Si este valor no se establece correctamente, fallarán algunas acciones de Portal Designer.
+Compruebe que el ID del archivo nº 1 hace referencia a una configuración regional válida del repositorio del proyecto.
+Para ello, continúe en la página ##.
+Los valores por defecto para ## no son válidos. Compruebe que los ID del archivo nº 1 hacen referencia a objetos válidos del repositorio del proyecto.
+Algunos de los valores por defecto para ## o todos ellos no tienen definiciones válidas. Compruebe que las carpetas de servicios del archivo ## hacen referencia a carpetas válidas del repositorio del proyecto.
+Se ha producido un error inesperado al establecer los valores por defecto. Consulte ## si desea más detalles.
+El sitio se ha creado correctamente en la metadata, pero se han detectado algunos errores al intentar establecer los valores por defecto:
+La conexión con la base de datos "nº 1" no hace referencia a una base de datos que contenga tablas de repositorio del portal con el prefijo "nº 2".
+¿Desea crearlas?
+Creación de tablas de metadata
+Nombre de sitio por defecto
+Sitio con valores por defecto
+Utilizar un nuevo sitio:
+Seleccionar Dispositivo de portal
+Seleccionar Dispositivo por defecto
+Introduzca un nombre para la definición de sitio.
+Introduzca un nombre que no contenga los siguientes caracteres:
+Introduzca una descripción que no contenga los siguientes caracteres:
+Introduzca el nombre del equipo que esté ejecutando el motor de suscripción.
+Introduzca un directorio para los archivos temporales.
+Introduzca una ruta para el directorio de archivos temporales que no contenga los siguientes caracteres:
+Introduzca un número válido para el número de días.
+El nombre del equipo no puede contener los siguientes caracteres:
+Seleccionar un estilo de dispositivo
+Para averiguar el estilo de su dispositivo, realice los pasos siguientes:
+Seleccione una categoría.
+Seleccione un estilo.
+Haga clic en una categoría de dispositivo para:
+Haga clic en un estilo de dispositivo para:
+Esta categoría no contiene estilos de dispositivo.
+No se encontró información sobre el estilo del dispositivo.
+No se encontraron estilos disponibles.
+Sin validación
+El valor de dirección puede ser cualquier cadena de texto.
+Formato: cualquier número y los caracteres - ( )
+Introduzca un valor para la dirección de acuerdo con el formato siguiente: cualquier número y los caracteres - ( )
+Configuración del motor
+Gestión del sitio
+Seleccione la conexión con la base de datos para el repositorio del portal.
+Seleccione la conexión con la base de datos para el repositorio de objetos.
+Seleccione la conexión con la base de datos para el repositorio de libro de suscripción.
+Utilice la misma conexión con la base de datos para el repositorio de libro de suscripción.
+Añadir una nueva conexión con la base de datos
+Añadir una nueva definición de sitio
+Definición de sitio
+Seleccione la definición de sitio que debe utilizar este servidor:
+Base de datos
+Es necesario asignar un nombre al equipo que esté ejecutando el motor de suscripción
+Crear página de inicio
+Se ha producido un error al crear la página
+No ha creado la página de inicio. Realice los pasos siguientes.
+Elija un título para la página:
+Seleccione un estilo para el diseño:
+Seleccione el componente que desee ver en cada panel:
+Guardar mi página de inicio
+Ver mi página
+Mi página de inicio
+Primer panel:
+Segundo panel:
+Tercer panel:
+Se ha producido un error al eliminar el perfil de usuario
+El perfil no se puede eliminar porque está compartido por más de una suscripción
+No hay fuentes de información definidas para este sitio.
+Ver suscripciones existentes para este servicio
+Gestión del portal
+En este servidor de Web se han detectado los siguientes portales de suscripción.
+A continuación, seleccione un portal para modificar su configuración.
+Crear nuevo portal de suscripción
+Crear nuevo portal
+Nombre del portal
+Para crear un nuevo portal de suscripción, especifique el nombre del directorio virtual:
+DESCRIPCIÓN DEL HISTORIAL
+Introduzca una dirección por defecto.
+Formato: caracteres numéricos o de texto
+Introduzca una dirección con el formato siguiente: caracteres numéricos o de texto
+Cada definición de sitio se distingue por su descripción y nombre exclusivos.
+Al crear un nombre exclusivo para cada definición sabrá las propiedades que posee cada portal, que el usuario final verá al acceder al directorio virtual.
+Es mejor proporcionar una descripción detallada de la definición de sitio, para que cualquier diseñador sepa de un vistazo las propiedades que tiene el sitio.
+El concepto "definición de sitio" está formado por las propiedades que definen lo que el usuario verá realmente a través del navegador al acceder a la dirección URL de un directorio virtual determinado.
+Un portal puede utilizar cualquier definición de sitio.
+La lista siguiente contiene las definiciones de sitio que existen en el repositorio del portal actual.
+Dos o más portales pueden, en el mismo equipo o en equipos distintos, hacer referencia a la misma definición de sitio.
+Puede seleccionar una definición de sitio existente o crear una nueva.
+Seleccione una definición de sitio existente para que este servidor la utilice, o bien haga clic en Añadir una nueva definición de sitio.
+La integración con el motor de entrega permite a los usuarios especificar la personalización del servicio, planificaciones y el dispositivo donde desean recibir la información.
+Portal Designer permite a los administradores establecer valores por defecto tales como idioma y uso de DHTML.
+Al igual que Portal Designer, debe asumir las siguientes responsabilidades:
+configurar y gestionar el portal de suscripción para permitir a los usuarios finales suscribirse a la gran variedad de servicios de la Web
+configurar los orígenes de datos y los diseños de portal
+publicar los tipos de dispositivos y de servicios
+seleccionar los dispositivos por defecto para el portal de suscripción
+especificar las propiedades de la fuente de información y las preferencias del portal por defecto
+Portal Designer le proporcionará la capacidad para:
+configurar el motor de suscripción
+seleccionar o modificar la configuración de portal
+crear o seleccionar la definición de sitio
+configurar la creación de servicios dinámicos y estáticos
+Haga clic en SIGUIENTE para comenzar.
+El repositorio de objetos almacena definiciones de dispositivos, servicios e información de planificación.
+La tabla siguiente contiene las conexiones existentes con la base de datos en la que se pueden almacenar los datos.
+Puede seleccionar una conexión existente o bien crear un nuevo alias en el repositorio del portal actual.
+Si desea obtener más información sobre los alias de bases de datos, consulte el archivo léame que se incluye con el software.
+Si se va a utilizar la misma conexión para el repositorio de libro de suscripción, seleccione la casilla de verificación y accederá directamente a la pantalla de canales.
+El repositorio de libro de suscripción almacena los datos de suscripción (incluyendo los usuarios finales), las direcciones, la personalización y los grupos de suscripciones.
+Una instalación típica instalará el motor de suscripción en el mismo equipo (es decir, el host local).
+El repositorio del portal almacena los valores de configuración que definen la interfaz del portal de suscripción del usuario final.
+Esta información incluye:
+nombres y descripciones de sitios
+parámetros de canal
+servicios publicados
+carpetas de dispositivo
+preferencias por defecto
+El alias de base de datos se utiliza para definir la conectividad de bases de datos para el motor de suscripción.  Esto permite al motor de suscripción ejecutar las consultas indicadas originadas por el portal de suscripción.
+Puede seleccionar un alias de base de datos existente o bien crear uno nuevo.
+Seleccione un alias de base de datos existente en el lugar donde esté ubicada la metadata del portal:
+El Asistente de gestión del sitio le ayudará a configurar correctamente la definición de sitio a través de las distintas funciones.
+La definición de sitio contiene la lista de propiedades, configuraciones y parámetros que utiliza un portal para definir el diseño y el contenido que mostrará al usuario final.
+Este asistente consta de los siguientes temas:
+Seleccionar, modificar y crear una definición de sitio
+Publicar servicios para la definición de sitio
+Seleccionar, modificar y publicar tipos de dispositivo
+Especificar las propiedades de los módulos de fuentes de información
+Especificar las preferencias por defecto para la definición de sitio
+El Asistente de gestión del sitio le ayudará si necesita modificar una configuración de portal existente o crear un nuevo portal de suscripción.
+Modificación y detección del portal
+Crear nuevo portal de suscripción
+El concepto de "portal" hace referencia al conjunto real de páginas ASP que se instala en el equipo del servidor de Web y en el directorio virtual que hace referencia a dichos archivos.
+En este servidor de Web se han detectado los siguientes portales de suscripción.
+Seleccione el portal con el que desee trabajar.
+Haga clic en Quitar para eliminar el portal de la lista de opciones disponibles.
+Supongamos que ha creado varios portales, uno para administradores, otro para directivos y un tercero para socios.  Sin embargo, ahora necesita crear uno para ingenieros.
+No existe ningún portal de suscripción que esté configurado exactamente según sus necesidades.  Puede crear uno desde esta ubicación si introduce un nombre de portal y su ubicación.
+La lista siguiente contiene sitios que ya existen en el repositorio del portal actual.  Dos o más sitios físicos pueden, en el mismo o en distintos equipos, hacer referencia a la misma definición de sitio.
+You may select one of the existing site definitions or create a new site definition.al repository.
+El proceso de definición de un nuevo canal consiste en seleccionar una carpeta de una serie de servicios existentes dentro del repositorio de Narrowcast, asignar un nombre y una descripción al canal y publicarlo en el portal de suscripción.
+Seleccione una carpeta en la tabla que aparece a continuación y haga clic en Siguiente.
+Si publica una nueva carpeta de canales, estará publicando todo el contenido de dicha carpeta.  Puede optar por cambiar el nombre de la carpeta para que refleje mejor su contenido.
+De manera opcional, es posible introducir una descripción que proporcione una idea más clara de las posibilidades más adecuadas para el canal.
+Existe una casilla de verificación que permite indicar si este canal y sus propiedades estarán disponibles para los usuarios finales.
+Nombre y descripción del canal
+Un dispositivo es un medio específico de distribuir contenido de suscripción al usuario final.  Cada dirección que el usuario crea en el portal está diseñada para utilizar únicamente un dispositivo como, por ejemplo, Outlook 98 o Outlook 2000.
+El tipo de dispositivo es un grupo de dispositivos que permite al usuario seleccionar cómo van a recibir el contenido. Cuando se crea una nueva definición de sitio, se crean y configuran automáticamente cuatro tipos de dispositivos estándar.
+Los tipos son:
+Agendas personales digitales
+Teléfonos móviles
+Buscas
+Correo electrónico
+Estos dispositivos por defecto se crean al instalar MicroStrategy Narrowcast Portal Designer y las carpetas asociadas a estos dispositivos se almacenan en el repositorio de Narrowcast.
+Este asistente tiene de las siguientes opciones disponibles:
+cambiar el nombre de un tipo de dispositivo específico
+modificar la definición de un tipo de dispositivo
+eliminar un tipo de dispositivo compatible con el portal
+editar la carpeta del tipo de dispositivo
+crear un tipo de dispositivo nuevo
+Para cada nueva definición de tipo de dispositivo, será necesario especificar el nombre del tipo de dispositivo, URL de iconos grandes y pequeños, el formato de dirección y los campos que van a utilizarse al visualizar y editar.
+Esta pantalla permite añadir o eliminar elementos de la carpeta para este tipo de dispositivo específico.
+Los elementos situados a la izquierda están disponibles, pero inactivos en este tipo de dispositivo.  Los elementos situados a la derecha se encuentran seleccionados para este tipo de dispositivo específico.
+En este contexto, un dispositivo es una forma específica de distribución de contenido para el usuario.  Los valores por defecto son "cliente de correo electrónico genérico" y "dispositivo de portal".  Si lo necesita, puede cambiar los valores por defecto.
+Haga clic en el dispositivo apropiado para cambiar la selección.
+Por cada fuente de información deberá especificar si los usuarios van a tener que introducir su información de verificación, como el nombre de usuario y la contraseña.
+Si se utilizan las credenciales del proyecto, se omitirá el mecanismo de verificación y los usuarios obtendrán la información que hayan solicitado.
+Existen también las opciones para hacer que las credenciales de usuario sean obligatorias u opcionales.
+Por defecto, no se permite a los usuarios introducir información de verificación para ninguna fuente de información.
+Deberá cambiar el requisito si desea establecer medidas de verificación.
+Seleccione los valores para el resto de las propiedades del sitio.
+Las preferencias del sitio controlan cómo se definen los valores por defecto para los usuarios de la interfaz del portal.  Puede cambiar cualquiera de los valores con sólo modificar la información que aparece en esta página.
+Enhorabuena. El sitio se ha configurado correctamente.
+Haga clic en el botón Terminar para iniciar el explorador y acceder a este portal.
+Si cree oportuno realizar algún cambio, utilice la herramienta de gestión de portal de Portal Designer para volver a configurar las preferencias o la definición del sitio.
+Origen
+Portal
+Admin
+IP de usuario
+Se ha producido un error al crear suscripción
+Asegúrese de que dispone de un perfil por defecto para el objeto de la pregunta.
+Se ha producido un error al recuperar información sobre el objeto de la pregunta desde MicroStrategy Narrowcast Server.
+Seguimiento
+Información
+Advertencia
+Utilice estas selecciones por defecto
+Variables de sesión
+Sitio asociado
+No aplicable
+Introduzca un nombre para el portal.
+¿Está seguro de que desea eliminar este dispositivo?
+¿Está seguro de que desea eliminar este portal?
+¿Está seguro de que desea eliminar este sitio?
+Introduzca un nombre para el servidor JData Connect
+Introduzca un nombre para la conexión con la base de datos
+Introduzca un nombre para origen de datos de ODBC
+Añadir conexión con la base de datos
+Nombre de origen de datos ODBC:
+¿Desea comprobar la conexión con la base de datos?
+Descripción general
+Definición incorrecta de alias de base de datos para tablas de repositorio de libro de suscripción.  Seleccione otra definición de sitio.
+Existen tablas de repositorio de libro de suscripción, pero no son la versión correcta.  Introduzca otro prefijo.
+Definición incorrecta de alias de base de datos para tablas de repositorio de objetos.  Seleccione otra definición de sitio.
+Existen tablas de repositorio de objetos, pero no son la versión correcta.  Introduzca otro prefijo.
+Definición incorrecta de conexión con la base de datos para tablas de repositorio de portal.  Seleccione otra.
+Existen tablas de base de datos, pero no son la versión correcta.  Introduzca otro prefijo.
+No se pudo establecer conexión con la metadata del portal.  Verifique la información que ha introducido.
+Se ha producido un error al guardar la conexión de alias de base de datos
+Se ha producido un error inesperado al configurar la nueva conexión de alias de base de datos.
+No existen conexiones definidas con la base de datos.
+Esta página permite crear o editar nuevos canales para la definición de este sitio.
+Introduzca un nombre para el canal.
+Seleccione los dispositivos que este sitio admite.
+Seleccione el dispositivo por defecto que va a utilizarse al crear nuevas direcciones y el dispositivo de portal por defecto para enviar servicios a la página "Mis informes".
+Seleccione los valores para el resto de las propiedades del proyecto.
+Configuración de servicios
+Suscripciones estáticas
+Suscripciones dinámicas
+Almacenamiento
+Elegir pregunta alternativa
+El portal de suscripción de MicroStrategy publicará los servicios en la carpeta que seleccione.  Sin embargo, algunos servicios necesitan configuración adicional.
+Especifique la configuración por defecto para los servicios que aparecen a continuación.
+Si desea configurar un servicio específico de forma individual, haga clic en el botón # que aparece a continuación.
+Configurar servicios
+Grupos de suscripciones estáticas
+Grupos de suscripciones dinámicas
+Ocultar preguntas sobre paginación a los suscriptores
+Responder preguntas sobre paginación con:
+Ocultar grupo de suscripciones sin configurar a los suscriptores
+MicroStrategy Narrowcast Server Portal Designer permite configurar el almacenamiento de datos de suscripción a nivel de servicio individual.
+Se le pedirá que seleccione el servicio que desee configurar y, a continuación, aparecerán los grupos de suscripciones dinámicas y estáticas asociados a este servicio.
+Tanto para los grupos de suscripciones dinámicas como estáticas, deberá configurar el objeto de la pregunta para el servicio seleccionado.
+Además, podrá añadir objetos de pregunta adicionales para solicitarle información a los suscriptores.
+Para grupos de suscripciones dinámicos, deberá configurar el almacenamiento de los datos de suscripción.
+Ha configurado los servicios siguientes. Haga clic en Modificar para cambiar la configuración existente o bien haga clic en el nombre de la carpeta para configurar otros servicios en dicha carpeta.
+Si desea configurar otro servicio, haga clic en el botón # que verá a continuación.
+El servicio tiene asociados uno o varios grupos de suscripciones estáticas.  Los suscriptores de estos grupos de suscripciones se almacenarán en el repositorio de libro de suscripción.
+Valores por defecto de los grupos de suscripciones estáticas
+Haga clic a continuación para definir una única configuración para todos los grupos de suscripciones estáticas.  Esta configuración por defecto se utilizará en todos los grupos para este servicio.
+Configurado:
+configurar
+Configurar los grupos de suscripciones estáticas individualmente
+Si desea configurar un grupo de suscripciones estáticas individualmente, haga clic en el vínculo de configuración situado junto al grupo.  Los grupos de suscripción que no se hayan configurado utilizarán la configuración por defecto del sistema.
+Este servicio no contiene ningún grupo de suscripciones estáticas.
+Los suscriptores no podrán ver las preguntas sobre paginación.  Sin embargo, podrá seleccionar una pregunta alternativa que sí se les mostrará.
+Please select a question object below.
+Seleccione la ubicación de las respuestas a esta pregunta.
+Puede optar por:
+Utilizar #
+O BIEN utilizar una de las asignaciones de almacenamiento siguientes:
+Tablas
+Añadir una asignación de almacenamiento nueva
+Borrar
+Seleccione las tablas de base de datos en las que se almacenará la información.
+Warehouse:
+seleccionar conexión con la base de datos
+Filtrar columnas por:
+Tablas disponibles:
+Tablas seleccionadas:
+Seleccione las columnas de tabla en las que desea que se almacene la información.
+Arrastre y suelte en la parte derecha los componentes de las columnas de la izquierda de la tabla.
+Componentes de respuesta
+General:
+Componentes de suscripción
+Configurar:
+Configuración de servicio por defecto
+Ha seleccionado configurar el servicio anterior.  Puede mantener las preferencias por defecto que aparecen a continuación o bien especificar valores adicionales para grupos de suscripciones individuales en los pasos siguientes.
+Valores por defecto de servicios
+Preguntas sobre paginación
+Preguntas adicionales
+Edite la información que aparece a continuación para solicitarle información adicional a los suscriptores.
+Este servicio contiene la pregunta sobre paginación siguiente:
+Ha elegido mostrar el objeto de esta pregunta:
+en lugar de esta pregunta sobre paginación:
+Almacenamiento de Warehouse
+Cambiar selecciones
+Vínculos relacionados
+Registrarse de nuevo en este servicio
+Registrarse en otro servicio
+Ver todas las suscripciones
+Elija un perfil para este objeto de pregunta
+Nombre del servidor JData Connect
+Ha creado la cuenta correctamente.
+Si olvida la contraseña, aparecerá este recordatorio que le ayudará a recordarla.
+Exportar todos los valores como texto
+Seleccionar servicio
+Seleccionar almacenamiento
+Seleccionar tablas
+Seleccionar columnas
+Configurar grupo de suscripción
+Seleccionar pregunta
+Salir de configuración de servicios
+Seleccione el servicio que desea configurar.
+Pregunta
+Publicaciones
+Valores por defecto de los grupos de suscripciones dinámicas
+El servicio tiene asociados uno o varios grupos de suscripciones dinámicas. Los suscriptores de estos grupos de suscripciones se almacenarán en el Warehouse mediante asignaciones de almacenamiento.
+Guardar esta asignación de almacenamiento como:
+Haga clic a continuación para definir una única configuración para todos los grupos de suscripciones dinámicas. Esta configuración por defecto se utilizará en todos los grupos para este servicio.
+Configurar los grupos de suscripciones dinámicas individualmente
+Si desea configurar un grupo de suscripciones dinámicas individualmente, haga clic en el vínculo de configuración situado junto al grupo. Los grupos de suscripción que no se hayan configurado utilizarán la configuración por defecto del sistema.
+Pregunta adicional
+La pregunta que ha seleccionado no puede utilizarse en el portal de suscripción.
+Retroceda y seleccione una pregunta diferente.
+La respuesta a la pregunta que ha seleccionado puede almacenarse en el repositorio de libro de suscripción o en otra ubicación mediante una asignación de almacenamiento.
+Si decide almacenar la respuesta en el repositorio de libro de suscripción, ésta se almacenará en dicha ubicación.
+Si decide utilizar una asignación de almacenamiento, en el repositorio de libro de suscripción se almacenará un ID de preferencia de la pregunta y las respuestas se almacenarán según la definición de asignación de almacenamiento.
+La respuesta a la pregunta que ha seleccionado debe almacenarse mediante una asignación de almacenamiento. Esto se debe a que solicita al usuario que seleccione de entre una lista de elementos de la que puede elegir más de uno.
+Si utiliza una asignación de almacenamiento para almacenar las respuestas, en el repositorio de libro de suscripción se almacenará un ID de preferencia de la pregunta y las respuestas se almacenarán según la definición de asignación de almacenamiento.
+Seleccione la asignación de almacenamiento que desea utilizar con la pregunta:
+Conexión con la base de datos
+Valor personalizado:
+personalizado
+Añadir una pregunta:
+Explorar
+Responder a otra pregunta:
+Asignación de almacenamiento de grupo de suscripción
+Nueva asignación de almacenamiento para #
+Este servicio no contiene ningún grupo de suscripciones dinámicas.
+Descripción general de las preferencias del sitio
+Modificar descripción general de la configuración del portal
+Si se ha instalado en una máquina diferente, introduzca aquí el nombre de dicha máquina.
+definición de sitio
+Introduzca la información de conexión con la base de datos:
+Personalice el contenido del servicio. En las páginas siguientes podrá indicar cómo desea que sea el contenido de este servicio con sólo responder a las preguntas. Haga clic en Siguiente para continuar.
+Descripción general de las preferencias del sitio
+Un canal es un elemento visual que se encuentra dentro del portal de suscripción.  Presenta la información del proyecto de modo que facilita el desplazamiento del usuario final.
+Cada canal se encuentra asignado a una carpeta de servicios en el repositorio de objetos.
+Se ha producido un error al intentar establecer conexión con el motor de suscripción.  El nombre del servidor es incorrecto o el motor de suscripción no se ha ejecutado en este servidor. Localice el motor de suscripción e introduzca de nuevo la ubicación.
+Es necesario seleccionar una carpeta del repositorio de objetos para definir un canal nuevo.  Seleccione mostrar la carpeta del canal.
+Este servicio no contiene ninguna pregunta de paginación que haya que configurar.
+Descripción general de configuración de servicios
+Configurado
+Se ha producido un error al intentar validar la conexión con la base de datos.  (#)  Verifique la información e inténtelo de nuevo.
+No se pudo establecer conexión con el motor de suscripción
+La definición de conexión con la base de datos proporcionada por el administrador es incorrecta
+Advertencia.  Si elimina esta conexión con la base de datos, los objetos que la utilizan (es decir, el repositorio de objetos, las asignaciones de almacenamiento, etc.) no serán válidos.
+Nombre de origen de datos incorrecto
+¿Desea eliminar '#' ?
+Eliminar una conexión de la base de datos
+-- seleccionar una conexión con la base de datos --
+ID de preferencia para: #
+Respuesta para: #
+El usuario no existe.
+Elija un título para su página:
+Cree Su Página de Inicio
+Formato de archivo CSV Delimitado por Comas
+Error durante el creado de su página
+Exportar valores de indicadores como texto (sólo Excel)
+Primer panel:
+Sin embargo, este reporte puede ser exportado a Excel con texto sencillo, CSV Delimitado por Comas o texto sencillo mediante la selección de esta opción ya sea desde las preferencias o desde la selección dinámica que aparece antes the exportar.
+Máximo número de columnas a exportar a Excel:
+Máximo número de renglones a exportar a Excel con texto sencillo o CSV Delimitado por Comas:
+Salvar Mi Página de Inicio
+Segundo panel:
+Ver Mi Página
+Seleccione un estilo para el diseño:
+Seleccione el componente que quiera ver en cada panel:
+Tercer panel:
+No ha creado su página de inicio. Por favor siga los pasos que se muestran abajo.
+Mi Página de Inicio
+Mecanismo de almacenamiento en caché
+Inicio
+Mostrar página de resumen para servicios personalizados:
+Informe
+Documento
+PDF
+Reducir gráfico hasta ajustarse
+Exportar cuadrícula y gráfico en la misma página
+Número máximo de columnas a exportar
+Número máximo de filas a exportar
+Modo de accesibilidad:
+Activar compatibilidad de lector de pantalla
+Omitir navegación
+Ascendente
+Descendente
+Borrar Orden
+Ordenar...
+Mover
+A Filas
+A Columnas
+A eje de paginación
+Izquierda
+Derecha
+Nuevo...
+Guardar como...
+Configurar Página
+Examinar carpeta padre
+Enviar a
+Ver
+Modo de diseño
+Vista de Cuadrícula
+Vista de Gráfico
+Cuadrícula y gráfico
+Restablecer
+Eje de paginación
+Fórmula
+Explorador de objetos
+Barras de herramientas
+Datos
+Grupo
+Subtotales
+Visualización de Atributo
+Cambiar de nombre/Editar objetos...
+Agregar unidad
+Restablecer datos
+Ejecutar la selección dinámica de nuevo
+Formato
+Formato Avanzado...
+Combinar encabezados de columnas
+Estilo de cuadrícula
+Restablecer formato
+Ventana
+Detalles de informe
+Esta tabla muestra los resultados del informe solicitado
+Esta tabla muestra el contenido de la carpeta solicitada
+Encabezado y pie de página:
+Utilizar parámetros de informe
+Utilizar parámetros personalizados
+(editar)
+Editor de encabezado / pie de página
+Encabezado:
+Pie de página:
+Izquierda:
+Centrar:
+Derecha:
+Mostrar informes suscritos
+Ocultar informes suscritos
+Mostrar informes relacionados
+Ocultar informes relacionados
+Mostrar ejecutar filtro + plantilla
+Ocultar ejecutar filtro + plantilla
+Mostrar extras del historial
+Ocultar extras del historial
+Mostrar sugerencias de búsqueda
+Ocultar sugerencias de búsqueda
+Verificación LDAP
+Verificación de identidad de base de datos
+Exportar encabezados como texto (sólo Excel)
+Encriptar las credenciales del usuario
+Objetos de informe
+Todos los objetos
+MicroStrategy Intelligence Server ## ha excedido el límite de memoria configurado. Por favor contacte con su administrador.
+Ajustar fuente a
+de tamaño original
+Enero
+Febrero
+Marzo
+Abril
+Mayo
+Junio
+Julio
+Agosto
+Septiembre
+Octubre
+Noviembre
+Diciembre
+D
+L
+M
+M
+J
+V
+S
+Informes
+Documentos
+Esta selección dinámica requiere un valor entre ## y ### caracteres.
+Esta petición requiere un valor no menor a ## caracteres.
+Esta petición requiere un valor no superior a ## caracteres.
+Esta petición requiere un valor de exactamente ## caracteres.
+HTML dinámico:
+Agregar a Historial
+Filtro de informe
+Filtro de visualización
+Agregar filas/columnas
+Agregar condición de filtro de visualización...
+Definición:
+Inicio
+FILTRO DE INFORME
+FILTRO DE VISUALIZACIÓN
+DETALLES DE FILTRO DE INFORME
+Filtro
+Mostrar Botones para Pivotar
+Agregar condición
+Ocultar
+Aplicar cambios automáticamente
+Detalles de filtro de informe
+Opciones de PDF
+No se puede exportar a PDF
+No se puede exportar este informe a PDF porque ha excedido los límites que el administrador ha establecido para el número máximo de columnas y filas a exportar a PDF.
+Introducir opción de usuario
+Mostrar opciones al exportar a PDF.
+Insertar número de página
+Insertar número de páginas
+Insertar fecha
+Insertar hora
+Insertar nombre de proyecto
+Insertar nombre de informe
+Insertar nombre de plantilla
+Insertar nombre de filtro
+Cargar valores de informe
+Resultados
+NAVEGAR - Avanzado
+Navegación
+Ordenar
+SUSCRIPCIONES
+APLICAR FILTRO A LAS SELECCIONES
+EJE DE PAGINACIÓN
+Ejecutar informe
+Ninguno
+Agregar a cuadrícula
+Agregar al Filtro
+- Ninguno -
+Objetos:
+Carpetas:
+Formato
+Fuente
+Número
+Borde
+Alineación
+Aplicar
+Todos los Subtotales
+Encabezado
+Nombres de subtotal
+Valores de subtotal
+Muestra:
+ABCabc
+Efectos
+Negrita:
+Cursiva:
+Subrayado:
+Tachado:
+Tipo
+Números negativos
+Categoría:
+Posiciones decimales
+Símbolo de moneda
+Posición de moneda
+Utilizar separador de Miles
+Fijo
+Moneda
+Fecha
+Porcentaje
+Fracción
+Científico
+Personalizado
+Ninguno
+TODOS
+Línea
+Color:
+Inicio:
+Últimos:
+Color de relleno
+ABCabc ABC abc
+Alineación de texto
+Horizontal
+Centrar
+Justificar
+Vertical
+Ajustar texto
+Este tipo de gráfico no admite leyendas
+General
+Títulos
+Ejes
+N
+K
+S
+T
+Tipo de gráfico:
+Mostrar leyenda:
+Mostrar valores de datos:
+Mostrar título del eje de serie
+Mostrar título del eje Y
+Mostrar título del eje de categorías:
+Título del eje X:
+Mostrar título del eje Y1:
+Mostrar título del eje Y2:
+Mostrar valores del eje de serie
+Mostrar valores del eje Y
+Mostrar valores del eje de grupo
+Mostrar valores del eje de categoría
+Mostrar valores del eje X
+Mostrar valores del eje Y1
+Mostrar valores del eje Y2
+Mostrar título:
+Mostrar subtítulo:
+Mostrar pie de página:
+Utilizar parámetro manual:
+Máximos valores:
+Mínimos valores:
+Intervalo de cuadrícula:
+Cerrar
+PAGINACIÓN:
+Seleccionar ruta de explorador de objetos
+Grupo Personalizado
+Consolidación
+## elementos encontrados
+Suscribir...
+Imprimir...
+Exportar...
+PDF...
+Agregar objetos de informe...
+Navegación...
+Aplicar filtro a las selecciones...
+Gráfico...
+Formato
+Informe
+Mostrar totales
+Borrar Todo
+Normal
+Total
+Promedio
+Cantidad
+Media Geométrica
+Máximo
+Mediana
+Mínimo
+Modo
+Producto
+Desviación estándar
+Suma
+Varianza
+Personalizado:
+Todos los Subtotales
+Sólo totales generales
+Ninguno
+Mostrar rangos
+Totales
+Guardar informe
+Cancelar
+Arrastrar para agregar a informe
+Haga clic con el botón derecho para obtener más opciones
+Aplicar
+Aplicar estilo
+Detalles de documento
+Arrastrar objeto para pivotarlo
+Editar informe
+Atributo
+Atributo:
+Grupo Personalizado:
+Filtro
+Filtro:
+Indicador
+Indicador:
+Consolidación:
+Agregar
+Buscar:
+1. Ordenar por:
+2. luego por:
+3. luego por:
+- Seleccionar orden -
+Ascendente
+Descendente
+Aplicar
+Cancelar
+Derecha
+Izquierda
+Derecha
+Izquierda
+Hora
+Por defecto
+Fuente:
+Izquierda:
+Derecha:
+Valores
+Cancelar
+Cerrar
+Tamaño
+Seleccionar Fuente
+No
+Sí
+Derecha con espacio
+Izquierda con espacio
+Eje de columna
+Eje de fila
+Color de relleno
+Color de texto
+Disminuir decimales
+Aumentar decimales
+Estilo de coma
+Estilo de porcentaje
+Estilo de moneda
+Centrar
+Izquierda
+Derecha
+Expresión no admitida
+No se puede representar la expresión
+Introducir valor...
+Atributos...
+Aplicar filtro en
+O
+Es nula
+No es nula
+No en
+Mover a la derecha
+Mover a la izquierda
+Mover arriba
+Mover abajo
+Vaciar lista
+Vacío
+Nombre:
+Insertar nuevo indicador...
+Nuevo Indicador
+Quitar de la cuadrícula
+Formato avanzado...
+Quitar de informe
+Ordenar
+Agregar >
+En la lista
+No está en la lista
+Menús desplegables:
+Aplicar
+Cancelar
+Quitar condición
+Contraseña vencida
+No se muestran algunos de los proyectos
+Necesita cambiar su contraseña para poder acceder a algunos proyectos
+Nota: Una vez que cambie su contraseña, deberá conectarse de nuevo
+Utilice Conjunto de Caracteres Unicode
+Entregas...
+7/4
+07/04
+7/4/98
+07/04/98
+07/04/1998
+7 de Abril
+7 de Abril de 98
+Abril de 98
+Abril de 98
+Abril 1998
+7/4/98 15:41
+7/4/98 3:41 PM
+Abril 7, 1998
+15:41
+3:41 PM
+15:41:46
+3:41:46 PM
+07/04/98 3:41 PM
+Enviar ahora...
+07/04/98 15:41
+Volver a enviar el informe
+La paginación seleccionada no existe. Es posible que se deba a que se ha actualizado el warehouse.
+Seleccione esta opción para que se identifiquen los criterios de paginación válidos automáticamente.
+Esta selección dinámica no se puede mostrar en MicroStrategy Web. La respuesta por defecto se utilizará para ejecutar el informe.
+Esta selección dinámica no se puede mostrar en MicroStrategy Web. El informe no se puede ejecutar porque no tiene asociada una respuesta por defecto.
+Inicio
+Últimos
+Ninguno
+Con guiones
+Con puntos
+Muy fino
+Fino
+Media
+Grueso
+Doble
+Negro
+Azul oscuro
+Azul
+Azul claro
+Azul grisáceo
+Verde
+Gris 60%
+Gris 50%
+Gris 25%
+Gris 20%
+Gris 10%
+Gris 7%
+Marfil
+Rojo oscuro
+Rojo
+Amarillo
+Amarillo claro
+Amarillo pálido
+Verde aceituna oscuro
+Verde aceituna
+Verde aceituna claro
+Marrón
+Púrpura
+Púrpura claro
+Lavanda
+Rosa oscuro
+Rosa
+Blanco
+Solicitar hacer clic con el ratón para abrir los menús
+Inglés (Reino Unido)
+Utilizar valor por defecto
+CAMBIAR DE NOMBRE/EDITAR OBJETOS
+El informe no se puede entregar en su estado actual. Deberá guardarlo primero.
+El mensaje ha sido enviado.
+La ## suscripción ## se ha creado correctamente. En breve recibirá una vista preliminar.
+La ## suscripción ## se ha creado correctamente.
+Estilo automático:
+Explorador de objetos
+Subir Un nivel
+Permite a los usuarios cambiar la contraseña caducada.
+Su contraseña ha caducado. Póngase en contacto con el administrador para activar esta cuenta.
+Ruta:
+Utilizar el grupo de caracteres Unicode
+Abrir
+Para recibir este informe, seleccione a continuación una dirección y personalización.
+Para suscribirse a este informe, seleccione a continuación una planificación, personalización y dirección.
+Sólo se permite introducir una dirección al editar una suscripción.
+Para suscribirse a este informe, seleccione a continuación una planificación, una personalización y las direcciones.
+Informes planificados
+Correos electrónicos planificados
+El nombre de la dirección ya existe. Seleccione otro nombre.
+Se ha producido un error al editar la dirección.
+Se ha producido un error al eliminar la dirección.
+Se ha producido un error al actualizar la dirección.
+Confirmar la eliminación de la dirección
+¿Está seguro que desea eliminar esta dirección?
+El nombre de la dirección no puede estar vacío.
+El dispositivo de la dirección no puede estar vacío.
+El valor de la dirección no puede estar vacío.
+Se ha producido un error al procesar la información de la dirección. Puede que sea necesario volver a iniciar la sesión.
+Mostrar nombre
+Dispositivo
+Agregar una dirección nueva
+Establecer nuevos valores por defecto
+Asunto
+Enviar ahora
+Este informe está suscrito a los siguientes correos electrónicos planificados:
+No tiene ningún correo electrónico planificado.
+Agregar correo electrónico planificado
+Usted tiene ## ###suscripciones#### a esta dirección. Si elimina la dirección, se eliminarán todas las suscripciones a dicha dirección.
+El siguiente archivo no se ha registrado correctamente en Web Server: MGSubscription.dll. Si desea obtener más información, póngase en contacto con el administrador.
+Correo electrónico planificado
+Correo Electrónico Planificado...
+Suscripción a la versión API:
+Tiene ## ###suscripciones#### a este informe que se entregarán por correo electrónico.
+Tiene ## ###suscripciones#### a este documento que se entregarán por correo electrónico.
+Seleccione una planificación de la lista siguiente.
+Seleccione una dirección de la ##lista de direcciones###
+o
+Introduzca una dirección nueva.
+Enviar a una dirección nueva
+Enviar a una dirección existente
+Esta función no se encuentra disponible en este momento.
+Para suscribirse a este informe, seleccione a continuación una planificación, personalización y dirección.
+Intelligence Servers
+Narrowcast Server
+Integración de Narrowcast
+Si desea configurar este portal Web para enviar contenido a través de Narrowcast Server debe proporcionar la ubicación del motor de suscripción y el sistema Narrowcast que desea utilizar.
+No se ha configurado ## con ningún sistema Narrowcast para enviar contenido a través de Web. Seleccione otro motor de suscripción.
+Este portal Web se ha configurado para enviar contenido utilizando el sistema ##  y ### como el motor de suscripción.
+Ubicación del motor de suscripción:
+Sistemas Narrowcast disponibles:
+(Desactivado)
+Para editar este informe deberá responder a las siguientes selecciones dinámicas.
+La respuesta debe ser un número.
+La respuesta debe ser una fecha en el formato adecuado.
+Error al editar la subexpresión de filtro. Revise sus respuestas.
+No se puede ejecutar la búsqueda del elemento del informe.
+Crear un nuevo informe a partir de cualquiera de los objetos del proyecto
+Crear un informe
+Aparecerá un informe vacío en el que deberá incluir varios objetos de datos.
+Como alternativa, seleccione el tipo de informe que desea crear a partir de las opciones que aparecen a continuación
+Seleccione el tipo de informe que desea crear a partir de las opciones que aparecen a continuación
+€
+Mostrar botones de edición
+Creando un nuevo trabajo
+Generando resultados
+Generando HTML
+El trabajo está corriendo en otro servidor
+Procesando petición
+Espere un momento...
+Introduzca un número en el siguiente campo
+General
+Especial
+*Keep the connection alive between the Web Server and Intelligence Server (used when there is a firewall between the Web Server and the Intelligence). Please refer to the product documentation for information on how to configure your system when using this feature.*
+MicroStrategy Web no permite la exportación de gráficos de documentos a Excel
+Introduzca un número entero mayor que ### y menor que ## en el siguiente campo
+### y ## no son fechas válidas
+## no es una fecha válida
+Número de columnas por página
+Va a borrar el historial.
+¿Está seguro de que desea borrar el historial?
+No se obtuvieron datos para esta visualización. Puede deberse a que el filtro aplicado excluye todos los datos.
+Excel con formato (los informes exportados a Excel 97 o versiones inferiores no incluirán formato)
+Editar en modo de diseño
+Búsqueda avanzada
+SIGUIENTE
+Seleccione los elementos que desee mantener y pulse el botón Aceptar o Aplicar. Pulse el botón Cancelar para cerrar este editor sin aplicar los cambios.
+No en (introduzca valor1; valor2; ...; valorN)
+No cancelar Ejecutar la selección dinámica de nuevo
+No se ha realizado ninguna selección
+Aceptar
+Aplicar
+Cancelar
+Guardar
+Series:
+Categorías:
+Leyenda
+Valores de datos
+Primeras 5 páginas
+5 páginas anteriores
+5 páginas siguientes
+5 últimas páginas
+Ayuda para el editor ###
+Activar
+Desactivar
+Por defecto
+Las respuestas a la selección dinámica deben ser números.
+Todas las respuestas a la selección dinámica deben ser fechas en el formato adecuado.
+No se obtuvieron datos para esta vista porque el informe no tiene objetos de plantilla. ##Agregue objetos a la plantilla###.
+No se obtuvieron datos para esta selección de paginación.
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Time - Not Used
+J and K Time - Not Used
+Se ha producido un error al procesar el filtro de visualización.
+Se ha producido un error al procesar el filtro de informe.
+Error en la conexión con la base de datos.
+Navegar de XXXX a:
+Escala:
+Ajustar a la página:
+Todas las filas
+Todas las columnas
+Imprimir portada con detalles de filtro
+Márgenes (pulgadas):
+Inicio:
+Izquierda:
+Derecha:
+Últimos:
+Tamaño máximo de encabezado (pulgadas):
+Tamaño máximo de pie de página (pulgadas):
+Expandir todos los campos de paginación al imprimir
+Número máximo de celdas por bloque:
+Número máximo de gráficos por bloque:
+Mostrar cuadro de diálogo de impresión emergente
+Insertar detalles de filtro
+Insertar nombre de usuario
+Formato de fecha y número:
+Ocultar el enlace 'Mis informes' cuando el usuario no disponga de privilegios para guardar en Web
+Recuperación##incremental:
+Número máximo de elementos de atributo por bloque:
+Número máximo de objetos de informe por bloque:
+No se puede ajustar a página: Se utilizará la reducción máxima.
+Se ha producido un error al mostrar la vista preliminar. Es posible que no se vea correctamente.
+Bloque de páginas siguiente
+Bloque de páginas anterior
+Cambiar nombre...
+Mostrar opciones avanzadas
+Ocultar opciones avanzadas
+No es necesario responder a esta selección dinámica.
+Seleccionar indicador...
+Y NO
+O NO(R)
+Todos los Indicadores
+TODOS
+No hay selecciones disponibles en esta selección dinámica.
+Volver a la página anterior
+La petición no pudo ser procesada debido a que no se especificó la información sobre direcciones. Especifique la información sobre direcciones y vuelva a intentarlo.
+El historial de este Intelligence Server está completo. Si desea ejecutar un informe, es necesario eliminar uno o varios de los mensajes del historial en uno de los proyectos que se estén ejecutando en el servidor.
+No se pudo mostrar el informe debido a la falta de recursos del sistema.
+Su trabajo ha sido asignado a un Intelligence Server distinto.  Por favor re-ejecútelo.
+Su trabajo ha sido asignado a un Intelligence Server distinto. El informe estará disponible en la carpeta de Historiales una vez haya concluido. Haga clic aquí para abrir la carpeta de Historiales.
+Permitir Inicio de Sesión automática si se pierde la sesión
+Seguridad:
+Verifique los privilegios de usuario para cada consulta
+2
+Auto Ajuste línea
+Permitir ajuste de línea en los encabezados de fila del informe
+Carpeta:
+Amarillo claro
+Violeta
+Azul cerceta
+Turquesa claro
+Azul cielo
+Verde claro
+Azul pálido
+Turquesa
+Verde brillante
+Rosa
+Tostado
+Agua
+Lima
+Dorado
+Naranja claro
+Naranja
+Gris azulado
+Verde azulado oscuro
+Verde mar
+Verde oscuro
+Verde aceituna
+Ciruela
+Índigo
+Gris-40%
+Gris-80%
+Se ha producido un error al intentar establecer conexión con ##. Compruebe que el nombre del motor de suscripción es correcto y que éste se está ejecutando e inténtelo de nuevo.
+Enviar una vista preliminar ahora
+Se ha producido un error al recuperar la lista de sistemas. Es posible que el servicio de administración de suscripciones no funcione.
+Se ha producido un error al recuperar la lista de sistemas.
+CUADRÍCULA DE INFORME:
+FILTRO DE INFORME:
+Agregar objetos de informe
+Permitir exportar a PDF
+Barra de herramientas
+Es necesario guardar el informe antes de poder suscribirse al mismo.
+Es necesario guardar el informe o restablecer todos los cambios antes de suscribirse al mismo.
+Es necesario guardar el informe antes de poder planificarlo.
+Es necesario guardar el informe antes de poder enviarlo.
+(ejemplo: [Indicador1] + [Indicador2])
+Nota: Si selecciona "Usar mi estilo de cuadrícula por defecto" se desactivará todo el formato personalizado de la cuadrícula.
+Se ha producido un error al establecer la conexión al motor de suscripción.
+Editar cuadrícula
+Editar filtro de informe
+Rojo
+de ## páginas
+Si decide visualizar la cuadrícula y el gráfico en páginas diferentes, utilice las opciones que aparecen a continuación para la cuadrícula:
+El historial de este Intelligence Server está completo. Los historiales son comunes en todos los proyectos que se ejecutan en Intelligence Server.
+Versión:
+Build de Intelligence Server
+Build de Web
+Guardar el filtro y la plantilla dentro de la definición del informe
+Modo de diseño:
+Jerarquía
+Jerarquía:
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+J and K Date - Not Used
+Indicador derivado
+Indicador derivado:
+No se devolvieron datos para esta vista. Modifique los criterios del filtro o los objetos de la plantilla.
+Este proceso de guardar puede afectar el filtro y plantilla originales.
+¿Desea mantener los accesos directos al filtro y plantilla originales?
+Este proceso de guardar puede afectar el filtro original
+¿Desea mantener el acceso directo al filtro original?
+Este proceso de guardar puede afectar a la plantilla original
+¿Desea mantener el acceso directo a la plantilla original?
+Continuar
+Cancelar
+Hora de creación del mensaje del historial
+Excel 2000 SR-1 o versiones posteriores
+Manipulación de datos
+Modo de diseño
+Filtros
+Totales
+Imagen de umbral
+(Personalizado)
+Detener
+Su petición no ha podido ser procesada.
+Por favor inténtelo de nuevo. Si el problema persiste, contacte a su Administrador.
+La petición de navegación no se puede completar si no se incluye el atributo padre. Esto puede ser causado por la inclusión del atributo padre en la cualificación de la vista de un informe.
+Verifique que la petición del usuario no contiene contenido potencialmente malicioso.
+Introduzca un número entero entre ### y ## en el siguiente campo
+Abrir Informe
+Abrir filtro
+Abrir documento
+Abrir plantilla
+Información de versión...
+Bloquear encabezados de cuadrícula
+Bloquear los encabezados de filas
+Bloquear los encabezados de columnas
+Activar la función para bloquear encabezados de cuadrícula
+Carpeta Informes compartidos
+Objetos públicos > Informes
+Selección actual
+Última carpeta
+Editor de filtros
+Utilizar filtros anidados en el editor de filtros de informe
+Ordenación:
+Activar la ordenación en las representaciones de atributo ocultas mediante el editor de ordenación avanzada.
+Desactivar la navegación del menú contextual
+Enviar
+Tarea caducada
+Por razones de seguridad, HTML tags no están permitidas como entrada. Si necesita usarlas, por favor contacte con su Administrador.
+Verificar HTML tags para cada petición
+0
+Esta condición de indicador se aplica al nivel ## 
+Mostrar el nivel de evaluación al utilizar condiciones de indicador en el editor de filtros de visualización
+Guardar la configuración de impresión de cada informe
+Habilitar la funcionalidad de cambiar el tamaño de columnas y filas
+Diseño de cuadrícula
+Ajustar a la ventana automáticamente
+Ajustar al contenido automáticamente
+Anchos de columna fijos
+Cambiar de tamaño las columnas y filas ...
+COLUMNAS
+FILAS
+Todas las columnas
+Anchura:
+Auto ajustar
+Alto fijo:
+Cambiar de tamaño las columnas y filas
+Encabezado de los ejes de columna
+Valores de datos
+Ancho:
+Guardar las modificaciones realizadas en el filtro de informes
+Zona horaria
+Por defecto
+(GMT-11:00) Isla Midway
+(GMT-10:00) Hawai
+(GMT-09:00) Alaska
+(GMT-08:00) Hora del Pacífico (EE.UU. y Canadá)
+(GMT-07:00) Arizona
+(GMT-07:00) Hora de las Montañas Rocosas (EE.UU. y Canadá)
+(GMT-06:00) Hora central (EE.UU. y Canadá)
+(GMT-05:00) Hora oriental (EE.UU. y Canadá)
+(GMT-04:00) Hora del Atlántico (Canadá)
+(GMT-04:00) Puerto Rico
+(GMT-03:30) Terranova
+(GMT-03:00) Argentina
+(GMT-03:00) Brasil
+(GMT-02:00) Atlántico Central
+(GMT-01:00) Azores, Isla de Cabo Verde
+(GMT) Hora media de Greenwich
+(GMT +1:00) Europa Occ.
+(GMT +2:00) Africa central
+(GMT +2:00) Egipto
+(GMT +2:00) Europa Or.
+(GMT +3:00) África del E
+(GMT +3:30) Oriente Medio
+(GMT +4:00) Próximo Oriente
+(GMT +5:00) Paquistán/Lahore
+(GMT +6:00) Bangladesh
+(GMT +7:00) Vietnam
+(GMT +8:00) China (Taiwán)
+(GMT +9:30) Australia C.
+(GMT +10:00) Australia O.
+(GMT +11:00) Islas Salomón
+(GMT +12:00) Nueva Zelanda
+Excel 2000 SR-1 o versiones anteriores
+Excel XP o versiones posteriores
+Nota: Esta opción permite a los usuarios guardar las contraseñas sin cifrar en cookies en sus equipos clientes.
+Anchura por defecto para eje de fila:
+Anchura por defecto para las columnas de datos
+(GMT +5:30) India
+Ocultar las opciones
+Más opciones ...
+Máximo número de celdas para exportar
+Máximo número de celdas por bloque
+No se puede exportar este informe a formato PDF por que excede los limites que el administrador a definido para el número del celdas a exportar a PDF.
+Anchura: ##px
+(GMT-06:00) Ciudad de México
+(GMT +09:00) Seúl
+(GMT +9:00) Osaka, Sapporo, Tokio
+Arial
+E-mail planificado
+Enviar ahora
+Insertar la información
+Máximo número de celdas a exportar a formato de texto.
+Máximo número de celdas a exportar a formato HTML.
+(Archivar)
+Configuración de diagnóstico interno
+Nivel:
+Directorio de archivos de registro:
+Configuración de diagnóstico personalizado
+Ruta de archivo de configuración de diagnóstico personalizado 
+Mostrar:
+Desde:
+Hasta:
+Errores
+Alertas
+Desactivar
+Mensajes
+Utilice / como delimitador de directorio en la ruta
+La información de datos introducida no tiene un formato válido
+La fecha de inicio deberá ser anterior o igual a la fecha de finalización
+No hay disponible una ruta válida de archivo:
+Los archivos de registro no se pueden procesar: el tamaño total del archivo sobrepasa el límite de
+Mb. Para ver archivos de registro, acceda directamente a ellos o bien especifique un rango de fechas más corto para visualizar.
+No se puede procesar el primer archivo:
+Error al leer el contenido de los archivos de registro:
+No se encontró el archivo XSL necesario.
+Error al leer el contenido del archivo XSL:
+Configuración de Diagnósticos
+Ver archivos de registro
+No hay registros del archivo de registro que coincidan con las fechas y tipos solicitados
+No se puede mostrar el contenido del archivo de registro:
+No se han podido leer las propiedades del original en el archivo de configuración.
+El archivo de configuración indicado no se puede encontrar o se utilizó para diagnósticos
+El siguiente fichero no ha sido registrado correctamente en el Web Server: Mbwahelp.dll. Por favor pongase en contacto con el administrador por más detalles.
+Abrir informe
+Abrir filtro
+Abrir plantilla
+Error al sobreescribir los objetos modificados.
+Error al procesar el archivo de registro de diagnóstico.
+Propiedades del servidor
+Propiedades del servidor por defecto
+Servidores
+Propiedades por defecto
+Seguridad
+Configuración
+Ver archivos de registro
+Minutos
+Mantener umbrales al navegar
+Mostrar botones para ordenar
+Ocultar botones para ordenar
+Diagnósticos
+Permitir ajuste de líneas de valores de indicador en la cuadrícula del informe
+La contraseña no se puede cambiar porque falta la información siguiente:
+Estadísticas
+Modo:
+Archivo de estadísticas:
+Desactivar
+Pantalla
+Archivo
+Pantalla y archivo
+Introduzca una ruta absoluta y utilice / como delimitador de directorio en la ruta.
+Cargar Valores por Defecto
+*To subscribe to this document, please select a schedule and personalization below.
+Distinción entre mayúsculas y minúsculas por defecto
+Permitir a los usuarios cambiar y almacenar preferencias de usuario para proyectos individuales
+Negrita
+Cursiva
+Subrayado
+Mostrar 'Aplicar a TODOS los proyectos' en las preferencias
+Ver informe en el modo de diseño
+Estilo:
+Tamaño de Fuente:
+Selección de paginación
+Activar la fusión de encabezados de fila en el menú Formato
+Fusionar encabezados de fila
+Leer el informe
+Mostrar descripciones de objetos como sugerencias en cuadrícula
+Ocultar opción para guardar objetos anidados cuando el usuario no tiene el privilegio 'Modificar la lista de objetos de informe en Web'
+Mantener con espacio al importar de un archivo de texto
+Páginas Ancho
+Páginas Alto
+(Sólo sistemas operativos de Windows)
+Número de Teléfono 1
+Número de Teléfono 2
+Código Postal
+Código postal ampliado
+SSN
+Editar parámetros personalizados
+Botones para ordenar
+Botones para pivotar
+(s)
+Ordenar por:
+luego por:
+Integración de Narrowcast Server
+SERVIDOR DE WEB
+Propiedades de conexión
+Clase
+método
+Mensaje
+Codificación:
+El tráfico entre la Web y los equipos de lserver está codificado.
+Caché:
+La caché de privilegio de usuario está actualizada para cada solicitud nueva de Web.
+Cookies:
+Desactivar cookies.
+Utilizar cookies para almacenar temporalmente información en la sesión.
+Utilizar cookies para almacenar permanentemente información entre las sesiones.
+Utilizar cookies para almacenar temporalmente información acerca de las sesiones de lserver.
+URL:
+La información sobre la sesión está incluida en la URL.
+Inicio de Sesión:
+Permitir conexión automática si se pierde la sesión.
+€
+No se puede acceder a los parámetros de la configuración del motor de suscripción. Para que la entrega de MicroStrategy Web funcione es necesario compartir la carpeta o la unidad en la que el motor de suscripción esté instalado. El portal de suscripción y la entrega de MicroStrategy Web no funcionarán si no se cumple este requisito. ¿Desea compartir automáticamente la unidad de instalación del motor de suscripción del grupo de administradores locales de ese equipo?
+Si la unidad del equipo del motor de suscripción se comparte y se deja de compartir muchas veces, aparecerá el siguiente mensaje de Windows en el equipo del motor de suscripción, y esperará una respuesta del usuario: 'Error del sistema: El nombre de la red se eliminó'. El servicio del administrador de suscripciones no funcionará hasta que haga clic en Aceptar y el mensaje desaparezca. Observe que este mensaje no indica que hay un problema, sólo deberá hacer clic en Aceptar y continuar.
+No se puede compartir la unidad. Comparta manualmente la unidad de instalación del motor de suscripción para ese grupo de administradores locales del equipo.
+Versión de Excel:
+Formato de entrega:
+Contenido de la compresión
+Ocultar
+Mensaje:
+(Máximo de ## caracteres)
+Haga clic aquí para añadir un mensaje
+Ajustar a:
+página(s) de lagura por
+pagina/e in altezza
+Cookies:
+Use cookies para optimizar el tiempo de respuesta al leer las preferencias del usuario
+La acción solicitada no pudo ser efectuada dado que otro objecto depende del objecto manipulado
+Esta suscrito a las siguientes planificaciones para este documento:
+La formula del indicador derivado está en blanco
+Non contiene
+Non inizia per
+Non finisce per
+Porcentaje de '##'
+Orden de '##'
+Orden
+Grupo de '##'
+Evaluar el grupo en '##'
+ por '##'
+ donde '##'
+ApplySimple
+Es igual a
+Es diferente a
+En blanco
+Longitud máxima para el mensaje de texto (en caracteres)
+Los siguientes formatos de entrega no soportan actualmente gráficas: ##. Las Entregas que utilicen alguno de estos formatos solamente incluirán la cuadrícula.
+El formato de entrega seleccionado no soporta actualmente gráficas. La entrega solamente incluirá la cuadrícula.
+El estilo definido en la selección dinámica no pude ser usado para generar la definición de la selección dinámica '##' (nombre del estilo : ###).
+No se encontró el estilo adecuado para generar la selección dinámica '##' (nombre del estilo: ###).
+Filtración de la entrada del usuario
+Permitir el uso de HTML en la impresión del encabezado y pie de página. Este parámetro permite la ejecución de una rutina en el navegador.
