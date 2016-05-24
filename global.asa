@@ -1,0 +1,50 @@
+<!-- Copyright © 1996-2009 MicroStrategy Incorporated, All rights reserved. Confidential. -->
+<!-- METADATA
+	TYPE="TypeLib"
+	UUID="13B9FD51-A730-11D2-B21F-00C04F780202"
+-->
+<SCRIPT LANGUAGE="VBScript" RUNAT="Server">
+
+'Site setting constants
+Public Const SOURCE_COOKIES = 1
+Public Const SUBS_CACHE_FILE = 1
+Public Const SUBS_CACHE_SESSION = 2
+
+Sub Application_OnStart
+
+    Application.Value("Languages_Loaded") = ""
+    Application.Value("iSourcePerm")  = SOURCE_COOKIES
+    Application.Value("iSubsCache") = SUBS_CACHE_FILE
+
+    Dim oSLAPI
+    Dim lErr
+    
+    On Error Resume Next
+
+    Set oSLAPI = Server.CreateObject("MSTRSequeLAPI.cSequeLAPI")
+    lErr = oSLAPI.UpgradeDBDriver(nothing)
+    	
+End Sub
+
+Sub Session_OnStart
+	
+End Sub
+
+Sub Application_OnEnd
+    Application.Value("Languages_Loaded") = ""
+    Application.Value("Root_Folder") = ""
+    Application.Value("Admin_email") = ""
+    Application.Value("Admin_phone") = ""
+    Application.Value("Cache_folder") = ""
+    Application.Value("Default_Device") = ""
+End Sub
+
+Sub Session_OnEnd
+	Dim Item
+	For each Item in Session.Contents
+		Session.Contents(Item) = ""
+	Next
+End Sub
+
+
+</SCRIPT>

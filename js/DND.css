@@ -1,0 +1,51 @@
+.DNDZone
+{
+    BACKGROUND-COLOR: #666666;
+    BORDER-BOTTOM: #c2c2c2 1pt solid;
+    BORDER-LEFT: #c2c2c2 1pt solid;
+    BORDER-RIGHT: #c2c2c2 1pt solid;
+    BORDER-TOP: #c2c2c2 1pt solid;
+    COLOR: white;
+    FONT-FAMILY: Verdana;
+    FONT-SIZE: 10pt;
+    FONT-WEIGHT: bold;
+    PADDING-BOTTOM: 2pt;
+    PADDING-LEFT: 2pt;
+    PADDING-RIGHT: 2pt;
+    PADDING-TOP: 2pt
+}
+.DNDElement
+{
+    BACKGROUND-COLOR: white;
+    BORDER-BOTTOM: #6c6c6c 1pt solid;
+    BORDER-LEFT: #6c6c6c 1pt solid;
+    BORDER-RIGHT: #6c6c6c 1pt solid;
+    BORDER-TOP: #6c6c6c 1pt solid;
+    COLOR: blue;
+    CURSOR: default;
+    FONT-FAMILY: Verdana, Tahoma, Arial;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: bold;
+    PADDING-BOTTOM: 2pt;
+    PADDING-LEFT: 2pt;
+    PADDING-RIGHT: 2pt;
+    PADDING-TOP: 2pt
+}
+.DNDDrag
+{
+    BACKGROUND-COLOR: white;
+    BORDER-BOTTOM: #6c6c6c 1pt solid;
+    BORDER-LEFT: #6c6c6c 1pt solid;
+    BORDER-RIGHT: #6c6c6c 1pt solid;
+    BORDER-TOP: #6c6c6c 1pt solid;
+    COLOR: blue;
+    DISPLAY: none;
+    FONT-FAMILY: Verdana, Tahoma, Arial;
+    FONT-SIZE: 8pt;
+    FONT-WEIGHT: bold;
+    PADDING-BOTTOM: 2pt;
+    PADDING-LEFT: 2pt;
+    PADDING-RIGHT: 2pt;
+    PADDING-TOP: 2pt;
+    POSITION: absolute
+}
