@@ -1,0 +1,61 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta name="GENERATOR" content="Quadralay WebWorks Publisher 5.0.4">
+<meta name="TEMPLATEBASE" content="MSTR HTML Help Template 2.0">
+<meta name="LASTUPDATED" content="06/07/01 11:35:44">
+<link rel="StyleSheet" href="standard.css" type="text/css" media="screen">
+<title>Dynamic subscription sets</title>
+</head>
+
+<body>Copyright © 1996-2010 MicroStrategy, Incorporated. All rights reserved. Confidential.<br>
+<hr align="left" width="620" size="1">
+
+<h2 class="NewHTMLPage">  <a name="1065334"> </a>Dynamic subscription sets</h2>
+
+<p class="Body">  <a name="1072620"> </a></a>Using dynamic subscription sets allows the Delivery Engine to retrieve a list of subscriptions from a warehouse rather than from the Subscription Book Repository (SBR). While the minimum requirement is that the subscription information object returns the ID of each subscription, any or all of the subscription information that Narrowcast Server needs to execute, personalize, and transmit a set of subscriptions can be retrieved from the warehouse instead of the SBR. If some of the information, such as the page-by question answer, that the Delivery Engine needs to personalize or transmit the subscriptions is not retrieved in the subscription information object, the Delivery Engine can retrieve that information from the SBR based on the Subscription ID returned in the subscription information object.</p>
+
+<p class="Body">  <a name="1071654"> </a>By contrast, if all of the required information is retrieved in the subscription information object, no lookup in the SBR is necessary. This only occurs if the SBR tables are located in the warehouse, because the Subscription Portal writes user information such as address definitions only to the SBR. The Subscription Portal can write the address ID to the warehouse as part of a dynamic subscription mapping, but the Delivery Engine can obtain the address definition only by looking it up in the SBR based on the address ID retrieved from the warehouse. The Delivery Engine can also retrieve it directly from the warehouse by joining to the SBR addresses table.</p>
+
+<p class="Body">  <a name="1071656"> </a>For more information about defining and using dynamic subscription sets, please see the <em class="Emphasis">MicroStrategy Narrowcast Server Application Designer Guide</em>.</p>
+
+<h4 class="Heading3">  <a name="1071658"> </a>Configuration through the Portal Administrator Wizard</h4>
+
+<p class="Body">  <a name="1072711"> </a></a>For the Subscription Portal to create a subscription in a dynamic subscription set, the Subscription Portal must write subscription information to the warehouse. In general, at least the Subscription ID must be written to the warehouse. The exact information that the Subscription Portal must write depends on how the dynamic subscription set has been defined in Narrowcast Administrator.</p>
+
+<p class="Body">  <a name="1071662"> </a>For each service that uses a dynamic subscription set, the Portal Administrator must define which subscription information is written to the warehouse and to which columns and tables this information is written. The Services Configuration section of the Portal Administrator Wizard is used to configure this information.</p>
+
+<p class="Body">  <a name="1071664"> </a>The first step of configuring a dynamic subscription set through the Subscription Portal is to configure any page-by questions that are used in the service. This configuration is described in <a href="faq_pers_page_exe_concept.htm">Personalized page execution</a>.</p>
+
+<p class="Body">  <a name="1071666"> </a>The next step is to define how and where the subscription information for the current dynamic subscription set is written to the warehouse. As mentioned before, the exact information that needs to be written to the warehouse depends on how the dynamic subscription set is defined. The information that the Subscription Portal can write to the warehouse for each subscription includes the standard subscription fields, other fields from the MSTRSubscriptions table in the SBR, and the answer value or answer for each alternate or additional question in the service.</p>
+
+<p class="Body">  <a name="1071668"> </a>The standard subscription fields are:</p>
+
+<ul>
+<li class="SmartList1"><a name="1071763"> </a><strong class="Strong">SUBSCRIPTION_ID</strong>: Integer ID used to uniquely identify a subscription. This is the value that is used when the Subscription ID is used as the answer to a page-by question. This field references an object in the SBR.
+<li class="SmartList1"><a name="1071764"> </a><strong class="Strong">USER_ID</strong>: Globally unique identifier (GUID) used to identify the user to whom this subscription belongs. This field references an object in the SBR.
+<li class="SmartList1"><a name="1071671"> </a><strong class="Strong">ADDRESS_ID</strong>: GUID used to identify the address to be used for this subscription.This field references an object in the SBR. </ul>
+
+<p class="Body">  <a name="1071673"> </a>The remaining fields from the </a>MSTRSubscriptions table in the Subscription Book Repository, which reference an object in the Object Repository unless otherwise noted, are:</p>
+
+<ul>
+<li class="SmartList1"><a name="1071674"> </a><strong class="Strong">CREATED_BY</strong>: Narrowcast Server account that created this subscription. This field is set to SUBSCRIPTIONS_PORTAL if it was created by the Subscription Portal.
+<li class="SmartList1"><a name="1071675"> </a><strong class="Strong">CREATED_DATE</strong>: Timestamp indicating when the subscription was created.
+<li class="SmartList1"><a name="1071676"> </a><strong class="Strong">EXPIR_DATE</strong>: Timestamp indicating when the subscription expires.
+<li class="SmartList1"><a name="1071677"> </a><strong class="Strong">LAST_ACC_DATE</strong>: Timestamp indicating the last time this subscription was retrieved in a subscription set resolution.
+<li class="SmartList1"><a name="1071678"> </a><strong class="Strong">LAST_MOD_BY</strong>: Narrowcast Server account that last modified this subscription. This field is set to SUBSCRIPTIONS_PORTAL if it was last modified by the Subscription Portal.
+<li class="SmartList1"><a name="1071679"> </a><strong class="Strong">LAST_MOD_DATE</strong>: Timestamp indicating when the subscription was last modified.
+<li class="SmartList1"><a name="1071680"> </a><strong class="Strong">STATUS</strong>: Status, either valid or invalid, of this subscription.
+<li class="SmartList1"><a name="1071681"> </a><strong class="Strong">SUB_ACCOUNT_ID</strong>: GUID used to identify an external account ID. This field currently is not used by the Subscription Portal.
+<li class="SmartList1"><a name="1071682"> </a><strong class="Strong">SUB_GUID</strong>: Alternate ID (GUID) used to identify a subscription internally.
+<li class="SmartList1"><a name="1071683"> </a><strong class="Strong">SUB_SET_ID</strong>: GUID used to identify the subscription set to which this subscription belongs.
+<li class="SmartList1"><a name="1071684"> </a><strong class="Strong">TRANSPROPS_ID</strong>: GUID used to identify the transmission properties object to be used for this subscription. This field references an object in the SBR.
+</ul>
+
+<p class="Body">  <a name="1071690"> </a></a>Finally, if an alternate or additional question was defined to be stored using the SBR option, the ID of the attribute element that the user selected can be written to the warehouse as part of the subscription information. If the question was stored in the warehouse using a question storage mapping, the ID of the answer object that corresponds to the user's selections can be written to the warehouse as part of the subscription information.</p>
+
+<p class="Body">  <a name="1071692"> </a>For examples using these options, see <a href="bcapp_23.htm">Scenario 4: Non-personalized dynamic subscription</a> and <a href="bcapp_30.htm">Scenario 5: Personalized dynamic subscription</a> in <a href="faq_examples_concept.htm">Advanced Service Configuration Examples</a>.</p>
+
+</body>
+</html>
